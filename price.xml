@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-05 10:05">
+<yml_catalog date="2025-12-05 17:05">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -1141,7 +1141,7 @@
     <vendorCode>889406</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>174</quantity_in_stock>
+    <quantity_in_stock>173</quantity_in_stock>
     <param name="Длина" unit="см">46</param>
     <param name="Максимальный вес" unit="кг">100</param>
     <param name="Тип">Цепь для подвеса</param>
@@ -1360,7 +1360,7 @@
     <vendorCode>1003-02С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вес" unit="кг">27</param>
     <param name="Высота" unit="см">120</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -1513,7 +1513,7 @@
     <vendorCode>1001-01Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вес" unit="кг">30</param>
     <param name="Высота" unit="см">140</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -2003,7 +2003,7 @@
     <vendorCode>656115</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>37</quantity_in_stock>
     <param name="Длина" unit="мм">25</param>
     <param name="Длина рулона, мм" unit="">25 000</param>
     <param name="Дополнительное покрытие" unit="">PET пленка</param>
@@ -3558,9 +3558,7 @@
     <price>225</price>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
-    <picture>https://images.prom.ua/2824211171_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -3571,18 +3569,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>30</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Назначение материала">Улучшение акустики помещений</param>
-    <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">2</param>
     <param name="Форма поставки материала">Рулон</param>
-    <param name="Цвет">Серый</param>
+    <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">50</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Длина рулона, п.м." unit="">15</param>
-    <param name="Материал" unit="">Вспененный каучук</param>
+    <param name="Длина" unit="">15</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Максимальная рабочая температура" unit="">180</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
+    <param name="Плотность" unit="">55</param>
+    <param name="Теплопроводность" unit="">0.032</param>
+    <param name="Тип" unit="">Шумоизоляция</param>
+    <param name="Толщина изоляции" unit="">2</param>
+    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
   <offer id="108985548" available="true">
     <url>https://proekt24.com/p108985548-sidushka-armejskaya-polevaya.html</url>
@@ -3611,10 +3609,15 @@
     <price>184</price>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
-    <picture>https://images.prom.ua/2824211171_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781181_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781182_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2998888255_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781183_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781184_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781185_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781186_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781187_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 3 мм х 50 мм х 15 м</name>
@@ -3624,18 +3627,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>2287</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Назначение материала">Улучшение акустики помещений</param>
-    <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">3</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">50</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Длина рулона, п.м." unit="">15</param>
-    <param name="Материал" unit="">Вспененный каучук</param>
+    <param name="Длина" unit="">15</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Максимальная рабочая температура" unit="">180</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
+    <param name="Плотность" unit="">55</param>
+    <param name="Теплопроводность" unit="">0.032</param>
+    <param name="Тип" unit="">Шумоизоляция</param>
+    <param name="Толщина изоляции" unit="">3</param>
+    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
   <offer id="114439407" available="true">
     <url>https://proekt24.com/p114439407-ruchka-dlya-perenoski.html</url>
@@ -3667,7 +3670,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>993</quantity_in_stock>
+    <quantity_in_stock>990</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -3875,7 +3878,7 @@
     <vendorCode>500321</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>349</quantity_in_stock>
+    <quantity_in_stock>335</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Цвет">Черный</param>
@@ -4072,7 +4075,7 @@
     <vendorCode>500063</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1050</quantity_in_stock>
+    <quantity_in_stock>1049</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -4141,7 +4144,7 @@
     <vendorCode>500093</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1170</quantity_in_stock>
+    <quantity_in_stock>1150</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Вид натурального каучука" unit="">Синтетический каучук</param>
@@ -4208,7 +4211,7 @@
     <vendorCode>500193</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>628</quantity_in_stock>
+    <quantity_in_stock>618</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -4824,7 +4827,7 @@
     <vendorCode>900301</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Плотность" unit="кг/м3">15</param>
     <param name="Толщина" unit="мм">30</param>
     <param name="Тип материала">Г (горючий)</param>
@@ -5048,7 +5051,7 @@
     <vendorCode>233456</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>34</quantity_in_stock>
+    <quantity_in_stock>33</quantity_in_stock>
     <param name="Цвет">Серый</param>
     <param name="Диаметр, мм" unit="">230</param>
     <param name="Длина, мм" unit="">700</param>
@@ -17734,7 +17737,7 @@
     <vendorCode>54020</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>50</quantity_in_stock>
+    <quantity_in_stock>48</quantity_in_stock>
     <param name="Назначение материала">Улучшение акустики помещений</param>
     <param name="Плотность" unit="кг/м³">33</param>
     <param name="Степень жесткости">Мягкий</param>
@@ -18098,7 +18101,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>930</quantity_in_stock>
+    <quantity_in_stock>1686</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -18413,10 +18416,15 @@
     <price>297</price>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
-    <picture>https://images.prom.ua/2824211171_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969783026_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781129_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2998888255_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781131_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781133_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781135_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781137_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781139_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 3 мм х 75 мм х 15 м</name>
@@ -18426,17 +18434,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>302</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Область применения">Для каркасных конструкция</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">3</param>
-    <param name="Форма поставки материала">Рулон</param>
     <param name="Цвет">Черный</param>
+    <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">75</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Длина рулона, п.м." unit="">15</param>
-    <param name="Материал" unit="">Вспененный каучук</param>
+    <param name="Длина" unit="">15</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Максимальная рабочая температура" unit="">180</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
+    <param name="Плотность" unit="">55</param>
+    <param name="Теплопроводность" unit="">0.032</param>
+    <param name="Тип" unit="">Шумоизоляция</param>
+    <param name="Толщина изоляции" unit="">3</param>
+    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
   <offer id="285088517" available="true">
     <url>https://proekt24.com/p285088517-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
@@ -18444,9 +18453,15 @@
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781126_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781129_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2998888255_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781131_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781133_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781135_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781137_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781139_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 3 мм х 100 мм х 15 м</name>
@@ -18456,44 +18471,41 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>13</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Назначение материала">Улучшение акустики помещений</param>
-    <param name="Область применения">Для каркасных конструкция</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">3</param>
-    <param name="Форма поставки материала">Рулон</param>
     <param name="Цвет">Черный</param>
+    <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">100</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Длина рулона, п.м." unit="">15</param>
-    <param name="Материал" unit="">Вспененный каучук</param>
+    <param name="Длина" unit="">15</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Максимальная рабочая температура" unit="">180</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
+    <param name="Плотность" unit="">55</param>
+    <param name="Теплопроводность" unit="">0.032</param>
+    <param name="Тип" unit="">Шумоизоляция</param>
+    <param name="Толщина изоляции" unit="">3</param>
+    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
   <offer id="285095463" available="false">
     <url>https://proekt24.com/p285095463-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>168</price>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
-    <picture>https://images.prom.ua/2824211171_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Каучуковая звукоизоляционная лента 6 мм х 30 мм х 15 м</name>
+    <name>Каучуковая звукоизоляционная лента фольгированная 6 мм х 30 мм х 15 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>63015</vendorCode>
+    <vendorCode>630155</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Область применения">Для каркасных конструкция</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">6</param>
+    <param name="Область применения">Для каркасных конструкций</param>
     <param name="Форма поставки материала">Рулон</param>
-    <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">30</param>
+    <param name="Толщина" unit="мм">6</param>
+    <param name="Цвет">Черный</param>
+    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Экологичный материал">Да</param>
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Степень жесткости">Мягкий</param>
     <param name="Эластичность материала">Да</param>
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
@@ -18503,9 +18515,9 @@
     <price>453</price>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
-    <picture>https://images.prom.ua/2824211171_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
@@ -18516,15 +18528,15 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Область применения">Для каркасных конструкция</param>
-    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
     <param name="Степень жесткости">Мягкий</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Форма поставки материала">Рулон</param>
-    <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">75</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
+    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
@@ -18546,15 +18558,15 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Область применения">Для каркасных конструкция</param>
-    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
     <param name="Степень жесткости">Мягкий</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Форма поставки материала">Рулон</param>
-    <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">100</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
+    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
@@ -18576,7 +18588,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>470</quantity_in_stock>
+    <quantity_in_stock>464</quantity_in_stock>
     <param name="Применение">Для панелей и проемов</param>
     <param name="Тип ткани">Однотонная</param>
     <param name="Цвет">Черный</param>
@@ -18617,7 +18629,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>490</quantity_in_stock>
+    <quantity_in_stock>486</quantity_in_stock>
     <param name="Применение">Для панелей и проемов</param>
     <param name="Тип ткани">Однотонная</param>
     <param name="Длина рулона, п.м." unit="">20</param>
@@ -18781,7 +18793,7 @@
     <vendorCode>345684</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Вес рулона" unit="кг.">60</param>
     <param name="Высота" unit="">1.8</param>
   </offer>
@@ -21033,7 +21045,7 @@
     <vendorCode>Б89/30Ф</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">89</param>
     <param name="Длина" unit="м">1</param>
@@ -22822,7 +22834,7 @@
     <vendorCode>11362</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1837</quantity_in_stock>
+    <quantity_in_stock>1829</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Капот|Стенки багажника|Двери|Пол автомобиля|Колесные арки|Крыша|Потолок автомобиля|Крышка багажника|Пол багажника|Дверные панели</param>
@@ -22850,7 +22862,7 @@
     <vendorCode>11361</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>925</quantity_in_stock>
+    <quantity_in_stock>923</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Колесные арки</param>
@@ -22876,7 +22888,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1055</quantity_in_stock>
+    <quantity_in_stock>1025</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Капот|Стенки багажника|Двери|Пол автомобиля|Колесные арки|Крыша|Потолок автомобиля|Крышка багажника|Пол багажника|Дверные панели</param>
@@ -22906,7 +22918,7 @@
     <vendorCode>11364</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>476</quantity_in_stock>
+    <quantity_in_stock>473</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Капот|Стенки багажника|Двери|Пол автомобиля|Колесные арки|Крыша|Потолок автомобиля|Крышка багажника|Пол багажника|Дверные панели</param>
@@ -22954,7 +22966,7 @@
     <param name="Цвет" unit="">Белый</param>
     <param name="Тип использования" unit="">Универсальный</param>
   </offer>
-  <offer id="324596868" available="false">
+  <offer id="324596868" available="true">
     <url>https://proekt24.com/p324596868-zhgut-uplotnitelnyj-belyj.html</url>
     <price>53</price>
     <currencyId>UAH</currencyId>
@@ -22966,7 +22978,7 @@
     <vendorCode>32160</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
@@ -22985,7 +22997,7 @@
     <vendorCode>3210605</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>57</quantity_in_stock>
+    <quantity_in_stock>58</quantity_in_stock>
     <param name="Толщина" unit="мм">6</param>
     <param name="Цвет" unit="">Белый</param>
     <param name="Тип использования" unit="">Универсальный</param>
@@ -23304,7 +23316,7 @@
     <vendorCode>900024</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2163</quantity_in_stock>
+    <quantity_in_stock>2113</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Длина" unit="м">50</param>
     <param name="Покрытие">Ламинированное</param>
@@ -23999,7 +24011,7 @@
     <vendorCode>901052</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1260</quantity_in_stock>
+    <quantity_in_stock>2540</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Класс материала по теплопроводности">Низкая</param>
     <param name="Плотность" unit="кг/м3">33</param>
@@ -25174,7 +25186,7 @@
     <vendorCode>656118</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4262</quantity_in_stock>
+    <quantity_in_stock>4212</quantity_in_stock>
     <param name="Армированная фольга" unit="">Да</param>
     <param name="Вид основного сырья" unit="">Неорганическое</param>
     <param name="Длина рулона, п.м." unit="">50</param>
@@ -33592,7 +33604,7 @@
     <vendorCode>62025</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>358</quantity_in_stock>
+    <quantity_in_stock>305</quantity_in_stock>
     <param name="Тип использования" unit="">Универсальный</param>
     <param name="Минимальная температура эксплуатации" unit="">-40</param>
     <param name="Максимальная температура эксплуатации" unit="">90</param>
@@ -38611,7 +38623,7 @@
     <vendorCode>62793</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <param name="Длина" unit="м">3</param>
     <param name="Назначение материала">Для фасадов|Для кровли|Для балконов|Для стен</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -38908,7 +38920,7 @@
     <vendorCode>62762</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Длина" unit="м">3</param>
     <param name="Назначение материала">Для фасадов|Для кровли|Для балконов|Для стен</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -39875,7 +39887,7 @@
     <vendorCode>64022</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>168</quantity_in_stock>
+    <quantity_in_stock>167</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентная</param>
     <param name="Консистенция">Полужидкая</param>
     <param name="Назначение материала">Для полов|Для стен|Для фасадов|Для подвалов|Для резервуаров|Для кровли|Для цоколей</param>
@@ -39958,7 +39970,7 @@
     <vendorCode>64025</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>66</quantity_in_stock>
+    <quantity_in_stock>65</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентная</param>
     <param name="Консистенция">Полужидкая</param>
     <param name="Назначение материала">Для полов|Для стен|Для фасадов|Для подвалов|Для резервуаров|Для кровли|Для балконов|Для цоколей</param>
@@ -40273,7 +40285,7 @@
     <vendorCode>500102</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1336</quantity_in_stock>
+    <quantity_in_stock>1342</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Назначение материала">Виброизоляция|Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
     <param name="Область применения">Для пола|Для инженерного оборудования|Для стен|Для потолков|Для каркасных конструкций</param>
@@ -41042,7 +41054,7 @@
     <vendorCode>06/9П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1890</quantity_in_stock>
+    <quantity_in_stock>1864</quantity_in_stock>
     <param name="Внешний диаметр трубы" unit="мм">6</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -41279,7 +41291,7 @@
     <vendorCode>42/9П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>308</quantity_in_stock>
+    <quantity_in_stock>300</quantity_in_stock>
     <param name="Внешний диаметр трубы" unit="мм">42</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -43055,7 +43067,7 @@
     <param name="Экологическая безопасность материала">Безопасен</param>
     <param name="Количество в упаковке, шт" unit="">14</param>
   </offer>
-  <offer id="1467446585" available="false">
+  <offer id="1467446585" available="true">
     <url>https://proekt24.com/p1467446585-ekstrudirovannyj-penopolistirol-xps.html</url>
     <price>187</price>
     <currencyId>UAH</currencyId>
@@ -43073,7 +43085,7 @@
     <vendorCode>83950</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>493</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -43193,7 +43205,7 @@
     <vendorCode>1002-05</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Вес" unit="кг">40</param>
     <param name="Высота" unit="см">170</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -44010,7 +44022,7 @@
     <param name="Ширина" unit="м">0.31</param>
     <param name="Материал мембраны" unit="">Нетканое полотно</param>
   </offer>
-  <offer id="1491500409" available="false">
+  <offer id="1491500409" available="true">
     <url>https://proekt24.com/p1491500409-uplotnitelnaya-porolonovaya-lenta.html</url>
     <price>26</price>
     <currencyId>UAH</currencyId>
@@ -44022,10 +44034,10 @@
     <vendorCode>456789</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>200</quantity_in_stock>
     <param name="Длина" unit="м">1</param>
     <param name="Ширина" unit="мм">50</param>
-    <param name="Тип использования" unit="">Для наружных работ</param>
+    <param name="Тип использования">Для наружных работ</param>
     <param name="Вид накладки" unit="">Полоса</param>
   </offer>
   <offer id="1493016977" available="false">
@@ -47679,7 +47691,7 @@
     <vendorCode>56352</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>34</quantity_in_stock>
+    <quantity_in_stock>32</quantity_in_stock>
     <param name="Максимальная температура эксплуатации" unit="град.">90</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-50</param>
     <param name="Область применения">Кровельный|Универсальный</param>
@@ -49276,7 +49288,7 @@
     <vendorCode>56440</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>246</quantity_in_stock>
+    <quantity_in_stock>241</quantity_in_stock>
     <param name="Вес" unit="кг">0.77</param>
     <param name="Длина листа" unit="см">37</param>
     <param name="Применение материала">Двери|Крышка багажника|Пол автомобиля|Стенки багажника|Потолок автомобиля|Крыша|Пол багажника|Дверные панели</param>
@@ -49313,7 +49325,7 @@
     <vendorCode>56413</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>81</quantity_in_stock>
+    <quantity_in_stock>77</quantity_in_stock>
     <param name="Вес" unit="кг">7.85</param>
     <param name="Применение материала">Двери|Крышка багажника|Пол автомобиля|Стенки багажника|Потолок автомобиля|Крыша|Пол багажника|Дверные панели</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -52526,7 +52538,7 @@
     <vendorCode>900033</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>383</quantity_in_stock>
+    <quantity_in_stock>378</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -53771,7 +53783,7 @@
     <vendorCode>83920</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>183</quantity_in_stock>
+    <quantity_in_stock>603</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -53804,7 +53816,7 @@
     <vendorCode>83940</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>165</quantity_in_stock>
+    <quantity_in_stock>465</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -54596,7 +54608,7 @@
     <param name="Толщина (мм)" unit="">2.5</param>
     <param name="Ширина" unit="">1000.0</param>
   </offer>
-  <offer id="1644402653" available="false">
+  <offer id="1644402653" available="true">
     <url>https://proekt24.com/p1644402653-material-eva-eva.html</url>
     <price>122</price>
     <currencyId>UAH</currencyId>
@@ -54611,7 +54623,7 @@
     <vendorCode>832585</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>600</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина, метр погонный" unit="">50</param>
@@ -65399,7 +65411,7 @@
     <vendorCode>61211</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>83</quantity_in_stock>
+    <quantity_in_stock>81</quantity_in_stock>
     <param name="Длина" unit="м">13</param>
     <param name="Толщина (мм)">5</param>
     <param name="Цвет">Черный</param>
@@ -68141,7 +68153,7 @@
     <vendorCode>87147</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>31</quantity_in_stock>
+    <quantity_in_stock>30</quantity_in_stock>
     <param name="Возрастная группа">Детская</param>
     <param name="Материал">Термопластик</param>
     <param name="Особенности">Чехол</param>
@@ -69642,10 +69654,15 @@
     <price>326</price>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
-    <picture>https://images.prom.ua/2824211171_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781141_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781143_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2998888255_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781144_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781146_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781147_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781149_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 3 мм х 15 мм х 15 м</name>
@@ -69655,28 +69672,32 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Назначение материала">Улучшение акустики помещений</param>
-    <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">3</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">15</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Длина рулона, п.м." unit="">15</param>
-    <param name="Материал" unit="">Вспененный каучук</param>
+    <param name="Длина" unit="">15</param>
+    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Максимальная рабочая температура" unit="">180</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
+    <param name="Теплопроводность" unit="">0.032</param>
+    <param name="Толщина изоляции" unit="">3</param>
+    <param name="Плотность" unit="">55</param>
   </offer>
   <offer id="1762582867" available="false">
     <url>https://proekt24.com/p1762582867-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>92</price>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
-    <picture>https://images.prom.ua/2824211171_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781160_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2998888255_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781162_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781163_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781164_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781165_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781166_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 3 мм х 20 мм х 15 м</name>
@@ -69686,28 +69707,32 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Назначение материала">Улучшение акустики помещений</param>
-    <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">3</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">20</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Длина рулона, п.м." unit="">15</param>
-    <param name="Материал" unit="">Вспененный каучук</param>
+    <param name="Длина" unit="">15</param>
+    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Максимальная рабочая температура" unit="">180</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
+    <param name="Теплопроводность" unit="">0.032</param>
+    <param name="Толщина изоляции" unit="">3</param>
+    <param name="Плотность" unit="">55</param>
   </offer>
   <offer id="1762583707" available="false">
     <url>https://proekt24.com/p1762583707-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>134</price>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
-    <picture>https://images.prom.ua/2824211171_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781167_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781168_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2998888255_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781169_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781170_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781171_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781172_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781173_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 3 мм х 30 мм х 15 м</name>
@@ -69717,18 +69742,17 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Назначение материала">Улучшение акустики помещений</param>
-    <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">3</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">30</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Длина рулона, п.м." unit="">15</param>
-    <param name="Материал" unit="">Вспененный каучук</param>
+    <param name="Длина" unit="">15</param>
+    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Максимальная рабочая температура" unit="">180</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
+    <param name="Теплопроводность" unit="">0.032</param>
+    <param name="Толщина изоляции" unit="">3</param>
+    <param name="Плотность" unit="">55</param>
   </offer>
   <offer id="1762692321" available="true">
     <url>https://proekt24.com/p1762692321-karpet-avtomobilnyj-chernyj.html</url>
@@ -69790,7 +69814,7 @@
     <param name="Ширина рулона, мм" unit="">2000</param>
     <param name="Эластичность материала" unit="">Да</param>
   </offer>
-  <offer id="1765254087" available="true">
+  <offer id="1765254087" available="false">
     <url>https://proekt24.com/p1765254087-zhgut-uplotnitelnyj-300.html</url>
     <price>970</price>
     <currencyId>UAH</currencyId>
@@ -69802,7 +69826,7 @@
     <vendorCode>3212003</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Самоклеющаяся поверхность">Нет</param>
     <param name="Тип использования">Универсальный</param>
     <param name="Цвет">Белый</param>
@@ -69821,7 +69845,7 @@
     <vendorCode>32125</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>753</quantity_in_stock>
+    <quantity_in_stock>761</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
@@ -70589,8 +70613,13 @@
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2998888255_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781155_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781156_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781157_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781158_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781159_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 3 мм х 150 мм х 15 м</name>
@@ -70600,18 +70629,18 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>294</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Назначение материала">Улучшение акустики помещений</param>
-    <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">3</param>
-    <param name="Форма поставки материала">Рулон</param>
     <param name="Цвет">Черный</param>
+    <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">150</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Длина рулона, п.м." unit="">15</param>
-    <param name="Материал" unit="">Вспененный каучук</param>
+    <param name="Длина" unit="">15</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Максимальная рабочая температура" unit="">180</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
+    <param name="Плотность" unit="">55</param>
+    <param name="Теплопроводность" unit="">0.032</param>
+    <param name="Тип" unit="">Шумоизоляция</param>
+    <param name="Толщина изоляции" unit="">3</param>
+    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
   <offer id="1793961657" available="false">
     <url>https://proekt24.com/p1793961657-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
@@ -70619,9 +70648,15 @@
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781126_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781129_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2998888255_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781131_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781133_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781135_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781137_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781139_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 3 мм х 90 мм х 15 м</name>
@@ -70631,18 +70666,17 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Назначение материала">Улучшение акустики помещений</param>
-    <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">3</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">90</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Длина рулона, п.м." unit="">15</param>
-    <param name="Материал" unit="">Вспененный каучук</param>
+    <param name="Длина" unit="">15</param>
+    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Максимальная рабочая температура" unit="">180</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
+    <param name="Теплопроводность" unit="">0.032</param>
+    <param name="Толщина изоляции" unit="">3</param>
+    <param name="Плотность" unit="">55</param>
   </offer>
   <offer id="1794114472" available="true">
     <url>https://proekt24.com/p1794114472-rezinki-dlya-fitnesa.html</url>
@@ -70836,7 +70870,7 @@
     <vendorCode>FT-1025/B-S</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>28</quantity_in_stock>
     <param name="Размер">S</param>
     <param name="Состояние">Новое</param>
     <param name="Цвет">Черный</param>
@@ -70880,7 +70914,7 @@
     <vendorCode>FT-1025/B-L</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Размер">L</param>
     <param name="Состояние">Новое</param>
     <param name="Цвет">Черный</param>
@@ -71332,7 +71366,7 @@
     <vendorCode>56390</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>305</quantity_in_stock>
+    <quantity_in_stock>294</quantity_in_stock>
     <param name="Вес" unit="кг">0.78</param>
     <param name="Длина листа" unit="см">50</param>
     <param name="Применение материала">Двери|Крышка багажника|Пол автомобиля|Капот|Стенки багажника|Колесные арки|Потолок автомобиля|Крыша|Пол багажника|Дверные панели</param>
@@ -72578,7 +72612,7 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>198</quantity_in_stock>
+    <quantity_in_stock>190</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -72606,7 +72640,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>231</quantity_in_stock>
+    <quantity_in_stock>221</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -73961,7 +73995,7 @@
     <vendorCode>888920</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>83</quantity_in_stock>
+    <quantity_in_stock>81</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Материал чехла">Искусственная кожа</param>
     <param name="Состояние">Новое</param>
@@ -74392,7 +74426,7 @@
     <vendorCode>889021</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>155</quantity_in_stock>
+    <quantity_in_stock>151</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">4</param>
@@ -76904,7 +76938,7 @@
     <vendorCode>45620КС</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>26</quantity_in_stock>
     <param name="Длина" unit="см">100</param>
     <param name="Состояние">Новое</param>
     <param name="Толщина" unit="см">2</param>
@@ -77166,7 +77200,7 @@
     <vendorCode>EF-1924-BV</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вес" unit="г">830</param>
     <param name="Длина" unit="см">183</param>
     <param name="Материал">ТПЭ (термопластичный эластомер)</param>
@@ -77376,7 +77410,7 @@
     <name>Поролон для спортивних матов 2000х1000х100 мм</name>
     <vendorCode>888999</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>219</quantity_in_stock>
+    <quantity_in_stock>217</quantity_in_stock>
     <param name="Толщина" unit="мм">100</param>
     <param name="Плотность, кг\м3" unit="кг\м3">50</param>
   </offer>
@@ -80534,7 +80568,7 @@
     <vendorCode>889126</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>195</quantity_in_stock>
+    <quantity_in_stock>45</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -80567,7 +80601,7 @@
     <vendorCode>889135</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Покрытие">Без покрытия</param>
@@ -82217,7 +82251,7 @@
     <vendorCode>889222</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Длина" unit="см">40</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Лападаны</param>
@@ -85494,7 +85528,7 @@
     <vendorCode>889331</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">M</param>
@@ -86777,7 +86811,7 @@
     <vendorCode>889348</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Материал">Искусственная кожа</param>
     <param name="Форма">Гнутая</param>
     <param name="Цвет">Черный</param>
@@ -87161,13 +87195,13 @@
     <vendor>Изолон</vendor>
     <vendorCode>889374</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>345</quantity_in_stock>
+    <quantity_in_stock>365</quantity_in_stock>
     <param name="Цвет" unit="">Персиковый</param>
     <param name="Диаметр" unit="">5.0</param>
     <param name="Длина" unit="">150.0</param>
     <param name="Тип" unit="">Аквапалка</param>
   </offer>
-  <offer id="2021494182" available="true">
+  <offer id="2021494182" available="false">
     <url>https://proekt24.com/p2021494182-akvapalka-nudls-dlya.html</url>
     <price>110</price>
     <currencyId>UAH</currencyId>
@@ -87181,7 +87215,7 @@
     <vendor>Изолон</vendor>
     <vendorCode>889370</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Цвет">Бирюзовый</param>
     <param name="Диаметр" unit="">5.0</param>
     <param name="Длина" unit="">150.0</param>
@@ -87247,7 +87281,7 @@
     <vendor>Изолон</vendor>
     <vendorCode>889377</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>193</quantity_in_stock>
+    <quantity_in_stock>187</quantity_in_stock>
     <param name="Цвет">Зелёный</param>
     <param name="Диаметр" unit="">6.0</param>
     <param name="Длина" unit="">150.0</param>
@@ -87686,7 +87720,7 @@
     <vendorCode>889385</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1224</quantity_in_stock>
+    <quantity_in_stock>1199</quantity_in_stock>
     <param name="Ширина" unit="мм">1010</param>
     <param name="Длина" unit="м">20</param>
     <param name="Армированная фольга">Да</param>
@@ -88148,7 +88182,7 @@
     <name>Лист ЭВА (EVA) черный 1400×1000х10 мм (автоковер, сота)</name>
     <vendorCode>889409</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">Резина</param>
     <param name="Длина" unit="">1400</param>
@@ -89241,7 +89275,7 @@
     <vendorCode>889440</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>222</quantity_in_stock>
+    <quantity_in_stock>221</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="">200</param>
     <param name="Минимальная температура эксплуатации" unit="">-30</param>
@@ -91184,10 +91218,15 @@
     <price>183</price>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
-    <picture>https://images.prom.ua/2824211171_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781174_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
-    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781175_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2998888255_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781176_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781177_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781178_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781179_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781180_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 3 мм х 40 мм х 15 м</name>
@@ -91197,18 +91236,17 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Назначение материала">Улучшение акустики помещений</param>
-    <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">3</param>
-    <param name="Форма поставки материала">Рулон</param>
     <param name="Цвет">Черный</param>
+    <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">40</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Длина рулона, п.м." unit="">15</param>
-    <param name="Материал" unit="">Вспененный каучук</param>
+    <param name="Длина" unit="">15</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Максимальная рабочая температура" unit="">180</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
+    <param name="Плотность" unit="">55</param>
+    <param name="Теплопроводность" unit="">0.032</param>
+    <param name="Толщина изоляции" unit="">3</param>
+    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
   <offer id="2134718358" available="true">
     <url>https://proekt24.com/p2134718358-fizicheski-sshityj-polietilen.html</url>
@@ -91500,7 +91538,7 @@
     <vendorCode>901022</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>197</quantity_in_stock>
+    <quantity_in_stock>137</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Класс материала по теплопроводности">Низкая</param>
     <param name="Максимальная рабочая температура" unit="град.">90</param>
@@ -92931,7 +92969,7 @@
     <vendorCode>03-790</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>64</quantity_in_stock>
+    <quantity_in_stock>62</quantity_in_stock>
     <param name="Материал ручки">дерево</param>
     <param name="Диаметр, мм" unit="">25</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
@@ -106631,7 +106669,7 @@
     <param name="Наличие крышки">Да</param>
     <param name="Форма">Круглая</param>
   </offer>
-  <offer id="2184877795" available="true">
+  <offer id="2184877795" available="false">
     <url>https://proekt24.com/p2184877795-ventilyatsionnaya-lenta-konka.html</url>
     <price>391</price>
     <currencyId>UAH</currencyId>
@@ -106646,7 +106684,7 @@
     <vendorCode>889493</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Тип использования">Для наружных работ</param>
     <param name="Назначение материала">Для кровли</param>
     <param name="Форма поставляемого материала">Рулон</param>
@@ -112650,7 +112688,7 @@
     <vendorCode>889502</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>53</quantity_in_stock>
+    <quantity_in_stock>52</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="">200</param>
     <param name="Минимальная температура эксплуатации" unit="">-30</param>
@@ -113568,7 +113606,7 @@
     <vendorCode>321309</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>929</quantity_in_stock>
+    <quantity_in_stock>919</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
@@ -113757,7 +113795,7 @@
     <vendorCode>321609</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>70</quantity_in_stock>
+    <quantity_in_stock>55</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
@@ -117762,7 +117800,7 @@
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
     <param name="Максимальная рабочая температура" unit="">120.0</param>
   </offer>
-  <offer id="2437846737" available="true">
+  <offer id="2437846737" available="false">
     <url>https://proekt24.com/p2437846737-vspenennyj-kauchuk-samokleyuschijsya.html</url>
     <price>2779</price>
     <currencyId>UAH</currencyId>
@@ -117774,7 +117812,7 @@
     <vendorCode>889570У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Максимальная рабочая температура" unit="град.">120</param>
     <param name="Плотность" unit="кг/м3">55</param>
@@ -117868,7 +117906,7 @@
     <vendorCode>889566У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>47</quantity_in_stock>
+    <quantity_in_stock>46</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Максимальная рабочая температура" unit="град.">120</param>
     <param name="Плотность" unit="кг/м3">55</param>
@@ -119286,11 +119324,11 @@
     <quantity_in_stock>1</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
+    <param name="Цвет">Черный</param>
     <param name="Материал верха">Натуральная кожа</param>
     <param name="Материал подкладки">Замша</param>
     <param name="Размер">XL</param>
     <param name="Тип">Закрытый</param>
-    <param name="Цвет">Черный</param>
   </offer>
   <offer id="2523608827" available="false">
     <url>https://proekt24.com/p2523608827-homut-dlya-krepleniya.html</url>
@@ -119682,7 +119720,7 @@
     <vendorCode>32120</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>758</quantity_in_stock>
+    <quantity_in_stock>698</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
@@ -120010,7 +120048,7 @@
     <vendorCode>2004-N2Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">L</param>
     <param name="Тип">Защита голени/стопы</param>
@@ -120179,7 +120217,7 @@
     <vendorCode>2011-N3Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Длина" unit="см">24</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Лапа</param>
@@ -121342,7 +121380,7 @@
     <param name="Толщина" unit="">20</param>
     <param name="Ширина" unit="">1000</param>
   </offer>
-  <offer id="2588324923" available="true">
+  <offer id="2588324923" available="false">
     <url>https://proekt24.com/p2588324923-himicheski-sshityj-vspenennyj.html</url>
     <price>1482</price>
     <currencyId>UAH</currencyId>
@@ -121357,7 +121395,7 @@
     <vendor>Укрізол</vendor>
     <vendorCode>889597</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>100</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Покрытие">Без покрытия</param>
@@ -123503,15 +123541,15 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
     <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Степень жесткости">Мягкий</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Форма поставки материала">Рулон</param>
-    <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">60</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
+    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
@@ -123533,15 +123571,15 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
     <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Степень жесткости">Мягкий</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Форма поставки материала">Рулон</param>
-    <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">80</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
+    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
@@ -123563,15 +123601,15 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
     <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Степень жесткости">Мягкий</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Форма поставки материала">Рулон</param>
-    <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">70</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
+    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
@@ -123593,15 +123631,15 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
     <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Степень жесткости">Мягкий</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Форма поставки материала">Рулон</param>
-    <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">40</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
+    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
@@ -123623,15 +123661,15 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
     <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Степень жесткости">Мягкий</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Форма поставки материала">Рулон</param>
-    <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">50</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
+    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
@@ -123653,15 +123691,15 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
     <param name="Область применения">Для каркасных конструкций</param>
-    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Степень жесткости">Мягкий</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Форма поставки материала">Рулон</param>
-    <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">90</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
+    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Длина рулона, п.м." unit="">15</param>
     <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
@@ -123804,7 +123842,7 @@
     <vendorCode>889602</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>50</quantity_in_stock>
+    <quantity_in_stock>49</quantity_in_stock>
     <param name="Материал ручки">дерево</param>
     <param name="Диаметр, мм" unit="">20</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
@@ -125506,22 +125544,22 @@
     <picture>https://images.prom.ua/3942437522_karpet-adhesive-chernyj.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Карпет Adhesive черный самоклеющийся (ширина 1,37 м)</name>
+    <name>Карпет Adhesive черный самоклеющийся (ширина 1,35 м)</name>
     <vendorCode>889666</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>320</quantity_in_stock>
-    <param name="Применение материала">Пол автомобиля|Пол багажника|Стенки багажника|Потолок автомобиля|Двери</param>
-    <param name="Необходимость нагрева">Нет</param>
+    <quantity_in_stock>1045</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
+    <param name="Применение материала">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">2</param>
-    <param name="Длина рулона, п.м." unit="">50</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
+    <param name="Необходимость нагрева">Нет</param>
     <param name="Форма поставки материала" unit="">Рулон</param>
-    <param name="Ширина рулона, мм" unit="">1370</param>
+    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Эластичность материала" unit="">Да</param>
+    <param name="Ширина рулона, мм" unit="">1350</param>
+    <param name="Длина рулона, п.м." unit="">50</param>
   </offer>
-  <offer id="2811977937" available="false">
+  <offer id="2811977937" available="true">
     <url>https://proekt24.com/p2811977937-karpet-adhesive-grafit.html</url>
     <price>308</price>
     <currencyId>UAH</currencyId>
@@ -125535,20 +125573,20 @@
     <picture>https://images.prom.ua/3942437522_karpet-adhesive-grafit.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Карпет Adhesive графит самоклеющийся (ширина 1,37 м)</name>
+    <name>Карпет Adhesive графит самоклеющийся (ширина 1,35 м)</name>
     <vendorCode>889679</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
-    <param name="Необходимость нагрева">Нет</param>
+    <quantity_in_stock>875</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
+    <param name="Применение материала">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">2</param>
-    <param name="Длина рулона, п.м." unit="">50</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
+    <param name="Необходимость нагрева">Нет</param>
     <param name="Форма поставки материала" unit="">Рулон</param>
-    <param name="Ширина рулона, мм" unit="">1370</param>
+    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Эластичность материала" unit="">Да</param>
+    <param name="Ширина рулона, мм" unit="">1350</param>
+    <param name="Длина рулона, п.м." unit="">50</param>
   </offer>
   <offer id="2812754003" available="true">
     <url>https://proekt24.com/p2812754003-sportivnyj-mat-tatami.html</url>
@@ -126595,326 +126633,697 @@
     <url>https://proekt24.com/p2848206610-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>280</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 6 мм х 50 мм х 15 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002458</vendorCode>
+    <vendorCode>650155</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">6</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">50</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">15</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206611" available="false">
     <url>https://proekt24.com/p2848206611-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>187</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
+    <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 9 мм х 50 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002467</vendorCode>
+    <vendorCode>95010</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">50</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206612" available="false">
     <url>https://proekt24.com/p2848206612-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>149</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
+    <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 9 мм х 40 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002466</vendorCode>
+    <vendorCode>94010</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">40</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206613" available="false">
     <url>https://proekt24.com/p2848206613-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>336</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 6 мм х 60 мм х 15 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002459</vendorCode>
+    <vendorCode>660155</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">6</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">60</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">15</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206615" available="false">
     <url>https://proekt24.com/p2848206615-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>374</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
+    <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 9 мм х 100 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002472</vendorCode>
+    <vendorCode>910010</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">100</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206616" available="false">
     <url>https://proekt24.com/p2848206616-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>392</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 9 мм х 90 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002479</vendorCode>
+    <vendorCode>990105</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">90</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206617" available="false">
     <url>https://proekt24.com/p2848206617-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>224</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
+    <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 9 мм х 60 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002468</vendorCode>
+    <vendorCode>96010</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">60</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206618" available="false">
     <url>https://proekt24.com/p2848206618-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>261</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
+    <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 9 мм х 70 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002469</vendorCode>
+    <vendorCode>97010</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">70</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206619" available="false">
     <url>https://proekt24.com/p2848206619-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>174</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 9 мм х 40 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002474</vendorCode>
+    <vendorCode>940105</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">40</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206620" available="false">
     <url>https://proekt24.com/p2848206620-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>392</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 6 мм х 70 мм х 15 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002460</vendorCode>
+    <vendorCode>670155</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">6</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">70</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">15</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206621" available="false">
     <url>https://proekt24.com/p2848206621-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>305</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 9 мм х 70 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002477</vendorCode>
+    <vendorCode>970105</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">70</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206622" available="false">
     <url>https://proekt24.com/p2848206622-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>299</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
+    <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 9 мм х 80 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002470</vendorCode>
+    <vendorCode>98010</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">80</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206623" available="false">
     <url>https://proekt24.com/p2848206623-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>130</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 9 мм х 30 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002473</vendorCode>
+    <vendorCode>930105</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">30</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206624" available="false">
     <url>https://proekt24.com/p2848206624-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>336</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
+    <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 9 мм х 90 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002471</vendorCode>
+    <vendorCode>99010</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">90</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206625" available="false">
     <url>https://proekt24.com/p2848206625-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>349</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 9 мм х 80 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002478</vendorCode>
+    <vendorCode>980105</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">80</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206626" available="false">
     <url>https://proekt24.com/p2848206626-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>562</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 6 мм х 100 мм х 15 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002463</vendorCode>
+    <vendorCode>6100155</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">6</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">100</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">15</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206627" available="false">
     <url>https://proekt24.com/p2848206627-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>218</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 9 мм х 50 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002475</vendorCode>
+    <vendorCode>950105</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">50</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206628" available="false">
     <url>https://proekt24.com/p2848206628-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>224</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 6 мм х 40 мм х 15 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002457</vendorCode>
+    <vendorCode>640155</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">6</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">40</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">15</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206629" available="false">
     <url>https://proekt24.com/p2848206629-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>112</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
+    <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 9 мм х 30 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002465</vendorCode>
+    <vendorCode>93010</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">30</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206630" available="false">
     <url>https://proekt24.com/p2848206630-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>436</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 9 мм х 100 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002480</vendorCode>
+    <vendorCode>9100105</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">100</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206631" available="false">
     <url>https://proekt24.com/p2848206631-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>140</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
+    <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211152_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 6 мм х 30 мм х 15 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002464</vendorCode>
+    <vendorCode>63015</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">6</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">30</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">15</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206632" available="false">
     <url>https://proekt24.com/p2848206632-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>254</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
+    <picture>https://images.prom.ua/2824211171_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781129_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/2998888255_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781131_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781133_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781135_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781137_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
+    <picture>https://images.prom.ua/6969781139_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента 3 мм х 60 мм х 15 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002016</vendorCode>
+    <vendorCode>36015</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Цвет">Черный</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">60</param>
+    <param name="Длина" unit="">15</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Максимальная рабочая температура" unit="">180</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
+    <param name="Плотность" unit="">55</param>
+    <param name="Теплопроводность" unit="">0.032</param>
+    <param name="Тип" unit="">Шумоизоляция</param>
+    <param name="Толщина изоляции" unit="">3</param>
+    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
   <offer id="2848206633" available="false">
     <url>https://proekt24.com/p2848206633-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>261</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 9 мм х 60 мм х 10 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002476</vendorCode>
+    <vendorCode>960105</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">9</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">60</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">10</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206634" available="false">
     <url>https://proekt24.com/p2848206634-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>506</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 6 мм х 90 мм х 15 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002462</vendorCode>
+    <vendorCode>690155</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">6</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">90</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">15</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
   <offer id="2848206635" available="false">
     <url>https://proekt24.com/p2848206635-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>448</price>
     <currencyId>UAH</currencyId>
-    <categoryId>148777441</categoryId>
+    <categoryId>2366920</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Каучуковая звукоизоляционная лента фольгированная 6 мм х 80 мм х 15 м</name>
     <vendor>PA-FLEX</vendor>
-    <vendorCode>00002461</vendorCode>
+    <vendorCode>680155</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">6</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">80</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Длина рулона, п.м." unit="">15</param>
+    <param name="Материал" unit="">Вспененный каучук</param>
   </offer>
 
 
