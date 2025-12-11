@@ -1,17 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-10 17:05">
+<yml_catalog date="2025-12-11 10:05">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="44.29299" />
+      <currency id="USD" rate="44.39526" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="51.548175" />
+      <currency id="EUR" rate="51.676065" />
     </currencies>
     <categories>
+      <category id="148644693" parentId="130690330">Сковорода алюминиевая</category>
+      <category id="130696734" parentId="130690330">Алюминиевая крышка</category>
+      <category id="130696686" parentId="130690330">Прижим чугунный</category>
+      <category id="130696681" parentId="130690330">Крышка-сковорода чугунная</category>
+      <category id="130696609" parentId="130690330">Плато чугунное</category>
+      <category id="130696600" parentId="130690330">Садж чугунный</category>
+      <category id="130696539" parentId="130690330">Чугунная крышка</category>
+      <category id="130696450" parentId="130690330">Стеклянная крышка</category>
+      <category id="130696441" parentId="130690330">Эмалированная посуда Elmani</category>
+      <category id="130696419" parentId="130690330">Кастрюля алюминиевая</category>
+      <category id="130696392" parentId="130690330">Кастрюля чугунная</category>
+      <category id="130696342" parentId="130690330">Сковорода чугунная без ручки</category>
+      <category id="130696328" parentId="130690330">Сковорода чугунная с литой ручкой</category>
+      <category id="130696204" parentId="130690330">Порционная чугунная посуда HoReCa</category>
+      <category id="130696111" parentId="130690330">Чугунная сковорода WOK</category>
+      <category id="130696049" parentId="130690330">Чугунная сковорода гриль</category>
+      <category id="130695931" parentId="130690330">Блинница чугунная</category>
+      <category id="130695910" parentId="130690330">Сковороды с антипригарным покрытием</category>
+      <category id="130695695" parentId="130690330">Сковорода чугунная с крышкой</category>
+      <category id="130695678" parentId="130690330">Чугунная сковорода</category>
+      <category id="130690330" parentId="94543941">Чугунная посуда</category>
+      <category id="148519291" parentId="148519048">PETG філамент</category>
+      <category id="148519288" parentId="148519048">PLA філамент</category>
+      <category id="148519048">3D-печать</category>
       <category id="148777452" parentId="138166206">Торговые стенды и аксессуары</category>
       <category id="148777451" parentId="138619410">Оборудование и товары для предоставления услуг</category>
       <category id="148777450" parentId="138166205">Перкуссия</category>
@@ -123,11 +147,7 @@
       <category id="148777344">Изготовление маркировочной продукции, табличек</category>
       <category id="148777343">Складские услуги</category>
       <category id="148777342">Типографические услуги</category>
-      <category id="148644693" parentId="130690330">Сковорода алюминиевая</category>
       <category id="148644501" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 90 мм</category>
-      <category id="148519291" parentId="148519048">PETG філамент</category>
-      <category id="148519288" parentId="148519048">PLA філамент</category>
-      <category id="148519048">3D-печать</category>
       <category id="147798733" parentId="137644543">Теплоизоляция для труб</category>
       <category id="147798728" parentId="137644541">Гидроизоляционные уплотнители</category>
       <category id="146747342" parentId="137644543">Теплоизоляционный пенополиэтилен</category>
@@ -197,34 +217,14 @@
       <category id="8020403" parentId="1721740">Вспененный каучук </category>
       <category id="8020471" parentId="1721740">Самоклеющийся вспененный каучук </category>
       <category id="8020511" parentId="1721740">Вспененный каучук фольгированный </category>
-      <category id="130690330" parentId="94543941">Чугунная посуда</category>
       <category id="3061410" parentId="105419513">Звукоизоляция стен</category>
-      <category id="130696342" parentId="130690330">Сковорода чугунная без ручки</category>
-      <category id="130695910" parentId="130690330">Сковороды с антипригарным покрытием</category>
       <category id="109634386" parentId="105796939">Паро-гидроизоляционные мембраны</category>
-      <category id="130695678" parentId="130690330">Чугунная сковорода</category>
       <category id="8020620" parentId="1721740">Вспененный каучук фольгированный самоклеющийся </category>
       <category id="130696280" parentId="130690330">Казан чугунный</category>
       <category id="130696717" parentId="130690330">Доски для нарезки и подачи</category>
-      <category id="130695695" parentId="130690330">Сковорода чугунная с крышкой</category>
-      <category id="130696049" parentId="130690330">Чугунная сковорода гриль</category>
-      <category id="130696111" parentId="130690330">Чугунная сковорода WOK</category>
-      <category id="130696204" parentId="130690330">Порционная чугунная посуда HoReCa</category>
-      <category id="130696734" parentId="130690330">Алюминиевая крышка</category>
-      <category id="130695931" parentId="130690330">Блинница чугунная</category>
       <category id="130696319" parentId="130690330">Казан алюминиевый</category>
-      <category id="130696328" parentId="130690330">Сковорода чугунная с литой ручкой</category>
-      <category id="130696392" parentId="130690330">Кастрюля чугунная</category>
-      <category id="130696419" parentId="130690330">Кастрюля алюминиевая</category>
-      <category id="130696450" parentId="130690330">Стеклянная крышка</category>
-      <category id="130696539" parentId="130690330">Чугунная крышка</category>
-      <category id="130696600" parentId="130690330">Садж чугунный</category>
-      <category id="130696609" parentId="130690330">Плато чугунное</category>
-      <category id="130696681" parentId="130690330">Крышка-сковорода чугунная</category>
-      <category id="130696686" parentId="130690330">Прижим чугунный</category>
       <category id="130696700" parentId="130690330">Менажницы</category>
       <category id="130696728" parentId="130690330">Аксессуары для посуды</category>
-      <category id="130696441" parentId="130690330">Эмалированная посуда Elmani</category>
       <category id="113655210" parentId="13883140">Вспененный этиленвинилацетат (материал EVA) самоклеющийся</category>
       <category id="1482551" parentId="2341984">Уплотнительная, теплоизоляционная, звукоизоляционная лента (дихтунг)</category>
       <category id="8229796" parentId="111894907">Скотч армированный, армированная лента, скотч pvc, пвх</category>
@@ -2297,7 +2297,7 @@
     <vendorCode>1003-01К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вес" unit="кг">30</param>
     <param name="Высота" unit="см">140</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -3736,7 +3736,7 @@
     <vendorCode>500131</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>518</quantity_in_stock>
+    <quantity_in_stock>532</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -3948,7 +3948,7 @@
     <vendorCode>500132</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1891</quantity_in_stock>
+    <quantity_in_stock>1877</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -4177,7 +4177,7 @@
     <vendorCode>500133</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>886</quantity_in_stock>
+    <quantity_in_stock>887</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -5705,7 +5705,7 @@
     <vendorCode>ВП22/13</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>286</quantity_in_stock>
+    <quantity_in_stock>266</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">22</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
@@ -5894,7 +5894,7 @@
     <vendorCode>ВП76/13</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>158</quantity_in_stock>
+    <quantity_in_stock>128</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">76</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
@@ -6243,7 +6243,7 @@
     <vendorCode>889038</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>233</quantity_in_stock>
+    <quantity_in_stock>229</quantity_in_stock>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Потолок автомобиля</param>
     <param name="Состояние">Новое</param>
@@ -7628,7 +7628,7 @@
   </offer>
   <offer id="181223163" available="true">
     <url>https://proekt24.com/p181223163-bazaltovaya-skorlupa-1830.html</url>
-    <price>61</price>
+    <price>67</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-1830.jpg</picture>
@@ -7656,7 +7656,7 @@
   </offer>
   <offer id="181809766" available="true">
     <url>https://proekt24.com/p181809766-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>97</price>
+    <price>107</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -7686,7 +7686,7 @@
   </offer>
   <offer id="181875745" available="true">
     <url>https://proekt24.com/p181875745-bazaltovaya-skorlupa-1840.html</url>
-    <price>89</price>
+    <price>97</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-1840.jpg</picture>
@@ -7714,7 +7714,7 @@
   </offer>
   <offer id="181877667" available="true">
     <url>https://proekt24.com/p181877667-bazaltovaya-skorlupa-1850.html</url>
-    <price>117</price>
+    <price>129</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-1850.jpg</picture>
@@ -7742,7 +7742,7 @@
   </offer>
   <offer id="181881723" available="true">
     <url>https://proekt24.com/p181881723-bazaltovaya-skorlupa-1860.html</url>
-    <price>178</price>
+    <price>194</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-1860.jpg</picture>
@@ -7770,7 +7770,7 @@
   </offer>
   <offer id="181883903" available="true">
     <url>https://proekt24.com/p181883903-bazaltovaya-skorlupa-1870.html</url>
-    <price>227</price>
+    <price>249</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-1870.jpg</picture>
@@ -7798,7 +7798,7 @@
   </offer>
   <offer id="181886409" available="true">
     <url>https://proekt24.com/p181886409-bazaltovaya-skorlupa-1880.html</url>
-    <price>275</price>
+    <price>301</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-1880.jpg</picture>
@@ -7826,7 +7826,7 @@
   </offer>
   <offer id="181886838" available="true">
     <url>https://proekt24.com/p181886838-bazaltovaya-skorlupa-2130.html</url>
-    <price>62</price>
+    <price>68</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2130.jpg</picture>
@@ -7854,7 +7854,7 @@
   </offer>
   <offer id="182528504" available="true">
     <url>https://proekt24.com/p182528504-bazaltovaya-skorlupa-2140.html</url>
-    <price>93</price>
+    <price>102</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2140.jpg</picture>
@@ -7882,7 +7882,7 @@
   </offer>
   <offer id="182528913" available="true">
     <url>https://proekt24.com/p182528913-bazaltovaya-skorlupa-2150.html</url>
-    <price>133</price>
+    <price>145</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2150.jpg</picture>
@@ -7910,7 +7910,7 @@
   </offer>
   <offer id="182537034" available="true">
     <url>https://proekt24.com/p182537034-bazaltovaya-skorlupa-2160.html</url>
-    <price>178</price>
+    <price>194</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2160.jpg</picture>
@@ -7938,7 +7938,7 @@
   </offer>
   <offer id="182541741" available="true">
     <url>https://proekt24.com/p182541741-bazaltovaya-skorlupa-2170.html</url>
-    <price>227</price>
+    <price>249</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2170.jpg</picture>
@@ -7966,7 +7966,7 @@
   </offer>
   <offer id="182543300" available="true">
     <url>https://proekt24.com/p182543300-bazaltovaya-skorlupa-2180.html</url>
-    <price>294</price>
+    <price>324</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2180.jpg</picture>
@@ -7994,7 +7994,7 @@
   </offer>
   <offer id="182545726" available="true">
     <url>https://proekt24.com/p182545726-bazaltovaya-skorlupa-2530.html</url>
-    <price>77</price>
+    <price>84</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2530.jpg</picture>
@@ -8022,7 +8022,7 @@
   </offer>
   <offer id="182869246" available="true">
     <url>https://proekt24.com/p182869246-bazaltovaya-skorlupa-2540.html</url>
-    <price>93</price>
+    <price>102</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2540.jpg</picture>
@@ -8050,7 +8050,7 @@
   </offer>
   <offer id="182891596" available="true">
     <url>https://proekt24.com/p182891596-bazaltovaya-skorlupa-2730.html</url>
-    <price>80</price>
+    <price>88</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2730.jpg</picture>
@@ -8078,7 +8078,7 @@
   </offer>
   <offer id="182894776" available="true">
     <url>https://proekt24.com/p182894776-bazaltovaya-skorlupa-2740.html</url>
-    <price>104</price>
+    <price>114</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2740.jpg</picture>
@@ -8106,7 +8106,7 @@
   </offer>
   <offer id="182896362" available="true">
     <url>https://proekt24.com/p182896362-bazaltovaya-skorlupa-2750.html</url>
-    <price>141</price>
+    <price>155</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2750.jpg</picture>
@@ -8134,7 +8134,7 @@
   </offer>
   <offer id="182906603" available="true">
     <url>https://proekt24.com/p182906603-bazaltovaya-skorlupa-2760.html</url>
-    <price>194</price>
+    <price>213</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2760.jpg</picture>
@@ -8162,7 +8162,7 @@
   </offer>
   <offer id="182949451" available="true">
     <url>https://proekt24.com/p182949451-bazaltovaya-skorlupa-2550.html</url>
-    <price>133</price>
+    <price>145</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2550.jpg</picture>
@@ -8190,7 +8190,7 @@
   </offer>
   <offer id="182991705" available="true">
     <url>https://proekt24.com/p182991705-bazaltovaya-skorlupa-2770.html</url>
-    <price>242</price>
+    <price>265</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2770.jpg</picture>
@@ -8218,7 +8218,7 @@
   </offer>
   <offer id="182994163" available="true">
     <url>https://proekt24.com/p182994163-bazaltovaya-skorlupa-2780.html</url>
-    <price>319</price>
+    <price>350</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2780.jpg</picture>
@@ -8246,7 +8246,7 @@
   </offer>
   <offer id="182998036" available="true">
     <url>https://proekt24.com/p182998036-bazaltovaya-skorlupa-3230.html</url>
-    <price>85</price>
+    <price>94</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-3230.jpg</picture>
@@ -8274,7 +8274,7 @@
   </offer>
   <offer id="183000864" available="true">
     <url>https://proekt24.com/p183000864-bazaltovaya-skorlupa-3240.html</url>
-    <price>112</price>
+    <price>123</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-3240.jpg</picture>
@@ -8302,7 +8302,7 @@
   </offer>
   <offer id="183012212" available="true">
     <url>https://proekt24.com/p183012212-bazaltovaya-skorlupa-3250.html</url>
-    <price>151</price>
+    <price>166</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-3250.jpg</picture>
@@ -8330,7 +8330,7 @@
   </offer>
   <offer id="183026204" available="true">
     <url>https://proekt24.com/p183026204-bazaltovaya-skorlupa-2560.html</url>
-    <price>194</price>
+    <price>213</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2560.jpg</picture>
@@ -8358,7 +8358,7 @@
   </offer>
   <offer id="183029900" available="true">
     <url>https://proekt24.com/p183029900-bazaltovaya-skorlupa-2570.html</url>
-    <price>242</price>
+    <price>265</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2570.jpg</picture>
@@ -8386,7 +8386,7 @@
   </offer>
   <offer id="183033478" available="true">
     <url>https://proekt24.com/p183033478-bazaltovaya-skorlupa-2580.html</url>
-    <price>319</price>
+    <price>350</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-2580.jpg</picture>
@@ -8414,7 +8414,7 @@
   </offer>
   <offer id="183183924" available="true">
     <url>https://proekt24.com/p183183924-bazaltovaya-skorlupa-3260.html</url>
-    <price>204</price>
+    <price>224</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-3260.jpg</picture>
@@ -8489,7 +8489,7 @@
   </offer>
   <offer id="184931641" available="true">
     <url>https://proekt24.com/p184931641-bazaltovaya-skorlupa-3270.html</url>
-    <price>275</price>
+    <price>301</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-3270.jpg</picture>
@@ -8517,7 +8517,7 @@
   </offer>
   <offer id="184931985" available="true">
     <url>https://proekt24.com/p184931985-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>133</price>
+    <price>146</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8547,7 +8547,7 @@
   </offer>
   <offer id="184932109" available="true">
     <url>https://proekt24.com/p184932109-bazaltovaya-skorlupa-3280.html</url>
-    <price>319</price>
+    <price>350</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-3280.jpg</picture>
@@ -8575,7 +8575,7 @@
   </offer>
   <offer id="184932271" available="true">
     <url>https://proekt24.com/p184932271-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>168</price>
+    <price>184</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8605,7 +8605,7 @@
   </offer>
   <offer id="184932601" available="true">
     <url>https://proekt24.com/p184932601-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>235</price>
+    <price>258</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8635,7 +8635,7 @@
   </offer>
   <offer id="184944869" available="true">
     <url>https://proekt24.com/p184944869-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>292</price>
+    <price>321</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8665,7 +8665,7 @@
   </offer>
   <offer id="184949500" available="true">
     <url>https://proekt24.com/p184949500-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>346</price>
+    <price>380</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8695,7 +8695,7 @@
   </offer>
   <offer id="185494256" available="true">
     <url>https://proekt24.com/p185494256-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>100</price>
+    <price>110</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8725,7 +8725,7 @@
   </offer>
   <offer id="185495347" available="true">
     <url>https://proekt24.com/p185495347-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>137</price>
+    <price>151</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8755,7 +8755,7 @@
   </offer>
   <offer id="185495509" available="true">
     <url>https://proekt24.com/p185495509-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>184</price>
+    <price>202</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8785,7 +8785,7 @@
   </offer>
   <offer id="185495925" available="true">
     <url>https://proekt24.com/p185495925-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>236</price>
+    <price>259</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8815,7 +8815,7 @@
   </offer>
   <offer id="185496421" available="true">
     <url>https://proekt24.com/p185496421-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>293</price>
+    <price>322</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8845,7 +8845,7 @@
   </offer>
   <offer id="185497254" available="true">
     <url>https://proekt24.com/p185497254-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>367</price>
+    <price>403</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8875,7 +8875,7 @@
   </offer>
   <offer id="185505775" available="true">
     <url>https://proekt24.com/p185505775-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>116</price>
+    <price>127</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8905,7 +8905,7 @@
   </offer>
   <offer id="185506668" available="true">
     <url>https://proekt24.com/p185506668-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>138</price>
+    <price>152</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8935,7 +8935,7 @@
   </offer>
   <offer id="185506968" available="true">
     <url>https://proekt24.com/p185506968-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>185</price>
+    <price>203</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8965,7 +8965,7 @@
   </offer>
   <offer id="185507446" available="true">
     <url>https://proekt24.com/p185507446-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>255</price>
+    <price>279</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -8995,7 +8995,7 @@
   </offer>
   <offer id="185508185" available="true">
     <url>https://proekt24.com/p185508185-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>308</price>
+    <price>338</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9025,7 +9025,7 @@
   </offer>
   <offer id="185508770" available="true">
     <url>https://proekt24.com/p185508770-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>392</price>
+    <price>431</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9055,7 +9055,7 @@
   </offer>
   <offer id="185511681" available="true">
     <url>https://proekt24.com/p185511681-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>119</price>
+    <price>130</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9085,7 +9085,7 @@
   </offer>
   <offer id="185512836" available="true">
     <url>https://proekt24.com/p185512836-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>150</price>
+    <price>166</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9115,7 +9115,7 @@
   </offer>
   <offer id="185513392" available="true">
     <url>https://proekt24.com/p185513392-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>195</price>
+    <price>214</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9145,7 +9145,7 @@
   </offer>
   <offer id="185514308" available="true">
     <url>https://proekt24.com/p185514308-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>255</price>
+    <price>280</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9175,7 +9175,7 @@
   </offer>
   <offer id="185514712" available="true">
     <url>https://proekt24.com/p185514712-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>309</price>
+    <price>339</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9205,7 +9205,7 @@
   </offer>
   <offer id="185515090" available="true">
     <url>https://proekt24.com/p185515090-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>393</price>
+    <price>432</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9235,7 +9235,7 @@
   </offer>
   <offer id="185518625" available="true">
     <url>https://proekt24.com/p185518625-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>127</price>
+    <price>139</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9265,7 +9265,7 @@
   </offer>
   <offer id="185530519" available="true">
     <url>https://proekt24.com/p185530519-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>160</price>
+    <price>176</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9295,7 +9295,7 @@
   </offer>
   <offer id="185533178" available="true">
     <url>https://proekt24.com/p185533178-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>207</price>
+    <price>227</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9325,7 +9325,7 @@
   </offer>
   <offer id="185533274" available="true">
     <url>https://proekt24.com/p185533274-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>267</price>
+    <price>293</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9355,7 +9355,7 @@
   </offer>
   <offer id="185533638" available="true">
     <url>https://proekt24.com/p185533638-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>344</price>
+    <price>378</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9385,7 +9385,7 @@
   </offer>
   <offer id="185534837" available="true">
     <url>https://proekt24.com/p185534837-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>396</price>
+    <price>434</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -9438,7 +9438,7 @@
   </offer>
   <offer id="186331872" available="true">
     <url>https://proekt24.com/p186331872-bazaltovaya-skorlupa-3830.html</url>
-    <price>85</price>
+    <price>94</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-3830.jpg</picture>
@@ -9466,7 +9466,7 @@
   </offer>
   <offer id="186334915" available="true">
     <url>https://proekt24.com/p186334915-bazaltovaya-skorlupa-3840.html</url>
-    <price>125</price>
+    <price>137</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-3840.jpg</picture>
@@ -9494,7 +9494,7 @@
   </offer>
   <offer id="186335671" available="true">
     <url>https://proekt24.com/p186335671-bazaltovaya-skorlupa-3850.html</url>
-    <price>170</price>
+    <price>187</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-3850.jpg</picture>
@@ -9522,7 +9522,7 @@
   </offer>
   <offer id="186846586" available="true">
     <url>https://proekt24.com/p186846586-bazaltovaya-skorlupa-4230.html</url>
-    <price>93</price>
+    <price>102</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4230.jpg</picture>
@@ -9550,7 +9550,7 @@
   </offer>
   <offer id="186846736" available="true">
     <url>https://proekt24.com/p186846736-bazaltovaya-skorlupa-4240.html</url>
-    <price>133</price>
+    <price>145</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4240.jpg</picture>
@@ -9578,7 +9578,7 @@
   </offer>
   <offer id="186854246" available="true">
     <url>https://proekt24.com/p186854246-bazaltovaya-skorlupa-4250.html</url>
-    <price>178</price>
+    <price>194</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4250.jpg</picture>
@@ -9606,7 +9606,7 @@
   </offer>
   <offer id="186855159" available="true">
     <url>https://proekt24.com/p186855159-bazaltovaya-skorlupa-4260.html</url>
-    <price>242</price>
+    <price>265</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4260.jpg</picture>
@@ -9634,7 +9634,7 @@
   </offer>
   <offer id="186900468" available="true">
     <url>https://proekt24.com/p186900468-bazaltovaya-skorlupa-4270.html</url>
-    <price>294</price>
+    <price>324</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4270.jpg</picture>
@@ -9662,7 +9662,7 @@
   </offer>
   <offer id="186904875" available="true">
     <url>https://proekt24.com/p186904875-bazaltovaya-skorlupa-4280.html</url>
-    <price>337</price>
+    <price>370</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4280.jpg</picture>
@@ -9690,7 +9690,7 @@
   </offer>
   <offer id="186912179" available="true">
     <url>https://proekt24.com/p186912179-bazaltovaya-skorlupa-4530.html</url>
-    <price>93</price>
+    <price>102</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4530.jpg</picture>
@@ -9718,7 +9718,7 @@
   </offer>
   <offer id="186941070" available="true">
     <url>https://proekt24.com/p186941070-bazaltovaya-skorlupa-3860.html</url>
-    <price>227</price>
+    <price>249</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-3860.jpg</picture>
@@ -9746,7 +9746,7 @@
   </offer>
   <offer id="186945987" available="true">
     <url>https://proekt24.com/p186945987-bazaltovaya-skorlupa-3870.html</url>
-    <price>294</price>
+    <price>324</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-3870.jpg</picture>
@@ -9774,7 +9774,7 @@
   </offer>
   <offer id="186999654" available="true">
     <url>https://proekt24.com/p186999654-bazaltovaya-skorlupa-3880.html</url>
-    <price>337</price>
+    <price>370</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-3880.jpg</picture>
@@ -9802,7 +9802,7 @@
   </offer>
   <offer id="187841752" available="true">
     <url>https://proekt24.com/p187841752-bazaltovaya-skorlupa-4540.html</url>
-    <price>141</price>
+    <price>155</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4540.jpg</picture>
@@ -9830,7 +9830,7 @@
   </offer>
   <offer id="187842422" available="true">
     <url>https://proekt24.com/p187842422-bazaltovaya-skorlupa-4550.html</url>
-    <price>178</price>
+    <price>194</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4550.jpg</picture>
@@ -9858,7 +9858,7 @@
   </offer>
   <offer id="187842774" available="true">
     <url>https://proekt24.com/p187842774-bazaltovaya-skorlupa-4560.html</url>
-    <price>242</price>
+    <price>265</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4560.jpg</picture>
@@ -9909,7 +9909,7 @@
   </offer>
   <offer id="187843135" available="true">
     <url>https://proekt24.com/p187843135-bazaltovaya-skorlupa-4570.html</url>
-    <price>294</price>
+    <price>324</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4570.jpg</picture>
@@ -9937,7 +9937,7 @@
   </offer>
   <offer id="187846221" available="true">
     <url>https://proekt24.com/p187846221-bazaltovaya-skorlupa-4580.html</url>
-    <price>358</price>
+    <price>393</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4580.jpg</picture>
@@ -9965,7 +9965,7 @@
   </offer>
   <offer id="187848632" available="true">
     <url>https://proekt24.com/p187848632-bazaltovaya-skorlupa-4830.html</url>
-    <price>94</price>
+    <price>104</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4830.jpg</picture>
@@ -9993,7 +9993,7 @@
   </offer>
   <offer id="187849346" available="true">
     <url>https://proekt24.com/p187849346-bazaltovaya-skorlupa-4840.html</url>
-    <price>146</price>
+    <price>160</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4840.jpg</picture>
@@ -10043,7 +10043,7 @@
   </offer>
   <offer id="190609447" available="true">
     <url>https://proekt24.com/p190609447-bazaltovaya-skorlupa-4850.html</url>
-    <price>194</price>
+    <price>213</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4850.jpg</picture>
@@ -10071,7 +10071,7 @@
   </offer>
   <offer id="190611201" available="true">
     <url>https://proekt24.com/p190611201-bazaltovaya-skorlupa-4860.html</url>
-    <price>257</price>
+    <price>282</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4860.jpg</picture>
@@ -10099,7 +10099,7 @@
   </offer>
   <offer id="190612743" available="true">
     <url>https://proekt24.com/p190612743-bazaltovaya-skorlupa-4870.html</url>
-    <price>319</price>
+    <price>350</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4870.jpg</picture>
@@ -10127,7 +10127,7 @@
   </offer>
   <offer id="190614433" available="true">
     <url>https://proekt24.com/p190614433-bazaltovaya-skorlupa-4880.html</url>
-    <price>381</price>
+    <price>419</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-4880.jpg</picture>
@@ -10155,7 +10155,7 @@
   </offer>
   <offer id="190616966" available="true">
     <url>https://proekt24.com/p190616966-bazaltovaya-skorlupa-5730.html</url>
-    <price>125</price>
+    <price>137</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-5730.jpg</picture>
@@ -10183,7 +10183,7 @@
   </offer>
   <offer id="190618219" available="true">
     <url>https://proekt24.com/p190618219-bazaltovaya-skorlupa-5740.html</url>
-    <price>163</price>
+    <price>179</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-5740.jpg</picture>
@@ -10211,7 +10211,7 @@
   </offer>
   <offer id="190619996" available="true">
     <url>https://proekt24.com/p190619996-bazaltovaya-skorlupa-5750.html</url>
-    <price>204</price>
+    <price>224</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-5750.jpg</picture>
@@ -10239,7 +10239,7 @@
   </offer>
   <offer id="190620581" available="true">
     <url>https://proekt24.com/p190620581-bazaltovaya-skorlupa-5760.html</url>
-    <price>294</price>
+    <price>324</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-5760.jpg</picture>
@@ -10267,7 +10267,7 @@
   </offer>
   <offer id="191259225" available="true">
     <url>https://proekt24.com/p191259225-bazaltovaya-skorlupa-5770.html</url>
-    <price>347</price>
+    <price>381</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-5770.jpg</picture>
@@ -10295,7 +10295,7 @@
   </offer>
   <offer id="191259883" available="true">
     <url>https://proekt24.com/p191259883-bazaltovaya-skorlupa-5780.html</url>
-    <price>438</price>
+    <price>481</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-5780.jpg</picture>
@@ -10323,7 +10323,7 @@
   </offer>
   <offer id="191262560" available="true">
     <url>https://proekt24.com/p191262560-bazaltovaya-skorlupa-6030.html</url>
-    <price>128</price>
+    <price>140</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-6030.jpg</picture>
@@ -10351,7 +10351,7 @@
   </offer>
   <offer id="191277341" available="true">
     <url>https://proekt24.com/p191277341-bazaltovaya-skorlupa-6040.html</url>
-    <price>163</price>
+    <price>179</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-6040.jpg</picture>
@@ -10379,7 +10379,7 @@
   </offer>
   <offer id="191277741" available="true">
     <url>https://proekt24.com/p191277741-bazaltovaya-skorlupa-6050.html</url>
-    <price>227</price>
+    <price>249</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-6050.jpg</picture>
@@ -10407,7 +10407,7 @@
   </offer>
   <offer id="191279641" available="true">
     <url>https://proekt24.com/p191279641-bazaltovaya-skorlupa-6060.html</url>
-    <price>294</price>
+    <price>324</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-6060.jpg</picture>
@@ -10435,7 +10435,7 @@
   </offer>
   <offer id="191291231" available="true">
     <url>https://proekt24.com/p191291231-bazaltovaya-skorlupa-6070.html</url>
-    <price>381</price>
+    <price>419</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-6070.jpg</picture>
@@ -10463,7 +10463,7 @@
   </offer>
   <offer id="191292439" available="true">
     <url>https://proekt24.com/p191292439-bazaltovaya-skorlupa-6080.html</url>
-    <price>475</price>
+    <price>521</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-6080.jpg</picture>
@@ -10491,7 +10491,7 @@
   </offer>
   <offer id="191292956" available="true">
     <url>https://proekt24.com/p191292956-bazaltovaya-skorlupa-7630.html</url>
-    <price>146</price>
+    <price>160</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-7630.jpg</picture>
@@ -10519,7 +10519,7 @@
   </offer>
   <offer id="191304399" available="true">
     <url>https://proekt24.com/p191304399-bazaltovaya-skorlupa-7640.html</url>
-    <price>194</price>
+    <price>213</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-7640.jpg</picture>
@@ -10547,7 +10547,7 @@
   </offer>
   <offer id="191305667" available="true">
     <url>https://proekt24.com/p191305667-bazaltovaya-skorlupa-7650.html</url>
-    <price>275</price>
+    <price>301</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-7650.jpg</picture>
@@ -10575,7 +10575,7 @@
   </offer>
   <offer id="191312702" available="true">
     <url>https://proekt24.com/p191312702-bazaltovaya-skorlupa-7660.html</url>
-    <price>347</price>
+    <price>381</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-7660.jpg</picture>
@@ -10603,7 +10603,7 @@
   </offer>
   <offer id="191313372" available="true">
     <url>https://proekt24.com/p191313372-bazaltovaya-skorlupa-7670.html</url>
-    <price>381</price>
+    <price>419</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-7670.jpg</picture>
@@ -10631,7 +10631,7 @@
   </offer>
   <offer id="191313489" available="true">
     <url>https://proekt24.com/p191313489-bazaltovaya-skorlupa-7680.html</url>
-    <price>475</price>
+    <price>521</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-7680.jpg</picture>
@@ -10659,7 +10659,7 @@
   </offer>
   <offer id="191318447" available="true">
     <url>https://proekt24.com/p191318447-bazaltovaya-skorlupa-8930.html</url>
-    <price>157</price>
+    <price>172</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-8930.jpg</picture>
@@ -10687,7 +10687,7 @@
   </offer>
   <offer id="191321806" available="true">
     <url>https://proekt24.com/p191321806-bazaltovaya-skorlupa-8940.html</url>
-    <price>242</price>
+    <price>265</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-8940.jpg</picture>
@@ -10715,7 +10715,7 @@
   </offer>
   <offer id="191326233" available="true">
     <url>https://proekt24.com/p191326233-bazaltovaya-skorlupa-8950.html</url>
-    <price>294</price>
+    <price>324</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-8950.jpg</picture>
@@ -10743,7 +10743,7 @@
   </offer>
   <offer id="191330364" available="true">
     <url>https://proekt24.com/p191330364-bazaltovaya-skorlupa-8960.html</url>
-    <price>356</price>
+    <price>370</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-8960.jpg</picture>
@@ -10771,7 +10771,7 @@
   </offer>
   <offer id="191337147" available="true">
     <url>https://proekt24.com/p191337147-bazaltovaya-skorlupa-8970.html</url>
-    <price>422</price>
+    <price>448</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-8970.jpg</picture>
@@ -10799,7 +10799,7 @@
   </offer>
   <offer id="191346169" available="true">
     <url>https://proekt24.com/p191346169-bazaltovaya-skorlupa-8980.html</url>
-    <price>568</price>
+    <price>623</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-8980.jpg</picture>
@@ -10827,7 +10827,7 @@
   </offer>
   <offer id="191383681" available="true">
     <url>https://proekt24.com/p191383681-bazaltovaya-skorlupa-11430.html</url>
-    <price>227</price>
+    <price>249</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-11430.jpg</picture>
@@ -10855,7 +10855,7 @@
   </offer>
   <offer id="191384237" available="true">
     <url>https://proekt24.com/p191384237-bazaltovaya-skorlupa-11440.html</url>
-    <price>262</price>
+    <price>288</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-11440.jpg</picture>
@@ -10883,7 +10883,7 @@
   </offer>
   <offer id="191384821" available="true">
     <url>https://proekt24.com/p191384821-bazaltovaya-skorlupa-11450.html</url>
-    <price>337</price>
+    <price>374</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-11450.jpg</picture>
@@ -10911,7 +10911,7 @@
   </offer>
   <offer id="191386383" available="true">
     <url>https://proekt24.com/p191386383-bazaltovaya-skorlupa-11460.html</url>
-    <price>438</price>
+    <price>481</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-11460.jpg</picture>
@@ -10939,7 +10939,7 @@
   </offer>
   <offer id="191387502" available="true">
     <url>https://proekt24.com/p191387502-bazaltovaya-skorlupa-11470.html</url>
-    <price>541</price>
+    <price>594</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-11470.jpg</picture>
@@ -10967,7 +10967,7 @@
   </offer>
   <offer id="191391271" available="true">
     <url>https://proekt24.com/p191391271-bazaltovaya-skorlupa-10830.html</url>
-    <price>204</price>
+    <price>224</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-10830.jpg</picture>
@@ -10995,7 +10995,7 @@
   </offer>
   <offer id="191391311" available="true">
     <url>https://proekt24.com/p191391311-bazaltovaya-skorlupa-11480.html</url>
-    <price>630</price>
+    <price>691</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-11480.jpg</picture>
@@ -11023,7 +11023,7 @@
   </offer>
   <offer id="191391512" available="true">
     <url>https://proekt24.com/p191391512-bazaltovaya-skorlupa-10840.html</url>
-    <price>275</price>
+    <price>301</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-10840.jpg</picture>
@@ -11051,7 +11051,7 @@
   </offer>
   <offer id="191391885" available="true">
     <url>https://proekt24.com/p191391885-bazaltovaya-skorlupa-10850.html</url>
-    <price>337</price>
+    <price>363</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-10850.jpg</picture>
@@ -11079,7 +11079,7 @@
   </offer>
   <offer id="191395204" available="true">
     <url>https://proekt24.com/p191395204-bazaltovaya-skorlupa-10860.html</url>
-    <price>438</price>
+    <price>481</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-10860.jpg</picture>
@@ -11107,7 +11107,7 @@
   </offer>
   <offer id="191395418" available="true">
     <url>https://proekt24.com/p191395418-bazaltovaya-skorlupa-10870.html</url>
-    <price>541</price>
+    <price>594</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504629459_bazaltovaya-skorlupa-10870.jpg</picture>
@@ -11135,7 +11135,7 @@
   </offer>
   <offer id="191396504" available="true">
     <url>https://proekt24.com/p191396504-bazaltovaya-skorlupa-10880.html</url>
-    <price>581</price>
+    <price>639</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504629459_bazaltovaya-skorlupa-10880.jpg</picture>
@@ -11163,7 +11163,7 @@
   </offer>
   <offer id="191984619" available="true">
     <url>https://proekt24.com/p191984619-bazaltovaya-skorlupa-13330.html</url>
-    <price>251</price>
+    <price>276</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504629459_bazaltovaya-skorlupa-13330.jpg</picture>
@@ -11191,7 +11191,7 @@
   </offer>
   <offer id="192032572" available="true">
     <url>https://proekt24.com/p192032572-bazaltovaya-skorlupa-13340.html</url>
-    <price>282</price>
+    <price>316</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504629459_bazaltovaya-skorlupa-13340.jpg</picture>
@@ -11219,7 +11219,7 @@
   </offer>
   <offer id="192066048" available="true">
     <url>https://proekt24.com/p192066048-bazaltovaya-skorlupa-13350.html</url>
-    <price>392</price>
+    <price>431</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504629459_bazaltovaya-skorlupa-13350.jpg</picture>
@@ -11247,7 +11247,7 @@
   </offer>
   <offer id="192068046" available="true">
     <url>https://proekt24.com/p192068046-bazaltovaya-skorlupa-13360.html</url>
-    <price>465</price>
+    <price>510</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504629459_bazaltovaya-skorlupa-13360.jpg</picture>
@@ -11275,7 +11275,7 @@
   </offer>
   <offer id="192068185" available="true">
     <url>https://proekt24.com/p192068185-bazaltovaya-skorlupa-14050.html</url>
-    <price>413</price>
+    <price>435</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504629459_bazaltovaya-skorlupa-14050.jpg</picture>
@@ -11303,7 +11303,7 @@
   </offer>
   <offer id="192069594" available="true">
     <url>https://proekt24.com/p192069594-bazaltovaya-skorlupa-13370.html</url>
-    <price>556</price>
+    <price>610</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504629459_bazaltovaya-skorlupa-13370.jpg</picture>
@@ -11331,7 +11331,7 @@
   </offer>
   <offer id="192071549" available="true">
     <url>https://proekt24.com/p192071549-bazaltovaya-skorlupa-14060.html</url>
-    <price>465</price>
+    <price>510</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-14060.jpg</picture>
@@ -11359,7 +11359,7 @@
   </offer>
   <offer id="192072591" available="true">
     <url>https://proekt24.com/p192072591-bazaltovaya-skorlupa-13380.html</url>
-    <price>617</price>
+    <price>677</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-13380.jpg</picture>
@@ -11387,7 +11387,7 @@
   </offer>
   <offer id="192074609" available="true">
     <url>https://proekt24.com/p192074609-bazaltovaya-skorlupa-15070.html</url>
-    <price>569</price>
+    <price>625</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-15070.jpg</picture>
@@ -11415,7 +11415,7 @@
   </offer>
   <offer id="192086232" available="true">
     <url>https://proekt24.com/p192086232-bazaltovaya-skorlupa-15080.html</url>
-    <price>672</price>
+    <price>738</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-15080.jpg</picture>
@@ -11443,7 +11443,7 @@
   </offer>
   <offer id="192754815" available="true">
     <url>https://proekt24.com/p192754815-bazaltovaya-skorlupa-15940.html</url>
-    <price>400</price>
+    <price>447</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-15940.jpg</picture>
@@ -11471,7 +11471,7 @@
   </offer>
   <offer id="192765180" available="true">
     <url>https://proekt24.com/p192765180-bazaltovaya-skorlupa-15950.html</url>
-    <price>392</price>
+    <price>448</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-15950.jpg</picture>
@@ -11499,7 +11499,7 @@
   </offer>
   <offer id="192765340" available="true">
     <url>https://proekt24.com/p192765340-bazaltovaya-skorlupa-15960.html</url>
-    <price>530</price>
+    <price>581</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-15960.jpg</picture>
@@ -11527,7 +11527,7 @@
   </offer>
   <offer id="192766002" available="true">
     <url>https://proekt24.com/p192766002-bazaltovaya-skorlupa-15970.html</url>
-    <price>617</price>
+    <price>677</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-15970.jpg</picture>
@@ -11555,7 +11555,7 @@
   </offer>
   <offer id="192773366" available="true">
     <url>https://proekt24.com/p192773366-bazaltovaya-skorlupa-15980.html</url>
-    <price>672</price>
+    <price>738</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-15980.jpg</picture>
@@ -11583,7 +11583,7 @@
   </offer>
   <offer id="192791153" available="true">
     <url>https://proekt24.com/p192791153-bazaltovaya-skorlupa-21940.html</url>
-    <price>465</price>
+    <price>448</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-21940.jpg</picture>
@@ -11611,7 +11611,7 @@
   </offer>
   <offer id="192805314" available="true">
     <url>https://proekt24.com/p192805314-bazaltovaya-skorlupa-21950.html</url>
-    <price>569</price>
+    <price>625</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-21950.jpg</picture>
@@ -11639,7 +11639,7 @@
   </offer>
   <offer id="192814405" available="true">
     <url>https://proekt24.com/p192814405-bazaltovaya-skorlupa-21960.html</url>
-    <price>617</price>
+    <price>677</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-21960.jpg</picture>
@@ -11667,7 +11667,7 @@
   </offer>
   <offer id="192825003" available="true">
     <url>https://proekt24.com/p192825003-bazaltovaya-skorlupa-21970.html</url>
-    <price>739</price>
+    <price>810</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-21970.jpg</picture>
@@ -11695,7 +11695,7 @@
   </offer>
   <offer id="192830682" available="true">
     <url>https://proekt24.com/p192830682-bazaltovaya-skorlupa-21980.html</url>
-    <price>921</price>
+    <price>1012</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-21980.jpg</picture>
@@ -11723,7 +11723,7 @@
   </offer>
   <offer id="192865080" available="true">
     <url>https://proekt24.com/p192865080-bazaltovaya-skorlupa-27340.html</url>
-    <price>495</price>
+    <price>554</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-27340.jpg</picture>
@@ -11751,7 +11751,7 @@
   </offer>
   <offer id="192901399" available="true">
     <url>https://proekt24.com/p192901399-bazaltovaya-skorlupa-27350.html</url>
-    <price>739</price>
+    <price>777</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-27350.jpg</picture>
@@ -11779,7 +11779,7 @@
   </offer>
   <offer id="192904401" available="true">
     <url>https://proekt24.com/p192904401-bazaltovaya-skorlupa-32540.html</url>
-    <price>556</price>
+    <price>623</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-32540.jpg</picture>
@@ -11807,7 +11807,7 @@
   </offer>
   <offer id="192905311" available="true">
     <url>https://proekt24.com/p192905311-bazaltovaya-skorlupa-32570.html</url>
-    <price>1108</price>
+    <price>1216</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-32570.jpg</picture>
@@ -19774,7 +19774,7 @@
   </offer>
   <offer id="319536749" available="true">
     <url>https://proekt24.com/p319536749-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>129</price>
+    <price>143</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -19804,7 +19804,7 @@
   </offer>
   <offer id="319548729" available="true">
     <url>https://proekt24.com/p319548729-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>176</price>
+    <price>192</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -19834,7 +19834,7 @@
   </offer>
   <offer id="319554054" available="true">
     <url>https://proekt24.com/p319554054-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>227</price>
+    <price>250</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -19864,7 +19864,7 @@
   </offer>
   <offer id="319558300" available="true">
     <url>https://proekt24.com/p319558300-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>292</price>
+    <price>321</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -19894,7 +19894,7 @@
   </offer>
   <offer id="319564426" available="true">
     <url>https://proekt24.com/p319564426-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>366</price>
+    <price>402</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -19924,7 +19924,7 @@
   </offer>
   <offer id="319564705" available="true">
     <url>https://proekt24.com/p319564705-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>416</price>
+    <price>457</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -19954,7 +19954,7 @@
   </offer>
   <offer id="319566571" available="true">
     <url>https://proekt24.com/p319566571-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>138</price>
+    <price>151</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -19984,7 +19984,7 @@
   </offer>
   <offer id="319574330" available="true">
     <url>https://proekt24.com/p319574330-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>184</price>
+    <price>202</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20014,7 +20014,7 @@
   </offer>
   <offer id="319577269" available="true">
     <url>https://proekt24.com/p319577269-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>236</price>
+    <price>259</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20044,7 +20044,7 @@
   </offer>
   <offer id="319577952" available="true">
     <url>https://proekt24.com/p319577952-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>308</price>
+    <price>337</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20074,7 +20074,7 @@
   </offer>
   <offer id="319582820" available="true">
     <url>https://proekt24.com/p319582820-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>368</price>
+    <price>404</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20104,7 +20104,7 @@
   </offer>
   <offer id="319587800" available="true">
     <url>https://proekt24.com/p319587800-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>418</price>
+    <price>458</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20134,7 +20134,7 @@
   </offer>
   <offer id="319589055" available="true">
     <url>https://proekt24.com/p319589055-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>139</price>
+    <price>152</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20164,7 +20164,7 @@
   </offer>
   <offer id="319589758" available="true">
     <url>https://proekt24.com/p319589758-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>194</price>
+    <price>213</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20194,7 +20194,7 @@
   </offer>
   <offer id="319593013" available="true">
     <url>https://proekt24.com/p319593013-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>237</price>
+    <price>260</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20224,7 +20224,7 @@
   </offer>
   <offer id="319594699" available="true">
     <url>https://proekt24.com/p319594699-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>308</price>
+    <price>338</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20254,7 +20254,7 @@
   </offer>
   <offer id="319595096" available="true">
     <url>https://proekt24.com/p319595096-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>369</price>
+    <price>405</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20284,7 +20284,7 @@
   </offer>
   <offer id="319598154" available="true">
     <url>https://proekt24.com/p319598154-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>440</price>
+    <price>482</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20314,7 +20314,7 @@
   </offer>
   <offer id="319600368" available="true">
     <url>https://proekt24.com/p319600368-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>141</price>
+    <price>156</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20344,7 +20344,7 @@
   </offer>
   <offer id="319604831" available="true">
     <url>https://proekt24.com/p319604831-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>200</price>
+    <price>220</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20374,7 +20374,7 @@
   </offer>
   <offer id="319610129" available="true">
     <url>https://proekt24.com/p319610129-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>256</price>
+    <price>280</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20404,7 +20404,7 @@
   </offer>
   <offer id="319612822" available="true">
     <url>https://proekt24.com/p319612822-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>325</price>
+    <price>356</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20434,7 +20434,7 @@
   </offer>
   <offer id="319614391" available="true">
     <url>https://proekt24.com/p319614391-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>393</price>
+    <price>432</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20464,7 +20464,7 @@
   </offer>
   <offer id="319614714" available="true">
     <url>https://proekt24.com/p319614714-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>464</price>
+    <price>509</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20494,7 +20494,7 @@
   </offer>
   <offer id="319615402" available="true">
     <url>https://proekt24.com/p319615402-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>174</price>
+    <price>192</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20524,7 +20524,7 @@
   </offer>
   <offer id="319622820" available="true">
     <url>https://proekt24.com/p319622820-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>221</price>
+    <price>243</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20554,7 +20554,7 @@
   </offer>
   <offer id="319627739" available="true">
     <url>https://proekt24.com/p319627739-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>268</price>
+    <price>294</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20584,7 +20584,7 @@
   </offer>
   <offer id="319634988" available="true">
     <url>https://proekt24.com/p319634988-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>366</price>
+    <price>402</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20614,7 +20614,7 @@
   </offer>
   <offer id="319638180" available="true">
     <url>https://proekt24.com/p319638180-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>425</price>
+    <price>467</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20644,7 +20644,7 @@
   </offer>
   <offer id="319642860" available="true">
     <url>https://proekt24.com/p319642860-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>524</price>
+    <price>576</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20674,7 +20674,7 @@
   </offer>
   <offer id="319645703" available="true">
     <url>https://proekt24.com/p319645703-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>180</price>
+    <price>198</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20704,7 +20704,7 @@
   </offer>
   <offer id="319647208" available="true">
     <url>https://proekt24.com/p319647208-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>222</price>
+    <price>244</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20734,7 +20734,7 @@
   </offer>
   <offer id="319647328" available="true">
     <url>https://proekt24.com/p319647328-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>292</price>
+    <price>321</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20764,7 +20764,7 @@
   </offer>
   <offer id="319648341" available="true">
     <url>https://proekt24.com/p319648341-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>367</price>
+    <price>403</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20794,7 +20794,7 @@
   </offer>
   <offer id="319649336" available="true">
     <url>https://proekt24.com/p319649336-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>460</price>
+    <price>506</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20824,7 +20824,7 @@
   </offer>
   <offer id="319649565" available="true">
     <url>https://proekt24.com/p319649565-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>561</price>
+    <price>616</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20854,7 +20854,7 @@
   </offer>
   <offer id="319650165" available="true">
     <url>https://proekt24.com/p319650165-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>203</price>
+    <price>223</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20884,7 +20884,7 @@
   </offer>
   <offer id="319650312" available="true">
     <url>https://proekt24.com/p319650312-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>258</price>
+    <price>283</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20914,7 +20914,7 @@
   </offer>
   <offer id="319650487" available="true">
     <url>https://proekt24.com/p319650487-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>345</price>
+    <price>379</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20944,7 +20944,7 @@
   </offer>
   <offer id="319653416" available="true">
     <url>https://proekt24.com/p319653416-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>425</price>
+    <price>466</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -20974,7 +20974,7 @@
   </offer>
   <offer id="319655849" available="true">
     <url>https://proekt24.com/p319655849-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>466</price>
+    <price>512</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21004,7 +21004,7 @@
   </offer>
   <offer id="319659575" available="true">
     <url>https://proekt24.com/p319659575-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>566</price>
+    <price>622</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21034,7 +21034,7 @@
   </offer>
   <offer id="319663053" available="true">
     <url>https://proekt24.com/p319663053-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>218</price>
+    <price>240</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21064,7 +21064,7 @@
   </offer>
   <offer id="319665245" available="true">
     <url>https://proekt24.com/p319665245-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>310</price>
+    <price>339</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21094,7 +21094,7 @@
   </offer>
   <offer id="319668732" available="true">
     <url>https://proekt24.com/p319668732-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>370</price>
+    <price>407</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21124,7 +21124,7 @@
   </offer>
   <offer id="319672953" available="true">
     <url>https://proekt24.com/p319672953-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>440</price>
+    <price>462</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21154,7 +21154,7 @@
   </offer>
   <offer id="319676372" available="true">
     <url>https://proekt24.com/p319676372-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>512</price>
+    <price>546</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21184,7 +21184,7 @@
   </offer>
   <offer id="319681651" available="true">
     <url>https://proekt24.com/p319681651-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>665</price>
+    <price>730</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21214,7 +21214,7 @@
   </offer>
 <offer id="319686576" available="true">
     <url>https://proekt24.com/p319686576-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>346</price>
+    <price>380</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21244,7 +21244,7 @@
   </offer>
   <offer id="319688154" available="true">
     <url>https://proekt24.com/p319688154-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>398</price>
+    <price>436</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21274,7 +21274,7 @@
   </offer>
   <offer id="319719118" available="true">
     <url>https://proekt24.com/p319719118-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>267</price>
+    <price>292</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21304,7 +21304,7 @@
   </offer>
   <offer id="319728145" available="true">
     <url>https://proekt24.com/p319728145-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>342</price>
+    <price>376</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21334,7 +21334,7 @@
   </offer>
   <offer id="319734923" available="true">
     <url>https://proekt24.com/p319734923-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>411</price>
+    <price>445</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21364,7 +21364,7 @@
   </offer>
   <offer id="319741388" available="true">
     <url>https://proekt24.com/p319741388-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>517</price>
+    <price>567</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21394,7 +21394,7 @@
   </offer>
   <offer id="319749598" available="true">
     <url>https://proekt24.com/p319749598-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>624</price>
+    <price>685</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21424,7 +21424,7 @@
   </offer>
   <offer id="319768903" available="true">
     <url>https://proekt24.com/p319768903-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>671</price>
+    <price>737</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21454,7 +21454,7 @@
   </offer>
   <offer id="320167591" available="true">
     <url>https://proekt24.com/p320167591-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>298</price>
+    <price>326</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21484,7 +21484,7 @@
   </offer>
   <offer id="320169886" available="true">
     <url>https://proekt24.com/p320169886-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>339</price>
+    <price>374</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21514,7 +21514,7 @@
   </offer>
   <offer id="320169963" available="true">
     <url>https://proekt24.com/p320169963-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>422</price>
+    <price>463</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21544,7 +21544,7 @@
   </offer>
   <offer id="320173380" available="true">
     <url>https://proekt24.com/p320173380-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>530</price>
+    <price>581</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21574,7 +21574,7 @@
   </offer>
   <offer id="320176211" available="true">
     <url>https://proekt24.com/p320176211-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>640</price>
+    <price>702</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21604,7 +21604,7 @@
   </offer>
   <offer id="320180399" available="true">
     <url>https://proekt24.com/p320180399-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>735</price>
+    <price>807</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21634,7 +21634,7 @@
   </offer>
   <offer id="320181519" available="true">
     <url>https://proekt24.com/p320181519-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>326</price>
+    <price>358</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21664,7 +21664,7 @@
   </offer>
   <offer id="320186241" available="true">
     <url>https://proekt24.com/p320186241-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>364</price>
+    <price>408</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21694,7 +21694,7 @@
   </offer>
   <offer id="320186529" available="true">
     <url>https://proekt24.com/p320186529-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>481</price>
+    <price>529</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21724,7 +21724,7 @@
   </offer>
   <offer id="320187473" available="true">
     <url>https://proekt24.com/p320187473-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>561</price>
+    <price>616</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21754,7 +21754,7 @@
   </offer>
   <offer id="320193571" available="true">
     <url>https://proekt24.com/p320193571-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>658</price>
+    <price>723</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21784,7 +21784,7 @@
   </offer>
   <offer id="320193916" available="true">
     <url>https://proekt24.com/p320193916-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>727</price>
+    <price>797</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21814,7 +21814,7 @@
   </offer>
   <offer id="320194969" available="true">
     <url>https://proekt24.com/p320194969-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>506</price>
+    <price>547</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21844,7 +21844,7 @@
   </offer>
   <offer id="320195271" available="true">
     <url>https://proekt24.com/p320195271-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>563</price>
+    <price>618</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21874,7 +21874,7 @@
   </offer>
   <offer id="320195409" available="true">
     <url>https://proekt24.com/p320195409-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>678</price>
+    <price>745</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21904,7 +21904,7 @@
   </offer>
   <offer id="320195560" available="true">
     <url>https://proekt24.com/p320195560-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>787</price>
+    <price>864</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21964,7 +21964,7 @@
   </offer>
   <offer id="320195939" available="true">
     <url>https://proekt24.com/p320195939-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>491</price>
+    <price>550</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -21994,7 +21994,7 @@
   </offer>
   <offer id="320196060" available="true">
     <url>https://proekt24.com/p320196060-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>490</price>
+    <price>561</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22024,7 +22024,7 @@
   </offer>
   <offer id="320196326" available="true">
     <url>https://proekt24.com/p320196326-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>634</price>
+    <price>697</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22054,7 +22054,7 @@
   </offer>
   <offer id="320196579" available="true">
     <url>https://proekt24.com/p320196579-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>729</price>
+    <price>799</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22084,7 +22084,7 @@
   </offer>
   <offer id="320196838" available="true">
     <url>https://proekt24.com/p320196838-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>790</price>
+    <price>867</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22144,7 +22144,7 @@
   </offer>
   <offer id="320200729" available="true">
     <url>https://proekt24.com/p320200729-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>576</price>
+    <price>584</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22174,7 +22174,7 @@
   </offer>
   <offer id="320201238" available="true">
     <url>https://proekt24.com/p320201238-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>688</price>
+    <price>755</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22204,7 +22204,7 @@
   </offer>
   <offer id="320210281" available="true">
     <url>https://proekt24.com/p320210281-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>742</price>
+    <price>815</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22234,7 +22234,7 @@
   </offer>
   <offer id="320210843" available="true">
     <url>https://proekt24.com/p320210843-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>871</price>
+    <price>955</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22264,7 +22264,7 @@
   </offer>
   <offer id="320210989" available="true">
     <url>https://proekt24.com/p320210989-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>1060</price>
+    <price>1163</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22324,7 +22324,7 @@
   </offer>
   <offer id="320211257" available="true">
     <url>https://proekt24.com/p320211257-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>624</price>
+    <price>700</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22354,7 +22354,7 @@
   </offer>
   <offer id="320211427" available="true">
     <url>https://proekt24.com/p320211427-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>875</price>
+    <price>921</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22384,7 +22384,7 @@
   </offer>
   <offer id="320211498" available="true">
     <url>https://proekt24.com/p320211498-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>883</price>
+    <price>969</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22414,7 +22414,7 @@
   </offer>
   <offer id="320212216" available="true">
     <url>https://proekt24.com/p320212216-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>1072</price>
+    <price>1177</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22444,7 +22444,7 @@
   </offer>
   <offer id="320212717" available="true">
     <url>https://proekt24.com/p320212717-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>1266</price>
+    <price>1390</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22504,7 +22504,7 @@
   </offer>
   <offer id="320214182" available="true">
     <url>https://proekt24.com/p320214182-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>708</price>
+    <price>794</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22534,7 +22534,7 @@
   </offer>
   <offer id="320215509" available="true">
     <url>https://proekt24.com/p320215509-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>897</price>
+    <price>985</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22564,7 +22564,7 @@
   </offer>
   <offer id="320215687" available="true">
     <url>https://proekt24.com/p320215687-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>1019</price>
+    <price>1118</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22594,7 +22594,7 @@
   </offer>
   <offer id="320215938" available="true">
     <url>https://proekt24.com/p320215938-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>1280</price>
+    <price>1405</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22624,7 +22624,7 @@
   </offer>
   <offer id="320216619" available="true">
     <url>https://proekt24.com/p320216619-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>1232</price>
+    <price>1353</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -22667,7 +22667,7 @@
     <vendorCode>889039</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>205</quantity_in_stock>
+    <quantity_in_stock>194</quantity_in_stock>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Потолок автомобиля</param>
     <param name="Состояние">Новое</param>
@@ -22678,7 +22678,7 @@
   </offer>
   <offer id="321077507" available="true">
     <url>https://proekt24.com/p321077507-bazaltovaya-skorlupa-32550.html</url>
-    <price>739</price>
+    <price>810</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-32550.jpg</picture>
@@ -22706,7 +22706,7 @@
   </offer>
   <offer id="321077635" available="true">
     <url>https://proekt24.com/p321077635-bazaltovaya-skorlupa-32560.html</url>
-    <price>853</price>
+    <price>937</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-32560.jpg</picture>
@@ -22734,7 +22734,7 @@
   </offer>
   <offer id="321077720" available="true">
     <url>https://proekt24.com/p321077720-bazaltovaya-skorlupa-32580.html</url>
-    <price>1051</price>
+    <price>1155</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-32580.jpg</picture>
@@ -22762,7 +22762,7 @@
   </offer>
   <offer id="321083792" available="true">
     <url>https://proekt24.com/p321083792-bazaltovaya-skorlupa-27370.html</url>
-    <price>921</price>
+    <price>1012</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-27370.jpg</picture>
@@ -22790,7 +22790,7 @@
   </offer>
   <offer id="321083903" available="true">
     <url>https://proekt24.com/p321083903-bazaltovaya-skorlupa-27380.html</url>
-    <price>1108</price>
+    <price>1216</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-27380.jpg</picture>
@@ -23038,7 +23038,7 @@
     <vendorCode>3211010</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <param name="Длина, п.м." unit="">1000</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
@@ -23514,7 +23514,7 @@
     <vendorCode>900104</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>410</quantity_in_stock>
+    <quantity_in_stock>406</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Длина" unit="м">50</param>
     <param name="Покрытие">Ламинированное</param>
@@ -32933,7 +32933,7 @@
   </offer>
   <offer id="581153204" available="true">
     <url>https://proekt24.com/p581153204-bazaltovaya-skorlupa-7030.html</url>
-    <price>133</price>
+    <price>145</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-7030.jpg</picture>
@@ -32961,7 +32961,7 @@
   </offer>
   <offer id="581164802" available="true">
     <url>https://proekt24.com/p581164802-bazaltovaya-skorlupa-7040.html</url>
-    <price>170</price>
+    <price>187</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-7040.jpg</picture>
@@ -32989,7 +32989,7 @@
   </offer>
   <offer id="581191535" available="true">
     <url>https://proekt24.com/p581191535-bazaltovaya-skorlupa-7050.html</url>
-    <price>257</price>
+    <price>282</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-7050.jpg</picture>
@@ -33017,7 +33017,7 @@
   </offer>
   <offer id="581209242" available="true">
     <url>https://proekt24.com/p581209242-bazaltovaya-skorlupa-7060.html</url>
-    <price>347</price>
+    <price>381</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-7060.jpg</picture>
@@ -33045,7 +33045,7 @@
   </offer>
   <offer id="581246485" available="true">
     <url>https://proekt24.com/p581246485-bazaltovaya-skorlupa-7070.html</url>
-    <price>381</price>
+    <price>419</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545693</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-7070.jpg</picture>
@@ -33073,7 +33073,7 @@
   </offer>
   <offer id="581606260" available="true">
     <url>https://proekt24.com/p581606260-bazaltovaya-skorlupa-7080.html</url>
-    <price>475</price>
+    <price>521</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545701</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-7080.jpg</picture>
@@ -33101,7 +33101,7 @@
   </offer>
   <offer id="581615232" available="true">
     <url>https://proekt24.com/p581615232-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>187</price>
+    <price>205</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -33131,7 +33131,7 @@
   </offer>
   <offer id="581629384" available="true">
     <url>https://proekt24.com/p581629384-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>232</price>
+    <price>255</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -33161,7 +33161,7 @@
   </offer>
   <offer id="581644637" available="true">
     <url>https://proekt24.com/p581644637-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>325</price>
+    <price>357</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -33191,7 +33191,7 @@
   </offer>
   <offer id="581651993" available="true">
     <url>https://proekt24.com/p581651993-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>423</price>
+    <price>464</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -33221,7 +33221,7 @@
   </offer>
   <offer id="581701681" available="true">
     <url>https://proekt24.com/p581701681-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>464</price>
+    <price>509</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547113</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -33251,7 +33251,7 @@
   </offer>
   <offer id="581710479" available="true">
     <url>https://proekt24.com/p581710479-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>564</price>
+    <price>620</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547240</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -36036,7 +36036,7 @@
     <vendorCode>1013-01</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вес" unit="кг">5</param>
     <param name="Высота" unit="см">45</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -47798,7 +47798,7 @@
   </offer>
   <offer id="1532657234" available="true">
     <url>https://proekt24.com/p1532657234-bazaltovaya-skorlupa-12550.html</url>
-    <price>356</price>
+    <price>390</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-12550.jpg</picture>
@@ -47826,7 +47826,7 @@
   </offer>
   <offer id="1536260484" available="true">
     <url>https://proekt24.com/p1536260484-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>416</price>
+    <price>457</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -61157,7 +61157,7 @@
   </offer>
   <offer id="1661712003" available="true">
     <url>https://proekt24.com/p1661712003-bazaltovaya-skorlupa-11030.html</url>
-    <price>225</price>
+    <price>247</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-11030.jpg</picture>
@@ -61185,7 +61185,7 @@
   </offer>
   <offer id="1661712004" available="true">
     <url>https://proekt24.com/p1661712004-bazaltovaya-skorlupa-12030.html</url>
-    <price>236</price>
+    <price>259</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-12030.jpg</picture>
@@ -61213,7 +61213,7 @@
   </offer>
   <offer id="1661718743" available="true">
     <url>https://proekt24.com/p1661718743-bazaltovaya-skorlupa-10030.html</url>
-    <price>194</price>
+    <price>213</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545655</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-10030.jpg</picture>
@@ -61301,7 +61301,7 @@
   </offer>
   <offer id="1661741474" available="true">
     <url>https://proekt24.com/p1661741474-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>259</price>
+    <price>286</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -61331,7 +61331,7 @@
   </offer>
   <offer id="1661741475" available="true">
     <url>https://proekt24.com/p1661741475-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>299</price>
+    <price>327</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -61361,7 +61361,7 @@
   </offer>
   <offer id="1661741476" available="true">
     <url>https://proekt24.com/p1661741476-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>308</price>
+    <price>337</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547048</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -61391,7 +61391,7 @@
   </offer>
   <offer id="1661769935" available="true">
     <url>https://proekt24.com/p1661769935-bazaltovaya-skorlupa-10040.html</url>
-    <price>275</price>
+    <price>301</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-10040.jpg</picture>
@@ -61419,7 +61419,7 @@
   </offer>
   <offer id="1661769936" available="true">
     <url>https://proekt24.com/p1661769936-bazaltovaya-skorlupa-11040.html</url>
-    <price>260</price>
+    <price>287</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-11040.jpg</picture>
@@ -61447,7 +61447,7 @@
   </offer>
   <offer id="1661769937" available="true">
     <url>https://proekt24.com/p1661769937-bazaltovaya-skorlupa-12040.html</url>
-    <price>282</price>
+    <price>312</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-12040.jpg</picture>
@@ -61475,7 +61475,7 @@
   </offer>
   <offer id="1661769938" available="true">
     <url>https://proekt24.com/p1661769938-bazaltovaya-skorlupa-15040.html</url>
-    <price>400</price>
+    <price>442</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545677</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-15040.jpg</picture>
@@ -61503,7 +61503,7 @@
   </offer>
   <offer id="1661813314" available="true">
     <url>https://proekt24.com/p1661813314-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>488</price>
+    <price>539</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -61533,7 +61533,7 @@
   </offer>
   <offer id="1661813315" available="true">
     <url>https://proekt24.com/p1661813315-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>339</price>
+    <price>372</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -61563,7 +61563,7 @@
   </offer>
   <offer id="1661813316" available="true">
     <url>https://proekt24.com/p1661813316-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>359</price>
+    <price>398</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547055</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -61593,7 +61593,7 @@
   </offer>
   <offer id="1661838462" available="true">
     <url>https://proekt24.com/p1661838462-bazaltovaya-skorlupa-10050.html</url>
-    <price>319</price>
+    <price>350</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-10050.jpg</picture>
@@ -61621,7 +61621,7 @@
   </offer>
   <offer id="1661838463" available="true">
     <url>https://proekt24.com/p1661838463-bazaltovaya-skorlupa-11050.html</url>
-    <price>332</price>
+    <price>364</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-11050.jpg</picture>
@@ -61649,7 +61649,7 @@
   </offer>
   <offer id="1661838464" available="true">
     <url>https://proekt24.com/p1661838464-bazaltovaya-skorlupa-15050.html</url>
-    <price>392</price>
+    <price>443</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504629459_bazaltovaya-skorlupa-15050.jpg</picture>
@@ -61677,7 +61677,7 @@
   </offer>
   <offer id="1661849930" available="true">
     <url>https://proekt24.com/p1661849930-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>442</price>
+    <price>486</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -61707,7 +61707,7 @@
   </offer>
   <offer id="1661849931" available="true">
     <url>https://proekt24.com/p1661849931-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>487</price>
+    <price>550</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -61737,7 +61737,7 @@
   </offer>
   <offer id="1661864526" available="true">
     <url>https://proekt24.com/p1661864526-bazaltovaya-skorlupa-27360.html</url>
-    <price>739</price>
+    <price>810</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-27360.jpg</picture>
@@ -61765,7 +61765,7 @@
   </offer>
   <offer id="1661864527" available="true">
     <url>https://proekt24.com/p1661864527-bazaltovaya-skorlupa-15060.html</url>
-    <price>495</price>
+    <price>543</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545685</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-15060.jpg</picture>
@@ -61793,7 +61793,7 @@
   </offer>
   <offer id="1661874702" available="true">
     <url>https://proekt24.com/p1661874702-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>597</price>
+    <price>655</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547106</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -67633,7 +67633,7 @@
     <vendorCode>20115</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>581</quantity_in_stock>
+    <quantity_in_stock>579</quantity_in_stock>
     <param name="Армированный скотч">Нет</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">25</param>
@@ -68017,7 +68017,7 @@
     <vendorCode>Н11006005ФТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Цвет">Фиолетовый</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Тип">Коврик/мат</param>
@@ -68156,7 +68156,7 @@
     <vendorCode>87147</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock>26</quantity_in_stock>
     <param name="Возрастная группа">Детская</param>
     <param name="Материал">Термопластик</param>
     <param name="Особенности">Чехол</param>
@@ -68375,7 +68375,7 @@
     <vendorCode>30135</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>42</quantity_in_stock>
     <param name="Вес" unit="кг">0.62</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -71626,7 +71626,7 @@
     <vendorCode>30012</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Вес" unit="кг">0.72</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -77413,7 +77413,7 @@
     <name>Поролон для спортивних матов 2000х1000х100 мм</name>
     <vendorCode>888999</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>192</quantity_in_stock>
+    <quantity_in_stock>188</quantity_in_stock>
     <param name="Толщина" unit="мм">100</param>
     <param name="Плотность, кг\м3" unit="кг\м3">50</param>
   </offer>
@@ -79688,7 +79688,7 @@
   </offer>
   <offer id="1956386375" available="true">
     <url>https://proekt24.com/p1956386375-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>325</price>
+    <price>321</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -79718,7 +79718,7 @@
   </offer>
   <offer id="1956386377" available="true">
     <url>https://proekt24.com/p1956386377-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>948</price>
+    <price>1040</price>
     <currencyId>UAH</currencyId>
     <categoryId>121445171</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -79748,7 +79748,7 @@
   </offer>
   <offer id="1956386378" available="true">
     <url>https://proekt24.com/p1956386378-bazaltovaya-skorlupa-22250.html</url>
-    <price>507</price>
+    <price>625</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-22250.jpg</picture>
@@ -79803,7 +79803,7 @@
   </offer>
   <offer id="1956389395" available="true">
     <url>https://proekt24.com/p1956389395-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>207</price>
+    <price>250</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -79860,7 +79860,7 @@
   </offer>
   <offer id="1956389397" available="true">
     <url>https://proekt24.com/p1956389397-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>790</price>
+    <price>867</price>
     <currencyId>UAH</currencyId>
     <categoryId>121445171</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -79917,7 +79917,7 @@
   </offer>
   <offer id="1956392830" available="true">
     <url>https://proekt24.com/p1956392830-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>929</price>
+    <price>1019</price>
     <currencyId>UAH</currencyId>
     <categoryId>121445171</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -79947,7 +79947,7 @@
   </offer>
   <offer id="1956392831" available="true">
     <url>https://proekt24.com/p1956392831-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>1379</price>
+    <price>1513</price>
     <currencyId>UAH</currencyId>
     <categoryId>121445171</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -79977,7 +79977,7 @@
   </offer>
   <offer id="1956392832" available="true">
     <url>https://proekt24.com/p1956392832-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>1183</price>
+    <price>1300</price>
     <currencyId>UAH</currencyId>
     <categoryId>121445171</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -80007,7 +80007,7 @@
   </offer>
   <offer id="1956392834" available="true">
     <url>https://proekt24.com/p1956392834-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>627</price>
+    <price>755</price>
     <currencyId>UAH</currencyId>
     <categoryId>23547059</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -84162,7 +84162,7 @@
   </offer>
   <offer id="2008536527" available="true">
     <url>https://proekt24.com/p2008536527-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>1826</price>
+    <price>2004</price>
     <currencyId>UAH</currencyId>
     <categoryId>121445171</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -88568,7 +88568,7 @@
     <param name="Тип">Закрытый</param>
     <param name="Цвет">Черный</param>
   </offer>
-  <offer id="2078088302" available="true">
+  <offer id="2078088302" available="false">
     <url>https://proekt24.com/p2078088302-bitumnaya-lenta-500.html</url>
     <price>1435</price>
     <currencyId>UAH</currencyId>
@@ -88589,7 +88589,7 @@
     <vendorCode>56789</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вес упаковки" unit="кг">8.5</param>
     <param name="Длина" unit="м">10</param>
     <param name="Длина упаковки" unit="мм">50</param>
@@ -112835,7 +112835,7 @@
     <vendorCode>81117</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Толщина" unit="мм">12</param>
     <param name="Ширина листа" unit="см">72</param>
@@ -113464,7 +113464,7 @@
     <param name="Экологичный материал" unit="">Да</param>
     <param name="Эластичность материала" unit="">Да</param>
   </offer>
-  <offer id="2284091161" available="false">
+  <offer id="2284091161" available="true">
     <url>https://proekt24.com/p2284091161-armirovannaya-klejkaya-lenta.html</url>
     <price>200</price>
     <currencyId>UAH</currencyId>
@@ -113477,7 +113477,7 @@
     <vendorCode>889510</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Цвет">Оранжевый</param>
     <param name="Длина клеящей ленты" unit="м">50</param>
     <param name="Клейкие стороны ленты" unit="">Односторонняя</param>
@@ -113547,7 +113547,7 @@
   </offer>
   <offer id="2288591638" available="true">
     <url>https://proekt24.com/p2288591638-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>635</price>
+    <price>698</price>
     <currencyId>UAH</currencyId>
     <categoryId>121445171</categoryId>
     <picture>https://images.prom.ua/6119697436_bazaltovaya-skorlupa-s.jpg</picture>
@@ -117293,7 +117293,7 @@
     <vendorCode>Н11006005СТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <param name="Длина" unit="см">110</param>
     <param name="Цвет">Синий</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -119723,7 +119723,7 @@
     <vendorCode>32120</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>537</quantity_in_stock>
+    <quantity_in_stock>544</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
@@ -123139,7 +123139,7 @@
     <vendorCode>889609</vendorCode>
     <country_of_origin>Голландия</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>79</quantity_in_stock>
+    <quantity_in_stock>78</quantity_in_stock>
     <param name="Вес" unit="г">505</param>
     <param name="Консистенция">Аэрозоль</param>
     <param name="Объем" unit="мл">500</param>
@@ -123216,7 +123216,7 @@
   </offer>
   <offer id="2626579536" available="true">
     <url>https://proekt24.com/p2626579536-bazaltovaya-skorlupa-6450.html</url>
-    <price>257</price>
+    <price>249</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-6450.jpg</picture>
@@ -123244,7 +123244,7 @@
   </offer>
   <offer id="2626579537" available="false">
     <url>https://proekt24.com/p2626579537-bazaltovaya-skorlupa-3450.html</url>
-    <price>151</price>
+    <price>187</price>
     <currencyId>UAH</currencyId>
     <categoryId>23545681</categoryId>
     <picture>https://images.prom.ua/3504145496_bazaltovaya-skorlupa-3450.jpg</picture>
@@ -124593,7 +124593,7 @@
   </offer>
   <offer id="2727505546" available="true">
     <url>https://proekt24.com/p2727505546-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>861</price>
+    <price>944</price>
     <currencyId>UAH</currencyId>
     <categoryId>121445171</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -124623,7 +124623,7 @@
   </offer>
   <offer id="2727505547" available="true">
     <url>https://proekt24.com/p2727505547-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>1181</price>
+    <price>1296</price>
     <currencyId>UAH</currencyId>
     <categoryId>121445171</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -124653,7 +124653,7 @@
   </offer>
   <offer id="2727505548" available="true">
     <url>https://proekt24.com/p2727505548-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>1046</price>
+    <price>1147</price>
     <currencyId>UAH</currencyId>
     <categoryId>121445171</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -124683,7 +124683,7 @@
   </offer>
   <offer id="2727505549" available="true">
     <url>https://proekt24.com/p2727505549-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>1754</price>
+    <price>1926</price>
     <currencyId>UAH</currencyId>
     <categoryId>121445171</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -124713,7 +124713,7 @@
   </offer>
   <offer id="2727505550" available="true">
     <url>https://proekt24.com/p2727505550-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>935</price>
+    <price>1026</price>
     <currencyId>UAH</currencyId>
     <categoryId>121445171</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -124743,7 +124743,7 @@
   </offer>
   <offer id="2727505551" available="true">
     <url>https://proekt24.com/p2727505551-bazaltovaya-skorlupa-folgoj.html</url>
-    <price>730</price>
+    <price>800</price>
     <currencyId>UAH</currencyId>
     <categoryId>121445171</categoryId>
     <picture>https://images.prom.ua/3504834580_bazaltovaya-skorlupa-s.jpg</picture>
@@ -125604,7 +125604,7 @@
     <vendorCode>889679</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>852</quantity_in_stock>
+    <quantity_in_stock>850</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">2</param>
