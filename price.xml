@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-15 17:05">
+<yml_catalog date="2025-12-16 10:05">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="44.30328" />
+      <currency id="USD" rate="44.357355" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="51.94119" />
+      <currency id="EUR" rate="52.137645" />
     </currencies>
     <categories>
       <category id="149555480" parentId="138166206">Торговые стенды и аксессуары</category>
@@ -492,7 +492,7 @@
     <vendorCode>2002-02К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>35</quantity_in_stock>
+    <quantity_in_stock>34</quantity_in_stock>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">L</param>
     <param name="Тип">Защита голени/стопы</param>
@@ -1161,7 +1161,7 @@
     <vendorCode>Т18006008КЗ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>39</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Количество слоев">Двухслойные</param>
     <param name="Тип коврика">Каремат</param>
@@ -1414,7 +1414,7 @@
     <vendorCode>1002-01</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Вес" unit="кг">30</param>
     <param name="Высота" unit="см">140</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -2116,7 +2116,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>801</quantity_in_stock>
+    <quantity_in_stock>799</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -4144,7 +4144,7 @@
     <vendorCode>500093</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1138</quantity_in_stock>
+    <quantity_in_stock>782</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Вид натурального каучука" unit="">Синтетический каучук</param>
@@ -24319,7 +24319,7 @@
     <vendorCode>901103</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>257</quantity_in_stock>
+    <quantity_in_stock>255</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -47518,7 +47518,7 @@
     <vendorCode>АЭ15006008Ф</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <param name="Длина" unit="см">150</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Тип">Коврик/мат</param>
@@ -48404,7 +48404,7 @@
     <vendorCode>2002-02С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">L</param>
     <param name="Тип">Защита голени/стопы</param>
@@ -50722,7 +50722,7 @@
     <vendorCode>369854</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <param name="Длина" unit="см">300</param>
     <param name="Количество">2</param>
     <param name="Материал">Хлопок</param>
@@ -54141,7 +54141,7 @@
     <param name="Цвет">Оранжевый</param>
     <param name="Ширина" unit="мм">1450</param>
   </offer>
-  <offer id="1644402635" available="true">
+  <offer id="1644402635" available="false">
     <url>https://proekt24.com/p1644402635-list-eva-eva.html</url>
     <price>757</price>
     <currencyId>UAH</currencyId>
@@ -54154,7 +54154,7 @@
     <vendorCode>832601</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид полимера">Неорганический</param>
     <param name="Высота" unit="мм">3</param>
     <param name="Длина" unit="мм">2500</param>
@@ -58720,7 +58720,7 @@
     <vendorCode>ППУ76/40ФП</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>45</quantity_in_stock>
+    <quantity_in_stock>35</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">76</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -58753,7 +58753,7 @@
     <vendorCode>ППУ89/40ФП</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">89</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -58786,7 +58786,7 @@
     <vendorCode>ППУ108/40ФП</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>156</quantity_in_stock>
+    <quantity_in_stock>136</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">108</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -65913,7 +65913,7 @@
     <vendorCode>18006008СЕТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>31</quantity_in_stock>
+    <quantity_in_stock>41</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -69181,7 +69181,7 @@
     <vendorCode>EF-2017-Ф</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Материал">EVA пена</param>
     <param name="Состояние">Новое</param>
     <param name="Тип">Ролик для йоги</param>
@@ -73644,7 +73644,7 @@
     <vendorCode>18006008СЕ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>56</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -74521,7 +74521,7 @@
     <vendorCode>EF-1820-E</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Длина" unit="см">76</param>
     <param name="Конструкция">Ленточная</param>
     <param name="Сопротивление" unit="кг">16</param>
@@ -75104,7 +75104,7 @@
     <vendorCode>889012</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>905</quantity_in_stock>
+    <quantity_in_stock>880</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -75588,7 +75588,7 @@
     <param name="Тип">Закрытый</param>
     <param name="Цвет">Черный</param>
   </offer>
-  <offer id="1878319428" available="false">
+  <offer id="1878319428" available="true">
     <url>https://proekt24.com/p1878319428-bokserskie-perchatki-boxer.html</url>
     <price>797</price>
     <currencyId>UAH</currencyId>
@@ -75604,7 +75604,7 @@
     <vendorCode>2022-03Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вес" unit="oz">12</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
@@ -83626,7 +83626,7 @@
     <vendorCode>889233</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -84211,7 +84211,7 @@
     <vendorCode>889251</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вес" unit="oz">10</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Цвет">Синий</param>
@@ -90800,7 +90800,7 @@
     <vendorCode>889463</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -120220,7 +120220,7 @@
     <vendorCode>2011-N3Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Длина" unit="см">24</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Лапа</param>
@@ -125404,7 +125404,7 @@
     <vendorCode>889668</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вес" unit="кг">0.75</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Цвет">Бежевый</param>
@@ -125555,7 +125555,7 @@
     <vendorCode>889670</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Вес" unit="кг">0.75</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Цвет">Черный</param>
