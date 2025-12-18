@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-17 17:05">
+<yml_catalog date="2025-12-18 10:05">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="44.29404" />
+      <currency id="USD" rate="44.45532" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="52.15182" />
+      <currency id="EUR" rate="52.110555" />
     </currencies>
     <categories>
       <category id="149555480" parentId="138166206">Торговые стенды и аксессуары</category>
@@ -1335,7 +1335,7 @@
     <vendorCode>1002-04</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вес" unit="кг">16</param>
     <param name="Высота" unit="см">80</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -17546,7 +17546,7 @@
     <vendorCode>20105</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Ширина" unit="мм">75</param>
     <param name="Длина" unit="м">50</param>
     <param name="Армированный скотч">Да</param>
@@ -18432,7 +18432,7 @@
     <vendorCode>37515</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>286</quantity_in_stock>
+    <quantity_in_stock>276</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -31801,7 +31801,7 @@
     <vendorCode>2024-03Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>45</quantity_in_stock>
     <param name="Вес" unit="oz">8</param>
     <param name="Возрастная группа">Детская</param>
     <param name="Материал">Искусственная кожа</param>
@@ -34536,7 +34536,7 @@
     <vendorCode>1003-03К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вес" unit="кг">22</param>
     <param name="Высота" unit="см">100</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -48516,7 +48516,7 @@
     <vendorCode>EF-1633-4</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Тип">Турник</param>
     <param name="Материал">Металл</param>
@@ -50451,7 +50451,7 @@
     <vendorCode>2028-02Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вид шлема">Бокс</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -76544,7 +76544,7 @@
     <vendorCode>57091</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>32</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
   </offer>
   <offer id="1909921609" available="true">
@@ -127723,6 +127723,19 @@
     <vendorCode>00002482</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+  </offer>
+  <offer id="2859991335" available="true">
+    <url>https://proekt24.com/p2859991335-vspenennyj-kauchuk-utsenka.html</url>
+    <price>104</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>149555465</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Вспененный каучук 6 мм УЦЕНКА</name>
+    <vendor>PA-FLEX</vendor>
+    <vendorCode>00002320</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>1405</quantity_in_stock>
   </offer>
 
 
