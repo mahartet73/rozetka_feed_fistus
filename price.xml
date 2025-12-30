@@ -1,18 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-29 17:05">
+<yml_catalog date="2025-12-30 10:05">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="44.166885" />
+      <currency id="USD" rate="44.328795" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="52.03296" />
+      <currency id="EUR" rate="52.135125" />
     </currencies>
     <categories>
-      <category id="148858419" parentId="141469736">Снято с производства</category>
       <category id="149555480" parentId="138166206">Торговые стенды и аксессуары</category>
       <category id="149555479" parentId="138619410">Оборудование и товары для предоставления услуг</category>
       <category id="149555478" parentId="138166205">Перкуссия</category>
@@ -724,7 +723,7 @@
     <vendorCode>2024-01К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Вес" unit="oz">12</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
@@ -3913,7 +3912,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2859</quantity_in_stock>
+    <quantity_in_stock>2852</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -4178,7 +4177,7 @@
     <vendorCode>500133</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>593</quantity_in_stock>
+    <quantity_in_stock>591</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -6187,7 +6186,7 @@
     <vendorCode>ВП65/20</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>200</quantity_in_stock>
+    <quantity_in_stock>120</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">65</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
@@ -15083,28 +15082,6 @@
     <param name="Тип">Боевые</param>
     <param name="Цвет">Синий</param>
   </offer>
-  <offer id="201442681" available="false">
-    <url>https://proekt24.com/p201442681-detskie-bokserskie-perchatki.html</url>
-    <price>410</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>148858419</categoryId>
-    <picture>https://images.prom.ua/2968345680_detskie-bokserskie-perchatki.jpg</picture>
-    <picture>https://images.prom.ua/2968345585_detskie-bokserskie-perchatki.jpg</picture>
-    <picture>https://images.prom.ua/2968345690_detskie-bokserskie-perchatki.jpg</picture>
-    <picture>https://images.prom.ua/4490065873_detskie-bokserskie-perchatki.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Детские боксерские перчатки BOXER 8 оz комбинированные</name>
-    <vendor>Boxer</vendor>
-    <vendorCode>2025-03ЧД</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вес" unit="oz">8</param>
-    <param name="Возрастная группа">Детская</param>
-    <param name="Материал">Комбинированный</param>
-    <param name="Тип">Тренировочные</param>
-  </offer>
   <offer id="201442703" available="false">
     <url>https://proekt24.com/p201442703-detskie-nakladki-karate.html</url>
     <price>165</price>
@@ -16322,7 +16299,7 @@
     <vendorCode>63323</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>66</quantity_in_stock>
+    <quantity_in_stock>64</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Материал мембраны">Полипропилен</param>
@@ -18614,7 +18591,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>294</quantity_in_stock>
+    <quantity_in_stock>287</quantity_in_stock>
     <param name="Применение">Для панелей и проемов</param>
     <param name="Тип ткани">Однотонная</param>
     <param name="Цвет">Черный</param>
@@ -18655,7 +18632,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>405</quantity_in_stock>
+    <quantity_in_stock>395</quantity_in_stock>
     <param name="Применение">Для панелей и проемов</param>
     <param name="Тип ткани">Однотонная</param>
     <param name="Длина рулона, п.м." unit="">20</param>
@@ -21218,7 +21195,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-<offer id="319734923" available="true">
+  <offer id="319734923" available="true">
     <url>https://proekt24.com/p319734923-bazaltovaya-skorlupa-folgoj.html</url>
     <price>445</price>
     <currencyId>UAH</currencyId>
@@ -21248,7 +21225,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="319741388" available="true">
+<offer id="319741388" available="true">
     <url>https://proekt24.com/p319741388-bazaltovaya-skorlupa-folgoj.html</url>
     <price>567</price>
     <currencyId>UAH</currencyId>
@@ -23245,7 +23222,7 @@
     <vendorCode>900034</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2507</quantity_in_stock>
+    <quantity_in_stock>2457</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Длина" unit="м">50</param>
     <param name="Покрытие">Ламинированное</param>
@@ -24780,7 +24757,7 @@
     <vendorCode>163102</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>52</quantity_in_stock>
+    <quantity_in_stock>51</quantity_in_stock>
     <param name="Диаметр" unit="см">28</param>
     <param name="Максимальная нагрузка" unit="кг">140</param>
     <param name="Материал">Металл</param>
@@ -29039,7 +29016,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-<offer id="459588351" available="true">
+  <offer id="459588351" available="true">
     <url>https://proekt24.com/p459588351-penoplastovaya-skorlupa-8960.html</url>
     <price>310</price>
     <currencyId>UAH</currencyId>
@@ -29076,7 +29053,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="459591581" available="true">
+<offer id="459591581" available="true">
     <url>https://proekt24.com/p459591581-penoplastovaya-skorlupa-10260.html</url>
     <price>365</price>
     <currencyId>UAH</currencyId>
@@ -35879,7 +35856,7 @@
     <param name="Материал">Кирза</param>
     <param name="Тип">Мешок</param>
   </offer>
-<offer id="1351177320" available="true">
+  <offer id="1351177320" available="true">
     <url>https://proekt24.com/p1351177320-grusha-bokserskaya-boxer.html</url>
     <price>539</price>
     <currencyId>UAH</currencyId>
@@ -35905,7 +35882,7 @@
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Мешок</param>
   </offer>
-  <offer id="1351184329" available="false">
+<offer id="1351184329" available="false">
     <url>https://proekt24.com/p1351184329-grusha-nabivnaya-boxer.html</url>
     <price>649</price>
     <currencyId>UAH</currencyId>
@@ -40019,7 +39996,7 @@
     <vendorCode>62413</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Материал мембраны">Битум</param>
     <param name="Назначение материала">Для балконов|Для стен</param>
@@ -42956,7 +42933,7 @@
     <param name="Экологическая безопасность материала">Безопасен</param>
     <param name="Количество в упаковке, шт" unit="">14</param>
   </offer>
-<offer id="1467446585" available="false">
+  <offer id="1467446585" available="false">
     <url>https://proekt24.com/p1467446585-ekstrudirovannyj-penopolistirol-xps.html</url>
     <price>187</price>
     <currencyId>UAH</currencyId>
@@ -42989,7 +42966,7 @@
     <param name="Экологическая безопасность материала">Безопасен</param>
     <param name="Количество в упаковке, шт" unit="">8</param>
   </offer>
-  <offer id="1469833467" available="false">
+<offer id="1469833467" available="false">
     <url>https://proekt24.com/p1469833467-detskij-dvuhstoronnij-razvivayuschij.html</url>
     <price>1017</price>
     <currencyId>UAH</currencyId>
@@ -48954,7 +48931,7 @@
     <param name="Толщина (мм)">6</param>
     <param name="Цвет">Серый</param>
   </offer>
-<offer id="1565830217" available="false">
+  <offer id="1565830217" available="false">
     <url>https://proekt24.com/p1565830217-obruch-gimnasticheskij-metallicheskij.html</url>
     <price>473</price>
     <currencyId>UAH</currencyId>
@@ -48981,7 +48958,7 @@
     <param name="Тип">Гладкий</param>
     <param name="Цвет">Красный</param>
   </offer>
-  <offer id="1565832929" available="false">
+<offer id="1565832929" available="false">
     <url>https://proekt24.com/p1565832929-obruch-gimnasticheskij-metallicheskij.html</url>
     <price>473</price>
     <currencyId>UAH</currencyId>
@@ -49214,7 +49191,7 @@
     <vendorCode>56413</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>63</quantity_in_stock>
+    <quantity_in_stock>62</quantity_in_stock>
     <param name="Вес" unit="кг">7.85</param>
     <param name="Применение материала">Двери|Крышка багажника|Пол автомобиля|Стенки багажника|Потолок автомобиля|Крыша|Пол багажника|Дверные панели</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -52535,7 +52512,7 @@
     <vendorCode>900103</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>167</quantity_in_stock>
+    <quantity_in_stock>165</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -53672,7 +53649,7 @@
     <vendorCode>83920</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>563</quantity_in_stock>
+    <quantity_in_stock>560</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -56029,7 +56006,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-<offer id="1650924737" available="true">
+  <offer id="1650924737" available="true">
     <url>https://proekt24.com/p1650924737-kauchukovaya-izolyatsiya-dlya.html</url>
     <price>26</price>
     <currencyId>UAH</currencyId>
@@ -56062,7 +56039,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="1650924947" available="false">
+<offer id="1650924947" available="false">
     <url>https://proekt24.com/p1650924947-kauchukovaya-izolyatsiya-dlya.html</url>
     <price>29</price>
     <currencyId>UAH</currencyId>
@@ -64026,7 +64003,7 @@
     <param name="Толщина (мм)" unit="">3</param>
     <param name="Цвет" unit="">Светло-зеленый</param>
   </offer>
-<offer id="1665671091" available="true">
+  <offer id="1665671091" available="true">
     <url>https://proekt24.com/p1665671091-fizicheski-sshityj-polietilen.html</url>
     <price>146</price>
     <currencyId>UAH</currencyId>
@@ -64055,7 +64032,7 @@
     <param name="Толщина (мм)" unit="">3</param>
     <param name="Цвет" unit="">Серый</param>
   </offer>
-  <offer id="1665671092" available="true">
+<offer id="1665671092" available="true">
     <url>https://proekt24.com/p1665671092-fizicheski-sshityj-polietilen.html</url>
     <price>484</price>
     <currencyId>UAH</currencyId>
@@ -68261,7 +68238,7 @@
     <vendorCode>30135</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>82</quantity_in_stock>
+    <quantity_in_stock>78</quantity_in_stock>
     <param name="Вес" unit="кг">0.62</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -70320,7 +70297,7 @@
     <vendorCode>163114</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <param name="Вес" unit="г">1100</param>
     <param name="Диаметр" unit="см">28</param>
     <param name="Максимальная нагрузка" unit="кг">160</param>
@@ -70376,7 +70353,7 @@
     <param name="Толщина" unit="см">1.3</param>
     <param name="Цвет">Зелёный</param>
   </offer>
-<offer id="1791401138" available="true">
+  <offer id="1791401138" available="true">
     <url>https://proekt24.com/p1791401138-disk-zdorovya-gratsiya.html</url>
     <price>495</price>
     <currencyId>UAH</currencyId>
@@ -70399,7 +70376,7 @@
     <param name="Состояние">Новое</param>
     <param name="Толщина" unit="см">1.3</param>
   </offer>
-  <offer id="1793183872" available="false">
+<offer id="1793183872" available="false">
     <url>https://proekt24.com/p1793183872-zaschitnyj-zhilet-dlya.html</url>
     <price>726</price>
     <currencyId>UAH</currencyId>
@@ -71574,7 +71551,7 @@
     <vendorCode>30014</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>48</quantity_in_stock>
+    <quantity_in_stock>41</quantity_in_stock>
     <param name="Вес" unit="кг">0.54</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -74092,59 +74069,6 @@
     <param name="Толщина" unit="мм">4</param>
     <param name="Цвет">Зелёный</param>
     <param name="Ширина" unit="см">50</param>
-  </offer>
-  <offer id="1842843181" available="false">
-    <url>https://proekt24.com/p1842843181-shlem-trenirovochnyj-karate.html</url>
-    <price>962</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>148858419</categoryId>
-    <picture>https://images.prom.ua/3353870947_shlem-trenirovochnyj-karate.jpg</picture>
-    <picture>https://images.prom.ua/3353870948_shlem-trenirovochnyj-karate.jpg</picture>
-    <picture>https://images.prom.ua/3353870945_shlem-trenirovochnyj-karate.jpg</picture>
-    <picture>https://images.prom.ua/3353870946_shlem-trenirovochnyj-karate.jpg</picture>
-    <picture>https://images.prom.ua/4327321233_shlem-trenirovochnyj-karate.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шлем тренировочный каратэ BOXER Элит M кожвинил синий</name>
-    <vendor>Boxer</vendor>
-    <vendorCode>2036-02С</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вид шлема">Карате</param>
-    <param name="Возрастная группа">Взрослая</param>
-    <param name="Материал верха">Искусственная кожа</param>
-    <param name="Материал подкладки">Замша</param>
-    <param name="Размер">M</param>
-    <param name="Тип">Закрытый</param>
-    <param name="Цвет">Синий</param>
-  </offer>
-  <offer id="1842851442" available="false">
-    <url>https://proekt24.com/p1842851442-shlem-trenirovochnyj-karate.html</url>
-    <price>962</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>148858419</categoryId>
-    <picture>https://images.prom.ua/3353900107_shlem-trenirovochnyj-karate.jpg</picture>
-    <picture>https://images.prom.ua/3353870947_shlem-trenirovochnyj-karate.jpg</picture>
-    <picture>https://images.prom.ua/3353870948_shlem-trenirovochnyj-karate.jpg</picture>
-    <picture>https://images.prom.ua/3353870945_shlem-trenirovochnyj-karate.jpg</picture>
-    <picture>https://images.prom.ua/3353870946_shlem-trenirovochnyj-karate.jpg</picture>
-    <picture>https://images.prom.ua/4327321233_shlem-trenirovochnyj-karate.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шлем тренировочный каратэ BOXER Элит M кожвинил красный</name>
-    <vendor>Boxer</vendor>
-    <vendorCode>2036-02К</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вид шлема">Карате</param>
-    <param name="Возрастная группа">Взрослая</param>
-    <param name="Материал верха">Искусственная кожа</param>
-    <param name="Материал подкладки">Замша</param>
-    <param name="Размер">M</param>
-    <param name="Тип">Закрытый</param>
-    <param name="Цвет">Красный</param>
   </offer>
   <offer id="1842852624" available="true">
     <url>https://proekt24.com/p1842852624-shlem-trenirovochnyj-karate.html</url>
@@ -76731,7 +76655,7 @@
     <param name="Цвет">Белый</param>
     <param name="Ширина" unit="мм">1000</param>
   </offer>
-<offer id="1910272830" available="true">
+  <offer id="1910272830" available="true">
     <url>https://proekt24.com/p1910272830-detskij-kovrik-pazl.html</url>
     <price>407</price>
     <currencyId>UAH</currencyId>
@@ -76802,7 +76726,7 @@
     <param name="Цвет">Коричневый</param>
     <param name="Ширина" unit="мм">500</param>
   </offer>
-  <offer id="1913886907" available="false">
+<offer id="1913886907" available="false">
     <url>https://proekt24.com/p1913886907-tent-turisticheskij-piksel.html</url>
     <price>2178</price>
     <currencyId>UAH</currencyId>
@@ -81714,7 +81638,7 @@
     <vendorCode>57230</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>36</quantity_in_stock>
+    <quantity_in_stock>34</quantity_in_stock>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Площадь листа" unit="кв.м">0.75</param>
@@ -83273,7 +83197,7 @@
     <param name="Тип">Боевые</param>
     <param name="Цвет">Синий</param>
   </offer>
-<offer id="1994100849" available="false">
+  <offer id="1994100849" available="false">
     <url>https://proekt24.com/p1994100849-shlem-trenirovochnyj-karate.html</url>
     <price>797</price>
     <currencyId>UAH</currencyId>
@@ -83340,7 +83264,7 @@
     <param name="Тип">Карате</param>
     <param name="Цвет">Синий</param>
   </offer>
-  <offer id="1994100852" available="true">
+<offer id="1994100852" available="true">
     <url>https://proekt24.com/p1994100852-grusha-bokserskaya-lev.html</url>
     <price>1595</price>
     <currencyId>UAH</currencyId>
@@ -89437,7 +89361,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-<offer id="2099544451" available="true">
+  <offer id="2099544451" available="true">
     <url>https://proekt24.com/p2099544451-izolyatsiya-trub-vspenennogo.html</url>
     <price>5</price>
     <currencyId>UAH</currencyId>
@@ -89530,7 +89454,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="2099544454" available="false">
+<offer id="2099544454" available="false">
     <url>https://proekt24.com/p2099544454-izolyatsiya-trub-526.html</url>
     <price>15</price>
     <currencyId>UAH</currencyId>
@@ -97371,7 +97295,7 @@
     <param name="Діаметр основи, мм" unit="">165</param>
     <param name="Объем, л" unit="">1.38</param>
   </offer>
-<offer id="2183163481" available="false">
+  <offer id="2183163481" available="false">
     <url>https://proekt24.com/p2183163481-skovoroda-antiprigarnym-pokrytiem.html</url>
     <price>671</price>
     <currencyId>UAH</currencyId>
@@ -97489,7 +97413,7 @@
     <param name="Діаметр основи, мм" unit="">200</param>
     <param name="Объем, л" unit="">36</param>
   </offer>
-  <offer id="2183163484" available="false">
+<offer id="2183163484" available="false">
     <url>https://proekt24.com/p2183163484-kastryulya-emalirovannaya-bird.html</url>
     <price>1419</price>
     <currencyId>UAH</currencyId>
@@ -105613,7 +105537,7 @@
     <param name="Вес, гр" unit="гр">500</param>
     <param name="Высота" unit="">6.1</param>
   </offer>
-<offer id="2183248708" available="false">
+  <offer id="2183248708" available="false">
     <url>https://proekt24.com/p2183248708-chehol-kazan-turisticheskij.html</url>
     <price>464</price>
     <currencyId>UAH</currencyId>
@@ -105680,7 +105604,7 @@
     <param name="Цвет" unit="">Черный</param>
     <param name="Чехол для хранения и транспортировки" unit="">Да</param>
   </offer>
-  <offer id="2183248711" available="true">
+<offer id="2183248711" available="true">
     <url>https://proekt24.com/p2183248711-kazan-chugunnyj-aziatskij.html</url>
     <price>3572</price>
     <currencyId>UAH</currencyId>
@@ -111315,7 +111239,7 @@
     <param name="Цвет">Бежевый</param>
     <param name="Размер изелия" unit="">1</param>
   </offer>
-<offer id="2224923056" available="false">
+  <offer id="2224923056" available="false">
     <url>https://proekt24.com/p2224923056-kompressionnye-kolgoty-otkrytym.html</url>
     <price>1826</price>
     <currencyId>UAH</currencyId>
@@ -111383,7 +111307,7 @@
     <param name="Вид изделия" unit="">Колготки</param>
     <param name="Размер" unit="">1</param>
   </offer>
-  <offer id="2224923059" available="false">
+<offer id="2224923059" available="false">
     <url>https://proekt24.com/p2224923059-kompressionnye-chulki-zakrytym.html</url>
     <price>1624</price>
     <currencyId>UAH</currencyId>
@@ -112564,7 +112488,7 @@
     <vendorCode>57440</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>54</quantity_in_stock>
+    <quantity_in_stock>49</quantity_in_stock>
     <param name="Длина листа" unit="см">25</param>
     <param name="Тип">Шумоизоляция</param>
     <param name="Ширина листа" unit="см">10</param>
@@ -113550,7 +113474,7 @@
     <vendorCode>321609</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>688</quantity_in_stock>
+    <quantity_in_stock>648</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
@@ -116672,7 +116596,7 @@
     <vendorCode>41027</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>155</quantity_in_stock>
+    <quantity_in_stock>131</quantity_in_stock>
     <param name="Вес" unit="кг">0.833</param>
     <param name="Длина листа" unit="см">37</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -117389,7 +117313,7 @@
     <param name="Особенности">Чехол</param>
     <param name="Цвет">Разные цвета</param>
   </offer>
-<offer id="2437846732" available="true">
+  <offer id="2437846732" available="true">
     <url>https://proekt24.com/p2437846732-vspenennyj-kauchuk-samokleyuschijsya.html</url>
     <price>2426</price>
     <currencyId>UAH</currencyId>
@@ -117487,7 +117411,7 @@
     <param name="Цвет" unit="">Черный</param>
     <param name="Эластичность материала" unit="">Да</param>
   </offer>
-  <offer id="2437846735" available="false">
+<offer id="2437846735" available="false">
     <url>https://proekt24.com/p2437846735-vspenennyj-kauchuk-samokleyuschijsya.html</url>
     <price>2369</price>
     <currencyId>UAH</currencyId>
@@ -123808,7 +123732,7 @@
     <param name="Диаметр" unit="">5.0</param>
     <param name="Длина" unit="">150.0</param>
   </offer>
-<offer id="2682802289" available="false">
+  <offer id="2682802289" available="false">
     <url>https://proekt24.com/p2682802289-zhgut-uplotnitelnyj-ovalnyj.html</url>
     <price>21</price>
     <currencyId>UAH</currencyId>
@@ -123842,7 +123766,7 @@
     <vendorCode>889635</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1123</quantity_in_stock>
+    <quantity_in_stock>1149</quantity_in_stock>
     <param name="Высота" unit="мм">25</param>
     <param name="Длина" unit="мм">2000</param>
     <param name="Толщина" unit="мм">15</param>
@@ -123867,7 +123791,7 @@
     <param name="Толщина" unit="мм">13</param>
     <param name="Ширина" unit="мм">20</param>
   </offer>
-  <offer id="2683781152" available="true">
+<offer id="2683781152" available="true">
     <url>https://proekt24.com/p2683781152-bokserskie-perchatki-lev.html</url>
     <price>1650</price>
     <currencyId>UAH</currencyId>
