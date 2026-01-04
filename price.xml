@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-03 17:05">
+<yml_catalog date="2026-01-04 10:05">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -217,16 +217,35 @@
       <category id="3531076" parentId="13552512">Физически сшитый вспененный пенополиэтилен</category>
       <category id="17100822" parentId="130810240">Ортопедические подушки и матрасы</category>
       <category id="131353379" parentId="130810240">Компрессионный трикотаж</category>
+      <category id="149555363">Типографические услуги</category>
+      <category id="149555364">Складские услуги</category>
+      <category id="149555365">Изготовление маркировочной продукции, табличек</category>
+      <category id="149555366">Бандажи послеоперационные и согревающие пояса</category>
+      <category id="149555367" parentId="138619412">Комплектующие электрооборудования</category>
+      <category id="149555368" parentId="138619431">Рубильники</category>
+      <category id="149555369" parentId="138619413">Товары для детей, общее</category>
+      <category id="149555370" parentId="138619433">Детские мячи</category>
+      <category id="149555371" parentId="138619434">Детские стульчики для кормления</category>
       <category id="149555372" parentId="138619435">Детские подушки</category>
       <category id="149555373" parentId="120149335">Развивающие и игровые коврики</category>
       <category id="149555374" parentId="138619436">Пух и перья</category>
       <category id="149555375" parentId="138619468">Полимеры</category>
       <category id="149555376" parentId="138619415">Детская одежда и обувь</category>
       <category id="149555377" parentId="138166133">Детская и подростковая ортопедическая обувь</category>
+      <category id="149555378" parentId="137644405">Уплотнители для окон, дверей</category>
+      <category id="149555379" parentId="138619440">Хомуты, зажимы</category>
+      <category id="149555380" parentId="138619441">Подложки и настилы для пола</category>
       <category id="149555381" parentId="138619442">Герметики и силиконы</category>
       <category id="149555382" parentId="137644409">Инструмент для ремонта мототехники</category>
       <category id="149555383" parentId="138619443">Автомобильные герметики, клея</category>
       <category id="149555384" parentId="138619474">Ткани для обивки салона автомобилей</category>
+      <category id="149555385" parentId="138619475">Подушки-подголовники</category>
+      <category id="149555386" parentId="138619475">Чехлы, накидки, майки для автокресел</category>
+      <category id="149555387" parentId="138619476">Сиденья автомобильные</category>
+      <category id="149555388" parentId="138619410">Военторг</category>
+      <category id="149555389" parentId="137644413">Разгрузочные жилеты и плитоноски без плит</category>
+      <category id="149555390" parentId="138619446">Фиксаторы коленного сустава</category>
+      <category id="149555391" parentId="138619446">Ортопедические фиксаторы для новорожденных</category>
       <category id="149555392" parentId="138619446">Фиксаторы бедра</category>
       <category id="149555393" parentId="138619446">Фиксаторы плечевого и локтевого сустава</category>
       <category id="149555394" parentId="138619446">Бандажи грыжевые и при опущении внутренних органов</category>
@@ -245,13 +264,22 @@
       <category id="149555407" parentId="138619479">Комплектующие для кухонной посуды</category>
       <category id="149555408" parentId="138619479">Сковородки, сотейники, жаровни</category>
       <category id="149555409" parentId="138619479">Кастрюли</category>
+      <category id="149555410" parentId="138619480">Доски разделочные</category>
+      <category id="149555411" parentId="138619481">Менажницы</category>
+      <category id="149555412" parentId="138619481">Кофейники, заварочные чайники и аксессуары</category>
+      <category id="149555413" parentId="138619481">Блюда, стойки для тортов</category>
       <category id="149555414" parentId="138619482">Мебельный поролон</category>
       <category id="149555415" parentId="138619483">Решетки для гриля и барбекю</category>
       <category id="149555416" parentId="138619484">Подушки</category>
       <category id="149555417" parentId="138619484">Наволочки</category>
       <category id="149555418" parentId="138619485">Защитные коврики под кресла</category>
+      <category id="149555419" parentId="138619452">Строительные и промышленные клеи</category>
+      <category id="149555420" parentId="138619452">Клейкая универсальная лента</category>
+      <category id="149555421" parentId="138619453">Защитные и противоударные упаковочные материалы</category>
       <category id="149555422" parentId="138619453">Стяжки упаковочные</category>
       <category id="149555423" parentId="130863419">Пленка воздушно-пузырчатая</category>
+      <category id="149555424" parentId="130863419">Стретч-пленка</category>
+      <category id="149555425" parentId="138619410">Медицинское оборудование и расходные материалы</category>
       <category id="149555426" parentId="137644423">Медицинские тренажеры и модели</category>
       <category id="149555427" parentId="137644424">Надувные подушки и подголовники</category>
       <category id="149555428" parentId="137644424">Туристические палатки и тенты</category>
@@ -268,6 +296,7 @@
       <category id="149555439" parentId="138619456">Пляжные коврики</category>
       <category id="149555440" parentId="138619493">Балаклавы, подшлемники, маски</category>
       <category id="149555441" parentId="138619494">Велочехлы и велонакидки</category>
+      <category id="149555442" parentId="138619495">Аквапалки</category>
       <category id="149555443" parentId="138619496">Доски для плавания, колобашки</category>
       <category id="149555444" parentId="138619497">Лапы, макивары ручные</category>
       <category id="149555445" parentId="138619497">Боксерские груши и снаряды</category>
@@ -276,10 +305,15 @@
       <category id="149555448" parentId="138619497">Шлемы для бокса и единоборств</category>
       <category id="149555449" parentId="138619497">Капы</category>
       <category id="149555450" parentId="138619497">Боксерские бинты</category>
+      <category id="149555451" parentId="138619498">Кинезио тейпы и средства для тейпирования</category>
+      <category id="149555452" parentId="138619499">Фитболы</category>
       <category id="149555453" parentId="138619499">Гимнастические диски</category>
       <category id="149555454" parentId="138619499">Коврики для йоги и фитнеса</category>
       <category id="149555455" parentId="138619499">Скакалки</category>
       <category id="149555456" parentId="138619499">Медболы</category>
+      <category id="149555457" parentId="138619499">Гимнастические обручи</category>
+      <category id="149555458" parentId="138619499">Упоры для отжиманий</category>
+      <category id="149555459" parentId="138619500">Блоки и ролики для йоги</category>
       <category id="149555460" parentId="138619501">Атлетические пояса</category>
       <category id="149555461" parentId="138619501">Спортивные утяжелители</category>
       <category id="149555462" parentId="138619501">Тяги для тренировки шеи</category>
@@ -288,6 +322,8 @@
       <category id="149555465" parentId="138619461">Звукоизоляционные материалы</category>
       <category id="149555466" parentId="137644541">Гидроизоляционные уплотнители</category>
       <category id="149555467" parentId="137644541">Обмазочные гидроизоляционные материалы</category>
+      <category id="149555468" parentId="137644542">Комплектующие для кровли</category>
+      <category id="149555469" parentId="137644543">Минеральная вата</category>
       <category id="149555470" parentId="137644543">Теплоизоляционный пенопласт</category>
       <category id="149555471" parentId="137644543">Теплоизоляционная фольга</category>
       <category id="149555472" parentId="137644543">Теплоизоляционный пенополиэтилен</category>
@@ -299,15 +335,23 @@
       <category id="149555478" parentId="138166205">Перкуссия</category>
       <category id="149555479" parentId="138619410">Оборудование и товары для предоставления услуг</category>
       <category id="149555480" parentId="138166206">Торговые стенды и аксессуары</category>
+      <category id="7771509" parentId="3682513">Базальтовая скорлупа, базальтовые цилиндры с фольгой</category>
+      <category id="121445171" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 100 мм</category>
+      <category id="94543941">Товары для дома</category>
       <category id="96802051">Кровельные ленты</category>
+      <category id="1721740">Вспененный каучук, аксессуары</category>
       <category id="5893864">Вспененный полиэтилен, пенополиэтилен</category>
+      <category id="3061258">Утеплители, термоизоляция, техническая изоляция</category>
       <category id="2341984">Ленты, скотчи, уплотнители</category>
       <category id="97783027">Кровельные герметики и мастики</category>
       <category id="105796939">Строительные мембраны</category>
       <category id="13883140">Вспененный этиленвинилацетат (материал EVA)</category>
+      <category id="4734220">Упаковочные материалы</category>
+      <category id="908017">Трубная изоляция, утеплители для труб</category>
       <category id="1932799">Товары для спорта, отдыха, туризма</category>
       <category id="111619363">Тактическое снаряжение</category>
       <category id="130810240">Товары для реабилитации</category>
+      <category id="801930">Опалубка колонн</category>
       <category id="3021500">Экструдированный пенополистирол, экструзионный пенополистирол</category>
       <category id="105419513">Материалы для шумоизоляции помещений</category>
       <category id="938662">Шумо-, виброизоляция для автомобилей</category>
@@ -319,52 +363,8 @@
       <category id="12527036" parentId="938662">Виброизоляция для автомобиля (материалы, стп, практик, визол, битопласт, stp)</category>
       <category id="12325125" parentId="938662">Аксессуары для автомобилей</category>
       <category id="3061402" parentId="105419513">Звукоизоляция и шумоизоляция пола</category>
-      <category id="133605716">Металлический профиль</category>
-      <category id="149555363">Типографические услуги</category>
-      <category id="149555364">Складские услуги</category>
-      <category id="149555365">Изготовление маркировочной продукции, табличек</category>
-      <category id="149555366">Бандажи послеоперационные и согревающие пояса</category>
-      <category id="149555367" parentId="138619412">Комплектующие электрооборудования</category>
-      <category id="149555368" parentId="138619431">Рубильники</category>
-      <category id="149555369" parentId="138619413">Товары для детей, общее</category>
-      <category id="149555370" parentId="138619433">Детские мячи</category>
-      <category id="149555371" parentId="138619434">Детские стульчики для кормления</category>
-      <category id="149555378" parentId="137644405">Уплотнители для окон, дверей</category>
-      <category id="149555379" parentId="138619440">Хомуты, зажимы</category>
-      <category id="149555380" parentId="138619441">Подложки и настилы для пола</category>
-      <category id="149555385" parentId="138619475">Подушки-подголовники</category>
-      <category id="149555386" parentId="138619475">Чехлы, накидки, майки для автокресел</category>
-      <category id="149555387" parentId="138619476">Сиденья автомобильные</category>
-      <category id="149555388" parentId="138619410">Военторг</category>
-      <category id="149555389" parentId="137644413">Разгрузочные жилеты и плитоноски без плит</category>
-      <category id="149555390" parentId="138619446">Фиксаторы коленного сустава</category>
-      <category id="149555391" parentId="138619446">Ортопедические фиксаторы для новорожденных</category>
-      <category id="149555410" parentId="138619480">Доски разделочные</category>
-      <category id="149555411" parentId="138619481">Менажницы</category>
-      <category id="149555412" parentId="138619481">Кофейники, заварочные чайники и аксессуары</category>
-      <category id="149555413" parentId="138619481">Блюда, стойки для тортов</category>
-      <category id="149555419" parentId="138619452">Строительные и промышленные клеи</category>
-      <category id="149555420" parentId="138619452">Клейкая универсальная лента</category>
-      <category id="149555421" parentId="138619453">Защитные и противоударные упаковочные материалы</category>
-      <category id="149555424" parentId="130863419">Стретч-пленка</category>
-      <category id="149555425" parentId="138619410">Медицинское оборудование и расходные материалы</category>
-      <category id="149555442" parentId="138619495">Аквапалки</category>
-      <category id="149555451" parentId="138619498">Кинезио тейпы и средства для тейпирования</category>
-      <category id="149555452" parentId="138619499">Фитболы</category>
-      <category id="149555457" parentId="138619499">Гимнастические обручи</category>
-      <category id="149555458" parentId="138619499">Упоры для отжиманий</category>
-      <category id="149555459" parentId="138619500">Блоки и ролики для йоги</category>
-      <category id="149555468" parentId="137644542">Комплектующие для кровли</category>
-      <category id="149555469" parentId="137644543">Минеральная вата</category>
-      <category id="7771509" parentId="3682513">Базальтовая скорлупа, базальтовые цилиндры с фольгой</category>
-      <category id="121445171" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 100 мм</category>
-      <category id="94543941">Товары для дома</category>
-      <category id="1721740">Вспененный каучук, аксессуары</category>
-      <category id="3061258">Утеплители, термоизоляция, техническая изоляция</category>
-      <category id="4734220">Упаковочные материалы</category>
-      <category id="908017">Трубная изоляция, утеплители для труб</category>
-      <category id="801930">Опалубка колонн</category>
       <category id="129892704" parentId="1946859">Манекен для борьбы</category>
+      <category id="133605716">Металлический профиль</category>
     </categories>
   <offers>
 <offer id="3034034" available="false">
