@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-13 17:05">
+<yml_catalog date="2026-01-14 10:05">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="45.229485" />
+      <currency id="USD" rate="45.41796" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="52.65162" />
+      <currency id="EUR" rate="53.05272" />
     </currencies>
     <categories>
       <category id="149555480" parentId="138166206">Торговые стенды и аксессуары</category>
@@ -815,7 +815,7 @@
     <vendorCode>2026-01С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>56</quantity_in_stock>
+    <quantity_in_stock>57</quantity_in_stock>
     <param name="Вес" unit="oz">4</param>
     <param name="Возрастная группа">Детская</param>
     <param name="Материал">Искусственная кожа</param>
@@ -880,7 +880,7 @@
     <vendorCode>2015-01К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Снарядные</param>
@@ -934,7 +934,7 @@
     <param name="Материал" unit="">Натуральная кожа</param>
     <param name="Тип" unit="">MMA</param>
   </offer>
-  <offer id="4263357" available="false">
+  <offer id="4263357" available="true">
     <url>https://proekt24.com/p4263357-shlem-bokserskij-boxer.html</url>
     <price>1012</price>
     <currencyId>UAH</currencyId>
@@ -952,7 +952,7 @@
     <vendorCode>2027-01С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вид шлема">Бокс</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Натуральная кожа</param>
@@ -962,7 +962,7 @@
   </offer>
   <offer id="4263368" available="false">
     <url>https://proekt24.com/p4263368-shlem-bokserskij-boxer.html</url>
-    <price>660</price>
+    <price>682</price>
     <currencyId>UAH</currencyId>
     <categoryId>148858419</categoryId>
     <picture>https://images.prom.ua/3331601451_shlem-bokserskij-boxer.jpg</picture>
@@ -1141,7 +1141,7 @@
     <vendorCode>889406</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>150</quantity_in_stock>
+    <quantity_in_stock>160</quantity_in_stock>
     <param name="Длина" unit="см">46</param>
     <param name="Максимальный вес" unit="кг">100</param>
     <param name="Тип">Цепь для подвеса</param>
@@ -3567,7 +3567,7 @@
     <vendorCode>250315</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -3736,7 +3736,7 @@
     <vendorCode>500131</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>464</quantity_in_stock>
+    <quantity_in_stock>465</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -3980,7 +3980,7 @@
     <vendorCode>500192</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1023</quantity_in_stock>
+    <quantity_in_stock>978</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -5801,7 +5801,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="174468116" available="true">
+  <offer id="174468116" available="false">
     <url>https://proekt24.com/p174468116-izolyatsiya-trub-5213.html</url>
     <price>30</price>
     <currencyId>UAH</currencyId>
@@ -5813,7 +5813,7 @@
     <vendorCode>ВП52/13</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>408</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">52</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
@@ -23300,7 +23300,7 @@
     <vendorCode>900054</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1636</quantity_in_stock>
+    <quantity_in_stock>1686</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Длина" unit="м">50</param>
     <param name="Покрытие">Ламинированное</param>
@@ -24047,7 +24047,7 @@
     <vendorCode>901053</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>184</quantity_in_stock>
+    <quantity_in_stock>187</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -31797,7 +31797,7 @@
     <vendorCode>2024-04С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Вес" unit="oz">6</param>
     <param name="Возрастная группа">Детская</param>
     <param name="Материал">Искусственная кожа</param>
@@ -42953,7 +42953,7 @@
     <vendorCode>83930</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>605</quantity_in_stock>
+    <quantity_in_stock>606</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -43168,7 +43168,7 @@
   </offer>
   <offer id="1478140951" available="true">
     <url>https://proekt24.com/p1478140951-shlem-karate-boxer.html</url>
-    <price>715</price>
+    <price>737</price>
     <currencyId>UAH</currencyId>
     <categoryId>1947004</categoryId>
     <picture>https://images.prom.ua/3329895812_shlem-karate-boxer.jpg</picture>
@@ -43191,7 +43191,7 @@
   </offer>
   <offer id="1478143853" available="false">
     <url>https://proekt24.com/p1478143853-shlem-karate-boxer.html</url>
-    <price>715</price>
+    <price>737</price>
     <currencyId>UAH</currencyId>
     <categoryId>148858419</categoryId>
     <picture>https://images.prom.ua/3329895812_shlem-karate-boxer.jpg</picture>
@@ -43214,7 +43214,7 @@
   </offer>
   <offer id="1478169233" available="false">
     <url>https://proekt24.com/p1478169233-shlem-karate-boxer.html</url>
-    <price>715</price>
+    <price>737</price>
     <currencyId>UAH</currencyId>
     <categoryId>148858419</categoryId>
     <picture>https://images.prom.ua/3329956040_shlem-karate-boxer.jpg</picture>
@@ -43237,7 +43237,7 @@
   </offer>
   <offer id="1478180536" available="false">
     <url>https://proekt24.com/p1478180536-shlem-karate-boxer.html</url>
-    <price>715</price>
+    <price>737</price>
     <currencyId>UAH</currencyId>
     <categoryId>148858419</categoryId>
     <picture>https://images.prom.ua/3329956040_shlem-karate-boxer.jpg</picture>
@@ -43260,7 +43260,7 @@
   </offer>
   <offer id="1478660781" available="false">
     <url>https://proekt24.com/p1478660781-shlem-bokserskij-boxer.html</url>
-    <price>660</price>
+    <price>682</price>
     <currencyId>UAH</currencyId>
     <categoryId>148858419</categoryId>
     <picture>https://images.prom.ua/3331604923_shlem-bokserskij-boxer.jpg</picture>
@@ -43284,7 +43284,7 @@
   </offer>
   <offer id="1478661474" available="false">
     <url>https://proekt24.com/p1478661474-shlem-bokserskij-boxer.html</url>
-    <price>660</price>
+    <price>682</price>
     <currencyId>UAH</currencyId>
     <categoryId>148858419</categoryId>
     <picture>https://images.prom.ua/3331607366_shlem-bokserskij-boxer.jpg</picture>
@@ -43308,7 +43308,7 @@
   </offer>
   <offer id="1478711630" available="true">
     <url>https://proekt24.com/p1478711630-shlem-bokserskij-boxer.html</url>
-    <price>660</price>
+    <price>682</price>
     <currencyId>UAH</currencyId>
     <categoryId>1947004</categoryId>
     <picture>https://images.prom.ua/3331601451_shlem-bokserskij-boxer.jpg</picture>
@@ -43359,9 +43359,9 @@
     <param name="Цвет" unit="">Мятный</param>
     <param name="Ширина, мм" unit="">155</param>
   </offer>
-  <offer id="1480655528" available="false">
+  <offer id="1480655528" available="true">
     <url>https://proekt24.com/p1480655528-shlem-bokserskij-boxer.html</url>
-    <price>660</price>
+    <price>682</price>
     <currencyId>UAH</currencyId>
     <categoryId>148858419</categoryId>
     <picture>https://images.prom.ua/3331607366_shlem-bokserskij-boxer.jpg</picture>
@@ -43374,7 +43374,7 @@
     <vendorCode>2028-02К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид шлема">Бокс</param>
     <param name="Возрастная группа">Детская</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -43452,7 +43452,7 @@
     <vendorCode>2027-02Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вид шлема">Бокс</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Натуральная кожа</param>
@@ -50000,14 +50000,14 @@
     <vendorCode>2015-01С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">L</param>
     <param name="Тип">Тренировочные</param>
     <param name="Цвет">Синий</param>
   </offer>
-  <offer id="1573884488" available="false">
+  <offer id="1573884488" available="true">
     <url>https://proekt24.com/p1573884488-perchatki-trenirovochnye-boxer.html</url>
     <price>506</price>
     <currencyId>UAH</currencyId>
@@ -50024,7 +50024,7 @@
     <vendorCode>2015-01Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">L</param>
@@ -50334,7 +50334,7 @@
   </offer>
   <offer id="1573884510" available="true">
     <url>https://proekt24.com/p1573884510-shlem-bokserskij-boxer.html</url>
-    <price>660</price>
+    <price>682</price>
     <currencyId>UAH</currencyId>
     <categoryId>1947004</categoryId>
     <picture>https://images.prom.ua/3639841208_shlem-bokserskij-boxer.jpg</picture>
@@ -51828,7 +51828,7 @@
     <vendorCode>163107</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <param name="Вес" unit="г">1100</param>
     <param name="Диаметр" unit="см">28</param>
     <param name="Максимальная нагрузка" unit="кг">160</param>
@@ -53684,7 +53684,7 @@
     <vendorCode>83920</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>543</quantity_in_stock>
+    <quantity_in_stock>544</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -65038,7 +65038,7 @@
     <vendorCode>901101150</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1800</quantity_in_stock>
+    <quantity_in_stock>1801</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -70412,7 +70412,7 @@
     <vendorCode>163115</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="г">1100</param>
     <param name="Диаметр" unit="см">28</param>
     <param name="Максимальная нагрузка" unit="кг">160</param>
@@ -70827,7 +70827,7 @@
     <vendorCode>FT-1025/B-S</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <param name="Размер">S</param>
     <param name="Состояние">Новое</param>
     <param name="Цвет">Черный</param>
@@ -71440,7 +71440,7 @@
     <vendorCode>56395</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>213</quantity_in_stock>
+    <quantity_in_stock>217</quantity_in_stock>
     <param name="Вес" unit="кг">0.95</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Двери|Крышка багажника|Пол автомобиля|Капот|Стенки багажника|Колесные арки|Потолок автомобиля|Крыша|Пол багажника|Дверные панели</param>
@@ -72597,7 +72597,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>303</quantity_in_stock>
+    <quantity_in_stock>274</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -74032,7 +74032,7 @@
     <vendorCode>888922</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>81</quantity_in_stock>
+    <quantity_in_stock>80</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Материал чехла">Искусственная кожа</param>
     <param name="Состояние">Новое</param>
@@ -75264,7 +75264,7 @@
   </offer>
   <offer id="1876617154" available="true">
     <url>https://proekt24.com/p1876617154-zaschita-goleni-stopy.html</url>
-    <price>781</price>
+    <price>814</price>
     <currencyId>UAH</currencyId>
     <categoryId>6379390</categoryId>
     <picture>https://images.prom.ua/4645350970_zaschita-goleni-i.jpg</picture>
@@ -75287,7 +75287,7 @@
   </offer>
   <offer id="1876617155" available="true">
     <url>https://proekt24.com/p1876617155-zaschita-goleni-stopy.html</url>
-    <price>748</price>
+    <price>770</price>
     <currencyId>UAH</currencyId>
     <categoryId>6379390</categoryId>
     <picture>https://images.prom.ua/4645350970_zaschita-goleni-i.jpg</picture>
@@ -75310,7 +75310,7 @@
   </offer>
   <offer id="1876617156" available="false">
     <url>https://proekt24.com/p1876617156-zaschita-goleni-stopy.html</url>
-    <price>781</price>
+    <price>814</price>
     <currencyId>UAH</currencyId>
     <categoryId>148858419</categoryId>
     <picture>https://images.prom.ua/4645376666_zaschita-goleni-i.jpg</picture>
@@ -75332,7 +75332,7 @@
   </offer>
   <offer id="1876617157" available="true">
     <url>https://proekt24.com/p1876617157-zaschita-goleni-stopy.html</url>
-    <price>748</price>
+    <price>770</price>
     <currencyId>UAH</currencyId>
     <categoryId>6379390</categoryId>
     <picture>https://images.prom.ua/4645369131_zaschita-goleni-i.jpg</picture>
@@ -75354,7 +75354,7 @@
   </offer>
   <offer id="1876617158" available="true">
     <url>https://proekt24.com/p1876617158-zaschita-goleni-stopy.html</url>
-    <price>781</price>
+    <price>814</price>
     <currencyId>UAH</currencyId>
     <categoryId>6379390</categoryId>
     <picture>https://images.prom.ua/4645369131_zaschita-goleni-i.jpg</picture>
@@ -75376,7 +75376,7 @@
   </offer>
   <offer id="1876617159" available="true">
     <url>https://proekt24.com/p1876617159-zaschita-goleni-stopy.html</url>
-    <price>814</price>
+    <price>847</price>
     <currencyId>UAH</currencyId>
     <categoryId>6379390</categoryId>
     <picture>https://images.prom.ua/4645350970_zaschita-goleni-i.jpg</picture>
@@ -75399,7 +75399,7 @@
   </offer>
   <offer id="1876617160" available="true">
     <url>https://proekt24.com/p1876617160-zaschita-goleni-stopy.html</url>
-    <price>748</price>
+    <price>770</price>
     <currencyId>UAH</currencyId>
     <categoryId>6379390</categoryId>
     <picture>https://images.prom.ua/4645376666_zaschita-goleni-i.jpg</picture>
@@ -75421,7 +75421,7 @@
   </offer>
   <offer id="1876617161" available="true">
     <url>https://proekt24.com/p1876617161-zaschita-goleni-stopy.html</url>
-    <price>814</price>
+    <price>847</price>
     <currencyId>UAH</currencyId>
     <categoryId>6379390</categoryId>
     <picture>https://images.prom.ua/4645369131_zaschita-goleni-i.jpg</picture>
@@ -75443,7 +75443,7 @@
   </offer>
   <offer id="1876617162" available="true">
     <url>https://proekt24.com/p1876617162-zaschita-goleni-stopy.html</url>
-    <price>814</price>
+    <price>847</price>
     <currencyId>UAH</currencyId>
     <categoryId>6379390</categoryId>
     <picture>https://images.prom.ua/4645376666_zaschita-goleni-i.jpg</picture>
@@ -75567,7 +75567,7 @@
   </offer>
   <offer id="1878319429" available="true">
     <url>https://proekt24.com/p1878319429-shlem-karate-boxer.html</url>
-    <price>715</price>
+    <price>737</price>
     <currencyId>UAH</currencyId>
     <categoryId>1947004</categoryId>
     <picture>https://images.prom.ua/3329886221_shlem-karate-boxer.jpg</picture>
@@ -75590,7 +75590,7 @@
   </offer>
   <offer id="1878320174" available="false">
     <url>https://proekt24.com/p1878320174-shlem-karate-boxer.html</url>
-    <price>715</price>
+    <price>737</price>
     <currencyId>UAH</currencyId>
     <categoryId>148858419</categoryId>
     <picture>https://images.prom.ua/3329886221_shlem-karate-boxer.jpg</picture>
@@ -77367,7 +77367,7 @@
     <name>Поролон для спортивних матов 2000х1000х100 мм</name>
     <vendorCode>888999</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>79</quantity_in_stock>
+    <quantity_in_stock>96</quantity_in_stock>
     <param name="Толщина" unit="мм">100</param>
     <param name="Плотность, кг\м3" unit="кг\м3">50</param>
   </offer>
@@ -87051,7 +87051,7 @@
     <vendor>Изолон</vendor>
     <vendorCode>889377</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>168</quantity_in_stock>
+    <quantity_in_stock>163</quantity_in_stock>
     <param name="Цвет">Зелёный</param>
     <param name="Диаметр" unit="">6.0</param>
     <param name="Длина" unit="">150.0</param>
@@ -89118,7 +89118,7 @@
     <vendorCode>1008-01С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Вес" unit="кг">3</param>
     <param name="Высота" unit="см">35</param>
     <param name="Возрастная группа">Детская</param>
@@ -112873,7 +112873,7 @@
     <vendorCode>889511</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>43</quantity_in_stock>
+    <quantity_in_stock>44</quantity_in_stock>
     <param name="Толщина" unit="мм">20</param>
     <param name="Тип" unit="">Шумоизоляция</param>
     <param name="Длина листа" unit="">2</param>
@@ -117280,7 +117280,7 @@
     <vendorCode>2038-04</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">S</param>
     <param name="Тип">Защита корпуса</param>
@@ -119634,7 +119634,7 @@
     <vendorCode>2004-N2С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">L</param>
     <param name="Тип">Защита голени/стопы</param>
@@ -119682,7 +119682,7 @@
     <vendorCode>2004-N3Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">M</param>
     <param name="Тип">Защита голени/стопы</param>
@@ -119850,7 +119850,7 @@
     <vendorCode>2004-N2Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">L</param>
     <param name="Тип">Защита голени/стопы</param>
@@ -119971,7 +119971,7 @@
     <vendorCode>2004-N2К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">L</param>
     <param name="Тип">Защита голени/стопы</param>
@@ -120002,7 +120002,7 @@
     <param name="Форма">Гнутая</param>
     <param name="Цвет">Красный</param>
   </offer>
-  <offer id="2568778700" available="false">
+  <offer id="2568778700" available="true">
     <url>https://proekt24.com/p2568778700-lapy-bokserskie-boxer.html</url>
     <price>616</price>
     <currencyId>UAH</currencyId>
@@ -120019,7 +120019,7 @@
     <vendorCode>2011-N3Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Длина" unit="см">24</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Лапа</param>
@@ -120235,7 +120235,7 @@
     <vendorCode>2036-N1Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -120361,7 +120361,7 @@
     <vendorCode>2030-N2Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -120370,7 +120370,7 @@
     <param name="Тип">Открытый</param>
     <param name="Цвет">Черный</param>
   </offer>
-  <offer id="2568896920" available="false">
+  <offer id="2568896920" available="true">
     <url>https://proekt24.com/p2568896920-bokserskie-perchatki-boxer.html</url>
     <price>797</price>
     <currencyId>UAH</currencyId>
@@ -120388,7 +120388,7 @@
     <vendorCode>2022-0N4К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="oz">10</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Бокс</param>
@@ -120418,7 +120418,7 @@
     <param name="Цвет">Синий</param>
     <param name="Размер" unit="">12 oz</param>
   </offer>
-  <offer id="2568896922" available="false">
+  <offer id="2568896922" available="true">
     <url>https://proekt24.com/p2568896922-shlem-karate-usilennoj.html</url>
     <price>737</price>
     <currencyId>UAH</currencyId>
@@ -120435,7 +120435,7 @@
     <vendorCode>2030-N1К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -120462,7 +120462,7 @@
     <vendorCode>2030-N2С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -120734,7 +120734,7 @@
     <vendorCode>2030-N2К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -120786,7 +120786,7 @@
     <vendorCode>2030-N1Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -120857,7 +120857,7 @@
     <vendorCode>2022-0N4С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <param name="Вес" unit="oz">10</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Бокс</param>
@@ -123790,7 +123790,7 @@
     <vendorCode>2030-N1С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -125250,7 +125250,7 @@
     <vendorCode>889668</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вес" unit="кг">0.75</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Цвет">Бежевый</param>
@@ -126273,7 +126273,7 @@
     <name>Лист ЭВА (EVA) черный 1500×1000х10 мм (автоковер, сота)</name>
     <vendorCode>889720</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">Резина</param>
     <param name="Длина" unit="">1500</param>
@@ -127463,7 +127463,7 @@
     <vendorCode>2021-0N3Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вес" unit="oz">12</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Цвет">Черный</param>
@@ -127701,7 +127701,7 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>1</quantity_in_stock>
   </offer>
-  <offer id="2873014379" available="false">
+  <offer id="2873014379" available="true">
     <url>https://proekt24.com/p2873014379-shlem-trenirovochnyj-polnoj.html</url>
     <price>1562</price>
     <currencyId>UAH</currencyId>
@@ -127712,10 +127712,10 @@
     <vendor>Boxer</vendor>
     <vendorCode>2033-N2К</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Цвет">Красный</param>
   </offer>
-  <offer id="2873014380" available="false">
+  <offer id="2873014380" available="true">
     <url>https://proekt24.com/p2873014380-bokserskie-perchatki-boxer.html</url>
     <price>1540</price>
     <currencyId>UAH</currencyId>
@@ -127726,10 +127726,10 @@
     <vendor>Boxer</vendor>
     <vendorCode>2021-0N3К</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Цвет">Красный</param>
   </offer>
-  <offer id="2873014385" available="false">
+  <offer id="2873014385" available="true">
     <url>https://proekt24.com/p2873014385-shlem-trenirovochnyj-polnoj.html</url>
     <price>1562</price>
     <currencyId>UAH</currencyId>
@@ -127740,10 +127740,10 @@
     <vendor>Boxer</vendor>
     <vendorCode>2033-N1С</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Цвет">Синий</param>
   </offer>
-  <offer id="2873014386" available="false">
+  <offer id="2873014386" available="true">
     <url>https://proekt24.com/p2873014386-bokserskie-perchatki-boxer.html</url>
     <price>1540</price>
     <currencyId>UAH</currencyId>
@@ -127754,9 +127754,9 @@
     <vendor>Boxer</vendor>
     <vendorCode>2021-0N3С</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>2</quantity_in_stock>
   </offer>
-  <offer id="2873014387" available="false">
+  <offer id="2873014387" available="true">
     <url>https://proekt24.com/p2873014387-shlem-trenirovochnyj-polnoj.html</url>
     <price>1562</price>
     <currencyId>UAH</currencyId>
@@ -127767,10 +127767,10 @@
     <vendor>Boxer</vendor>
     <vendorCode>2033-N1Ч</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Цвет">Черный</param>
   </offer>
-  <offer id="2873014388" available="false">
+  <offer id="2873014388" available="true">
     <url>https://proekt24.com/p2873014388-shlem-trenirovochnyj-polnoj.html</url>
     <price>1562</price>
     <currencyId>UAH</currencyId>
@@ -127781,10 +127781,10 @@
     <vendor>Boxer</vendor>
     <vendorCode>2033-N2Ч</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Цвет">Черный</param>
   </offer>
-  <offer id="2873014393" available="false">
+  <offer id="2873014393" available="true">
     <url>https://proekt24.com/p2873014393-shlem-trenirovochnyj-polnoj.html</url>
     <price>1562</price>
     <currencyId>UAH</currencyId>
@@ -127795,7 +127795,7 @@
     <vendor>Boxer</vendor>
     <vendorCode>2033-N2С</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Цвет">Синий</param>
   </offer>
   <offer id="2876599974" available="true">
