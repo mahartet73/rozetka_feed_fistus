@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-22 17:05">
+<yml_catalog date="2026-01-23 10:05">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="45.334695" />
+      <currency id="USD" rate="45.325035" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="53.200245" />
+      <currency id="EUR" rate="53.046105" />
     </currencies>
     <categories>
       <category id="150180657" parentId="138166206">Торговые стенды и аксессуары</category>
@@ -1416,7 +1416,7 @@
     <vendorCode>1002-01</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вес" unit="кг">30</param>
     <param name="Высота" unit="см">140</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -3914,7 +3914,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3119</quantity_in_stock>
+    <quantity_in_stock>3118</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -18125,7 +18125,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>272</quantity_in_stock>
+    <quantity_in_stock>230</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -25025,7 +25025,7 @@
     <vendorCode>20108</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>750</quantity_in_stock>
+    <quantity_in_stock>749</quantity_in_stock>
     <param name="Ширина" unit="мм">50</param>
     <param name="Длина" unit="м">50</param>
     <param name="Армированный скотч">Нет</param>
@@ -38781,7 +38781,7 @@
     <vendorCode>62770</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Длина" unit="м">3</param>
     <param name="Назначение материала">Для фасадов|Для кровли|Для балконов|Для стен</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -40175,7 +40175,7 @@
     <vendorCode>500102</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>436</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Назначение материала">Виброизоляция|Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
     <param name="Область применения">Для пола|Для инженерного оборудования|Для стен|Для потолков|Для каркасных конструкций</param>
@@ -65792,7 +65792,7 @@
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Бокс</param>
   </offer>
-  <offer id="1667570081" available="true">
+  <offer id="1667570081" available="false">
     <url>https://proekt24.com/p1667570081-perchatki-taekvan-boxer.html</url>
     <price>577</price>
     <currencyId>UAH</currencyId>
@@ -65807,7 +65807,7 @@
     <vendorCode>2020-01Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Натуральная кожа</param>
     <param name="Размер">L</param>
@@ -67633,7 +67633,7 @@
     <vendorCode>20117</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>54</quantity_in_stock>
+    <quantity_in_stock>63</quantity_in_stock>
     <param name="Армированный скотч">Нет</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">25</param>
@@ -68319,7 +68319,7 @@
     <vendorCode>30115</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>194</quantity_in_stock>
+    <quantity_in_stock>192</quantity_in_stock>
     <param name="Вес" unit="кг">0.38</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -71348,7 +71348,7 @@
     <vendorCode>56390</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>366</quantity_in_stock>
+    <quantity_in_stock>364</quantity_in_stock>
     <param name="Вес" unit="кг">0.78</param>
     <param name="Длина листа" unit="см">50</param>
     <param name="Применение материала">Двери|Крышка багажника|Пол автомобиля|Капот|Стенки багажника|Колесные арки|Потолок автомобиля|Крыша|Пол багажника|Дверные панели</param>
@@ -73768,7 +73768,7 @@
     <vendorCode>Н10020010Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Материал чехла">Искусственная кожа</param>
     <param name="Состояние">Новое</param>
@@ -112643,7 +112643,7 @@
     <param name="Толщина" unit="мм">12</param>
     <param name="Ширина" unit="см">30</param>
   </offer>
-  <offer id="2259494700" available="true">
+  <offer id="2259494700" available="false">
     <url>https://proekt24.com/p2259494700-material-eva-eva.html</url>
     <price>161</price>
     <currencyId>UAH</currencyId>
@@ -112658,7 +112658,7 @@
     <vendorCode>889506</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>90</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Цвет">Черный</param>
     <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -120196,7 +120196,7 @@
     <vendorCode>2011-N2С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Длина" unit="см">24</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Лапа</param>
@@ -126346,7 +126346,7 @@
     <param name="Цвет">Серый</param>
     <param name="Материал">PETG</param>
   </offer>
-  <offer id="2817054104" available="true">
+  <offer id="2817054104" available="false">
     <url>https://proekt24.com/p2817054104-list-eva-eva.html</url>
     <price>935</price>
     <currencyId>UAH</currencyId>
@@ -126360,7 +126360,7 @@
     <name>Лист ЭВА (EVA) черный 1500×1000х10 мм (автоковер, сота)</name>
     <vendorCode>889720</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Материал">Резина</param>
     <param name="Цвет">Черный</param>
     <param name="Длина" unit="мм">1500</param>
