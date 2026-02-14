@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-02-13 17:05">
+<yml_catalog date="2026-02-14 10:05">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="45.14265" />
+      <currency id="USD" rate="45.2571" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="53.58654" />
+      <currency id="EUR" rate="53.68398" />
     </currencies>
     <categories>
       <category id="150180657" parentId="138166206">Торговые стенды и аксессуары</category>
@@ -18559,7 +18559,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>825</quantity_in_stock>
+    <quantity_in_stock>820</quantity_in_stock>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Толщина" unit="">2</param>
     <param name="Ширина рулона, мм" unit="">1400</param>
@@ -25162,7 +25162,7 @@
     <vendorCode>J2304</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Длина подушки" unit="см">60</param>
     <param name="Застежка наволочки">потайная молния</param>
     <param name="Количество подушек в наборе" unit="шт">1</param>
@@ -37108,7 +37108,7 @@
     <vendorCode>62721</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>69</quantity_in_stock>
+    <quantity_in_stock>66</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для фасадов|Для кровли|Для балконов|Для стен</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -49057,7 +49057,7 @@
     <vendorCode>05020-02Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Натуральная кожа</param>
     <param name="Размер">L</param>
@@ -115994,7 +115994,7 @@
     <vendorCode>41028</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>79</quantity_in_stock>
+    <quantity_in_stock>69</quantity_in_stock>
     <param name="Вес" unit="кг">1.018</param>
     <param name="Длина листа" unit="см">37</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -122486,7 +122486,7 @@
     <vendorCode>EF-1924-VO</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вес" unit="г">830</param>
     <param name="Длина" unit="см">183</param>
     <param name="Материал">ТПЭ (термопластичный эластомер)</param>
@@ -124248,7 +124248,7 @@
     <vendor>Brizoll</vendor>
     <vendorCode>KT12-1</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">9</param>
     <param name="Высота" unit="мм">194</param>
     <param name="Высота с крышкой" unit="мм">241</param>
@@ -128061,25 +128061,48 @@
     <url>https://proekt24.com/p2914303555-skotch-lenta-pvh.html</url>
     <price>132</price>
     <currencyId>UAH</currencyId>
-    <categoryId>149555474</categoryId>
+    <categoryId>8229796</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Скотч, лента пвх (pvc) 100 мм х 25 м.п белый</name>
     <vendor>Onefleх</vendor>
-    <vendorCode>00002551</vendorCode>
+    <vendorCode>889759</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>455</quantity_in_stock>
+  </offer>
+  <offer id="2914925757" available="false">
+    <url>https://proekt24.com/p2914925757-kovrik-dlya-jogi.html</url>
+    <price>720</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>5928528</categoryId>
+    <picture>https://images.prom.ua/7063909887_kovrik-dlya-jogi.jpg</picture>
+    <picture>https://images.prom.ua/7063909881_kovrik-dlya-jogi.jpg</picture>
+    <picture>https://images.prom.ua/7063909882_kovrik-dlya-jogi.jpg</picture>
+    <picture>https://images.prom.ua/7063909883_kovrik-dlya-jogi.jpg</picture>
+    <picture>https://images.prom.ua/7063909885_kovrik-dlya-jogi.jpg</picture>
+    <picture>https://images.prom.ua/7063909886_kovrik-dlya-jogi.jpg</picture>
+    <picture>https://images.prom.ua/7063909884_kovrik-dlya-jogi.jpg</picture>
+    <picture>https://images.prom.ua/7063909888_kovrik-dlya-jogi.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Коврик для йоги и фитнеса EasyFit TPE+TC 6мм двухслойный зеленый-черный</name>
+    <vendor>EasyFit</vendor>
+    <vendorCode>EF-1924-GNBK</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Материал">ПВХ</param>
   </offer>
   <offer id="2914925758" available="false">
     <url>https://proekt24.com/p2914925758-myach-massazhnyj-easyfit.html</url>
     <price>92</price>
     <currencyId>UAH</currencyId>
-    <categoryId>150180632</categoryId>
+    <categoryId>102662966</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Мяч массажный EasyFit PVC 7,5 см жесткий черный</name>
     <vendor>EasyFit</vendor>
-    <vendorCode>00002553</vendorCode>
+    <vendorCode>EF-1063-B</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Цвет">Черный</param>
@@ -128088,12 +128111,12 @@
     <url>https://proekt24.com/p2914982861-skorostnaya-skakalka-schetchikom.html</url>
     <price>165</price>
     <currencyId>UAH</currencyId>
-    <categoryId>150180635</categoryId>
+    <categoryId>1946861</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Скоростная скакалка с счетчиком EasyFit черный-серый</name>
     <vendor>EasyFit</vendor>
-    <vendorCode>00002559</vendorCode>
+    <vendorCode>EF-1916-GY</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
   </offer>
@@ -128101,12 +128124,12 @@
     <url>https://proekt24.com/p2914982862-myach-dlya-fitnesa.html</url>
     <price>401</price>
     <currencyId>UAH</currencyId>
-    <categoryId>150180632</categoryId>
+    <categoryId>10675946</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Мяч для фитнеса EasyFit 65 см фиолетовый</name>
     <vendor>EasyFit</vendor>
-    <vendorCode>00002554</vendorCode>
+    <vendorCode>EF-3007-V</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Цвет">Фиолетовый</param>
@@ -128115,12 +128138,12 @@
     <url>https://proekt24.com/p2914982863-myach-dlya-fitnesa.html</url>
     <price>401</price>
     <currencyId>UAH</currencyId>
-    <categoryId>150180632</categoryId>
+    <categoryId>10675946</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Мяч для фитнеса EasyFit 65 см серый</name>
     <vendor>EasyFit</vendor>
-    <vendorCode>00002555</vendorCode>
+    <vendorCode>EF-3007-GY</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Цвет">Серый</param>
@@ -128129,12 +128152,12 @@
     <url>https://proekt24.com/p2914982864-myach-dlya-fitnesa.html</url>
     <price>401</price>
     <currencyId>UAH</currencyId>
-    <categoryId>150180632</categoryId>
+    <categoryId>10675946</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Мяч для фитнеса EasyFit 65 см синий</name>
     <vendor>EasyFit</vendor>
-    <vendorCode>00002556</vendorCode>
+    <vendorCode>EF-3007-BL</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Цвет">Синий</param>
@@ -128143,12 +128166,12 @@
     <url>https://proekt24.com/p2914982866-skakalka-utyazhelitelem-easyfit.html</url>
     <price>207</price>
     <currencyId>UAH</currencyId>
-    <categoryId>150180635</categoryId>
+    <categoryId>1946861</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Скакалка с утяжелителем EasyFit</name>
     <vendor>EasyFit</vendor>
-    <vendorCode>00002560</vendorCode>
+    <vendorCode>EF-1917</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
   </offer>
