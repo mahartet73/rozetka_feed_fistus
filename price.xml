@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-03-16 10:01">
+<yml_catalog date="2026-03-16 17:01">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -12,130 +12,198 @@
       <currency id="EUR" rate="53.199405" />
     </currencies>
     <categories>
+      <category id="151847407" parentId="138166206">Торговые стенды и аксессуары</category>
+      <category id="151847406" parentId="138619410">Оборудование и товары для предоставления услуг</category>
+      <category id="151847405" parentId="138166205">Перкуссия</category>
+      <category id="151847404" parentId="138619428">Музыкальные инструменты</category>
+      <category id="151847403" parentId="122264427">Опалубка и комплектующие к ней</category>
+      <category id="151847402" parentId="138619427">Строительная техника и оборудование</category>
+      <category id="151847401" parentId="137644543">Алюминиевый скотч</category>
+      <category id="151847400" parentId="137644543">Теплоизоляция для труб</category>
+      <category id="151847399" parentId="137644543">Теплоизоляционный пенополиэтилен</category>
+      <category id="151847398" parentId="137644543">Теплоизоляционная фольга</category>
+      <category id="151847397" parentId="137644543">Теплоизоляционный пенопласт</category>
+      <category id="151847396" parentId="137644543">Минеральная вата</category>
+      <category id="151847395" parentId="137644542">Комплектующие для кровли</category>
+      <category id="151847394" parentId="137644541">Обмазочные гидроизоляционные материалы</category>
+      <category id="151847393" parentId="138619501">Атлетические петли, лямки и напульсники</category>
+      <category id="151847392" parentId="138619501">Тяги для тренировки шеи</category>
+      <category id="151847391" parentId="138619501">Спортивные утяжелители</category>
+      <category id="151847390" parentId="138619501">Атлетические пояса</category>
+      <category id="151847389" parentId="138619500">Блоки и ролики для йоги</category>
+      <category id="151847388" parentId="138619499">Упоры для отжиманий</category>
+      <category id="151847387" parentId="138619499">Гимнастические обручи</category>
+      <category id="151847386" parentId="138619499">Медболы</category>
+      <category id="151847385" parentId="138619499">Скакалки</category>
+      <category id="151847384" parentId="138619499">Коврики для йоги и фитнеса</category>
+      <category id="151847383" parentId="138619499">Гимнастические диски</category>
+      <category id="151847382" parentId="138619499">Фитболы</category>
+      <category id="151847381" parentId="138619498">Кинезио тейпы и средства для тейпирования</category>
+      <category id="151847380" parentId="138619497">Боксерские бинты</category>
+      <category id="151847379" parentId="138619497">Капы</category>
+      <category id="151847378" parentId="138619497">Шлемы для бокса и единоборств</category>
+      <category id="151847377" parentId="138619497">Боксерские ринги</category>
+      <category id="151847376" parentId="138619497">Защита для боевых искусств</category>
+      <category id="151847375" parentId="138619497">Боксерские груши и снаряды</category>
+      <category id="151847374" parentId="138619497">Лапы, макивары ручные</category>
+      <category id="151847373" parentId="138619496">Доски для плавания, колобашки</category>
+      <category id="151847372" parentId="138619495">Аквапалки</category>
+      <category id="151847371" parentId="138619494">Велочехлы и велонакидки</category>
+      <category id="151847370" parentId="138619493">Балаклавы, подшлемники, маски</category>
+      <category id="151847369" parentId="138619456">Пляжные коврики</category>
+      <category id="151847368" parentId="138619455">Спортивная форма</category>
+      <category id="151847367" parentId="138619454">Тренажеры для пресса, гиперэкстензии</category>
+      <category id="151847366" parentId="138619454">Комплектующие и аксессуары для тренажеров</category>
+      <category id="151847365" parentId="138619454">Эспандеры</category>
+      <category id="151847364" parentId="138619454">Спортивные стенки и турники для дома</category>
+      <category id="151847363" parentId="138619454">Гантели, гири, штанги и диски</category>
+      <category id="151847362" parentId="138166176">Трекинговые палки и аксессуары к ним</category>
+      <category id="151847361" parentId="138166175">Костровые подставки и треноги</category>
+      <category id="151847360" parentId="138166175">Казаны</category>
+      <category id="151847359" parentId="137644424">Карематы и сидушки</category>
+      <category id="151847358" parentId="137644424">Туристические палатки и тенты</category>
+      <category id="151847357" parentId="137644424">Надувные подушки и подголовники</category>
+      <category id="151847356" parentId="137644423">Медицинские тренажеры и модели</category>
+      <category id="151847355" parentId="138619410">Медицинское оборудование и расходные материалы</category>
+      <category id="151847354" parentId="130863419">Стретч-пленка</category>
+      <category id="151847353" parentId="130863419">Пленка воздушно-пузырчатая</category>
+      <category id="151847352" parentId="138619453">Стяжки упаковочные</category>
+      <category id="151847351" parentId="138619453">Защитные и противоударные упаковочные материалы</category>
+      <category id="151847350" parentId="138619452">Клейкая универсальная лента</category>
+      <category id="151847349" parentId="138619452">Строительные и промышленные клеи</category>
+      <category id="151847348" parentId="138619485">Защитные коврики под кресла</category>
+      <category id="151847347" parentId="138619484">Наволочки</category>
+      <category id="151847346" parentId="138619484">Подушки</category>
+      <category id="151847345" parentId="138619483">Решетки для гриля и барбекю</category>
+      <category id="151847344" parentId="138619482">Мебельный поролон</category>
+      <category id="151847343" parentId="138619481">Блюда, стойки для тортов</category>
+      <category id="151847342" parentId="138619481">Кофейники, заварочные чайники и аксессуары</category>
+      <category id="151847341" parentId="138619481">Менажницы</category>
+      <category id="151847340" parentId="138619480">Доски разделочные</category>
+      <category id="151847339" parentId="138619479">Кастрюли</category>
+      <category id="151847338" parentId="138619479">Сковородки, сотейники, жаровни</category>
+      <category id="151847337" parentId="138619479">Комплектующие для кухонной посуды</category>
+      <category id="151847336" parentId="138619479">Кухонные ковши и кокотницы</category>
+      <category id="151847335" parentId="137644416">Емкости для хранения пищевых продуктов</category>
+      <category id="151847334" parentId="138619469">Массажеры для ног</category>
+      <category id="151847333" parentId="138619469">Массажеры для шеи и плеч</category>
+      <category id="151847332" parentId="138619469">Массажные накидки, маты, подушки</category>
+      <category id="151847331" parentId="137644403">Подушки для беременных и кормления ребенка</category>
+      <category id="151847330" parentId="137644402">Многофункциональные инструменты</category>
+      <category id="151847329" parentId="138619410">Инструмент</category>
+      <category id="151847328" parentId="138619447">Реабилитационные тренажеры</category>
+      <category id="151847327" parentId="138619447">Противопролежневые системы</category>
+      <category id="151847326" parentId="138619446">Фиксаторы голеностопного сустава</category>
+      <category id="151847325" parentId="138619446">Фиксаторы лучезапястного сустава и пальцев кисти</category>
+      <category id="151847324" parentId="138619446">Бандажи грыжевые и при опущении внутренних органов</category>
+      <category id="151847323" parentId="138619446">Фиксаторы плечевого и локтевого сустава</category>
+      <category id="151847322" parentId="138619446">Фиксаторы бедра</category>
+      <category id="151847321" parentId="138619446">Ортопедические фиксаторы для новорожденных</category>
+      <category id="151847320" parentId="138619446">Фиксаторы коленного сустава</category>
+      <category id="151847319" parentId="137644413">Разгрузочные жилеты и плитоноски без плит</category>
+      <category id="151847318" parentId="138619410">Военторг</category>
+      <category id="151847317" parentId="138619476">Сиденья автомобильные</category>
+      <category id="151847316" parentId="138619475">Чехлы, накидки, майки для автокресел</category>
+      <category id="151847315" parentId="138619475">Подушки-подголовники</category>
+      <category id="151847314" parentId="138619474">Ткани для обивки салона автомобилей</category>
+      <category id="151847313" parentId="138619443">Автомобильные герметики, клея</category>
+      <category id="151847312" parentId="137644409">Инструмент для ремонта мототехники</category>
+      <category id="151847311" parentId="138619442">Герметики и силиконы</category>
+      <category id="151847310" parentId="138619441">Подложки и настилы для пола</category>
+      <category id="151847309" parentId="138619440">Хомуты, зажимы</category>
+      <category id="151847308" parentId="137644405">Уплотнители для окон, дверей</category>
+      <category id="151847307" parentId="138166133">Детская и подростковая ортопедическая обувь</category>
+      <category id="151847306" parentId="138619415">Детская одежда и обувь</category>
+      <category id="151847305" parentId="138619436">Пух и перья</category>
+      <category id="151847304" parentId="120149335">Развивающие и игровые коврики</category>
+      <category id="151847303" parentId="138619435">Детские подушки</category>
+      <category id="151847302" parentId="138619434">Детские стульчики для кормления</category>
+      <category id="151847301" parentId="138619433">Детские мячи</category>
+      <category id="151847300" parentId="138619413">Товары для детей, общее</category>
+      <category id="151847299" parentId="138619431">Рубильники</category>
+      <category id="151847298" parentId="138619412">Комплектующие электрооборудования</category>
+      <category id="151847297">Бандажи послеоперационные и согревающие пояса</category>
+      <category id="151847296">Изготовление маркировочной продукции, табличек</category>
+      <category id="151847295">Складские услуги</category>
+      <category id="151847294">Типографические услуги</category>
+      <category id="128817937" parentId="2366740">Каучуковая изоляция толщина 32 мм</category>
+      <category id="109333648" parentId="2366740">Каучуковая изоляция толщина 25 мм</category>
+      <category id="98480428" parentId="2366740">Каучуковая изоляция толщина 19 мм</category>
+      <category id="98480427" parentId="2366740">Каучуковая изоляция толщина 13 мм</category>
+      <category id="98480426" parentId="2366740">Каучуковая изоляция толщина 9 мм</category>
+      <category id="98480425" parentId="2366740">Каучуковая изоляция толщина 6 мм</category>
+      <category id="151008123" parentId="137644541">Гидроизоляционные уплотнители</category>
+      <category id="151008122" parentId="138619502">Спортивные маты</category>
+      <category id="151008043" parentId="138619474">Материалы для вибро и шумоизоляции автомобиля</category>
+      <category id="151008033" parentId="138619468">Полимеры</category>
+      <category id="148858419" parentId="141469736">Снято с производства</category>
+      <category id="141469736">BOXER-NEW</category>
+      <category id="149555465" parentId="138619461">Звукоизоляционные материалы</category>
+      <category id="148644693" parentId="130690330">Сковорода алюминиевая</category>
+      <category id="130696734" parentId="130690330">Алюминиевая крышка</category>
+      <category id="130696686" parentId="130690330">Прижим чугунный</category>
+      <category id="130696681" parentId="130690330">Крышка-сковорода чугунная</category>
+      <category id="130696609" parentId="130690330">Плато чугунное</category>
+      <category id="130696600" parentId="130690330">Садж чугунный</category>
+      <category id="130696539" parentId="130690330">Чугунная крышка</category>
+      <category id="130696450" parentId="130690330">Стеклянная крышка</category>
+      <category id="130696441" parentId="130690330">Эмалированная посуда Elmani</category>
+      <category id="130696419" parentId="130690330">Кастрюля алюминиевая</category>
+      <category id="130696392" parentId="130690330">Кастрюля чугунная</category>
+      <category id="130696342" parentId="130690330">Сковорода чугунная без ручки</category>
+      <category id="130696328" parentId="130690330">Сковорода чугунная с литой ручкой</category>
+      <category id="130696204" parentId="130690330">Порционная чугунная посуда HoReCa</category>
+      <category id="130696111" parentId="130690330">Чугунная сковорода WOK</category>
+      <category id="130696049" parentId="130690330">Чугунная сковорода гриль</category>
+      <category id="130695931" parentId="130690330">Блинница чугунная</category>
+      <category id="130695910" parentId="130690330">Сковороды с антипригарным покрытием</category>
+      <category id="130695695" parentId="130690330">Сковорода чугунная с крышкой</category>
+      <category id="130695678" parentId="130690330">Чугунная сковорода</category>
+      <category id="130690330" parentId="94543941">Чугунная посуда</category>
+      <category id="148519291" parentId="148519048">PETG філамент</category>
+      <category id="148519288" parentId="148519048">PLA філамент</category>
+      <category id="148519048">3D-печать</category>
+      <category id="148777420" parentId="138619497">Перчатки для бокса и единоборств</category>
+      <category id="148644501" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 90 мм</category>
+      <category id="118482895" parentId="5893864">Химически сшитый полиэтилен ТУРЦИЯ</category>
+      <category id="144048496" parentId="137644541">Рулонные и листовые гидроизоляционные материалы</category>
+      <category id="144048410" parentId="138619469">Массажные дорожки и коврики</category>
+      <category id="142793467" parentId="5893864">Защитные профили</category>
+      <category id="129348803" parentId="2341984">Звукоизоляционная самоклеющаяся лента XPE</category>
+      <category id="133605716">Металлический профиль</category>
+      <category id="3061402" parentId="105419513">Звукоизоляция и шумоизоляция пола</category>
+      <category id="129892704" parentId="1946859">Манекен для борьбы</category>
+      <category id="12325125" parentId="938662">Аксессуары для автомобилей</category>
+      <category id="116112740" parentId="938662">Вибро-шумоизоляция автомобильная</category>
+      <category id="12527036" parentId="938662">Виброизоляция для автомобиля (материалы, стп, практик, визол, битопласт, stp)</category>
+      <category id="12527024" parentId="938662">Шумоизоляция автомобиля (материалы, шумка, сплэн, обесшумка авто)</category>
+      <category id="12321000" parentId="938662">Автолин</category>
+      <category id="138096524" parentId="938662">Тепло- шумоизолирующие материалы</category>
+      <category id="938662">Шумо-, виброизоляция для автомобилей</category>
+      <category id="105419513">Материалы для шумоизоляции помещений</category>
+      <category id="3021500">Экструдированный пенополистирол, экструзионный пенополистирол</category>
+      <category id="801930">Опалубка колонн</category>
+      <category id="130810240">Товары для реабилитации</category>
+      <category id="111619363">Тактическое снаряжение</category>
+      <category id="1932799">Товары для спорта, отдыха, туризма</category>
+      <category id="908017">Трубная изоляция, утеплители для труб</category>
+      <category id="4734220">Упаковочные материалы</category>
+      <category id="13883140">Вспененный этиленвинилацетат (материал EVA)</category>
+      <category id="105796939">Строительные мембраны</category>
+      <category id="97783027">Кровельные герметики и мастики</category>
+      <category id="2341984">Ленты, скотчи, уплотнители</category>
+      <category id="3061258">Утеплители, термоизоляция, техническая изоляция</category>
+      <category id="5893864">Вспененный полиэтилен, пенополиэтилен</category>
+      <category id="1721740">Вспененный каучук, аксессуары</category>
+      <category id="96802051">Кровельные ленты</category>
+      <category id="94543941">Товары для дома</category>
       <category id="103641628" parentId="908017">Бандажные хомуты</category>
       <category id="4077805" parentId="13552512">Изолон цветной</category>
       <category id="105213334" parentId="2341984">Бутилкаучуковые шнуры</category>
       <category id="123067007" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 80 мм</category>
       <category id="127460444" parentId="3676854">Изоляция труб Мерилон толщиной 25 мм</category>
-      <category id="148777420" parentId="138619497">Перчатки для бокса и единоборств</category>
-      <category id="148519288" parentId="148519048">PLA філамент</category>
-      <category id="148519291" parentId="148519048">PETG філамент</category>
       <category id="110003321" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 40 мм</category>
       <category id="122338444" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 20 мм</category>
-      <category id="151847294">Типографические услуги</category>
-      <category id="151847295">Складские услуги</category>
-      <category id="151847296">Изготовление маркировочной продукции, табличек</category>
-      <category id="151847297">Бандажи послеоперационные и согревающие пояса</category>
-      <category id="151847298" parentId="138619412">Комплектующие электрооборудования</category>
-      <category id="151847299" parentId="138619431">Рубильники</category>
-      <category id="151847300" parentId="138619413">Товары для детей, общее</category>
-      <category id="151847301" parentId="138619433">Детские мячи</category>
-      <category id="151847302" parentId="138619434">Детские стульчики для кормления</category>
-      <category id="151847303" parentId="138619435">Детские подушки</category>
-      <category id="151847304" parentId="120149335">Развивающие и игровые коврики</category>
-      <category id="151847305" parentId="138619436">Пух и перья</category>
-      <category id="151847306" parentId="138619415">Детская одежда и обувь</category>
-      <category id="151847307" parentId="138166133">Детская и подростковая ортопедическая обувь</category>
-      <category id="151847308" parentId="137644405">Уплотнители для окон, дверей</category>
-      <category id="151847309" parentId="138619440">Хомуты, зажимы</category>
-      <category id="151847310" parentId="138619441">Подложки и настилы для пола</category>
-      <category id="151847311" parentId="138619442">Герметики и силиконы</category>
-      <category id="151847312" parentId="137644409">Инструмент для ремонта мототехники</category>
-      <category id="151847313" parentId="138619443">Автомобильные герметики, клея</category>
-      <category id="151847314" parentId="138619474">Ткани для обивки салона автомобилей</category>
-      <category id="151847315" parentId="138619475">Подушки-подголовники</category>
-      <category id="151847316" parentId="138619475">Чехлы, накидки, майки для автокресел</category>
-      <category id="151847317" parentId="138619476">Сиденья автомобильные</category>
-      <category id="151847318" parentId="138619410">Военторг</category>
-      <category id="151847319" parentId="137644413">Разгрузочные жилеты и плитоноски без плит</category>
-      <category id="151847320" parentId="138619446">Фиксаторы коленного сустава</category>
-      <category id="151847321" parentId="138619446">Ортопедические фиксаторы для новорожденных</category>
-      <category id="151847322" parentId="138619446">Фиксаторы бедра</category>
-      <category id="151847323" parentId="138619446">Фиксаторы плечевого и локтевого сустава</category>
-      <category id="151847324" parentId="138619446">Бандажи грыжевые и при опущении внутренних органов</category>
-      <category id="151847325" parentId="138619446">Фиксаторы лучезапястного сустава и пальцев кисти</category>
-      <category id="151847326" parentId="138619446">Фиксаторы голеностопного сустава</category>
-      <category id="151847327" parentId="138619447">Противопролежневые системы</category>
-      <category id="151847328" parentId="138619447">Реабилитационные тренажеры</category>
-      <category id="151847329" parentId="138619410">Инструмент</category>
-      <category id="151847330" parentId="137644402">Многофункциональные инструменты</category>
-      <category id="151847331" parentId="137644403">Подушки для беременных и кормления ребенка</category>
-      <category id="151847332" parentId="138619469">Массажные накидки, маты, подушки</category>
-      <category id="151847333" parentId="138619469">Массажеры для шеи и плеч</category>
-      <category id="151847334" parentId="138619469">Массажеры для ног</category>
-      <category id="151847335" parentId="137644416">Емкости для хранения пищевых продуктов</category>
-      <category id="151847336" parentId="138619479">Кухонные ковши и кокотницы</category>
-      <category id="151847337" parentId="138619479">Комплектующие для кухонной посуды</category>
-      <category id="151847338" parentId="138619479">Сковородки, сотейники, жаровни</category>
-      <category id="151847339" parentId="138619479">Кастрюли</category>
-      <category id="151847340" parentId="138619480">Доски разделочные</category>
-      <category id="151847341" parentId="138619481">Менажницы</category>
-      <category id="151847342" parentId="138619481">Кофейники, заварочные чайники и аксессуары</category>
-      <category id="151847343" parentId="138619481">Блюда, стойки для тортов</category>
-      <category id="151847344" parentId="138619482">Мебельный поролон</category>
-      <category id="151847345" parentId="138619483">Решетки для гриля и барбекю</category>
-      <category id="151847346" parentId="138619484">Подушки</category>
-      <category id="151847347" parentId="138619484">Наволочки</category>
-      <category id="151847348" parentId="138619485">Защитные коврики под кресла</category>
-      <category id="151847349" parentId="138619452">Строительные и промышленные клеи</category>
-      <category id="151847350" parentId="138619452">Клейкая универсальная лента</category>
-      <category id="151847351" parentId="138619453">Защитные и противоударные упаковочные материалы</category>
-      <category id="151847352" parentId="138619453">Стяжки упаковочные</category>
-      <category id="151847353" parentId="130863419">Пленка воздушно-пузырчатая</category>
-      <category id="151847354" parentId="130863419">Стретч-пленка</category>
-      <category id="151847355" parentId="138619410">Медицинское оборудование и расходные материалы</category>
-      <category id="151847356" parentId="137644423">Медицинские тренажеры и модели</category>
-      <category id="151847357" parentId="137644424">Надувные подушки и подголовники</category>
-      <category id="151847358" parentId="137644424">Туристические палатки и тенты</category>
-      <category id="151847359" parentId="137644424">Карематы и сидушки</category>
-      <category id="151847360" parentId="138166175">Казаны</category>
-      <category id="151847361" parentId="138166175">Костровые подставки и треноги</category>
-      <category id="151847362" parentId="138166176">Трекинговые палки и аксессуары к ним</category>
-      <category id="151847363" parentId="138619454">Гантели, гири, штанги и диски</category>
-      <category id="151847364" parentId="138619454">Спортивные стенки и турники для дома</category>
-      <category id="151847365" parentId="138619454">Эспандеры</category>
-      <category id="151847366" parentId="138619454">Комплектующие и аксессуары для тренажеров</category>
-      <category id="151847367" parentId="138619454">Тренажеры для пресса, гиперэкстензии</category>
-      <category id="151847368" parentId="138619455">Спортивная форма</category>
-      <category id="151847369" parentId="138619456">Пляжные коврики</category>
-      <category id="151847370" parentId="138619493">Балаклавы, подшлемники, маски</category>
-      <category id="151847371" parentId="138619494">Велочехлы и велонакидки</category>
-      <category id="151847372" parentId="138619495">Аквапалки</category>
-      <category id="151847373" parentId="138619496">Доски для плавания, колобашки</category>
-      <category id="151847374" parentId="138619497">Лапы, макивары ручные</category>
-      <category id="151847375" parentId="138619497">Боксерские груши и снаряды</category>
-      <category id="151847376" parentId="138619497">Защита для боевых искусств</category>
-      <category id="151847377" parentId="138619497">Боксерские ринги</category>
-      <category id="151847378" parentId="138619497">Шлемы для бокса и единоборств</category>
-      <category id="151847379" parentId="138619497">Капы</category>
-      <category id="151847380" parentId="138619497">Боксерские бинты</category>
-      <category id="151847381" parentId="138619498">Кинезио тейпы и средства для тейпирования</category>
-      <category id="151847382" parentId="138619499">Фитболы</category>
-      <category id="151847383" parentId="138619499">Гимнастические диски</category>
-      <category id="151847384" parentId="138619499">Коврики для йоги и фитнеса</category>
-      <category id="151847385" parentId="138619499">Скакалки</category>
-      <category id="151847386" parentId="138619499">Медболы</category>
-      <category id="151847387" parentId="138619499">Гимнастические обручи</category>
-      <category id="151847388" parentId="138619499">Упоры для отжиманий</category>
-      <category id="151847389" parentId="138619500">Блоки и ролики для йоги</category>
-      <category id="151847390" parentId="138619501">Атлетические пояса</category>
-      <category id="151847391" parentId="138619501">Спортивные утяжелители</category>
-      <category id="151847392" parentId="138619501">Тяги для тренировки шеи</category>
-      <category id="151847393" parentId="138619501">Атлетические петли, лямки и напульсники</category>
-      <category id="151847394" parentId="137644541">Обмазочные гидроизоляционные материалы</category>
-      <category id="151847395" parentId="137644542">Комплектующие для кровли</category>
-      <category id="151847396" parentId="137644543">Минеральная вата</category>
-      <category id="151847397" parentId="137644543">Теплоизоляционный пенопласт</category>
-      <category id="151847398" parentId="137644543">Теплоизоляционная фольга</category>
-      <category id="151847399" parentId="137644543">Теплоизоляционный пенополиэтилен</category>
-      <category id="151847400" parentId="137644543">Теплоизоляция для труб</category>
-      <category id="151847401" parentId="137644543">Алюминиевый скотч</category>
-      <category id="151847402" parentId="138619427">Строительная техника и оборудование</category>
-      <category id="151847403" parentId="122264427">Опалубка и комплектующие к ней</category>
-      <category id="151847404" parentId="138619428">Музыкальные инструменты</category>
-      <category id="151847405" parentId="138166205">Перкуссия</category>
-      <category id="151847406" parentId="138619410">Оборудование и товары для предоставления услуг</category>
-      <category id="151847407" parentId="138166206">Торговые стенды и аксессуары</category>
       <category id="2366920" parentId="1721740">Лента из вспененного каучука самоклеющаяся</category>
       <category id="120149335" parentId="120149333">Игрушки</category>
       <category id="1946941" parentId="1932799">Спортивные маты, покрытия</category>
@@ -165,7 +233,6 @@
       <category id="130696319" parentId="130690330">Казан алюминиевый</category>
       <category id="130696700" parentId="130690330">Менажницы</category>
       <category id="130696728" parentId="130690330">Аксессуары для посуды</category>
-      <category id="148644501" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 90 мм</category>
       <category id="113655210" parentId="13883140">Вспененный этиленвинилацетат (материал EVA) самоклеющийся</category>
       <category id="1482551" parentId="2341984">Уплотнительная, теплоизоляционная, звукоизоляционная лента (дихтунг)</category>
       <category id="8229796" parentId="111894907">Скотч армированный, армированная лента, скотч pvc, пвх</category>
@@ -204,8 +271,6 @@
       <category id="12031997" parentId="938662">Карпет автомобильный </category>
       <category id="10675946" parentId="1946861">Фитболы</category>
       <category id="113645999" parentId="13883140">Вспененный этиленвинилацетат (материал EVA) в листах</category>
-      <category id="144048410" parentId="138619469">Массажные дорожки и коврики</category>
-      <category id="144048496" parentId="137644541">Рулонные и листовые гидроизоляционные материалы</category>
       <category id="121445733" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 100 мм</category>
       <category id="3530887" parentId="5893864">Газовспененные полиэтилены</category>
       <category id="23545681" parentId="7770707">Базальтовая скорлупа, базальтовые цилиндры толщиной 50 мм</category>
@@ -277,7 +342,6 @@
       <category id="110003315" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 30 мм</category>
       <category id="122741450" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 60 мм</category>
       <category id="122338181" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 70 мм</category>
-      <category id="98480427" parentId="2366740">Каучуковая изоляция толщина 13 мм</category>
       <category id="110212672" parentId="5863938">Коврики для пляжа</category>
       <category id="6112788" parentId="5863938">Аксессуары для ковриков</category>
       <category id="102662966" parentId="130810240">Массажные коврики</category>
@@ -294,79 +358,15 @@
       <category id="20243973" parentId="1947002">Накладки для единоборств</category>
       <category id="111894907" parentId="2341984">Скотчи строительные</category>
       <category id="130863419" parentId="128785722">Пленки упаковочные</category>
-      <category id="118482895" parentId="5893864">Химически сшитый полиэтилен ТУРЦИЯ</category>
-      <category id="129348803" parentId="2341984">Звукоизоляционная самоклеющаяся лента XPE</category>
       <category id="5863938" parentId="1932799">Коврики, карематы для спорта, фитнеса, йоги, туризма и отдыха</category>
-      <category id="130696419" parentId="130690330">Кастрюля алюминиевая</category>
-      <category id="130696441" parentId="130690330">Эмалированная посуда Elmani</category>
-      <category id="130696450" parentId="130690330">Стеклянная крышка</category>
-      <category id="130696539" parentId="130690330">Чугунная крышка</category>
       <category id="6037166" parentId="5863938">Сидушки туристические</category>
-      <category id="130696600" parentId="130690330">Садж чугунный</category>
-      <category id="130696609" parentId="130690330">Плато чугунное</category>
-      <category id="130696681" parentId="130690330">Крышка-сковорода чугунная</category>
-      <category id="130696686" parentId="130690330">Прижим чугунный</category>
-      <category id="130696734" parentId="130690330">Алюминиевая крышка</category>
-      <category id="148644693" parentId="130690330">Сковорода алюминиевая</category>
-      <category id="148519048">3D-печать</category>
-      <category id="130690330" parentId="94543941">Чугунная посуда</category>
-      <category id="130695678" parentId="130690330">Чугунная сковорода</category>
-      <category id="130695695" parentId="130690330">Сковорода чугунная с крышкой</category>
-      <category id="130695910" parentId="130690330">Сковороды с антипригарным покрытием</category>
-      <category id="130695931" parentId="130690330">Блинница чугунная</category>
-      <category id="130696049" parentId="130690330">Чугунная сковорода гриль</category>
-      <category id="130696111" parentId="130690330">Чугунная сковорода WOK</category>
-      <category id="130696204" parentId="130690330">Порционная чугунная посуда HoReCa</category>
-      <category id="130696328" parentId="130690330">Сковорода чугунная с литой ручкой</category>
-      <category id="130696342" parentId="130690330">Сковорода чугунная без ручки</category>
-      <category id="130696392" parentId="130690330">Кастрюля чугунная</category>
       <category id="113655202" parentId="13883140">Вспененный этиленвинилацетат (материал EVA) в рулонах</category>
       <category id="3682513" parentId="908017">Базальтовая скорлупа, базальтовые цилиндры</category>
       <category id="3531076" parentId="13552512">Физически сшитый вспененный пенополиэтилен</category>
       <category id="17100822" parentId="130810240">Ортопедические подушки и матрасы</category>
       <category id="131353379" parentId="130810240">Компрессионный трикотаж</category>
-      <category id="149555465" parentId="138619461">Звукоизоляционные материалы</category>
-      <category id="141469736">BOXER-NEW</category>
-      <category id="148858419" parentId="141469736">Снято с производства</category>
       <category id="7771509" parentId="3682513">Базальтовая скорлупа, базальтовые цилиндры с фольгой</category>
       <category id="121445171" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 100 мм</category>
-      <category id="94543941">Товары для дома</category>
-      <category id="96802051">Кровельные ленты</category>
-      <category id="1721740">Вспененный каучук, аксессуары</category>
-      <category id="5893864">Вспененный полиэтилен, пенополиэтилен</category>
-      <category id="3061258">Утеплители, термоизоляция, техническая изоляция</category>
-      <category id="2341984">Ленты, скотчи, уплотнители</category>
-      <category id="97783027">Кровельные герметики и мастики</category>
-      <category id="105796939">Строительные мембраны</category>
-      <category id="13883140">Вспененный этиленвинилацетат (материал EVA)</category>
-      <category id="4734220">Упаковочные материалы</category>
-      <category id="908017">Трубная изоляция, утеплители для труб</category>
-      <category id="1932799">Товары для спорта, отдыха, туризма</category>
-      <category id="111619363">Тактическое снаряжение</category>
-      <category id="130810240">Товары для реабилитации</category>
-      <category id="801930">Опалубка колонн</category>
-      <category id="3021500">Экструдированный пенополистирол, экструзионный пенополистирол</category>
-      <category id="105419513">Материалы для шумоизоляции помещений</category>
-      <category id="938662">Шумо-, виброизоляция для автомобилей</category>
-      <category id="142793467" parentId="5893864">Защитные профили</category>
-      <category id="138096524" parentId="938662">Тепло- шумоизолирующие материалы</category>
-      <category id="116112740" parentId="938662">Вибро-шумоизоляция автомобильная</category>
-      <category id="12321000" parentId="938662">Автолин</category>
-      <category id="12527024" parentId="938662">Шумоизоляция автомобиля (материалы, шумка, сплэн, обесшумка авто)</category>
-      <category id="12527036" parentId="938662">Виброизоляция для автомобиля (материалы, стп, практик, визол, битопласт, stp)</category>
-      <category id="12325125" parentId="938662">Аксессуары для автомобилей</category>
-      <category id="3061402" parentId="105419513">Звукоизоляция и шумоизоляция пола</category>
-      <category id="129892704" parentId="1946859">Манекен для борьбы</category>
-      <category id="133605716">Металлический профиль</category>
-      <category id="98480428" parentId="2366740">Каучуковая изоляция толщина 19 мм</category>
-      <category id="109333648" parentId="2366740">Каучуковая изоляция толщина 25 мм</category>
-      <category id="128817937" parentId="2366740">Каучуковая изоляция толщина 32 мм</category>
-      <category id="98480425" parentId="2366740">Каучуковая изоляция толщина 6 мм</category>
-      <category id="98480426" parentId="2366740">Каучуковая изоляция толщина 9 мм</category>
-      <category id="151008033" parentId="138619468">Полимеры</category>
-      <category id="151008043" parentId="138619474">Материалы для вибро и шумоизоляции автомобиля</category>
-      <category id="151008122" parentId="138619502">Спортивные маты</category>
-      <category id="151008123" parentId="137644541">Гидроизоляционные уплотнители</category>
     </categories>
   <offers>
 <offer id="3034034" available="false">
@@ -1143,7 +1143,7 @@
     <vendorCode>889406</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>133</quantity_in_stock>
+    <quantity_in_stock>130</quantity_in_stock>
     <param name="Длина" unit="см">46</param>
     <param name="Максимальный вес" unit="кг">100</param>
     <param name="Тип">Цепь для подвеса</param>
@@ -2118,7 +2118,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>666</quantity_in_stock>
+    <quantity_in_stock>664</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -2187,7 +2187,7 @@
     <vendorCode>1002-03</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Вес" unit="кг">22</param>
     <param name="Высота" unit="см">100</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -3627,7 +3627,7 @@
     <vendorCode>35015</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -3673,7 +3673,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1041</quantity_in_stock>
+    <quantity_in_stock>1040</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -3808,7 +3808,7 @@
     <vendorCode>901032</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2753</quantity_in_stock>
+    <quantity_in_stock>2723</quantity_in_stock>
     <param name="Плотность" unit="г/м2">33</param>
     <param name="Ширина" unit="м">1000</param>
     <param name="Водопоглощение по объему, не менее, %" unit="">0.7</param>
@@ -3915,7 +3915,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1328</quantity_in_stock>
+    <quantity_in_stock>1329</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -4350,7 +4350,7 @@
     <vendorCode>500095</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>55</quantity_in_stock>
+    <quantity_in_stock>50</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -5526,7 +5526,7 @@
     <vendorCode>ВП28/9</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>282</quantity_in_stock>
+    <quantity_in_stock>262</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">28</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
@@ -5557,7 +5557,7 @@
     <vendorCode>ВП35/9</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>412</quantity_in_stock>
+    <quantity_in_stock>392</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">35</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
@@ -10037,7 +10037,7 @@
     <vendorCode>112572</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Диаметр" unit="см">80</param>
     <param name="Конструкция">Цельная</param>
     <param name="Материал">Неопрен</param>
@@ -16160,7 +16160,7 @@
     <vendorCode>63329</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>131</quantity_in_stock>
+    <quantity_in_stock>132</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Минимальная рабочая температура" unit="град.">-36</param>
@@ -16227,7 +16227,7 @@
     <vendorCode>63323</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>40</quantity_in_stock>
+    <quantity_in_stock>34</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Материал мембраны">Полипропилен</param>
@@ -17123,7 +17123,7 @@
     <vendorCode>63335</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>80</quantity_in_stock>
+    <quantity_in_stock>79</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Ширина" unit="мм">0.1</param>
     <param name="Клеевая часть" unit="">Двусторонняя</param>
@@ -17190,7 +17190,7 @@
     <vendorCode>63324</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>117</quantity_in_stock>
+    <quantity_in_stock>114</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Минимальная рабочая температура" unit="град.">-36</param>
@@ -18360,7 +18360,7 @@
     <vendorCode>37515</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>256</quantity_in_stock>
+    <quantity_in_stock>255</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -18519,7 +18519,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>127</quantity_in_stock>
+    <quantity_in_stock>125</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Толщина" unit="">2</param>
@@ -18560,7 +18560,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>740</quantity_in_stock>
+    <quantity_in_stock>738</quantity_in_stock>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Толщина" unit="">2</param>
     <param name="Ширина рулона, мм" unit="">1400</param>
@@ -18579,7 +18579,7 @@
     <vendor>Шумофф</vendor>
     <vendorCode>7075121</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Консистенция">Аэрозоль</param>
     <param name="Объем" unit="мл">250</param>
   </offer>
@@ -22338,7 +22338,7 @@
     <vendorCode>889039</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>235</quantity_in_stock>
+    <quantity_in_stock>225</quantity_in_stock>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Потолок автомобиля</param>
     <param name="Состояние">Новое</param>
@@ -22508,7 +22508,7 @@
     <vendorCode>11362</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1096</quantity_in_stock>
+    <quantity_in_stock>571</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Капот|Стенки багажника|Двери|Пол автомобиля|Колесные арки|Крыша|Потолок автомобиля|Крышка багажника|Пол багажника|Дверные панели</param>
@@ -22592,7 +22592,7 @@
     <vendorCode>11364</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>538</quantity_in_stock>
+    <quantity_in_stock>527</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Капот|Стенки багажника|Двери|Пол автомобиля|Колесные арки|Крыша|Потолок автомобиля|Крышка багажника|Пол багажника|Дверные панели</param>
@@ -23011,7 +23011,7 @@
     <param name="Удельная теплоемкость" unit="">1,95 кДж/ (кг°С)</param>
     <param name="температура применения" unit="">от -80°С до +80°С</param>
   </offer>
-  <offer id="336665406" available="true">
+  <offer id="336665406" available="false">
     <url>https://proekt24.com/p336665406-gazovspenennyj-polietilen-laminirovannyj.html</url>
     <price>25</price>
     <currencyId>UAH</currencyId>
@@ -23030,7 +23030,7 @@
     <vendorCode>900034</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>42</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Длина" unit="м">50</param>
     <param name="Покрытие">Ламинированное</param>
@@ -23223,13 +23223,15 @@
     <vendorCode>889017</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>57</quantity_in_stock>
-    <param name="Количество метров в рулоне" unit="м">20</param>
-    <param name="Применение">Для панелей и проемов</param>
-    <param name="Тип ткани">Однотонная</param>
+    <quantity_in_stock>55</quantity_in_stock>
     <param name="Цвет">Серый</param>
-    <param name="Ширина рулона" unit="см">140</param>
+    <param name="Совместимость с маркой">Citroen|Fiat|Dodge|Honda|Volkswagen|Peugeot|Renault|Toyota|Mazda|Chrysler|Hyundai|Ford|BMW|Volvo|Mitsubishi|Audi|Kia|Nissan|Daewoo</param>
+    <param name="Совместимость с моделью">C2|RAV4|Q7|Lancer|Accord|C4|Dodge|Fusion|Q5|Lupo|Renault Megane|Tucson|Primera|Matiz|A6|Santa Fe|Chrysler|A4|Scorpio|Sebring|Colt|XC90|Focus|Yaris|Peugeot 206|Avensis|Nissan Maxima|Sonata|Fiesta|Camry|Getz|Passat|Ceed|C5|Tiguan|Mondeo|Caliber|Civic|Jazz|Almera|6|206</param>
     <param name="Толщина" unit="">2</param>
+    <param name="Тип ткани" unit="">Однотонная</param>
+    <param name="Применение" unit="">Для панелей и проемов</param>
+    <param name="Количество метров в рулоне" unit="">20.0</param>
+    <param name="Ширина рулона" unit="">140.0</param>
   </offer>
   <offer id="344528393" available="false">
     <url>https://proekt24.com/p344528393-himicheski-sshityj-vspenennyj.html</url>
@@ -23855,7 +23857,7 @@
     <vendorCode>901053</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>345</quantity_in_stock>
+    <quantity_in_stock>334</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -24809,7 +24811,7 @@
     <vendorCode>20108</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>593</quantity_in_stock>
+    <quantity_in_stock>587</quantity_in_stock>
     <param name="Ширина" unit="мм">50</param>
     <param name="Длина" unit="м">50</param>
     <param name="Армированный скотч">Нет</param>
@@ -36030,7 +36032,7 @@
     <vendorCode>EF-AWTS-200</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Вес" unit="кг">2</param>
     <param name="Количество утяжелителей">2</param>
     <param name="Особенности">Подходит для ног и рук|Неопреновое покрытие</param>
@@ -36093,7 +36095,7 @@
     <vendorCode>EF-AWTS-500</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Вес" unit="кг">5</param>
     <param name="Количество утяжелителей">2</param>
     <param name="Особенности">Подходит для ног и рук|Неопреновое покрытие</param>
@@ -36797,7 +36799,7 @@
     <vendorCode>1008810</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>200</quantity_in_stock>
+    <quantity_in_stock>199</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентный</param>
     <param name="Состояние клея">Готовая эмульсия</param>
     <param name="Срок хранения" unit="мес">12</param>
@@ -36942,11 +36944,11 @@
     <vendorCode>112577</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
-    <param name="Вес" unit="г">250</param>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Цвет">Черный</param>
-    <param name="Материал" unit="">Нейлон</param>
+    <param name="Материал">Нейлон</param>
     <param name="Максимальная нагрузка" unit="">75.0</param>
+    <param name="Вес" unit="">250.0</param>
   </offer>
   <offer id="1399834010" available="true">
     <url>https://proekt24.com/p1399834010-bitumnaya-lenta-alu.html</url>
@@ -36967,7 +36969,7 @@
     <vendorCode>62711</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>383</quantity_in_stock>
+    <quantity_in_stock>386</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для фасадов|Для кровли|Для балконов|Для стен</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -36995,7 +36997,7 @@
     <vendorCode>62712</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>687</quantity_in_stock>
+    <quantity_in_stock>684</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для фасадов|Для кровли|Для балконов|Для стен</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -37024,7 +37026,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>380</quantity_in_stock>
+    <quantity_in_stock>381</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для фасадов|Для кровли|Для балконов|Для стен</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -37052,7 +37054,7 @@
     <vendorCode>62714</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>151</quantity_in_stock>
+    <quantity_in_stock>143</quantity_in_stock>
     <param name="Тип использования">Для наружных работ</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Форма поставляемого материала">Рулон</param>
@@ -39108,7 +39110,7 @@
     <vendorCode>62138</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Тип использования">Универсальный</param>
     <param name="Назначение материала">Для кровли|Для полов|Для подвалов|Для фасадов|Для цоколей|Для бассейнов|Для балконов|Для стен</param>
     <param name="Длина" unit="м">3</param>
@@ -39164,7 +39166,7 @@
     <vendorCode>62136</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Тип использования">Универсальный</param>
     <param name="Назначение материала">Для кровли|Для полов|Для подвалов|Для фасадов|Для цоколей|Для бассейнов|Для балконов|Для стен</param>
     <param name="Длина" unit="м">3</param>
@@ -39424,7 +39426,7 @@
     <vendorCode>64022</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>274</quantity_in_stock>
+    <quantity_in_stock>272</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентная</param>
     <param name="Консистенция">Полужидкая</param>
     <param name="Назначение материала">Для полов|Для стен|Для фасадов|Для подвалов|Для резервуаров|Для кровли|Для цоколей</param>
@@ -39482,7 +39484,7 @@
     <vendorCode>64020</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>63</quantity_in_stock>
+    <quantity_in_stock>62</quantity_in_stock>
     <param name="Тип использования">Универсальный</param>
     <param name="Назначение материала">Для кровли|Для полов|Для подвалов|Для фасадов|Для цоколей|Для резервуаров|Для стен</param>
     <param name="Тип поверхности">Пластик|Металл|Древесина|Керамика|Бетон|Камень</param>
@@ -39699,7 +39701,7 @@
     <vendorCode>500162</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>920</quantity_in_stock>
+    <quantity_in_stock>917</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м³">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -39822,7 +39824,7 @@
     <vendorCode>500102</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>894</quantity_in_stock>
+    <quantity_in_stock>891</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -42777,7 +42779,7 @@
     <vendorCode>1002-05</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <param name="Вес" unit="кг">40</param>
     <param name="Высота" unit="см">170</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -45034,7 +45036,7 @@
     <vendorCode>10009</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Состояние">Новое</param>
     <param name="Диаметр" unit="">9</param>
     <param name="Материал" unit="">ПВХ</param>
@@ -48860,7 +48862,7 @@
     <vendorCode>56440</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>332</quantity_in_stock>
+    <quantity_in_stock>327</quantity_in_stock>
     <param name="Вес" unit="кг">0.77</param>
     <param name="Длина листа" unit="см">37</param>
     <param name="Применение материала">Двери|Крышка багажника|Пол автомобиля|Стенки багажника|Потолок автомобиля|Крыша|Пол багажника|Дверные панели</param>
@@ -49671,7 +49673,7 @@
     <vendorCode>2015-01С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">L</param>
@@ -52147,7 +52149,7 @@
     <vendorCode>900053</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>47</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -52508,7 +52510,7 @@
     <vendorCode>902022</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>212</quantity_in_stock>
+    <quantity_in_stock>152</quantity_in_stock>
     <param name="Тип покрытия" unit="">С одной стороны и самоклеещееся с другой</param>
     <param name="Группа материала по горючести" unit="">Г1 (слабогорючий)</param>
     <param name="Вид основного сырья" unit="">Неорганическое</param>
@@ -52970,7 +52972,7 @@
     <vendorCode>900056</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>238</quantity_in_stock>
+    <quantity_in_stock>235</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -53356,7 +53358,7 @@
     <vendorCode>83920</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>141</quantity_in_stock>
+    <quantity_in_stock>126</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -53389,7 +53391,7 @@
     <vendorCode>83940</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>317</quantity_in_stock>
+    <quantity_in_stock>307</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -54148,7 +54150,7 @@
     <vendorCode>832582</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>201</quantity_in_stock>
+    <quantity_in_stock>196</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -63286,7 +63288,7 @@
     <vendorCode>900011</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>50</quantity_in_stock>
+    <quantity_in_stock>49</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Длина" unit="м">200</param>
@@ -64105,7 +64107,7 @@
     <vendorCode>901051150</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1382</quantity_in_stock>
+    <quantity_in_stock>1307</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -66123,7 +66125,7 @@
     <vendorCode>EF-1344</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <param name="Длина" unit="м">2.8</param>
     <param name="Цвет">Черный</param>
     <param name="Материал ручек">Пластик</param>
@@ -67128,7 +67130,7 @@
     <vendorCode>20118</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>289</quantity_in_stock>
+    <quantity_in_stock>287</quantity_in_stock>
     <param name="Армированный скотч">Да</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">25</param>
@@ -67940,7 +67942,7 @@
     <vendorCode>6895162</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>87</quantity_in_stock>
+    <quantity_in_stock>86</quantity_in_stock>
     <param name="Тип напольного покрытия">Теплый пол</param>
     <param name="Фольгированная подложка">Да</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -68515,7 +68517,7 @@
     <vendorCode>832617</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>270</quantity_in_stock>
+    <quantity_in_stock>220</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -69906,7 +69908,7 @@
     <vendorCode>FT-1025/W-XL</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Размер">XL</param>
     <param name="Состояние">Новое</param>
     <param name="Цвет">Белый</param>
@@ -71052,7 +71054,7 @@
     <vendorCode>30016</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>181</quantity_in_stock>
+    <quantity_in_stock>179</quantity_in_stock>
     <param name="Вес" unit="кг">0.22</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -71174,7 +71176,7 @@
     <vendorCode>30013</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>53</quantity_in_stock>
+    <quantity_in_stock>50</quantity_in_stock>
     <param name="Вес" unit="кг">0.32</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -71205,7 +71207,7 @@
     <vendorCode>30014</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>50</quantity_in_stock>
+    <quantity_in_stock>48</quantity_in_stock>
     <param name="Вес" unit="кг">0.54</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -72160,7 +72162,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>129</quantity_in_stock>
+    <quantity_in_stock>123</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -73495,7 +73497,7 @@
     <vendorCode>888910</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Длина" unit="см">100</param>
     <param name="Материал чехла">Искусственная кожа</param>
     <param name="Состояние">Новое</param>
@@ -73999,7 +74001,7 @@
     <vendorCode>889021</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>69</quantity_in_stock>
+    <quantity_in_stock>67</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">4</param>
@@ -74166,7 +74168,7 @@
     <vendorCode>EF-1454s</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Конструкция">Ленточная</param>
     <param name="Состояние">Новое</param>
     <param name="Тип">Для фитнеса</param>
@@ -74798,7 +74800,7 @@
     <vendorCode>889002</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>192</quantity_in_stock>
+    <quantity_in_stock>185</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -76107,6 +76109,7 @@
     <picture>https://images.prom.ua/4742150250_shumoizolyatsiya-kanalizatsionnyh-trub.jpg</picture>
     <picture>https://images.prom.ua/4742150255_shumoizolyatsiya-kanalizatsionnyh-trub.jpg</picture>
     <picture>https://images.prom.ua/4742150252_shumoizolyatsiya-kanalizatsionnyh-trub.jpg</picture>
+    <picture>https://images.prom.ua/7156285725_shumoizolyatsiya-kanalizatsionnyh-trub.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Шумоизоляция канализационных труб Silent Pipe</name>
@@ -76115,7 +76118,16 @@
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>106</quantity_in_stock>
-    <param name="Тип">Шумоизоляция</param>
+    <param name="Назначение материала">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
+    <param name="Область применения">Для инженерного оборудования</param>
+    <param name="Форма поставки материала">Лист</param>
+    <param name="Длина" unit="мм">480</param>
+    <param name="Ширина" unit="мм">380</param>
+    <param name="Толщина" unit="мм">5.5</param>
+    <param name="Вес" unit="кг">6.6</param>
+    <param name="Цвет">Черный</param>
+    <param name="Степень жесткости">Полужесткий</param>
+    <param name="Эластичность материала">Да</param>
   </offer>
   <offer id="1909921609" available="false">
     <url>https://proekt24.com/p1909921609-material-eva-eva.html</url>
@@ -76982,7 +76994,7 @@
     <name>Поролон для спортивних матов 2000х1000х100 мм</name>
     <vendorCode>888999</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>223</quantity_in_stock>
+    <quantity_in_stock>221</quantity_in_stock>
     <param name="Толщина" unit="мм">100</param>
     <param name="Плотность, кг\м3" unit="кг\м3">50</param>
   </offer>
@@ -79727,7 +79739,7 @@
     <vendorCode>889128</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Длина" unit="мм">5000</param>
     <param name="Толщина" unit="мм">50</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -81161,7 +81173,7 @@
     <vendorCode>87149П</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Возрастная группа">Детская</param>
     <param name="Материал">Термопластик</param>
     <param name="Особенности">Чехол</param>
@@ -81756,7 +81768,7 @@
     <vendorCode>889207</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">S</param>
@@ -85570,7 +85582,7 @@
     <vendorCode>889329</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">S</param>
@@ -86609,7 +86621,7 @@
     <vendor>Изолон</vendor>
     <vendorCode>889375</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>145</quantity_in_stock>
+    <quantity_in_stock>133</quantity_in_stock>
     <param name="Цвет">Бирюзовый</param>
     <param name="Диаметр" unit="">6.0</param>
     <param name="Длина" unit="">150.0</param>
@@ -87491,7 +87503,7 @@
     <name>Лист ЭВА (EVA) темно-серый 1400×1000х10 мм (автоковер, сота)</name>
     <vendorCode>889408</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Цвет">Серый</param>
     <param name="Материал">Резина</param>
     <param name="Длина" unit="">1400</param>
@@ -89500,7 +89512,7 @@
     <vendorCode>ВП42/6С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>346</quantity_in_stock>
+    <quantity_in_stock>326</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">42</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
@@ -91324,7 +91336,7 @@
     <param name="Экологичный материал">Да</param>
     <param name="Длина рулона, п.м." unit="">30</param>
   </offer>
-  <offer id="2154103954" available="false">
+  <offer id="2154103954" available="true">
     <url>https://proekt24.com/p2154103954-zvukoizolyatsionnaya-samokleyuschayasya-lenta.html</url>
     <price>87</price>
     <currencyId>UAH</currencyId>
@@ -91340,7 +91352,7 @@
     <vendorCode>032030</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Назначение материала">Снижение ударного шума|Звукоизоляция|Улучшение акустики помещений|Виброизоляция</param>
     <param name="Область применения">Для стен|Для пола|Для каркасных конструкций|Для потолков|Для инженерного оборудования</param>
     <param name="Плотность" unit="кг/м³">33</param>
@@ -91620,7 +91632,7 @@
     <vendorCode>033030</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>50</quantity_in_stock>
+    <quantity_in_stock>51</quantity_in_stock>
     <param name="Назначение материала">Снижение ударного шума|Звукоизоляция|Улучшение акустики помещений|Виброизоляция</param>
     <param name="Область применения">Для стен|Для пола|Для каркасных конструкций|Для потолков|Для инженерного оборудования</param>
     <param name="Плотность" unit="кг/м³">33</param>
@@ -92361,7 +92373,7 @@
     <param name="Количество слоев" unit="">2</param>
     <param name="Ширина, мм" unit="">1000</param>
   </offer>
-  <offer id="2183163354" available="false">
+  <offer id="2183163354" available="true">
     <url>https://proekt24.com/p2183163354-skovoroda-chugunnaya-optima.html</url>
     <price>702</price>
     <currencyId>UAH</currencyId>
@@ -92376,7 +92388,7 @@
     <vendorCode>O2440-P-C</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">2.51</param>
@@ -92657,7 +92669,7 @@
     <param name="Діаметр основи, мм" unit="">72</param>
     <param name="Объем, л" unit="">1.12</param>
   </offer>
-  <offer id="2183163362" available="false">
+  <offer id="2183163362" available="true">
     <url>https://proekt24.com/p2183163362-skovoroda-chugunnaya-bez.html</url>
     <price>519</price>
     <currencyId>UAH</currencyId>
@@ -92679,7 +92691,7 @@
     <vendorCode>M2460U</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">2</param>
@@ -92817,7 +92829,7 @@
     <param name="Діаметр основи, мм" unit="">125</param>
     <param name="Объем, л" unit="">0.74</param>
   </offer>
-  <offer id="2183163367" available="false">
+  <offer id="2183163367" available="true">
     <url>https://proekt24.com/p2183163367-skovoroda-dlya-blinov.html</url>
     <price>471</price>
     <currencyId>UAH</currencyId>
@@ -92839,7 +92851,7 @@
     <vendorCode>O2415-P</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">1.61</param>
@@ -92933,7 +92945,7 @@
     <param name="Діаметр основи, мм" unit="">96</param>
     <param name="Объем, л" unit="">0.33</param>
   </offer>
-  <offer id="2183163370" available="false">
+  <offer id="2183163370" available="true">
     <url>https://proekt24.com/p2183163370-skovoroda-chugunnaya-bez.html</url>
     <price>798</price>
     <currencyId>UAH</currencyId>
@@ -92955,7 +92967,7 @@
     <vendorCode>M3060U</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">30 (см)</param>
     <param name="Вес" unit="кг">3.4</param>
@@ -93187,7 +93199,7 @@
     <param name="Ручка">Эмалированный металл</param>
     <param name="Тип">Кастрюля</param>
   </offer>
-  <offer id="2183163377" available="true">
+  <offer id="2183163377" available="false">
     <url>https://proekt24.com/p2183163377-skovoroda-antiprigarnym-pokrytiem.html</url>
     <price>729</price>
     <currencyId>UAH</currencyId>
@@ -93209,7 +93221,7 @@
     <vendorCode>53-2450</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Есть</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">1.02</param>
@@ -93228,7 +93240,7 @@
     <param name="Діаметр основи, мм" unit="">185</param>
     <param name="Объем, л" unit="">1.9</param>
   </offer>
-  <offer id="2183163378" available="true">
+  <offer id="2183163378" available="false">
     <url>https://proekt24.com/p2183163378-skovoroda-chugunnaya-optima.html</url>
     <price>786</price>
     <currencyId>UAH</currencyId>
@@ -93242,7 +93254,7 @@
     <vendorCode>O2640-P1-C</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">26 (см)</param>
     <param name="Вес" unit="кг">2.87</param>
@@ -93509,7 +93521,7 @@
     <param name="Толщина дна" unit="мм">4.4</param>
     <param name="Толщина стенок посуды" unit="мм">3.8</param>
   </offer>
-  <offer id="2183163386" available="false">
+  <offer id="2183163386" available="true">
     <url>https://proekt24.com/p2183163386-skovoroda-chugunnaya-steklyannoj.html</url>
     <price>660</price>
     <currencyId>UAH</currencyId>
@@ -93526,7 +93538,7 @@
     <vendorCode>M2460U-6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">2.6</param>
@@ -93546,7 +93558,7 @@
     <param name="Діаметр основи, мм" unit="">180</param>
     <param name="Объем, л" unit="">2.13</param>
   </offer>
-  <offer id="2183163387" available="false">
+  <offer id="2183163387" available="true">
     <url>https://proekt24.com/p2183163387-skovoroda-chugunnaya-optima.html</url>
     <price>576</price>
     <currencyId>UAH</currencyId>
@@ -93564,7 +93576,7 @@
     <vendorCode>O2460-P</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">2.01</param>
@@ -93583,7 +93595,7 @@
     <param name="Діаметр основи, мм" unit="">180</param>
     <param name="Объем, л" unit="">2.13</param>
   </offer>
-  <offer id="2183163388" available="false">
+  <offer id="2183163388" available="true">
     <url>https://proekt24.com/p2183163388-kastryulya-chugunnaya-bez.html</url>
     <price>1244</price>
     <currencyId>UAH</currencyId>
@@ -93603,7 +93615,7 @@
     <vendorCode>P-6L</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">4.1</param>
     <param name="Высота кастрюли без крышки" unit="см">11.9</param>
     <param name="Диаметр кастрюли">28 см</param>
@@ -93616,7 +93628,7 @@
     <param name="Толщина дна" unit="мм">4.4</param>
     <param name="Толщина стенок посуды" unit="мм">3.8</param>
   </offer>
-  <offer id="2183163389" available="true">
+  <offer id="2183163389" available="false">
     <url>https://proekt24.com/p2183163389-skovoroda-chugunnaya-optima.html</url>
     <price>870</price>
     <currencyId>UAH</currencyId>
@@ -93630,7 +93642,7 @@
     <vendorCode>O2660-P1-C</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">26 (см)</param>
     <param name="Вес" unit="кг">3.07</param>
@@ -93761,7 +93773,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.09</param>
   </offer>
-  <offer id="2183163393" available="true">
+  <offer id="2183163393" available="false">
     <url>https://proekt24.com/p2183163393-skovoroda-chugunnaya-litoj.html</url>
     <price>754</price>
     <currencyId>UAH</currencyId>
@@ -93781,7 +93793,7 @@
     <vendorCode>M2460P-6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">2.9</param>
@@ -93801,7 +93813,7 @@
     <param name="Діаметр основи, мм" unit="">180</param>
     <param name="Объем, л" unit="">2.13</param>
   </offer>
-  <offer id="2183163394" available="false">
+  <offer id="2183163394" available="true">
     <url>https://proekt24.com/p2183163394-skovoroda-chugunnaya-ovalnaya.html</url>
     <price>241</price>
     <currencyId>UAH</currencyId>
@@ -93817,7 +93829,7 @@
     <vendorCode>H2214</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Вес" unit="кг">0.95</param>
     <param name="Длина посуды" unit="см">22</param>
@@ -93837,7 +93849,7 @@
     <param name="Діаметр основи, мм" unit="">188х108</param>
     <param name="Объем, л" unit="">0.53</param>
   </offer>
-  <offer id="2183163395" available="false">
+  <offer id="2183163395" available="true">
     <url>https://proekt24.com/p2183163395-skovoroda-chugunnaya-chugunnoj.html</url>
     <price>1013</price>
     <currencyId>UAH</currencyId>
@@ -93853,7 +93865,7 @@
     <vendorCode>M2460U-2</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">3.78</param>
@@ -94021,7 +94033,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.26</param>
   </offer>
-  <offer id="2183163400" available="false">
+  <offer id="2183163400" available="true">
     <url>https://proekt24.com/p2183163400-skovoroda-chugunnaya-optima.html</url>
     <price>723</price>
     <currencyId>UAH</currencyId>
@@ -94035,7 +94047,7 @@
     <vendorCode>O2460-P-C</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">2.61</param>
@@ -94198,7 +94210,7 @@
     <param name="Діаметр основи, мм" unit="">293</param>
     <param name="Объем, л" unit="">2,8</param>
   </offer>
-  <offer id="2183163405" available="false">
+  <offer id="2183163405" available="true">
     <url>https://proekt24.com/p2183163405-skovoroda-chugunnaya-ovalnaya.html</url>
     <price>278</price>
     <currencyId>UAH</currencyId>
@@ -94215,7 +94227,7 @@
     <vendorCode>H1810-D</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Вес" unit="кг">0.95</param>
     <param name="Длина посуды" unit="см">18</param>
@@ -94295,7 +94307,7 @@
     <param name="Вес, гр" unit="гр">600</param>
     <param name="Довжина з ручками/вушками" unit="мм">355</param>
   </offer>
-  <offer id="2183163408" available="false">
+  <offer id="2183163408" available="true">
     <url>https://proekt24.com/p2183163408-kastryulya-chugunnaya-kryshkoj.html</url>
     <price>1884</price>
     <currencyId>UAH</currencyId>
@@ -94315,7 +94327,7 @@
     <vendorCode>P-6L-2</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Высота кастрюли без крышки" unit="см">11.9</param>
     <param name="Высота кастрюли с крышкой" unit="см">15.35</param>
     <param name="Диаметр кастрюли">28 см</param>
@@ -94329,7 +94341,7 @@
     <param name="Толщина стенок посуды" unit="мм">3.8</param>
     <param name="Вес" unit="">6.51</param>
   </offer>
-  <offer id="2183163409" available="false">
+  <offer id="2183163409" available="true">
     <url>https://proekt24.com/p2183163409-skovoroda-chugunnaya-180.html</url>
     <price>241</price>
     <currencyId>UAH</currencyId>
@@ -94347,7 +94359,7 @@
     <vendorCode>H1825</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">18 (см)</param>
     <param name="Вес" unit="кг">1</param>
@@ -94390,7 +94402,7 @@
     <param name="Ширина" unit="мм">200</param>
     <param name="Вес, гр" unit="гр">300</param>
   </offer>
-  <offer id="2183163411" available="true">
+  <offer id="2183163411" available="false">
     <url>https://proekt24.com/p2183163411-skovoroda-antiprigarnym-pokrytiem.html</url>
     <price>609</price>
     <currencyId>UAH</currencyId>
@@ -94412,7 +94424,7 @@
     <vendorCode>53-2245</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Есть</param>
     <param name="Верхний диаметр посуды">22 (см)</param>
     <param name="Вес" unit="кг">0.92</param>
@@ -94701,7 +94713,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.71</param>
   </offer>
-  <offer id="2183163419" available="false">
+  <offer id="2183163419" available="true">
     <url>https://proekt24.com/p2183163419-skovoroda-chugunnaya-optima.html</url>
     <price>996</price>
     <currencyId>UAH</currencyId>
@@ -94715,7 +94727,7 @@
     <vendorCode>O2860-P2-C</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">28 (см)</param>
     <param name="Вес" unit="кг">3.67</param>
@@ -94803,7 +94815,7 @@
     <param name="Толщина дна" unit="мм">3.8</param>
     <param name="Толщина стенок посуды" unit="мм">3.2</param>
   </offer>
-  <offer id="2183163422" available="true">
+  <offer id="2183163422" available="false">
     <url>https://proekt24.com/p2183163422-skovoroda-chugunnaya-240.html</url>
     <price>614</price>
     <currencyId>UAH</currencyId>
@@ -94824,7 +94836,7 @@
     <vendorCode>M2460P</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">2.3</param>
@@ -94920,7 +94932,7 @@
     <param name="Діаметр основи, мм" unit="">118</param>
     <param name="Объем, л" unit="">2.8</param>
   </offer>
-  <offer id="2183163425" available="true">
+  <offer id="2183163425" available="false">
     <url>https://proekt24.com/p2183163425-skovoroda-chugunnaya-next.html</url>
     <price>530</price>
     <currencyId>UAH</currencyId>
@@ -94941,7 +94953,7 @@
     <vendorCode>N2447-P</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">2.3</param>
@@ -95007,7 +95019,7 @@
     <vendorCode>O2460-P2-C</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">2.61</param>
@@ -95340,7 +95352,7 @@
     <param name="Діаметр основи, мм" unit="">216</param>
     <param name="Объем, л" unit="">2.8</param>
   </offer>
-  <offer id="2183163437" available="false">
+  <offer id="2183163437" available="true">
     <url>https://proekt24.com/p2183163437-skovoroda-chugunnaya-steklyannoj.html</url>
     <price>775</price>
     <currencyId>UAH</currencyId>
@@ -95357,7 +95369,7 @@
     <vendorCode>M2660U-6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">26 (см)</param>
     <param name="Вес" unit="кг">3.05</param>
@@ -95377,7 +95389,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.71</param>
   </offer>
-  <offer id="2183163438" available="true">
+  <offer id="2183163438" available="false">
     <url>https://proekt24.com/p2183163438-skovoroda-chugunnaya-optima.html</url>
     <price>628</price>
     <currencyId>UAH</currencyId>
@@ -95395,7 +95407,7 @@
     <vendorCode>O2640-P1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">26 (см)</param>
     <param name="Вес" unit="кг">2.17</param>
@@ -95801,7 +95813,7 @@
     <param name="Толщина дна" unit="мм">3.8</param>
     <param name="Толщина стенок посуды" unit="мм">3.2</param>
   </offer>
-  <offer id="2183163450" available="false">
+  <offer id="2183163450" available="true">
     <url>https://proekt24.com/p2183163450-skovoroda-chugunnaya-optima.html</url>
     <price>712</price>
     <currencyId>UAH</currencyId>
@@ -95820,7 +95832,7 @@
     <vendorCode>O2660-P</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">26 (см)</param>
     <param name="Вес" unit="кг">2.37</param>
@@ -95839,7 +95851,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.71</param>
   </offer>
-  <offer id="2183163451" available="false">
+  <offer id="2183163451" available="true">
     <url>https://proekt24.com/p2183163451-kastryulya-chugunnaya-steklyannoj.html</url>
     <price>1416</price>
     <currencyId>UAH</currencyId>
@@ -95860,7 +95872,7 @@
     <vendorCode>P-6L-6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">4.79</param>
     <param name="Высота кастрюли без крышки" unit="см">11.9</param>
     <param name="Высота кастрюли с крышкой" unit="см">18.44</param>
@@ -95910,7 +95922,7 @@
     <param name="Діаметр основи, мм" unit="">108</param>
     <param name="Объем, л" unit="">2.2</param>
   </offer>
-  <offer id="2183163453" available="true">
+  <offer id="2183163453" available="false">
     <url>https://proekt24.com/p2183163453-skovoroda-chugunnaya-160.html</url>
     <price>362</price>
     <currencyId>UAH</currencyId>
@@ -95927,7 +95939,7 @@
     <vendorCode>H1625-D</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">16 (см)</param>
     <param name="Вес" unit="кг">1.15</param>
@@ -96116,7 +96128,7 @@
     <param name="Ширина" unit="мм">200</param>
     <param name="Вес, гр" unit="гр">300</param>
   </offer>
-  <offer id="2183163459" available="false">
+  <offer id="2183163459" available="true">
     <url>https://proekt24.com/p2183163459-skovoroda-chugunnaya-optima.html</url>
     <price>555</price>
     <currencyId>UAH</currencyId>
@@ -96133,7 +96145,7 @@
     <vendorCode>O2440-P</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">1.91</param>
@@ -96366,7 +96378,7 @@
     <param name="Діаметр основи, мм" unit="">200</param>
     <param name="Объем, л" unit="">36</param>
   </offer>
-  <offer id="2183163466" available="false">
+  <offer id="2183163466" available="true">
     <url>https://proekt24.com/p2183163466-skovoroda-chugunnaya-ovalnaya.html</url>
     <price>456</price>
     <currencyId>UAH</currencyId>
@@ -96384,7 +96396,7 @@
     <vendorCode>H2214-D</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Вес" unit="кг">1.36</param>
     <param name="Длина посуды" unit="см">22</param>
@@ -96588,7 +96600,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.71</param>
   </offer>
-  <offer id="2183163472" available="false">
+  <offer id="2183163472" available="true">
     <url>https://proekt24.com/p2183163472-skovoroda-chugunnaya-optima.html</url>
     <price>817</price>
     <currencyId>UAH</currencyId>
@@ -96605,7 +96617,7 @@
     <vendorCode>O2860-P2</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">28 (см)</param>
     <param name="Вес" unit="кг">2.97</param>
@@ -96665,7 +96677,7 @@
     <param name="Діаметр основи, мм" unit="">118</param>
     <param name="Объем, л" unit="">2.8</param>
   </offer>
-  <offer id="2183163474" available="true">
+  <offer id="2183163474" available="false">
     <url>https://proekt24.com/p2183163474-skovoroda-chugunnaya-wok.html</url>
     <price>656</price>
     <currencyId>UAH</currencyId>
@@ -96686,7 +96698,7 @@
     <vendorCode>W26HP2</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">26 (см)</param>
     <param name="Вес" unit="кг">2.6</param>
@@ -97908,7 +97920,7 @@
     <param name="Діаметр основи, мм" unit="">226</param>
     <param name="Объем, л" unit="">3.75</param>
   </offer>
-  <offer id="2183163509" available="false">
+  <offer id="2183163509" available="true">
     <url>https://proekt24.com/p2183163509-skovoroda-chugunnaya-optima.html</url>
     <price>870</price>
     <currencyId>UAH</currencyId>
@@ -97922,7 +97934,7 @@
     <vendorCode>O2660-P-C</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">26 (см)</param>
     <param name="Вес" unit="кг">3.07</param>
@@ -98002,7 +98014,7 @@
     <param name="Вес, гр" unit="гр">900</param>
     <param name="Довжина з ручками/вушками" unit="мм">500</param>
   </offer>
-  <offer id="2183163512" available="false">
+  <offer id="2183163512" available="true">
     <url>https://proekt24.com/p2183163512-skovoroda-chugunnaya-optima.html</url>
     <price>817</price>
     <currencyId>UAH</currencyId>
@@ -98019,7 +98031,7 @@
     <vendorCode>O2860-P</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">28 (см)</param>
     <param name="Вес" unit="кг">2.97</param>
@@ -98271,7 +98283,7 @@
     <param name="Діаметр основи, мм" unit="">219</param>
     <param name="Объем, л" unit="">3.17</param>
   </offer>
-  <offer id="2183163519" available="false">
+  <offer id="2183163519" available="true">
     <url>https://proekt24.com/p2183163519-skovoroda-chugunnaya-bez.html</url>
     <price>966</price>
     <currencyId>UAH</currencyId>
@@ -98290,7 +98302,7 @@
     <vendorCode>M3470U</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">34 (см)</param>
     <param name="Вес" unit="кг">4.05</param>
@@ -98881,7 +98893,7 @@
     <param name="Діаметр основи, мм" unit="">165</param>
     <param name="Объем, л" unit="">1.38</param>
   </offer>
-  <offer id="2183163536" available="false">
+  <offer id="2183163536" available="true">
     <url>https://proekt24.com/p2183163536-skovoroda-chugunnaya-optima.html</url>
     <price>628</price>
     <currencyId>UAH</currencyId>
@@ -98899,7 +98911,7 @@
     <vendorCode>O2640-P</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">26 (см)</param>
     <param name="Вес" unit="кг">2.17</param>
@@ -99169,7 +99181,7 @@
     <param name="Діаметр основи, мм" unit="">145</param>
     <param name="Объем, л" unit="">0.95</param>
   </offer>
-  <offer id="2183163545" available="false">
+  <offer id="2183163545" available="true">
     <url>https://proekt24.com/p2183163545-skovoroda-chugunnaya-180.html</url>
     <price>404</price>
     <currencyId>UAH</currencyId>
@@ -99186,7 +99198,7 @@
     <vendorCode>H1825-D</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">18 (см)</param>
     <param name="Вес" unit="кг">1.47</param>
@@ -99206,7 +99218,7 @@
     <param name="Діаметр основи, мм" unit="">125</param>
     <param name="Объем, л" unit="">0.56</param>
   </offer>
-  <offer id="2183163546" available="false">
+  <offer id="2183163546" available="true">
     <url>https://proekt24.com/p2183163546-skovoroda-chugunnaya-optima.html</url>
     <price>786</price>
     <currencyId>UAH</currencyId>
@@ -99220,7 +99232,7 @@
     <vendorCode>O2640-P-C</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">26 (см)</param>
     <param name="Вес" unit="кг">2.87</param>
@@ -99423,7 +99435,7 @@
     <param name="Діаметр основи, мм" unit="">190</param>
     <param name="Объем, л" unit="">25</param>
   </offer>
-  <offer id="2183163552" available="false">
+  <offer id="2183163552" available="true">
     <url>https://proekt24.com/p2183163552-kryshka-skovoroda-chugunnaya.html</url>
     <price>1317</price>
     <currencyId>UAH</currencyId>
@@ -99440,7 +99452,7 @@
     <vendorCode>A400GKS</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">40 (см)</param>
     <param name="Вес" unit="кг">5.9</param>
@@ -99744,7 +99756,7 @@
     <param name="Діаметр основи, мм" unit="">110</param>
     <param name="Объем, л" unit="">0.44</param>
   </offer>
-  <offer id="2183163561" available="true">
+  <offer id="2183163561" available="false">
     <url>https://proekt24.com/p2183163561-skovoroda-chugunnaya-wok.html</url>
     <price>908</price>
     <currencyId>UAH</currencyId>
@@ -99762,7 +99774,7 @@
     <vendorCode>W30</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">30 (см)</param>
     <param name="Вес" unit="кг">2.9</param>
@@ -100118,7 +100130,7 @@
     <param name="Діаметр основи, мм" unit="">180</param>
     <param name="Объем, л" unit="">2.13</param>
   </offer>
-  <offer id="2183164181" available="true">
+  <offer id="2183164181" available="false">
     <url>https://proekt24.com/p2183164181-skovoroda-chugunnaya-optima.html</url>
     <price>712</price>
     <currencyId>UAH</currencyId>
@@ -100135,7 +100147,7 @@
     <vendorCode>O2660-P1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">26 (см)</param>
     <param name="Вес" unit="кг">2.37</param>
@@ -100434,7 +100446,7 @@
     <param name="Діаметр основи, мм" unit="">168</param>
     <param name="Объем, л" unit="">1.46</param>
   </offer>
-  <offer id="2183164190" available="false">
+  <offer id="2183164190" available="true">
     <url>https://proekt24.com/p2183164190-kastryulya-chugunnaya-kryshkoj.html</url>
     <price>1926</price>
     <currencyId>UAH</currencyId>
@@ -100454,7 +100466,7 @@
     <vendorCode>P-6L-1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Высота кастрюли без крышки" unit="см">11.9</param>
     <param name="Высота кастрюли с крышкой" unit="см">17.35</param>
     <param name="Диаметр кастрюли">28 см</param>
@@ -100597,7 +100609,7 @@
     <param name="Діаметр основи, мм" unit="">144</param>
     <param name="Объем, л" unit="">0.45</param>
   </offer>
-  <offer id="2183164195" available="true">
+  <offer id="2183164195" available="false">
     <url>https://proekt24.com/p2183164195-skovoroda-chugunnaya-next.html</url>
     <price>681</price>
     <currencyId>UAH</currencyId>
@@ -100619,7 +100631,7 @@
     <vendorCode>N2447-P-6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">2.9</param>
@@ -100818,7 +100830,7 @@
     <param name="Діаметр основи, мм" unit="">278</param>
     <param name="Объем, л" unit="">6.8</param>
   </offer>
-  <offer id="2183164201" available="true">
+  <offer id="2183164201" available="false">
     <url>https://proekt24.com/p2183164201-skovoroda-chugunnaya-wok.html</url>
     <price>656</price>
     <currencyId>UAH</currencyId>
@@ -100839,7 +100851,7 @@
     <vendorCode>W26HP1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">26 (см)</param>
     <param name="Вес" unit="кг">2.6</param>
@@ -100858,7 +100870,7 @@
     <param name="Діаметр основи, мм" unit="">118</param>
     <param name="Объем, л" unit="">2.8</param>
   </offer>
-  <offer id="2183164202" available="true">
+  <offer id="2183164202" available="false">
     <url>https://proekt24.com/p2183164202-skovoroda-chugunnaya-wok.html</url>
     <price>1101</price>
     <currencyId>UAH</currencyId>
@@ -100877,7 +100889,7 @@
     <vendorCode>W30-6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">30 (см)</param>
     <param name="Вес" unit="кг">3.72</param>
@@ -100926,7 +100938,7 @@
     <param name="Толщина дна" unit="мм">3.8</param>
     <param name="Толщина стенок посуды" unit="мм">3.2</param>
   </offer>
-  <offer id="2183164204" available="false">
+  <offer id="2183164204" available="true">
     <url>https://proekt24.com/p2183164204-skovoroda-chugunnaya-180.html</url>
     <price>430</price>
     <currencyId>UAH</currencyId>
@@ -100944,7 +100956,7 @@
     <vendorCode>H1825-DK</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">18 (см)</param>
     <param name="Вес" unit="кг">1.47</param>
@@ -101229,7 +101241,7 @@
     <param name="Діаметр основи, мм" unit="">168</param>
     <param name="Объем, л" unit="">1.46</param>
   </offer>
-  <offer id="2183164212" available="false">
+  <offer id="2183164212" available="true">
     <url>https://proekt24.com/p2183164212-skovoroda-chugunnaya-optima.html</url>
     <price>996</price>
     <currencyId>UAH</currencyId>
@@ -101243,7 +101255,7 @@
     <vendorCode>O2860-P-C</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">28 (см)</param>
     <param name="Вес" unit="кг">3.67</param>
@@ -101490,7 +101502,7 @@
     <param name="Вес, гр" unit="гр">450</param>
     <param name="Высота" unit="">3.2</param>
   </offer>
-  <offer id="2183248580" available="false">
+  <offer id="2183248580" available="true">
     <url>https://proekt24.com/p2183248580-prizhim-chugunnyj-gril.html</url>
     <price>498</price>
     <currencyId>UAH</currencyId>
@@ -101509,7 +101521,7 @@
     <vendorCode>A24PR</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Материал">Чугун</param>
     <param name="Вес, гр" unit="гр">1800</param>
     <param name="Диаметр" unit="">19.5</param>
@@ -101650,7 +101662,7 @@
     <param name="Діаметр основи, мм" unit="">278</param>
     <param name="Объем, л" unit="">6.8</param>
   </offer>
-  <offer id="2183248585" available="false">
+  <offer id="2183248585" available="true">
     <url>https://proekt24.com/p2183248585-kazan-chugunnyj-aziatskij.html</url>
     <price>1888</price>
     <currencyId>UAH</currencyId>
@@ -101672,7 +101684,7 @@
     <vendorCode>KA08-2</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">7.71</param>
     <param name="Материал">Чугун</param>
     <param name="Высота" unit="">136.7</param>
@@ -101724,7 +101736,7 @@
     <param name="Дужка для подвешивания" unit="">Есть</param>
     <param name="Тренога" unit="">Нет</param>
   </offer>
-  <offer id="2183248587" available="false">
+  <offer id="2183248587" available="true">
     <url>https://proekt24.com/p2183248587-kazan-chugunnyj-aziatskij.html</url>
     <price>2454</price>
     <currencyId>UAH</currencyId>
@@ -101742,7 +101754,7 @@
     <vendorCode>KA08-2S</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">7.71</param>
     <param name="Материал">Чугун</param>
     <param name="Высота" unit="">136.7</param>
@@ -101807,7 +101819,7 @@
     <param name="Цвет" unit="">Черный</param>
     <param name="Чехол для хранения и транспортировки" unit="">Да</param>
   </offer>
-  <offer id="2183248590" available="false">
+  <offer id="2183248590" available="true">
     <url>https://proekt24.com/p2183248590-kazan-chugunnyj-aziatskij.html</url>
     <price>2549</price>
     <currencyId>UAH</currencyId>
@@ -101824,7 +101836,7 @@
     <vendorCode>KA10-1S</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">8.66</param>
     <param name="Высота" unit="мм">165</param>
     <param name="Высота с крышкой" unit="мм">227</param>
@@ -101963,7 +101975,7 @@
     <param name="Толщина стенок казана" unit="мм">3.8</param>
     <param name="Тренога">Нет</param>
   </offer>
-  <offer id="2183248596" available="false">
+  <offer id="2183248596" available="true">
     <url>https://proekt24.com/p2183248596-kazan-chugunnyj-aziatskij.html</url>
     <price>2738</price>
     <currencyId>UAH</currencyId>
@@ -101984,7 +101996,7 @@
     <vendorCode>KA08-3S</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">9.2</param>
     <param name="Материал">Чугун</param>
     <param name="Назначение">Для открытого огня</param>
@@ -102445,7 +102457,7 @@
     <param name="Дужка для подвешивания" unit="">Есть</param>
     <param name="Тренога" unit="">Нет</param>
   </offer>
-  <offer id="2183248612" available="false">
+  <offer id="2183248612" available="true">
     <url>https://proekt24.com/p2183248612-kazan-chugunnyj-aziatskij.html</url>
     <price>1132</price>
     <currencyId>UAH</currencyId>
@@ -102465,7 +102477,7 @@
     <vendorCode>KA08</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">4.81</param>
     <param name="Высота" unit="мм">136.7</param>
     <param name="Диаметр" unit="мм">360</param>
@@ -102766,7 +102778,7 @@
     <param name="Тип" unit="">Крышка</param>
     <param name="Материал" unit="">Чугун</param>
   </offer>
-  <offer id="2183248623" available="false">
+  <offer id="2183248623" available="true">
     <url>https://proekt24.com/p2183248623-kazan-chugunnyj-aziatskij.html</url>
     <price>2433</price>
     <currencyId>UAH</currencyId>
@@ -102783,7 +102795,7 @@
     <vendorCode>KA08-1S</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">8.61</param>
     <param name="Высота" unit="мм">136.7</param>
     <param name="Высота с крышкой" unit="мм">199.2</param>
@@ -103172,7 +103184,7 @@
     <param name="Толщина стенок казана" unit="мм">3.8</param>
     <param name="Тренога">Есть</param>
   </offer>
-  <offer id="2183248637" available="false">
+  <offer id="2183248637" available="true">
     <url>https://proekt24.com/p2183248637-zharovnya-chugunnaya-260.html</url>
     <price>1081</price>
     <currencyId>UAH</currencyId>
@@ -103186,7 +103198,7 @@
     <vendorCode>M2660U-1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">26 (см)</param>
     <param name="Вес" unit="кг">3.75</param>
@@ -103599,7 +103611,7 @@
     <param name="Тип">Банка</param>
     <param name="Форма">Цилиндрическая</param>
   </offer>
-  <offer id="2183248653" available="false">
+  <offer id="2183248653" available="true">
     <url>https://proekt24.com/p2183248653-kazan-chugunnyj-aziatskij.html</url>
     <price>1867</price>
     <currencyId>UAH</currencyId>
@@ -103620,7 +103632,7 @@
     <vendorCode>KA08-1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">8.61</param>
     <param name="Высота" unit="мм">136.7</param>
     <param name="Высота с крышкой" unit="мм">199.2</param>
@@ -103672,7 +103684,7 @@
     <param name="Толщина стенок казана" unit="мм">3.8</param>
     <param name="Тренога">Есть</param>
   </offer>
-  <offer id="2183248655" available="true">
+  <offer id="2183248655" available="false">
     <url>https://proekt24.com/p2183248655-kazan-chugunnyj-turisticheskij.html</url>
     <price>2067</price>
     <currencyId>UAH</currencyId>
@@ -103690,7 +103702,7 @@
     <vendorCode>KT10-2</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вес" unit="кг">8.1</param>
     <param name="Материал">Чугун</param>
     <param name="Назначение">Для открытого огня</param>
@@ -103705,7 +103717,7 @@
     <param name="Диаметр" unit="">300</param>
     <param name="Объем" unit="мл.">10</param>
   </offer>
-  <offer id="2183248656" available="false">
+  <offer id="2183248656" available="true">
     <url>https://proekt24.com/p2183248656-kazan-chugunnyj-aziatskij.html</url>
     <price>2843</price>
     <currencyId>UAH</currencyId>
@@ -103727,7 +103739,7 @@
     <vendorCode>KA10-3S</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">10</param>
     <param name="Материал">Чугун</param>
     <param name="Назначение">Для открытого огня</param>
@@ -103856,7 +103868,7 @@
     <param name="Вес, гр" unit="гр">600</param>
     <param name="Высота" unit="">6.2</param>
   </offer>
-  <offer id="2183248662" available="false">
+  <offer id="2183248662" available="true">
     <url>https://proekt24.com/p2183248662-kazan-chugunnyj-aziatskij.html</url>
     <price>1814</price>
     <currencyId>UAH</currencyId>
@@ -103872,7 +103884,7 @@
     <vendorCode>KA10S</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">5.31</param>
     <param name="Высота" unit="мм">165</param>
     <param name="Диаметр" unit="мм">360</param>
@@ -104014,7 +104026,7 @@
     <param name="Толщина стенок казана" unit="мм">3.8</param>
     <param name="Тренога">Есть</param>
   </offer>
-  <offer id="2183248668" available="false">
+  <offer id="2183248668" available="true">
     <url>https://proekt24.com/p2183248668-kazan-chugunnyj-aziatskij.html</url>
     <price>2812</price>
     <currencyId>UAH</currencyId>
@@ -104036,7 +104048,7 @@
     <vendorCode>KA15-3</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">13.3</param>
     <param name="Материал">Чугун</param>
     <param name="Назначение">Для открытого огня</param>
@@ -104798,7 +104810,7 @@
     <param name="Толщина стенок казана" unit="мм">3.8</param>
     <param name="Тренога">Есть</param>
   </offer>
-  <offer id="2183248696" available="false">
+  <offer id="2183248696" available="true">
     <url>https://proekt24.com/p2183248696-kazan-chugunnyj-aziatskij.html</url>
     <price>2466</price>
     <currencyId>UAH</currencyId>
@@ -104820,7 +104832,7 @@
     <vendorCode>KA12-3</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">11.86</param>
     <param name="Материал">Чугун</param>
     <param name="Назначение">Для открытого огня</param>
@@ -105056,7 +105068,7 @@
     <param name="Форма">Круглая</param>
     <param name="Вес" unit="">0.5</param>
   </offer>
-  <offer id="2183248704" available="false">
+  <offer id="2183248704" available="true">
     <url>https://proekt24.com/p2183248704-kazan-chugunnyj-aziatskij.html</url>
     <price>3462</price>
     <currencyId>UAH</currencyId>
@@ -105078,7 +105090,7 @@
     <vendorCode>KA15-3S</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">13.3</param>
     <param name="Материал">Чугун</param>
     <param name="Назначение">Для открытого огня</param>
@@ -105297,7 +105309,7 @@
     <param name="Толщина стенок казана" unit="мм">3.5</param>
     <param name="Тренога">Есть</param>
   </offer>
-  <offer id="2183248713" available="false">
+  <offer id="2183248713" available="true">
     <url>https://proekt24.com/p2183248713-kazan-chugunnyj-aziatskij.html</url>
     <price>3116</price>
     <currencyId>UAH</currencyId>
@@ -105318,7 +105330,7 @@
     <vendorCode>KA12-3S</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">11.86</param>
     <param name="Материал">Чугун</param>
     <param name="Назначение">Для открытого огня</param>
@@ -105370,7 +105382,7 @@
     <param name="Діаметр основи, мм" unit="">278</param>
     <param name="Объем, л" unit="">6.8</param>
   </offer>
-  <offer id="2183248716" available="false">
+  <offer id="2183248716" available="true">
     <url>https://proekt24.com/p2183248716-kazan-chugunnyj-aziatskij.html</url>
     <price>2570</price>
     <currencyId>UAH</currencyId>
@@ -105388,7 +105400,7 @@
     <vendorCode>KA10-2S</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">8.21</param>
     <param name="Материал">Чугун</param>
     <param name="Высота" unit="">165</param>
@@ -105403,7 +105415,7 @@
     <param name="Дужка для подвешивания" unit="">Есть</param>
     <param name="Тренога" unit="">Нет</param>
   </offer>
-  <offer id="2183248717" available="false">
+  <offer id="2183248717" available="true">
     <url>https://proekt24.com/p2183248717-kazan-chugunnyj-aziatskij.html</url>
     <price>1698</price>
     <currencyId>UAH</currencyId>
@@ -105419,7 +105431,7 @@
     <vendorCode>KA08S</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">4.81</param>
     <param name="Высота" unit="мм">136.7</param>
     <param name="Диаметр" unit="мм">360</param>
@@ -105539,7 +105551,7 @@
     <param name="Форма">Круглая</param>
     <param name="Вес" unit="">0.4</param>
   </offer>
-  <offer id="2183248723" available="false">
+  <offer id="2183248723" available="true">
     <url>https://proekt24.com/p2183248723-kazan-chugunnyj-aziatskij.html</url>
     <price>2172</price>
     <currencyId>UAH</currencyId>
@@ -105561,7 +105573,7 @@
     <vendorCode>KA08-3</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">9.2</param>
     <param name="Материал">Чугун</param>
     <param name="Назначение">Для открытого огня</param>
@@ -106416,7 +106428,7 @@
     <param name="Длина рулона, м" unit="">10</param>
     <param name="Ширина, м" unit="">1.2</param>
   </offer>
-  <offer id="2199289883" available="true">
+  <offer id="2199289883" available="false">
     <url>https://proekt24.com/p2199289883-skovoroda-chugunnaya-wok.html</url>
     <price>1580</price>
     <currencyId>UAH</currencyId>
@@ -106432,7 +106444,7 @@
     <vendorCode>W30-1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">30 (см)</param>
     <param name="Вес" unit="кг">4.6</param>
@@ -106484,7 +106496,7 @@
     <param name="Діаметр основи, мм" unit="">210</param>
     <param name="Объем, л" unit="">3.36</param>
   </offer>
-  <offer id="2199289885" available="true">
+  <offer id="2199289885" available="false">
     <url>https://proekt24.com/p2199289885-skovoroda-chugunnaya-litoj.html</url>
     <price>1113</price>
     <currencyId>UAH</currencyId>
@@ -106506,7 +106518,7 @@
     <vendorCode>M2460P-2</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">24 (см)</param>
     <param name="Вес" unit="кг">2.9</param>
@@ -110845,12 +110857,12 @@
     <vendorCode>11133</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
-    <param name="Тип">Массажный</param>
-    <param name="Диаметр" unit="см">6</param>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Цвет">Разные цвета</param>
     <param name="Состояние">Новое</param>
     <param name="Материал" unit="">Резина</param>
+    <param name="Тип" unit="">Массажный</param>
+    <param name="Диаметр" unit="">6.0</param>
   </offer>
   <offer id="2224923055" available="false">
     <url>https://proekt24.com/p2224923055-kompressionnye-chulki-zakrytym.html</url>
@@ -112124,7 +112136,7 @@
     <vendorCode>57440</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>49</quantity_in_stock>
+    <quantity_in_stock>47</quantity_in_stock>
     <param name="Длина листа" unit="см">25</param>
     <param name="Тип">Шумоизоляция</param>
     <param name="Ширина листа" unit="см">10</param>
@@ -113110,12 +113122,12 @@
     <vendorCode>321609</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>865</quantity_in_stock>
+    <quantity_in_stock>855</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
+    <param name="Цвет">Серый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
     <param name="Толщина (мм)" unit="">60</param>
-    <param name="Цвет" unit="">Серый</param>
   </offer>
   <offer id="2292878859" available="false">
     <url>https://proekt24.com/p2292878859-zhgut-uplotnitelnyj-275.html</url>
@@ -116087,7 +116099,7 @@
     <vendorCode>57097</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>195</quantity_in_stock>
+    <quantity_in_stock>185</quantity_in_stock>
     <param name="Вес" unit="кг">0.64</param>
     <param name="Длина листа" unit="см">50</param>
     <param name="Применение материала">Двери|Крышка багажника|Пол автомобиля|Стенки багажника|Колесные арки|Потолок автомобиля|Крыша|Пол багажника|Дверные панели</param>
@@ -116328,7 +116340,7 @@
     <name>Виброизоляция ВИКАР (ФА) 400x600х2,3 мм</name>
     <vendorCode>33812</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>41</quantity_in_stock>
+    <quantity_in_stock>36</quantity_in_stock>
     <param name="Длина листа" unit="см">40</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Площадь листа" unit="кв.м">0.24</param>
@@ -116520,7 +116532,7 @@
     <vendorCode>Н11006005КТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>44</quantity_in_stock>
     <param name="Длина" unit="см">110</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Особенности">Стяжки в комплекте</param>
@@ -116546,7 +116558,7 @@
     <vendorCode>Н15006005КТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Длина" unit="см">150</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Особенности">Стяжки в комплекте</param>
@@ -116959,7 +116971,7 @@
     <vendorCode>889569У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -117186,7 +117198,7 @@
     <vendorCode>889566У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -119000,12 +119012,12 @@
     <vendorCode>32120</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>650</quantity_in_stock>
+    <quantity_in_stock>545</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
+    <param name="Цвет">Белый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
     <param name="Толщина" unit="">20</param>
-    <param name="Цвет" unit="">Белый</param>
   </offer>
   <offer id="2543857064" available="true">
     <url>https://proekt24.com/p2543857064-antiskrip-dlya-avto.html</url>
@@ -119229,7 +119241,7 @@
     <vendorCode>2011-N1К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <param name="Длина" unit="см">24</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Лапа</param>
@@ -119497,7 +119509,7 @@
     <vendorCode>2011-N3Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Длина" unit="см">24</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Лапа</param>
@@ -122445,7 +122457,7 @@
     <vendorCode>889610</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>101</quantity_in_stock>
+    <quantity_in_stock>96</quantity_in_stock>
     <param name="Цвет">Синий</param>
     <param name="Диаметр" unit="">6</param>
     <param name="Длина" unit="">150</param>
@@ -122685,7 +122697,7 @@
     <param name="Материал">Кирза</param>
     <param name="Тип">Груша</param>
   </offer>
-  <offer id="2643740984" available="true">
+  <offer id="2643740984" available="false">
     <url>https://proekt24.com/p2643740984-montazhnyj-profil-30h30h14.html</url>
     <price>309</price>
     <currencyId>UAH</currencyId>
@@ -122702,7 +122714,7 @@
     <vendorCode>889617</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Высота" unit="мм">30</param>
     <param name="Вес 1 пог.м" unit="гр">1022</param>
     <param name="Длина" unit="">3</param>
@@ -123540,7 +123552,7 @@
     <vendorCode>63501</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Консистенция">Лента</param>
     <param name="Состояние">Новое</param>
     <param name="Цвет">Черный</param>
@@ -123777,7 +123789,7 @@
     <vendor>Шумофф</vendor>
     <vendorCode>889651</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>97</quantity_in_stock>
+    <quantity_in_stock>96</quantity_in_stock>
     <param name="Консистенция">Аэрозоль</param>
     <param name="Объем" unit="мл">300</param>
   </offer>
@@ -124228,7 +124240,7 @@
     <param name="Тип">Крышка</param>
     <param name="Вес, гр" unit="гр">2850</param>
   </offer>
-  <offer id="2743657419" available="false">
+  <offer id="2743657419" available="true">
     <url>https://proekt24.com/p2743657419-kazan-chugunnyj-turisticheskij.html</url>
     <price>2193</price>
     <currencyId>UAH</currencyId>
@@ -124249,7 +124261,7 @@
     <vendor>Brizoll</vendor>
     <vendorCode>KT12-1</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">9</param>
     <param name="Высота" unit="мм">194</param>
     <param name="Высота с крышкой" unit="мм">241</param>
@@ -124437,7 +124449,7 @@
     <vendorCode>57718</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>64</quantity_in_stock>
+    <quantity_in_stock>62</quantity_in_stock>
     <param name="Объем" unit="л">0.5</param>
   </offer>
   <offer id="2769608177" available="true">
@@ -124492,7 +124504,7 @@
     <vendorCode>57720</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Цвет">Серый</param>
     <param name="Объем" unit="л">0.5</param>
   </offer>
@@ -124721,7 +124733,7 @@
     <param name="Цвет">Белый</param>
     <param name="Материал">PLA</param>
   </offer>
-  <offer id="2807838144" available="false">
+  <offer id="2807838144" available="true">
     <url>https://proekt24.com/p2807838144-filament-dsf-pla.html</url>
     <price>514</price>
     <currencyId>UAH</currencyId>
@@ -124734,7 +124746,7 @@
     <vendorCode>889673</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">0.75</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Цвет">Зелёный</param>
@@ -124946,7 +124958,7 @@
     <vendorCode>889666</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>833</quantity_in_stock>
+    <quantity_in_stock>832</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">2</param>
@@ -124975,7 +124987,7 @@
     <vendorCode>889679</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>500</quantity_in_stock>
+    <quantity_in_stock>496</quantity_in_stock>
     <param name="Применение материала">Потолок автомобиля|Стенки багажника|Пол автомобиля|Двери|Пол багажника</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -125337,7 +125349,7 @@
     <param name="Цвет">Синий</param>
     <param name="Материал">PETG</param>
   </offer>
-  <offer id="2814241815" available="false">
+  <offer id="2814241815" available="true">
     <url>https://proekt24.com/p2814241815-filament-dsf-petg.html</url>
     <price>488</price>
     <currencyId>UAH</currencyId>
@@ -125350,7 +125362,7 @@
     <vendorCode>889690</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вес" unit="кг">0.78</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Материал">PETG</param>
@@ -125373,7 +125385,7 @@
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Материал">PETG</param>
   </offer>
-  <offer id="2814241817" available="false">
+  <offer id="2814241817" available="true">
     <url>https://proekt24.com/p2814241817-filament-dsf-petg.html</url>
     <price>488</price>
     <currencyId>UAH</currencyId>
@@ -125386,7 +125398,7 @@
     <vendorCode>889684</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вес" unit="кг">0.78</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Материал">PETG</param>
@@ -125428,7 +125440,7 @@
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Материал">PETG</param>
   </offer>
-  <offer id="2816392340" available="false">
+  <offer id="2816392340" available="true">
     <url>https://proekt24.com/p2816392340-filament-dsf-petg.html</url>
     <price>1620</price>
     <currencyId>UAH</currencyId>
@@ -125441,7 +125453,7 @@
     <vendorCode>889712</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вес" unit="кг">3</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Цвет">Черный</param>
@@ -126862,7 +126874,7 @@
     <vendorCode>889724</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Применение материала">Потолок автомобиля|Стенки багажника|Пол автомобиля|Двери|Пол багажника</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -127619,7 +127631,7 @@
     <vendorCode>5005030</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Назначение материала">Звукоизоляция|Улучшение акустики помещений|Виброизоляция|Снижение ударного шума</param>
     <param name="Область применения">Для инженерного оборудования|Для стен|Для потолков|Для каркасных конструкций|Для пола</param>
@@ -128018,7 +128030,7 @@
     <vendorCode>889749</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Вес" unit="кг">1</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Цвет">Черный</param>
