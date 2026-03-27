@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-03-27 10:00">
+<yml_catalog date="2026-03-27 17:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -12,130 +12,199 @@
       <currency id="EUR" rate="53.14092" />
     </currencies>
     <categories>
+      <category id="152297279" parentId="938662">Мастика, мовиль, антигравий</category>
+      <category id="151847407" parentId="138166206">Торговые стенды и аксессуары</category>
+      <category id="151847406" parentId="138619410">Оборудование и товары для предоставления услуг</category>
+      <category id="151847405" parentId="138166205">Перкуссия</category>
+      <category id="151847404" parentId="138619428">Музыкальные инструменты</category>
+      <category id="151847403" parentId="122264427">Опалубка и комплектующие к ней</category>
+      <category id="151847402" parentId="138619427">Строительная техника и оборудование</category>
+      <category id="151847401" parentId="137644543">Алюминиевый скотч</category>
+      <category id="151847400" parentId="137644543">Теплоизоляция для труб</category>
+      <category id="151847399" parentId="137644543">Теплоизоляционный пенополиэтилен</category>
+      <category id="151847398" parentId="137644543">Теплоизоляционная фольга</category>
+      <category id="151847397" parentId="137644543">Теплоизоляционный пенопласт</category>
+      <category id="151847396" parentId="137644543">Минеральная вата</category>
+      <category id="151847395" parentId="137644542">Комплектующие для кровли</category>
+      <category id="151847394" parentId="137644541">Обмазочные гидроизоляционные материалы</category>
+      <category id="151847393" parentId="138619501">Атлетические петли, лямки и напульсники</category>
+      <category id="151847392" parentId="138619501">Тяги для тренировки шеи</category>
+      <category id="151847391" parentId="138619501">Спортивные утяжелители</category>
+      <category id="151847390" parentId="138619501">Атлетические пояса</category>
+      <category id="151847389" parentId="138619500">Блоки и ролики для йоги</category>
+      <category id="151847388" parentId="138619499">Упоры для отжиманий</category>
+      <category id="151847387" parentId="138619499">Гимнастические обручи</category>
+      <category id="151847386" parentId="138619499">Медболы</category>
+      <category id="151847385" parentId="138619499">Скакалки</category>
+      <category id="151847384" parentId="138619499">Коврики для йоги и фитнеса</category>
+      <category id="151847383" parentId="138619499">Гимнастические диски</category>
+      <category id="151847382" parentId="138619499">Фитболы</category>
+      <category id="151847381" parentId="138619498">Кинезио тейпы и средства для тейпирования</category>
+      <category id="151847380" parentId="138619497">Боксерские бинты</category>
+      <category id="151847379" parentId="138619497">Капы</category>
+      <category id="151847378" parentId="138619497">Шлемы для бокса и единоборств</category>
+      <category id="151847377" parentId="138619497">Боксерские ринги</category>
+      <category id="151847376" parentId="138619497">Защита для боевых искусств</category>
+      <category id="151847375" parentId="138619497">Боксерские груши и снаряды</category>
+      <category id="151847374" parentId="138619497">Лапы, макивары ручные</category>
+      <category id="151847373" parentId="138619496">Доски для плавания, колобашки</category>
+      <category id="151847372" parentId="138619495">Аквапалки</category>
+      <category id="151847371" parentId="138619494">Велочехлы и велонакидки</category>
+      <category id="151847370" parentId="138619493">Балаклавы, подшлемники, маски</category>
+      <category id="151847369" parentId="138619456">Пляжные коврики</category>
+      <category id="151847368" parentId="138619455">Спортивная форма</category>
+      <category id="151847367" parentId="138619454">Тренажеры для пресса, гиперэкстензии</category>
+      <category id="151847366" parentId="138619454">Комплектующие и аксессуары для тренажеров</category>
+      <category id="151847365" parentId="138619454">Эспандеры</category>
+      <category id="151847364" parentId="138619454">Спортивные стенки и турники для дома</category>
+      <category id="151847363" parentId="138619454">Гантели, гири, штанги и диски</category>
+      <category id="151847362" parentId="138166176">Трекинговые палки и аксессуары к ним</category>
+      <category id="151847361" parentId="138166175">Костровые подставки и треноги</category>
+      <category id="151847360" parentId="138166175">Казаны</category>
+      <category id="151847359" parentId="137644424">Карематы и сидушки</category>
+      <category id="151847358" parentId="137644424">Туристические палатки и тенты</category>
+      <category id="151847357" parentId="137644424">Надувные подушки и подголовники</category>
+      <category id="151847356" parentId="137644423">Медицинские тренажеры и модели</category>
+      <category id="151847355" parentId="138619410">Медицинское оборудование и расходные материалы</category>
+      <category id="151847354" parentId="130863419">Стретч-пленка</category>
+      <category id="151847353" parentId="130863419">Пленка воздушно-пузырчатая</category>
+      <category id="151847352" parentId="138619453">Стяжки упаковочные</category>
+      <category id="151847351" parentId="138619453">Защитные и противоударные упаковочные материалы</category>
+      <category id="151847350" parentId="138619452">Клейкая универсальная лента</category>
+      <category id="151847349" parentId="138619452">Строительные и промышленные клеи</category>
+      <category id="151847348" parentId="138619485">Защитные коврики под кресла</category>
+      <category id="151847347" parentId="138619484">Наволочки</category>
+      <category id="151847346" parentId="138619484">Подушки</category>
+      <category id="151847345" parentId="138619483">Решетки для гриля и барбекю</category>
+      <category id="151847344" parentId="138619482">Мебельный поролон</category>
+      <category id="151847343" parentId="138619481">Блюда, стойки для тортов</category>
+      <category id="151847342" parentId="138619481">Кофейники, заварочные чайники и аксессуары</category>
+      <category id="151847341" parentId="138619481">Менажницы</category>
+      <category id="151847340" parentId="138619480">Доски разделочные</category>
+      <category id="151847339" parentId="138619479">Кастрюли</category>
+      <category id="151847338" parentId="138619479">Сковородки, сотейники, жаровни</category>
+      <category id="151847337" parentId="138619479">Комплектующие для кухонной посуды</category>
+      <category id="151847336" parentId="138619479">Кухонные ковши и кокотницы</category>
+      <category id="151847335" parentId="137644416">Емкости для хранения пищевых продуктов</category>
+      <category id="151847334" parentId="138619469">Массажеры для ног</category>
+      <category id="151847333" parentId="138619469">Массажеры для шеи и плеч</category>
+      <category id="151847332" parentId="138619469">Массажные накидки, маты, подушки</category>
+      <category id="151847331" parentId="137644403">Подушки для беременных и кормления ребенка</category>
+      <category id="151847330" parentId="137644402">Многофункциональные инструменты</category>
+      <category id="151847329" parentId="138619410">Инструмент</category>
+      <category id="151847328" parentId="138619447">Реабилитационные тренажеры</category>
+      <category id="151847327" parentId="138619447">Противопролежневые системы</category>
+      <category id="151847326" parentId="138619446">Фиксаторы голеностопного сустава</category>
+      <category id="151847325" parentId="138619446">Фиксаторы лучезапястного сустава и пальцев кисти</category>
+      <category id="151847324" parentId="138619446">Бандажи грыжевые и при опущении внутренних органов</category>
+      <category id="151847323" parentId="138619446">Фиксаторы плечевого и локтевого сустава</category>
+      <category id="151847322" parentId="138619446">Фиксаторы бедра</category>
+      <category id="151847321" parentId="138619446">Ортопедические фиксаторы для новорожденных</category>
+      <category id="151847320" parentId="138619446">Фиксаторы коленного сустава</category>
+      <category id="151847319" parentId="137644413">Разгрузочные жилеты и плитоноски без плит</category>
+      <category id="151847318" parentId="138619410">Военторг</category>
+      <category id="151847317" parentId="138619476">Сиденья автомобильные</category>
+      <category id="151847316" parentId="138619475">Чехлы, накидки, майки для автокресел</category>
+      <category id="151847315" parentId="138619475">Подушки-подголовники</category>
+      <category id="151847314" parentId="138619474">Ткани для обивки салона автомобилей</category>
+      <category id="151847313" parentId="138619443">Автомобильные герметики, клея</category>
+      <category id="151847312" parentId="137644409">Инструмент для ремонта мототехники</category>
+      <category id="151847311" parentId="138619442">Герметики и силиконы</category>
+      <category id="151847310" parentId="138619441">Подложки и настилы для пола</category>
+      <category id="151847309" parentId="138619440">Хомуты, зажимы</category>
+      <category id="151847308" parentId="137644405">Уплотнители для окон, дверей</category>
+      <category id="151847307" parentId="138166133">Детская и подростковая ортопедическая обувь</category>
+      <category id="151847306" parentId="138619415">Детская одежда и обувь</category>
+      <category id="151847305" parentId="138619436">Пух и перья</category>
+      <category id="151847304" parentId="120149335">Развивающие и игровые коврики</category>
+      <category id="151847303" parentId="138619435">Детские подушки</category>
+      <category id="151847302" parentId="138619434">Детские стульчики для кормления</category>
+      <category id="151847301" parentId="138619433">Детские мячи</category>
+      <category id="151847300" parentId="138619413">Товары для детей, общее</category>
+      <category id="151847299" parentId="138619431">Рубильники</category>
+      <category id="151847298" parentId="138619412">Комплектующие электрооборудования</category>
+      <category id="151847297">Бандажи послеоперационные и согревающие пояса</category>
+      <category id="151847296">Изготовление маркировочной продукции, табличек</category>
+      <category id="151847295">Складские услуги</category>
+      <category id="151847294">Типографические услуги</category>
+      <category id="128817937" parentId="2366740">Каучуковая изоляция толщина 32 мм</category>
+      <category id="109333648" parentId="2366740">Каучуковая изоляция толщина 25 мм</category>
+      <category id="98480428" parentId="2366740">Каучуковая изоляция толщина 19 мм</category>
+      <category id="98480427" parentId="2366740">Каучуковая изоляция толщина 13 мм</category>
+      <category id="98480426" parentId="2366740">Каучуковая изоляция толщина 9 мм</category>
+      <category id="98480425" parentId="2366740">Каучуковая изоляция толщина 6 мм</category>
+      <category id="151008123" parentId="137644541">Гидроизоляционные уплотнители</category>
+      <category id="151008122" parentId="138619502">Спортивные маты</category>
+      <category id="151008043" parentId="138619474">Материалы для вибро и шумоизоляции автомобиля</category>
+      <category id="151008033" parentId="138619468">Полимеры</category>
+      <category id="148858419" parentId="141469736">Снято с производства</category>
+      <category id="141469736">BOXER-NEW</category>
+      <category id="149555465" parentId="138619461">Звукоизоляционные материалы</category>
+      <category id="148644693" parentId="130690330">Сковорода алюминиевая</category>
+      <category id="130696734" parentId="130690330">Алюминиевая крышка</category>
+      <category id="130696686" parentId="130690330">Прижим чугунный</category>
+      <category id="130696681" parentId="130690330">Крышка-сковорода чугунная</category>
+      <category id="130696609" parentId="130690330">Плато чугунное</category>
+      <category id="130696600" parentId="130690330">Садж чугунный</category>
+      <category id="130696539" parentId="130690330">Чугунная крышка</category>
+      <category id="130696450" parentId="130690330">Стеклянная крышка</category>
+      <category id="130696441" parentId="130690330">Эмалированная посуда Elmani</category>
+      <category id="130696419" parentId="130690330">Кастрюля алюминиевая</category>
+      <category id="130696392" parentId="130690330">Кастрюля чугунная</category>
+      <category id="130696342" parentId="130690330">Сковорода чугунная без ручки</category>
+      <category id="130696328" parentId="130690330">Сковорода чугунная с литой ручкой</category>
+      <category id="130696204" parentId="130690330">Порционная чугунная посуда HoReCa</category>
+      <category id="130696111" parentId="130690330">Чугунная сковорода WOK</category>
+      <category id="130696049" parentId="130690330">Чугунная сковорода гриль</category>
+      <category id="130695931" parentId="130690330">Блинница чугунная</category>
+      <category id="130695910" parentId="130690330">Сковороды с антипригарным покрытием</category>
+      <category id="130695695" parentId="130690330">Сковорода чугунная с крышкой</category>
+      <category id="130695678" parentId="130690330">Чугунная сковорода</category>
+      <category id="130690330" parentId="94543941">Чугунная посуда</category>
+      <category id="148519291" parentId="148519048">PETG філамент</category>
+      <category id="148519288" parentId="148519048">PLA філамент</category>
+      <category id="148519048">3D-печать</category>
+      <category id="148777420" parentId="138619497">Перчатки для бокса и единоборств</category>
+      <category id="148644501" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 90 мм</category>
+      <category id="118482895" parentId="5893864">Химически сшитый полиэтилен ТУРЦИЯ</category>
+      <category id="144048496" parentId="137644541">Рулонные и листовые гидроизоляционные материалы</category>
+      <category id="144048410" parentId="138619469">Массажные дорожки и коврики</category>
+      <category id="142793467" parentId="5893864">Защитные профили</category>
+      <category id="129348803" parentId="2341984">Звукоизоляционная самоклеющаяся лента XPE</category>
+      <category id="133605716">Металлический профиль</category>
+      <category id="3061402" parentId="105419513">Звукоизоляция и шумоизоляция пола</category>
+      <category id="129892704" parentId="1946859">Манекен для борьбы</category>
+      <category id="12325125" parentId="938662">Аксессуары для автомобилей</category>
+      <category id="116112740" parentId="938662">Вибро-шумоизоляция автомобильная</category>
+      <category id="12527036" parentId="938662">Виброизоляция для автомобиля (материалы, стп, практик, визол, битопласт, stp)</category>
+      <category id="12527024" parentId="938662">Шумоизоляция автомобиля (материалы, шумка, сплэн, обесшумка авто)</category>
+      <category id="12321000" parentId="938662">Автолин</category>
+      <category id="138096524" parentId="938662">Тепло- шумоизолирующие материалы</category>
+      <category id="938662">Шумо-, виброизоляция для автомобилей</category>
+      <category id="105419513">Материалы для шумоизоляции помещений</category>
+      <category id="3021500">Экструдированный пенополистирол, экструзионный пенополистирол</category>
+      <category id="801930">Опалубка колонн</category>
+      <category id="130810240">Товары для реабилитации</category>
+      <category id="111619363">Тактическое снаряжение</category>
+      <category id="1932799">Товары для спорта, отдыха, туризма</category>
+      <category id="908017">Трубная изоляция, утеплители для труб</category>
+      <category id="4734220">Упаковочные материалы</category>
+      <category id="13883140">Вспененный этиленвинилацетат (материал EVA)</category>
+      <category id="105796939">Строительные мембраны</category>
+      <category id="97783027">Кровельные герметики и мастики</category>
+      <category id="2341984">Ленты, скотчи, уплотнители</category>
+      <category id="3061258">Утеплители, термоизоляция, техническая изоляция</category>
+      <category id="5893864">Вспененный полиэтилен, пенополиэтилен</category>
+      <category id="1721740">Вспененный каучук, аксессуары</category>
+      <category id="96802051">Кровельные ленты</category>
+      <category id="94543941">Товары для дома</category>
       <category id="103641628" parentId="908017">Бандажные хомуты</category>
       <category id="4077805" parentId="13552512">Изолон цветной</category>
       <category id="105213334" parentId="2341984">Бутилкаучуковые шнуры</category>
       <category id="123067007" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 80 мм</category>
       <category id="127460444" parentId="3676854">Изоляция труб Мерилон толщиной 25 мм</category>
-      <category id="148777420" parentId="138619497">Перчатки для бокса и единоборств</category>
-      <category id="148519288" parentId="148519048">PLA філамент</category>
-      <category id="148519291" parentId="148519048">PETG філамент</category>
       <category id="110003321" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 40 мм</category>
       <category id="122338444" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 20 мм</category>
-      <category id="151847294">Типографические услуги</category>
-      <category id="151847295">Складские услуги</category>
-      <category id="151847296">Изготовление маркировочной продукции, табличек</category>
-      <category id="151847297">Бандажи послеоперационные и согревающие пояса</category>
-      <category id="151847298" parentId="138619412">Комплектующие электрооборудования</category>
-      <category id="151847299" parentId="138619431">Рубильники</category>
-      <category id="151847300" parentId="138619413">Товары для детей, общее</category>
-      <category id="151847301" parentId="138619433">Детские мячи</category>
-      <category id="151847302" parentId="138619434">Детские стульчики для кормления</category>
-      <category id="151847303" parentId="138619435">Детские подушки</category>
-      <category id="151847304" parentId="120149335">Развивающие и игровые коврики</category>
-      <category id="151847305" parentId="138619436">Пух и перья</category>
-      <category id="151847306" parentId="138619415">Детская одежда и обувь</category>
-      <category id="151847307" parentId="138166133">Детская и подростковая ортопедическая обувь</category>
-      <category id="151847308" parentId="137644405">Уплотнители для окон, дверей</category>
-      <category id="151847309" parentId="138619440">Хомуты, зажимы</category>
-      <category id="151847310" parentId="138619441">Подложки и настилы для пола</category>
-      <category id="151847311" parentId="138619442">Герметики и силиконы</category>
-      <category id="151847312" parentId="137644409">Инструмент для ремонта мототехники</category>
-      <category id="151847313" parentId="138619443">Автомобильные герметики, клея</category>
-      <category id="151847314" parentId="138619474">Ткани для обивки салона автомобилей</category>
-      <category id="151847315" parentId="138619475">Подушки-подголовники</category>
-      <category id="151847316" parentId="138619475">Чехлы, накидки, майки для автокресел</category>
-      <category id="151847317" parentId="138619476">Сиденья автомобильные</category>
-      <category id="151847318" parentId="138619410">Военторг</category>
-      <category id="151847319" parentId="137644413">Разгрузочные жилеты и плитоноски без плит</category>
-      <category id="151847320" parentId="138619446">Фиксаторы коленного сустава</category>
-      <category id="151847321" parentId="138619446">Ортопедические фиксаторы для новорожденных</category>
-      <category id="151847322" parentId="138619446">Фиксаторы бедра</category>
-      <category id="151847323" parentId="138619446">Фиксаторы плечевого и локтевого сустава</category>
-      <category id="151847324" parentId="138619446">Бандажи грыжевые и при опущении внутренних органов</category>
-      <category id="151847325" parentId="138619446">Фиксаторы лучезапястного сустава и пальцев кисти</category>
-      <category id="151847326" parentId="138619446">Фиксаторы голеностопного сустава</category>
-      <category id="151847327" parentId="138619447">Противопролежневые системы</category>
-      <category id="151847328" parentId="138619447">Реабилитационные тренажеры</category>
-      <category id="151847329" parentId="138619410">Инструмент</category>
-      <category id="151847330" parentId="137644402">Многофункциональные инструменты</category>
-      <category id="151847331" parentId="137644403">Подушки для беременных и кормления ребенка</category>
-      <category id="151847332" parentId="138619469">Массажные накидки, маты, подушки</category>
-      <category id="151847333" parentId="138619469">Массажеры для шеи и плеч</category>
-      <category id="151847334" parentId="138619469">Массажеры для ног</category>
-      <category id="151847335" parentId="137644416">Емкости для хранения пищевых продуктов</category>
-      <category id="151847336" parentId="138619479">Кухонные ковши и кокотницы</category>
-      <category id="151847337" parentId="138619479">Комплектующие для кухонной посуды</category>
-      <category id="151847338" parentId="138619479">Сковородки, сотейники, жаровни</category>
-      <category id="151847339" parentId="138619479">Кастрюли</category>
-      <category id="151847340" parentId="138619480">Доски разделочные</category>
-      <category id="151847341" parentId="138619481">Менажницы</category>
-      <category id="151847342" parentId="138619481">Кофейники, заварочные чайники и аксессуары</category>
-      <category id="151847343" parentId="138619481">Блюда, стойки для тортов</category>
-      <category id="151847344" parentId="138619482">Мебельный поролон</category>
-      <category id="151847345" parentId="138619483">Решетки для гриля и барбекю</category>
-      <category id="151847346" parentId="138619484">Подушки</category>
-      <category id="151847347" parentId="138619484">Наволочки</category>
-      <category id="151847348" parentId="138619485">Защитные коврики под кресла</category>
-      <category id="151847349" parentId="138619452">Строительные и промышленные клеи</category>
-      <category id="151847350" parentId="138619452">Клейкая универсальная лента</category>
-      <category id="151847351" parentId="138619453">Защитные и противоударные упаковочные материалы</category>
-      <category id="151847352" parentId="138619453">Стяжки упаковочные</category>
-      <category id="151847353" parentId="130863419">Пленка воздушно-пузырчатая</category>
-      <category id="151847354" parentId="130863419">Стретч-пленка</category>
-      <category id="151847355" parentId="138619410">Медицинское оборудование и расходные материалы</category>
-      <category id="151847356" parentId="137644423">Медицинские тренажеры и модели</category>
-      <category id="151847357" parentId="137644424">Надувные подушки и подголовники</category>
-      <category id="151847358" parentId="137644424">Туристические палатки и тенты</category>
-      <category id="151847359" parentId="137644424">Карематы и сидушки</category>
-      <category id="151847360" parentId="138166175">Казаны</category>
-      <category id="151847361" parentId="138166175">Костровые подставки и треноги</category>
-      <category id="151847362" parentId="138166176">Трекинговые палки и аксессуары к ним</category>
-      <category id="151847363" parentId="138619454">Гантели, гири, штанги и диски</category>
-      <category id="151847364" parentId="138619454">Спортивные стенки и турники для дома</category>
-      <category id="151847365" parentId="138619454">Эспандеры</category>
-      <category id="151847366" parentId="138619454">Комплектующие и аксессуары для тренажеров</category>
-      <category id="151847367" parentId="138619454">Тренажеры для пресса, гиперэкстензии</category>
-      <category id="151847368" parentId="138619455">Спортивная форма</category>
-      <category id="151847369" parentId="138619456">Пляжные коврики</category>
-      <category id="151847370" parentId="138619493">Балаклавы, подшлемники, маски</category>
-      <category id="151847371" parentId="138619494">Велочехлы и велонакидки</category>
-      <category id="151847372" parentId="138619495">Аквапалки</category>
-      <category id="151847373" parentId="138619496">Доски для плавания, колобашки</category>
-      <category id="151847374" parentId="138619497">Лапы, макивары ручные</category>
-      <category id="151847375" parentId="138619497">Боксерские груши и снаряды</category>
-      <category id="151847376" parentId="138619497">Защита для боевых искусств</category>
-      <category id="151847377" parentId="138619497">Боксерские ринги</category>
-      <category id="151847378" parentId="138619497">Шлемы для бокса и единоборств</category>
-      <category id="151847379" parentId="138619497">Капы</category>
-      <category id="151847380" parentId="138619497">Боксерские бинты</category>
-      <category id="151847381" parentId="138619498">Кинезио тейпы и средства для тейпирования</category>
-      <category id="151847382" parentId="138619499">Фитболы</category>
-      <category id="151847383" parentId="138619499">Гимнастические диски</category>
-      <category id="151847384" parentId="138619499">Коврики для йоги и фитнеса</category>
-      <category id="151847385" parentId="138619499">Скакалки</category>
-      <category id="151847386" parentId="138619499">Медболы</category>
-      <category id="151847387" parentId="138619499">Гимнастические обручи</category>
-      <category id="151847388" parentId="138619499">Упоры для отжиманий</category>
-      <category id="151847389" parentId="138619500">Блоки и ролики для йоги</category>
-      <category id="151847390" parentId="138619501">Атлетические пояса</category>
-      <category id="151847391" parentId="138619501">Спортивные утяжелители</category>
-      <category id="151847392" parentId="138619501">Тяги для тренировки шеи</category>
-      <category id="151847393" parentId="138619501">Атлетические петли, лямки и напульсники</category>
-      <category id="151847394" parentId="137644541">Обмазочные гидроизоляционные материалы</category>
-      <category id="151847395" parentId="137644542">Комплектующие для кровли</category>
-      <category id="151847396" parentId="137644543">Минеральная вата</category>
-      <category id="151847397" parentId="137644543">Теплоизоляционный пенопласт</category>
-      <category id="151847398" parentId="137644543">Теплоизоляционная фольга</category>
-      <category id="151847399" parentId="137644543">Теплоизоляционный пенополиэтилен</category>
-      <category id="151847400" parentId="137644543">Теплоизоляция для труб</category>
-      <category id="151847401" parentId="137644543">Алюминиевый скотч</category>
-      <category id="151847402" parentId="138619427">Строительная техника и оборудование</category>
-      <category id="151847403" parentId="122264427">Опалубка и комплектующие к ней</category>
-      <category id="151847404" parentId="138619428">Музыкальные инструменты</category>
-      <category id="151847405" parentId="138166205">Перкуссия</category>
-      <category id="151847406" parentId="138619410">Оборудование и товары для предоставления услуг</category>
-      <category id="151847407" parentId="138166206">Торговые стенды и аксессуары</category>
       <category id="2366920" parentId="1721740">Лента из вспененного каучука самоклеющаяся</category>
       <category id="120149335" parentId="120149333">Игрушки</category>
       <category id="1946941" parentId="1932799">Спортивные маты, покрытия</category>
@@ -165,7 +234,6 @@
       <category id="130696319" parentId="130690330">Казан алюминиевый</category>
       <category id="130696700" parentId="130690330">Менажницы</category>
       <category id="130696728" parentId="130690330">Аксессуары для посуды</category>
-      <category id="148644501" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 90 мм</category>
       <category id="113655210" parentId="13883140">Вспененный этиленвинилацетат (материал EVA) самоклеющийся</category>
       <category id="1482551" parentId="2341984">Уплотнительная, теплоизоляционная, звукоизоляционная лента (дихтунг)</category>
       <category id="8229796" parentId="111894907">Скотч армированный, армированная лента, скотч pvc, пвх</category>
@@ -204,8 +272,6 @@
       <category id="12031997" parentId="938662">Карпет автомобильный </category>
       <category id="10675946" parentId="1946861">Фитболы</category>
       <category id="113645999" parentId="13883140">Вспененный этиленвинилацетат (материал EVA) в листах</category>
-      <category id="144048410" parentId="138619469">Массажные дорожки и коврики</category>
-      <category id="144048496" parentId="137644541">Рулонные и листовые гидроизоляционные материалы</category>
       <category id="121445733" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 100 мм</category>
       <category id="3530887" parentId="5893864">Газовспененные полиэтилены</category>
       <category id="23545681" parentId="7770707">Базальтовая скорлупа, базальтовые цилиндры толщиной 50 мм</category>
@@ -277,7 +343,6 @@
       <category id="110003315" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 30 мм</category>
       <category id="122741450" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 60 мм</category>
       <category id="122338181" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 70 мм</category>
-      <category id="98480427" parentId="2366740">Каучуковая изоляция толщина 13 мм</category>
       <category id="110212672" parentId="5863938">Коврики для пляжа</category>
       <category id="6112788" parentId="5863938">Аксессуары для ковриков</category>
       <category id="102662966" parentId="130810240">Массажные коврики</category>
@@ -294,79 +359,15 @@
       <category id="20243973" parentId="1947002">Накладки для единоборств</category>
       <category id="111894907" parentId="2341984">Скотчи строительные</category>
       <category id="130863419" parentId="128785722">Пленки упаковочные</category>
-      <category id="118482895" parentId="5893864">Химически сшитый полиэтилен ТУРЦИЯ</category>
-      <category id="129348803" parentId="2341984">Звукоизоляционная самоклеющаяся лента XPE</category>
       <category id="5863938" parentId="1932799">Коврики, карематы для спорта, фитнеса, йоги, туризма и отдыха</category>
-      <category id="130696419" parentId="130690330">Кастрюля алюминиевая</category>
-      <category id="130696441" parentId="130690330">Эмалированная посуда Elmani</category>
-      <category id="130696450" parentId="130690330">Стеклянная крышка</category>
-      <category id="130696539" parentId="130690330">Чугунная крышка</category>
       <category id="6037166" parentId="5863938">Сидушки туристические</category>
-      <category id="130696600" parentId="130690330">Садж чугунный</category>
-      <category id="130696609" parentId="130690330">Плато чугунное</category>
-      <category id="130696681" parentId="130690330">Крышка-сковорода чугунная</category>
-      <category id="130696686" parentId="130690330">Прижим чугунный</category>
-      <category id="130696734" parentId="130690330">Алюминиевая крышка</category>
-      <category id="148644693" parentId="130690330">Сковорода алюминиевая</category>
-      <category id="148519048">3D-печать</category>
-      <category id="130690330" parentId="94543941">Чугунная посуда</category>
-      <category id="130695678" parentId="130690330">Чугунная сковорода</category>
-      <category id="130695695" parentId="130690330">Сковорода чугунная с крышкой</category>
-      <category id="130695910" parentId="130690330">Сковороды с антипригарным покрытием</category>
-      <category id="130695931" parentId="130690330">Блинница чугунная</category>
-      <category id="130696049" parentId="130690330">Чугунная сковорода гриль</category>
-      <category id="130696111" parentId="130690330">Чугунная сковорода WOK</category>
-      <category id="130696204" parentId="130690330">Порционная чугунная посуда HoReCa</category>
-      <category id="130696328" parentId="130690330">Сковорода чугунная с литой ручкой</category>
-      <category id="130696342" parentId="130690330">Сковорода чугунная без ручки</category>
-      <category id="130696392" parentId="130690330">Кастрюля чугунная</category>
       <category id="113655202" parentId="13883140">Вспененный этиленвинилацетат (материал EVA) в рулонах</category>
       <category id="3682513" parentId="908017">Базальтовая скорлупа, базальтовые цилиндры</category>
       <category id="3531076" parentId="13552512">Физически сшитый вспененный пенополиэтилен</category>
       <category id="17100822" parentId="130810240">Ортопедические подушки и матрасы</category>
       <category id="131353379" parentId="130810240">Компрессионный трикотаж</category>
-      <category id="149555465" parentId="138619461">Звукоизоляционные материалы</category>
-      <category id="141469736">BOXER-NEW</category>
-      <category id="148858419" parentId="141469736">Снято с производства</category>
       <category id="7771509" parentId="3682513">Базальтовая скорлупа, базальтовые цилиндры с фольгой</category>
       <category id="121445171" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 100 мм</category>
-      <category id="94543941">Товары для дома</category>
-      <category id="96802051">Кровельные ленты</category>
-      <category id="1721740">Вспененный каучук, аксессуары</category>
-      <category id="5893864">Вспененный полиэтилен, пенополиэтилен</category>
-      <category id="3061258">Утеплители, термоизоляция, техническая изоляция</category>
-      <category id="2341984">Ленты, скотчи, уплотнители</category>
-      <category id="97783027">Кровельные герметики и мастики</category>
-      <category id="105796939">Строительные мембраны</category>
-      <category id="13883140">Вспененный этиленвинилацетат (материал EVA)</category>
-      <category id="4734220">Упаковочные материалы</category>
-      <category id="908017">Трубная изоляция, утеплители для труб</category>
-      <category id="1932799">Товары для спорта, отдыха, туризма</category>
-      <category id="111619363">Тактическое снаряжение</category>
-      <category id="130810240">Товары для реабилитации</category>
-      <category id="801930">Опалубка колонн</category>
-      <category id="3021500">Экструдированный пенополистирол, экструзионный пенополистирол</category>
-      <category id="105419513">Материалы для шумоизоляции помещений</category>
-      <category id="938662">Шумо-, виброизоляция для автомобилей</category>
-      <category id="142793467" parentId="5893864">Защитные профили</category>
-      <category id="138096524" parentId="938662">Тепло- шумоизолирующие материалы</category>
-      <category id="116112740" parentId="938662">Вибро-шумоизоляция автомобильная</category>
-      <category id="12321000" parentId="938662">Автолин</category>
-      <category id="12527024" parentId="938662">Шумоизоляция автомобиля (материалы, шумка, сплэн, обесшумка авто)</category>
-      <category id="12527036" parentId="938662">Виброизоляция для автомобиля (материалы, стп, практик, визол, битопласт, stp)</category>
-      <category id="12325125" parentId="938662">Аксессуары для автомобилей</category>
-      <category id="3061402" parentId="105419513">Звукоизоляция и шумоизоляция пола</category>
-      <category id="129892704" parentId="1946859">Манекен для борьбы</category>
-      <category id="133605716">Металлический профиль</category>
-      <category id="98480428" parentId="2366740">Каучуковая изоляция толщина 19 мм</category>
-      <category id="109333648" parentId="2366740">Каучуковая изоляция толщина 25 мм</category>
-      <category id="128817937" parentId="2366740">Каучуковая изоляция толщина 32 мм</category>
-      <category id="98480425" parentId="2366740">Каучуковая изоляция толщина 6 мм</category>
-      <category id="98480426" parentId="2366740">Каучуковая изоляция толщина 9 мм</category>
-      <category id="151008033" parentId="138619468">Полимеры</category>
-      <category id="151008043" parentId="138619474">Материалы для вибро и шумоизоляции автомобиля</category>
-      <category id="151008122" parentId="138619502">Спортивные маты</category>
-      <category id="151008123" parentId="137644541">Гидроизоляционные уплотнители</category>
     </categories>
   <offers>
 <offer id="3034034" available="false">
@@ -2118,7 +2119,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1580</quantity_in_stock>
+    <quantity_in_stock>1576</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -3606,7 +3607,7 @@
     <param name="Толщина" unit="мм">8</param>
     <param name="Ширина" unit="см">30</param>
   </offer>
-  <offer id="108998957" available="false">
+  <offer id="108998957" available="true">
     <url>https://proekt24.com/p108998957-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>208</price>
     <currencyId>UAH</currencyId>
@@ -3627,7 +3628,7 @@
     <vendorCode>35015</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -3673,7 +3674,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>829</quantity_in_stock>
+    <quantity_in_stock>826</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -3705,7 +3706,7 @@
     <vendorCode>500091</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>149</quantity_in_stock>
+    <quantity_in_stock>147</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Цвет">Черный</param>
@@ -3808,7 +3809,7 @@
     <vendorCode>901032</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2601</quantity_in_stock>
+    <quantity_in_stock>2541</quantity_in_stock>
     <param name="Плотность" unit="г/м2">33</param>
     <param name="Ширина" unit="м">1000</param>
     <param name="Водопоглощение по объему, не менее, %" unit="">0.7</param>
@@ -18029,7 +18030,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2858</quantity_in_stock>
+    <quantity_in_stock>2478</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -18560,7 +18561,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>953</quantity_in_stock>
+    <quantity_in_stock>952</quantity_in_stock>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Толщина" unit="">2</param>
     <param name="Ширина рулона, мм" unit="">1400</param>
@@ -21769,7 +21770,7 @@
     <vendorCode>Б159/50Ф</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">159</param>
     <param name="Длина" unit="м">1</param>
@@ -22990,7 +22991,7 @@
     <vendorCode>900024</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1700</quantity_in_stock>
+    <quantity_in_stock>1689</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Длина" unit="м">50</param>
     <param name="Покрытие">Ламинированное</param>
@@ -23407,7 +23408,7 @@
     <name>Химически сшитый вспененный полиэтилен лист 2000х1000х20 мм 33 кг/м³</name>
     <vendorCode>901201</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>247</quantity_in_stock>
+    <quantity_in_stock>212</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Покрытие">Без покрытия</param>
@@ -23727,7 +23728,7 @@
     <vendorCode>901082</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>462</quantity_in_stock>
+    <quantity_in_stock>447</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Класс материала по теплопроводности">Низкая</param>
     <param name="Плотность" unit="кг/м3">33</param>
@@ -25666,7 +25667,7 @@
     <vendorCode>500032</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>651</quantity_in_stock>
+    <quantity_in_stock>631</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -31748,7 +31749,7 @@
     <param name="Ширина" unit="мм">300</param>
     <param name="Материал" unit="">Мягкий EVA нейлоновый материал</param>
   </offer>
-  <offer id="535876855" available="true">
+  <offer id="535876855" available="false">
     <url>https://proekt24.com/p535876855-detskij-kovrik-pazl.html</url>
     <price>99</price>
     <currencyId>UAH</currencyId>
@@ -31763,7 +31764,7 @@
     <vendorCode>832569</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>63</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Возраст">От 1 мес</param>
     <param name="Высота" unit="мм">10</param>
     <param name="Длина" unit="мм">500</param>
@@ -33142,7 +33143,7 @@
     <vendorCode>62025</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>600</quantity_in_stock>
+    <quantity_in_stock>597</quantity_in_stock>
     <param name="Тип использования" unit="">Универсальный</param>
     <param name="Минимальная температура эксплуатации" unit="">-40</param>
     <param name="Максимальная температура эксплуатации" unit="">90</param>
@@ -38578,7 +38579,7 @@
     <vendorCode>62717</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>90</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для фасадов|Для кровли|Для балконов|Для стен</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -39084,7 +39085,7 @@
     <vendorCode>EF-AWTS-250</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вес" unit="кг">2.5</param>
     <param name="Количество утяжелителей">2</param>
     <param name="Особенности">Подходит для ног и рук|Неопреновое покрытие</param>
@@ -39669,7 +39670,7 @@
     <vendorCode>62413</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Ширина" unit="мм">0.05</param>
     <param name="Форма поставляемого материала" unit="">Рулон</param>
@@ -39824,7 +39825,7 @@
     <vendorCode>500102</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>695</quantity_in_stock>
+    <quantity_in_stock>635</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -43596,7 +43597,7 @@
     <param name="Ширина" unit="м">0.31</param>
     <param name="Материал мембраны" unit="">Нетканое полотно</param>
   </offer>
-  <offer id="1491500409" available="true">
+  <offer id="1491500409" available="false">
     <url>https://proekt24.com/p1491500409-uplotnitelnaya-porolonovaya-lenta.html</url>
     <price>25</price>
     <currencyId>UAH</currencyId>
@@ -43608,7 +43609,7 @@
     <vendorCode>456789</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>65</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Длина" unit="м">1</param>
     <param name="Ширина" unit="мм">50</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -45036,7 +45037,7 @@
     <vendorCode>10009</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Состояние">Новое</param>
     <param name="Диаметр" unit="">9</param>
     <param name="Материал" unit="">ПВХ</param>
@@ -47777,7 +47778,7 @@
     <vendorCode>5219</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Материал хомута">Оцинкованная сталь</param>
     <param name="Минимальный диаметр обжатия" unit="мм">219</param>
     <param name="Покрытие">Цинк</param>
@@ -50363,7 +50364,7 @@
     <vendorCode>EF-1818-3</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Цвет">Розовый</param>
     <param name="Материал">EVA пена</param>
     <param name="Состояние">Новое</param>
@@ -54148,7 +54149,7 @@
     <vendorCode>832581</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>373</quantity_in_stock>
+    <quantity_in_stock>371</quantity_in_stock>
     <param name="Цвет">Белый</param>
     <param name="Ширина" unit="мм">1500</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -56658,7 +56659,7 @@
     <vendorCode>22/25П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>592</quantity_in_stock>
+    <quantity_in_stock>582</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -66798,7 +66799,7 @@
     <vendorCode>832604</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>40</quantity_in_stock>
+    <quantity_in_stock>36</quantity_in_stock>
     <param name="Возраст">От 1 мес</param>
     <param name="Высота" unit="мм">10</param>
     <param name="Длина" unit="мм">500</param>
@@ -67340,7 +67341,7 @@
     <vendorCode>20120</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>234</quantity_in_stock>
+    <quantity_in_stock>233</quantity_in_stock>
     <param name="Армированный скотч">Да</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">25</param>
@@ -67963,7 +67964,7 @@
     <vendorCode>30115</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>233</quantity_in_stock>
+    <quantity_in_stock>227</quantity_in_stock>
     <param name="Вес" unit="кг">0.38</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -68337,7 +68338,7 @@
     <vendorCode>889019</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>36</quantity_in_stock>
+    <quantity_in_stock>34</quantity_in_stock>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Толщина" unit="">2</param>
     <param name="Ширина рулона, мм" unit="">1400</param>
@@ -68809,7 +68810,7 @@
     <param name="Состояние">Новое</param>
     <param name="Тип">Ролик для йоги</param>
     <param name="Цвет">Фиолетовый</param>
-    <param name="Диаметр, мм" unit="">100</param>
+    <param name="Диаметр, мм" unit="">90</param>
     <param name="Длина, мм" unit="">300</param>
   </offer>
   <offer id="1758599415" available="true">
@@ -68831,7 +68832,7 @@
     <param name="Состояние">Новое</param>
     <param name="Тип">Ролик для йоги</param>
     <param name="Цвет">Синий</param>
-    <param name="Диаметр, мм" unit="">100</param>
+    <param name="Диаметр, мм" unit="">90</param>
     <param name="Длина, мм" unit="">300</param>
   </offer>
   <offer id="1758602537" available="true">
@@ -68853,7 +68854,7 @@
     <param name="Состояние">Новое</param>
     <param name="Тип">Ролик для йоги</param>
     <param name="Цвет">Черный</param>
-    <param name="Диаметр, мм" unit="">100</param>
+    <param name="Диаметр, мм" unit="">90</param>
     <param name="Длина, мм" unit="">300</param>
   </offer>
   <offer id="1758651524" available="true">
@@ -68875,7 +68876,7 @@
     <param name="Состояние">Новое</param>
     <param name="Тип">Ролик для йоги</param>
     <param name="Цвет">Оранжевый</param>
-    <param name="Диаметр, мм" unit="">100</param>
+    <param name="Диаметр, мм" unit="">90</param>
     <param name="Длина, мм" unit="">300</param>
   </offer>
   <offer id="1758983990" available="false">
@@ -69653,7 +69654,7 @@
     <param name="Состояние">Новое</param>
     <param name="Тип">Ролик для йоги</param>
     <param name="Цвет">Салатовый</param>
-    <param name="Диаметр, мм" unit="">100</param>
+    <param name="Диаметр, мм" unit="">90</param>
     <param name="Длина, мм" unit="">300</param>
   </offer>
   <offer id="1778132854" available="false">
@@ -70703,7 +70704,7 @@
     <vendorCode>832579</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>135</quantity_in_stock>
+    <quantity_in_stock>129</quantity_in_stock>
     <param name="Возраст">От 1 мес</param>
     <param name="Высота" unit="мм">10</param>
     <param name="Длина" unit="мм">500</param>
@@ -70787,7 +70788,7 @@
     <vendorCode>41015</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>170</quantity_in_stock>
+    <quantity_in_stock>164</quantity_in_stock>
     <param name="Вес" unit="кг">1.015</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -71023,7 +71024,7 @@
     <vendorCode>56392</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>388</quantity_in_stock>
+    <quantity_in_stock>384</quantity_in_stock>
     <param name="Вес" unit="кг">1.67</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Двери|Крышка багажника|Пол автомобиля|Капот|Стенки багажника|Колесные арки|Потолок автомобиля|Крыша|Пол багажника|Дверные панели</param>
@@ -71085,7 +71086,7 @@
     <vendorCode>56391</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>206</quantity_in_stock>
+    <quantity_in_stock>204</quantity_in_stock>
     <param name="Вес" unit="кг">2.13</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Двери|Крышка багажника|Пол автомобиля|Капот|Стенки багажника|Колесные арки|Потолок автомобиля|Крыша|Пол багажника|Дверные панели</param>
@@ -72241,7 +72242,7 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>329</quantity_in_stock>
+    <quantity_in_stock>321</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -72419,7 +72420,7 @@
     <vendorCode>90201661</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>345</quantity_in_stock>
+    <quantity_in_stock>338</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Класс материала по теплопроводности">Средняя</param>
     <param name="Максимальная рабочая температура" unit="град.">75</param>
@@ -72574,7 +72575,7 @@
     <vendorCode>57043</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>212</quantity_in_stock>
+    <quantity_in_stock>208</quantity_in_stock>
     <param name="Вес" unit="кг">0.64</param>
     <param name="Длина листа" unit="см">50</param>
     <param name="Применение материала">Двери|Крышка багажника|Пол автомобиля|Капот|Стенки багажника|Колесные арки|Потолок автомобиля|Крыша|Пол багажника|Дверные панели</param>
@@ -73270,7 +73271,7 @@
     <vendorCode>18006008СЕ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>170</quantity_in_stock>
+    <quantity_in_stock>168</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -74108,7 +74109,7 @@
     <vendorCode>889021</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>146</quantity_in_stock>
+    <quantity_in_stock>143</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">4</param>
@@ -75690,7 +75691,7 @@
     <vendor>Lanor</vendor>
     <vendorCode>889060</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Возраст">С рождения</param>
     <param name="Высота" unit="мм">10</param>
     <param name="Длина" unit="мм">2000</param>
@@ -87017,7 +87018,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Плотность, кг\м3" unit="кг\м3">105</param>
   </offer>
-  <offer id="2026435277" available="true">
+  <offer id="2026435277" available="false">
     <url>https://proekt24.com/p2026435277-list-eva-eva.html</url>
     <price>1050</price>
     <currencyId>UAH</currencyId>
@@ -87031,7 +87032,7 @@
     <name>Лист ЭВА (EVA) коричневый 1500×1000х10 мм (автоковер, ромб)</name>
     <vendorCode>889390</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Материал">Резина</param>
     <param name="Цвет">Коричневый</param>
     <param name="Длина" unit="мм">1500</param>
@@ -87167,7 +87168,7 @@
     <vendorCode>889384</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>371</quantity_in_stock>
+    <quantity_in_stock>377</quantity_in_stock>
     <param name="Ширина" unit="мм">1010</param>
     <param name="Длина" unit="м">20</param>
     <param name="Армированная фольга">Да</param>
@@ -87191,7 +87192,7 @@
     <vendorCode>889386</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>367</quantity_in_stock>
+    <quantity_in_stock>366</quantity_in_stock>
     <param name="Длина" unit="м">20</param>
     <param name="Максимальная рабочая температура" unit="град.">200</param>
     <param name="Ширина" unit="мм">1010</param>
@@ -87216,7 +87217,7 @@
     <vendorCode>889395</vendorCode>
     <country_of_origin>Польша</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>47</quantity_in_stock>
+    <quantity_in_stock>46</quantity_in_stock>
     <param name="Консистенция">Аэрозоль</param>
     <param name="Объем" unit="мл">500</param>
   </offer>
@@ -87757,7 +87758,7 @@
     <vendorCode>889387</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1400</quantity_in_stock>
+    <quantity_in_stock>1399</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Максимальная рабочая температура" unit="град.">180</param>
     <param name="Форма поставки материала" unit="">Рулон</param>
@@ -87782,7 +87783,7 @@
     <vendorCode>889388</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2126</quantity_in_stock>
+    <quantity_in_stock>2125</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Армированная фольга">Да</param>
     <param name="Максимальная рабочая температура" unit="град.">100</param>
@@ -88680,7 +88681,7 @@
     <vendorCode>889441</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>132</quantity_in_stock>
+    <quantity_in_stock>126</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="">200</param>
     <param name="Минимальная температура эксплуатации" unit="">-30</param>
@@ -88702,7 +88703,7 @@
     <vendorCode>889440</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>158</quantity_in_stock>
+    <quantity_in_stock>156</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="">200</param>
     <param name="Минимальная температура эксплуатации" unit="">-30</param>
@@ -92361,7 +92362,7 @@
     <vendorCode>03-791</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Материал ручки">дерево</param>
     <param name="Диаметр, мм" unit="">25</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
@@ -95495,7 +95496,7 @@
     <vendorCode>M2660U-6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Антипригарное покрытие">Нет</param>
     <param name="Верхний диаметр посуды">26 (см)</param>
     <param name="Вес" unit="кг">3.05</param>
@@ -112263,7 +112264,7 @@
     <vendorCode>57440</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>47</quantity_in_stock>
+    <quantity_in_stock>46</quantity_in_stock>
     <param name="Длина листа" unit="см">25</param>
     <param name="Тип">Шумоизоляция</param>
     <param name="Ширина листа" unit="см">10</param>
@@ -113060,7 +113061,7 @@
     <vendorCode>321309</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>654</quantity_in_stock>
+    <quantity_in_stock>854</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет">Серый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -113249,7 +113250,7 @@
     <vendorCode>321609</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>715</quantity_in_stock>
+    <quantity_in_stock>714</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет">Серый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -113456,7 +113457,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="2292878868" available="false">
+  <offer id="2292878868" available="true">
     <url>https://proekt24.com/p2292878868-zhgut-uplotnitelnyj-seryj.html</url>
     <price>64</price>
     <currencyId>UAH</currencyId>
@@ -113469,7 +113470,7 @@
     <vendorCode>8890279</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>663</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет">Серый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -116228,7 +116229,7 @@
     <vendorCode>57097</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>170</quantity_in_stock>
+    <quantity_in_stock>164</quantity_in_stock>
     <param name="Вес" unit="кг">0.64</param>
     <param name="Длина листа" unit="см">50</param>
     <param name="Применение материала">Двери|Крышка багажника|Пол автомобиля|Стенки багажника|Колесные арки|Потолок автомобиля|Крыша|Пол багажника|Дверные панели</param>
@@ -119141,7 +119142,7 @@
     <vendorCode>889591</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1147</quantity_in_stock>
+    <quantity_in_stock>1139</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Потолок автомобиля</param>
     <param name="Толщина" unit="мм">2</param>
@@ -119615,7 +119616,7 @@
     <vendorCode>2011-N3Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Длина" unit="см">24</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Лапа</param>
@@ -123251,11 +123252,11 @@
     <vendorCode>889603</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>82</quantity_in_stock>
-    <param name="Материал ручки">дерево</param>
+    <quantity_in_stock>81</quantity_in_stock>
     <param name="Диаметр, мм" unit="">20</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Металл</param>
+    <param name="Материал ручки" unit="">дерево</param>
     <param name="Ширина, мм" unit="">32</param>
   </offer>
   <offer id="2666607961" available="true">
@@ -123364,7 +123365,7 @@
     <vendorCode>889623</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>35</quantity_in_stock>
+    <quantity_in_stock>34</quantity_in_stock>
     <param name="Диаметр, мм" unit="">25</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Металл</param>
@@ -124544,7 +124545,7 @@
     <url>https://proekt24.com/p2769608176-mastika-bitumnoj-osnove.html</url>
     <price>147</price>
     <currencyId>UAH</currencyId>
-    <categoryId>116112740</categoryId>
+    <categoryId>152297279</categoryId>
     <picture>https://images.prom.ua/6895331370_mastika-na-bitumnoj.jpg</picture>
     <picture>https://images.prom.ua/6895331371_mastika-na-bitumnoj.jpg</picture>
     <picture>https://images.prom.ua/6895331374_mastika-na-bitumnoj.jpg</picture>
@@ -124562,7 +124563,7 @@
     <url>https://proekt24.com/p2769608177-antigravij-chernyj-acoustics.html</url>
     <price>189</price>
     <currencyId>UAH</currencyId>
-    <categoryId>116112740</categoryId>
+    <categoryId>152297279</categoryId>
     <picture>https://images.prom.ua/6895331376_antigravij-chernyj-acoustics.jpg</picture>
     <picture>https://images.prom.ua/6895331377_antigravij-chernyj-acoustics.jpg</picture>
     <picture>https://images.prom.ua/6895331379_antigravij-chernyj-acoustics.jpg</picture>
@@ -124581,7 +124582,7 @@
     <url>https://proekt24.com/p2769608178-movil-acoustics-500.html</url>
     <price>183</price>
     <currencyId>UAH</currencyId>
-    <categoryId>116112740</categoryId>
+    <categoryId>152297279</categoryId>
     <picture>https://images.prom.ua/6895331381_movil-acoustics-500.jpg</picture>
     <picture>https://images.prom.ua/6895331383_movil-acoustics-500.jpg</picture>
     <picture>https://images.prom.ua/6895331385_movil-acoustics-500.jpg</picture>
@@ -124599,7 +124600,7 @@
     <url>https://proekt24.com/p2769608179-antigravij-seryj-acoustics.html</url>
     <price>189</price>
     <currencyId>UAH</currencyId>
-    <categoryId>116112740</categoryId>
+    <categoryId>152297279</categoryId>
     <picture>https://images.prom.ua/6895331386_antigravij-seryj-acoustics.jpg</picture>
     <picture>https://images.prom.ua/6895331388_antigravij-seryj-acoustics.jpg</picture>
     <picture>https://images.prom.ua/6895331391_antigravij-seryj-acoustics.jpg</picture>
@@ -126102,7 +126103,7 @@
     <vendorCode>EF-1064-BL</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Состояние">Новое</param>
     <param name="Цвет">Синий</param>
     <param name="Диаметр" unit="">9</param>
@@ -127357,7 +127358,7 @@
     <vendor>Roofer</vendor>
     <vendorCode>889733</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <param name="Цвет">Коричневый</param>
   </offer>
   <offer id="2862173307" available="true">
@@ -127893,7 +127894,7 @@
     <vendorCode>889661</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>371</quantity_in_stock>
+    <quantity_in_stock>369</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -129399,7 +129400,7 @@
     <vendorCode>889783</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>30</quantity_in_stock>
     <param name="Высота" unit="мм">41</param>
     <param name="Длина" unit="">3</param>
     <param name="Материал" unit="">Сталь</param>
