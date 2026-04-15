@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-04-14 17:00">
+<yml_catalog date="2026-04-15 10:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="45.60906" />
+      <currency id="USD" rate="45.674685" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="53.2896" />
+      <currency id="EUR" rate="53.891565" />
     </currencies>
     <categories>
       <category id="103641628" parentId="908017">Бандажные хомуты</category>
@@ -1434,7 +1434,7 @@
     <vendorCode>1002-02</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Вес" unit="кг">27</param>
     <param name="Высота" unit="см">120</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -3954,7 +3954,7 @@
     <vendorCode>901032</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1914</quantity_in_stock>
+    <quantity_in_stock>1854</quantity_in_stock>
     <param name="Плотность" unit="г/м2">33</param>
     <param name="Ширина" unit="м">1000</param>
     <param name="Водопоглощение по объему, не менее, %" unit="">0.7</param>
@@ -4101,7 +4101,7 @@
     <vendorCode>500132</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>35</quantity_in_stock>
+    <quantity_in_stock>34</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -17833,7 +17833,7 @@
     <vendorCode>63327</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>97</quantity_in_stock>
+    <quantity_in_stock>96</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Минимальная рабочая температура" unit="град.">-36</param>
@@ -23395,7 +23395,7 @@
     <vendorCode>11364</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>415</quantity_in_stock>
+    <quantity_in_stock>413</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Капот|Стенки багажника|Двери|Пол автомобиля|Колесные арки|Крыша|Потолок автомобиля|Крышка багажника|Пол багажника|Дверные панели</param>
@@ -25708,13 +25708,14 @@
     <price_old>89</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>3682563</categoryId>
-    <picture>https://images.prom.ua/3362696144_alyubond-alpet-al-bond.jpg</picture>
-    <picture>https://images.prom.ua/3362696134_alyubond-alpet-al-bond.jpg</picture>
-    <picture>https://images.prom.ua/3365192878_alyubond-alpet-al-bond.jpg</picture>
-    <picture>https://images.prom.ua/3365192879_alyubond-alpet-al-bond.jpg</picture>
-    <picture>https://images.prom.ua/3365192880_alyubond-alpet-al-bond.jpg</picture>
-    <picture>https://images.prom.ua/3365192885_alyubond-alpet-al-bond.jpg</picture>
-    <picture>https://images.prom.ua/3365192886_alyubond-alpet-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043863_alyubond-alpet-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043865_alyubond-alpet-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043866_alyubond-alpet-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043867_alyubond-alpet-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043868_alyubond-alpet-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043869_alyubond-alpet-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043870_alyubond-alpet-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043871_alyubond-alpet-al-bond.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Алюбонд Al+Pet (Al-Bond) 120 мкм</name>
@@ -25722,13 +25723,13 @@
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>3384</quantity_in_stock>
-    <param name="Армированная фольга" unit="">Да</param>
+    <param name="Армированная фольга">Да</param>
+    <param name="Максимальная рабочая температура" unit="град.">100</param>
+    <param name="Ширина" unit="мм">1000</param>
     <param name="Вид основного сырья" unit="">Неорганическое</param>
     <param name="Длина рулона, п.м." unit="">50</param>
-    <param name="Максимальная рабочая температура" unit="">100</param>
     <param name="Толщина изоляции" unit="">120</param>
     <param name="Форма поставки материала" unit="">Рулон</param>
-    <param name="Ширина" unit="">1000</param>
   </offer>
   <offer id="413420198" available="false">
     <url>https://proekt24.com/p413420198-balaklava-maska-podshlemnik.html</url>
@@ -34272,7 +34273,7 @@
     <vendorCode>62025</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>350</quantity_in_stock>
+    <quantity_in_stock>496</quantity_in_stock>
     <param name="Тип использования" unit="">Универсальный</param>
     <param name="Минимальная температура эксплуатации" unit="">-40</param>
     <param name="Максимальная температура эксплуатации" unit="">90</param>
@@ -38065,8 +38066,8 @@
   </offer>
   <offer id="1377864018" available="true">
     <url>https://proekt24.com/p1377864018-klej-ukrizol-dlya.html</url>
-    <price>384</price>
-    <price_old>458</price_old>
+    <price>319</price>
+    <price_old>380</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2689523</categoryId>
     <picture>https://images.prom.ua/2998900579_klej-ukrizol-dlya.jpg</picture>
@@ -42752,7 +42753,7 @@
     <vendorCode>54/13П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>302</quantity_in_stock>
+    <quantity_in_stock>266</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -42997,7 +42998,7 @@
     <vendorCode>35/13П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>348</quantity_in_stock>
+    <quantity_in_stock>318</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -45124,7 +45125,7 @@
     <vendorCode>456789</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>254</quantity_in_stock>
+    <quantity_in_stock>190</quantity_in_stock>
     <param name="Длина" unit="м">1</param>
     <param name="Ширина" unit="мм">50</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -50292,7 +50293,7 @@
     <vendorCode>61213</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>186</quantity_in_stock>
+    <quantity_in_stock>600</quantity_in_stock>
     <param name="Длина" unit="м">15</param>
     <param name="Назначение материала">Для стен|Для дорог|Для балконов|Для резервуаров|Для фасадов|Для кровли</param>
     <param name="Тип использования">Универсальный</param>
@@ -67828,7 +67829,7 @@
     <vendorCode>18006008СЕТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>39</quantity_in_stock>
+    <quantity_in_stock>37</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -69709,7 +69710,7 @@
     <vendorCode>20120</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>207</quantity_in_stock>
+    <quantity_in_stock>233</quantity_in_stock>
     <param name="Армированный скотч">Да</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">25</param>
@@ -70664,8 +70665,8 @@
   </offer>
   <offer id="1738085443" available="true">
     <url>https://proekt24.com/p1738085443-klej-ukrizol-dlya.html</url>
-    <price>1011</price>
-    <price_old>1204</price_old>
+    <price>806</price>
+    <price_old>960</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2689523</categoryId>
     <picture>https://images.prom.ua/4172391372_klej-ukrizol-dlya.jpg</picture>
@@ -74799,7 +74800,7 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>272</quantity_in_stock>
+    <quantity_in_stock>267</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -79108,7 +79109,7 @@
     <name>Детский коврик-пазл 1000х1000х10 мм красный</name>
     <vendorCode>889104</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <param name="Возраст">От 1 мес</param>
     <param name="Высота" unit="мм">10</param>
     <param name="Длина" unit="мм">1000</param>
@@ -90259,10 +90260,10 @@
     <price_old>89</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>3682563</categoryId>
-    <picture>https://images.prom.ua/5162828122_armofol-v-folgasteklosetkafolga.jpg</picture>
-    <picture>https://images.prom.ua/5162828112_armofol-v-folgasteklosetkafolga.jpg</picture>
-    <picture>https://images.prom.ua/5171980806_armofol-v-folgasteklosetkafolga.jpg</picture>
-    <picture>https://images.prom.ua/5171980808_armofol-v-folgasteklosetkafolga.jpg</picture>
+    <picture>https://images.prom.ua/7277043872_armofol-v-folgasteklosetkafolga.jpg</picture>
+    <picture>https://images.prom.ua/7277043873_armofol-v-folgasteklosetkafolga.jpg</picture>
+    <picture>https://images.prom.ua/7277043875_armofol-v-folgasteklosetkafolga.jpg</picture>
+    <picture>https://images.prom.ua/7277043877_armofol-v-folgasteklosetkafolga.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Армофол В фольга+стеклосетка+фольга (Фолар В) (толщина 70 мкм)</name>
@@ -90270,12 +90271,12 @@
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>239</quantity_in_stock>
-    <param name="Ширина" unit="мм">1010</param>
-    <param name="Длина" unit="м">20</param>
     <param name="Армированная фольга">Да</param>
-    <param name="Наличие клеевого слоя">Нет</param>
-    <param name="Минимальная рабочая температура" unit="град.">-60</param>
+    <param name="Длина" unit="м">50</param>
     <param name="Максимальная рабочая температура" unit="град.">200</param>
+    <param name="Минимальная рабочая температура" unit="град.">-60</param>
+    <param name="Наличие клеевого слоя">Нет</param>
+    <param name="Ширина" unit="мм">1000</param>
     <param name="Толщина (мкм)" unit="мкм">70</param>
   </offer>
   <offer id="2032187986" available="true">
@@ -90284,22 +90285,23 @@
     <price_old>68</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>3682563</categoryId>
-    <picture>https://images.prom.ua/5349765460_armofol-a-folgasteklosetka.jpg</picture>
-    <picture>https://images.prom.ua/5349852675_armofol-a-folgasteklosetka.jpg</picture>
-    <picture>https://images.prom.ua/5349852683_armofol-a-folgasteklosetka.jpg</picture>
+    <picture>https://images.prom.ua/7277043878_armofol-a-folgasteklosetka.jpg</picture>
+    <picture>https://images.prom.ua/7277043879_armofol-a-folgasteklosetka.jpg</picture>
+    <picture>https://images.prom.ua/7277043880_armofol-a-folgasteklosetka.jpg</picture>
+    <picture>https://images.prom.ua/7277043882_armofol-a-folgasteklosetka.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Армофол А фольга+стеклосетка (Фолар А) (толщина 50 мкм)</name>
+    <name>Армофол А фольга+стеклосетка (Фолар А) (толщина 90 мкм)</name>
     <vendorCode>889384</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>497</quantity_in_stock>
-    <param name="Ширина" unit="мм">1010</param>
-    <param name="Длина" unit="м">20</param>
     <param name="Армированная фольга">Да</param>
-    <param name="Наличие клеевого слоя">Нет</param>
-    <param name="Минимальная рабочая температура" unit="град.">-60</param>
+    <param name="Длина" unit="м">50</param>
     <param name="Максимальная рабочая температура" unit="град.">200</param>
+    <param name="Минимальная рабочая температура" unit="град.">-60</param>
+    <param name="Наличие клеевого слоя">Нет</param>
+    <param name="Ширина" unit="мм">1000</param>
   </offer>
   <offer id="2032187987" available="true">
     <url>https://proekt24.com/p2032187987-armofol-folgasteklosetkalipkij-sloj.html</url>
@@ -90307,25 +90309,23 @@
     <price_old>120</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>3682563</categoryId>
-    <picture>https://images.prom.ua/5162808554_armofol-s-folgasteklosetkalipkij.jpg</picture>
-    <picture>https://images.prom.ua/5162808559_armofol-s-folgasteklosetkalipkij.jpg</picture>
-    <picture>https://images.prom.ua/5162813024_armofol-s-folgasteklosetkalipkij.jpg</picture>
-    <picture>https://images.prom.ua/5171986278_armofol-s-folgasteklosetkalipkij.jpg</picture>
-    <picture>https://images.prom.ua/5171986279_armofol-s-folgasteklosetkalipkij.jpg</picture>
+    <picture>https://images.prom.ua/7277043883_armofol-s-folgasteklosetkalipkij.jpg</picture>
+    <picture>https://images.prom.ua/7277043884_armofol-s-folgasteklosetkalipkij.jpg</picture>
+    <picture>https://images.prom.ua/7277043885_armofol-s-folgasteklosetkalipkij.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Армофол С фольга+стеклосетка+липкий слой (Фолар С) (толщина 90 мкм)</name>
+    <name>Армофол С фольга+стеклосетка+липкий слой (Фолар С) (толщина 60 мкм)</name>
     <vendorCode>889386</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>865</quantity_in_stock>
     <param name="Длина" unit="м">20</param>
     <param name="Максимальная рабочая температура" unit="град.">200</param>
-    <param name="Ширина" unit="мм">1010</param>
+    <param name="Ширина" unit="мм">1000</param>
     <param name="Армированная фольга" unit="">Да</param>
-    <param name="Наличие клеевого слоя" unit="">Да</param>
     <param name="Минимальная рабочая температура" unit="">-60</param>
-    <param name="Толщина (мкм)" unit="мкм">90</param>
+    <param name="Наличие клеевого слоя" unit="">Да</param>
+    <param name="Толщина (мкм)" unit="мкм">60</param>
   </offer>
   <offer id="2032717383" available="true">
     <url>https://proekt24.com/p2032717383-klej-anser-tapicer.html</url>
@@ -90894,14 +90894,15 @@
     <price_old>156</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>3682563</categoryId>
-    <picture>https://images.prom.ua/3362677696_folgoholst-na-steklotkani.jpg</picture>
-    <picture>https://images.prom.ua/3362676032_folgoholst-na-steklotkani.jpg</picture>
-    <picture>https://images.prom.ua/3362675836_folgoholst-na-steklotkani.jpg</picture>
-    <picture>https://images.prom.ua/3365192879_folgoholst-na-steklotkani.jpg</picture>
-    <picture>https://images.prom.ua/3365192878_folgoholst-na-steklotkani.jpg</picture>
-    <picture>https://images.prom.ua/3365192885_folgoholst-na-steklotkani.jpg</picture>
-    <picture>https://images.prom.ua/3365192880_folgoholst-na-steklotkani.jpg</picture>
-    <picture>https://images.prom.ua/3365192886_folgoholst-na-steklotkani.jpg</picture>
+    <picture>https://images.prom.ua/7277043887_folgoholst-na-steklotkani.jpg</picture>
+    <picture>https://images.prom.ua/7277043890_folgoholst-na-steklotkani.jpg</picture>
+    <picture>https://images.prom.ua/7277043891_folgoholst-na-steklotkani.jpg</picture>
+    <picture>https://images.prom.ua/7277043893_folgoholst-na-steklotkani.jpg</picture>
+    <picture>https://images.prom.ua/7277043898_folgoholst-na-steklotkani.jpg</picture>
+    <picture>https://images.prom.ua/7277043899_folgoholst-na-steklotkani.jpg</picture>
+    <picture>https://images.prom.ua/7277043900_folgoholst-na-steklotkani.jpg</picture>
+    <picture>https://images.prom.ua/7277043901_folgoholst-na-steklotkani.jpg</picture>
+    <picture>https://images.prom.ua/7277043902_folgoholst-na-steklotkani.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Фольгохолст на стеклоткани</name>
@@ -90909,39 +90910,42 @@
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>1399</quantity_in_stock>
-    <param name="Ширина" unit="мм">1000</param>
+    <param name="Армированная фольга">Да</param>
     <param name="Максимальная рабочая температура" unit="град.">180</param>
-    <param name="Форма поставки материала" unit="">Рулон</param>
+    <param name="Ширина" unit="мм">1010</param>
     <param name="Вид основного сырья" unit="">Неорганическое</param>
-    <param name="Длина рулона, п.м." unit="">50</param>
+    <param name="Длина рулона, п.м." unit="">20</param>
+    <param name="Толщина (мкм)" unit="мкм">280</param>
+    <param name="Форма поставки материала" unit="">Рулон</param>
   </offer>
   <offer id="2071596007" available="true">
-    <url>https://proekt24.com/p2071596007-alyubond-bond-mkm.html</url>
+    <url>https://proekt24.com/p2071596007-alyubond-bond-100.html</url>
     <price>55</price>
     <price_old>65</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>3682563</categoryId>
-    <picture>https://images.prom.ua/3362696144_alyubond-al-al-bond.jpg</picture>
-    <picture>https://images.prom.ua/3362696134_alyubond-al-al-bond.jpg</picture>
-    <picture>https://images.prom.ua/3365192878_alyubond-al-al-bond.jpg</picture>
-    <picture>https://images.prom.ua/3365192879_alyubond-al-al-bond.jpg</picture>
-    <picture>https://images.prom.ua/3365192880_alyubond-al-al-bond.jpg</picture>
-    <picture>https://images.prom.ua/3365192885_alyubond-al-al-bond.jpg</picture>
-    <picture>https://images.prom.ua/3365192886_alyubond-al-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043904_alyubond-al-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043905_alyubond-al-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043906_alyubond-al-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043907_alyubond-al-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043908_alyubond-al-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043909_alyubond-al-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043910_alyubond-al-al-bond.jpg</picture>
+    <picture>https://images.prom.ua/7277043912_alyubond-al-al-bond.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Алюбонд Al (Al-Bond) 95 мкм</name>
+    <name>Алюбонд Al (Al-Bond) 100 мкм</name>
     <vendorCode>889388</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>2069</quantity_in_stock>
-    <param name="Ширина" unit="мм">1000</param>
+    <param name="Армированная фольга">Да</param>
     <param name="Максимальная рабочая температура" unit="град.">100</param>
-    <param name="Форма поставки материала">Рулон</param>
-    <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Толщина изоляции" unit="">95</param>
+    <param name="Ширина" unit="мм">1000</param>
+    <param name="Вид основного сырья" unit="">Неорганическое</param>
     <param name="Длина рулона, п.м." unit="">50</param>
-    <param name="Армированная фольга" unit="">Да</param>
+    <param name="Толщина (мкм)" unit="мкм">100</param>
+    <param name="Форма поставки материала" unit="">Рулон</param>
   </offer>
   <offer id="2071858485" available="false">
     <url>https://proekt24.com/p2071858485-list-eva-eva.html</url>
@@ -93096,7 +93100,7 @@
     <vendorCode>889451</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">XS</param>
@@ -94248,7 +94252,7 @@
     <vendorCode>901022</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Класс материала по теплопроводности">Низкая</param>
     <param name="Максимальная рабочая температура" unit="град.">90</param>
@@ -124963,7 +124967,7 @@
     <vendorCode>2015-N1С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Тип">Тренировочные</param>
     <param name="Материал">Искусственная кожа</param>
@@ -129400,7 +129404,7 @@
     <vendorCode>889672</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вес" unit="кг">0.75</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Цвет">Красный</param>
@@ -130508,7 +130512,7 @@
     <vendorCode>5050Л2</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1007</quantity_in_stock>
+    <quantity_in_stock>1027</quantity_in_stock>
     <param name="Высота" unit="мм">50</param>
     <param name="Длина" unit="мм">2000</param>
     <param name="Ширина" unit="мм">50</param>
@@ -132599,7 +132603,7 @@
     <param name="Размер">L</param>
     <param name="Тип">Тренировочные</param>
   </offer>
-  <offer id="2879373131" available="true">
+  <offer id="2879373131" available="false">
     <url>https://proekt24.com/p2879373131-perchatki-trenirovochnye-boxer.html</url>
     <price>892</price>
     <price_old>1062</price_old>
@@ -132616,7 +132620,7 @@
     <vendorCode>2014-0N1Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Возрастная группа">Взрослая</param>
     <param name="Цвет">Черный</param>
     <param name="Материал">Натуральная кожа</param>
