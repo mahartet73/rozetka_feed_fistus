@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-04-22 17:00">
+<yml_catalog date="2026-04-23 10:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="46.3218" />
+      <currency id="USD" rate="46.081665" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.506865" />
+      <currency id="EUR" rate="54.07227" />
     </currencies>
     <categories>
       <category id="103641628" parentId="908017">Бандажные хомуты</category>
@@ -3767,7 +3767,7 @@
     <vendorCode>35015</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1240</quantity_in_stock>
+    <quantity_in_stock>1238</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -3918,7 +3918,7 @@
     <vendorCode>500191</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>67</quantity_in_stock>
+    <quantity_in_stock>77</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -4303,7 +4303,7 @@
     <vendorCode>500093</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>989</quantity_in_stock>
+    <quantity_in_stock>987</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Вид натурального каучука" unit="">Синтетический каучук</param>
@@ -4337,7 +4337,7 @@
     <vendorCode>500133</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>920</quantity_in_stock>
+    <quantity_in_stock>916</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -4440,7 +4440,7 @@
     <vendorCode>500323</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>180</quantity_in_stock>
+    <quantity_in_stock>162</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -5433,7 +5433,7 @@
   </offer>
   <offer id="170465068" available="true">
     <url>https://proekt24.com/p170465068-izolyatsiya-trub-156.html</url>
-    <price>6</price>
+    <price>5</price>
     <price_old>7</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23440994</categoryId>
@@ -5496,8 +5496,8 @@
   </offer>
   <offer id="172097499" available="true">
     <url>https://proekt24.com/p172097499-izolyatsiya-trub-226.html</url>
-    <price>7</price>
-    <price_old>8</price_old>
+    <price>6</price>
+    <price_old>7</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23440994</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-226.jpg</picture>
@@ -5527,8 +5527,8 @@
   </offer>
   <offer id="172100443" available="true">
     <url>https://proekt24.com/p172100443-izolyatsiya-trub-286.html</url>
-    <price>8</price>
-    <price_old>9</price_old>
+    <price>7</price>
+    <price_old>8</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23440994</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-286.jpg</picture>
@@ -5558,8 +5558,8 @@
   </offer>
   <offer id="172103359" available="true">
     <url>https://proekt24.com/p172103359-izolyatsiya-trub-356.html</url>
-    <price>11</price>
-    <price_old>13</price_old>
+    <price>10</price>
+    <price_old>12</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23440994</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-356.jpg</picture>
@@ -5572,7 +5572,7 @@
     <vendorCode>ВП35/6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>360</quantity_in_stock>
+    <quantity_in_stock>210</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">35</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
@@ -5589,8 +5589,8 @@
   </offer>
   <offer id="172780317" available="true">
     <url>https://proekt24.com/p172780317-izolyatsiya-trub-426.html</url>
-    <price>15</price>
-    <price_old>18</price_old>
+    <price>14</price>
+    <price_old>16</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23440994</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-426.jpg</picture>
@@ -5652,8 +5652,8 @@
   </offer>
   <offer id="174056560" available="true">
     <url>https://proekt24.com/p174056560-izolyatsiya-trub-189.html</url>
-    <price>10</price>
-    <price_old>12</price_old>
+    <price>9</price>
+    <price_old>11</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-189.jpg</picture>
@@ -5684,8 +5684,8 @@
   </offer>
   <offer id="174066799" available="true">
     <url>https://proekt24.com/p174066799-izolyatsiya-trub-229.html</url>
-    <price>12</price>
-    <price_old>14</price_old>
+    <price>10</price>
+    <price_old>12</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-229.jpg</picture>
@@ -5716,8 +5716,8 @@
   </offer>
   <offer id="174068769" available="true">
     <url>https://proekt24.com/p174068769-izolyatsiya-trub-289.html</url>
-    <price>15</price>
-    <price_old>18</price_old>
+    <price>14</price>
+    <price_old>16</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-289.jpg</picture>
@@ -5748,8 +5748,8 @@
   </offer>
   <offer id="174072483" available="false">
     <url>https://proekt24.com/p174072483-izolyatsiya-trub-359.html</url>
-    <price>17</price>
-    <price_old>20</price_old>
+    <price>16</price>
+    <price_old>19</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-359.jpg</picture>
@@ -5780,8 +5780,8 @@
   </offer>
   <offer id="174073522" available="true">
     <url>https://proekt24.com/p174073522-izolyatsiya-trub-429.html</url>
-    <price>21</price>
-    <price_old>25</price_old>
+    <price>19</price>
+    <price_old>22</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-429.jpg</picture>
@@ -5812,8 +5812,8 @@
   </offer>
   <offer id="174073672" available="true">
     <url>https://proekt24.com/p174073672-izolyatsiya-trub-529.html</url>
-    <price>23</price>
-    <price_old>28</price_old>
+    <price>21</price>
+    <price_old>25</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-529.jpg</picture>
@@ -5876,8 +5876,8 @@
   </offer>
   <offer id="174079323" available="true">
     <url>https://proekt24.com/p174079323-izolyatsiya-trub-659.html</url>
-    <price>34</price>
-    <price_old>40</price_old>
+    <price>30</price>
+    <price_old>36</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-659.jpg</picture>
@@ -5908,8 +5908,8 @@
   </offer>
   <offer id="174082337" available="false">
     <url>https://proekt24.com/p174082337-izolyatsiya-trub-2213.html</url>
-    <price>22</price>
-    <price_old>26</price_old>
+    <price>20</price>
+    <price_old>24</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-2213.jpg</picture>
@@ -5936,8 +5936,8 @@
   </offer>
   <offer id="174083079" available="true">
     <url>https://proekt24.com/p174083079-izolyatsiya-trub-2813.html</url>
-    <price>26</price>
-    <price_old>31</price_old>
+    <price>24</price>
+    <price_old>29</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-2813.jpg</picture>
@@ -5964,8 +5964,8 @@
   </offer>
   <offer id="174463017" available="true">
     <url>https://proekt24.com/p174463017-izolyatsiya-trub-3513.html</url>
-    <price>30</price>
-    <price_old>36</price_old>
+    <price>28</price>
+    <price_old>34</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-3513.jpg</picture>
@@ -5992,8 +5992,8 @@
   </offer>
   <offer id="174464984" available="false">
     <url>https://proekt24.com/p174464984-izolyatsiya-trub-4213.html</url>
-    <price>40</price>
-    <price_old>48</price_old>
+    <price>37</price>
+    <price_old>44</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-4213.jpg</picture>
@@ -6020,8 +6020,8 @@
   </offer>
   <offer id="174468116" available="false">
     <url>https://proekt24.com/p174468116-izolyatsiya-trub-5213.html</url>
-    <price>41</price>
-    <price_old>49</price_old>
+    <price>38</price>
+    <price_old>45</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-5213.jpg</picture>
@@ -6048,8 +6048,8 @@
   </offer>
   <offer id="174469329" available="true">
     <url>https://proekt24.com/p174469329-izolyatsiya-trub-6013.html</url>
-    <price>45</price>
-    <price_old>54</price_old>
+    <price>42</price>
+    <price_old>50</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-6013.jpg</picture>
@@ -6076,8 +6076,8 @@
   </offer>
   <offer id="174469600" available="true">
     <url>https://proekt24.com/p174469600-izolyatsiya-trub-6513.html</url>
-    <price>47</price>
-    <price_old>56</price_old>
+    <price>44</price>
+    <price_old>52</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-6513.jpg</picture>
@@ -6104,8 +6104,8 @@
   </offer>
   <offer id="174471911" available="true">
     <url>https://proekt24.com/p174471911-izolyatsiya-trub-7613.html</url>
-    <price>57</price>
-    <price_old>68</price_old>
+    <price>52</price>
+    <price_old>62</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-7613.jpg</picture>
@@ -6132,8 +6132,8 @@
   </offer>
   <offer id="174478756" available="false">
     <url>https://proekt24.com/p174478756-izolyatsiya-trub-8913.html</url>
-    <price>61</price>
-    <price_old>72</price_old>
+    <price>57</price>
+    <price_old>68</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-8913.jpg</picture>
@@ -6160,8 +6160,8 @@
   </offer>
   <offer id="174480242" available="false">
     <url>https://proekt24.com/p174480242-izolyatsiya-trub-11413.html</url>
-    <price>78</price>
-    <price_old>92</price_old>
+    <price>71</price>
+    <price_old>85</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-11413.jpg</picture>
@@ -6188,8 +6188,8 @@
   </offer>
   <offer id="174481006" available="false">
     <url>https://proekt24.com/p174481006-izolyatsiya-trub-16013.html</url>
-    <price>130</price>
-    <price_old>155</price_old>
+    <price>120</price>
+    <price_old>142</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-16013.jpg</picture>
@@ -6216,8 +6216,8 @@
   </offer>
   <offer id="174482286" available="true">
     <url>https://proekt24.com/p174482286-izolyatsiya-trub-1820.html</url>
-    <price>40</price>
-    <price_old>48</price_old>
+    <price>37</price>
+    <price_old>44</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-1820.jpg</picture>
@@ -6251,8 +6251,8 @@
   </offer>
   <offer id="174483262" available="false">
     <url>https://proekt24.com/p174483262-izolyatsiya-trub-2220.html</url>
-    <price>44</price>
-    <price_old>52</price_old>
+    <price>41</price>
+    <price_old>49</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-2220.jpg</picture>
@@ -6286,8 +6286,8 @@
   </offer>
   <offer id="174484502" available="false">
     <url>https://proekt24.com/p174484502-izolyatsiya-trub-2820.html</url>
-    <price>49</price>
-    <price_old>59</price_old>
+    <price>46</price>
+    <price_old>55</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-2820.jpg</picture>
@@ -6314,8 +6314,8 @@
   </offer>
   <offer id="174484656" available="true">
     <url>https://proekt24.com/p174484656-izolyatsiya-trub-3520.html</url>
-    <price>58</price>
-    <price_old>69</price_old>
+    <price>52</price>
+    <price_old>62</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-3520.jpg</picture>
@@ -6342,8 +6342,8 @@
   </offer>
   <offer id="174484828" available="true">
     <url>https://proekt24.com/p174484828-izolyatsiya-trub-4220.html</url>
-    <price>66</price>
-    <price_old>79</price_old>
+    <price>61</price>
+    <price_old>72</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-4220.jpg</picture>
@@ -6370,8 +6370,8 @@
   </offer>
   <offer id="174484932" available="false">
     <url>https://proekt24.com/p174484932-izolyatsiya-trub-5220.html</url>
-    <price>79</price>
-    <price_old>94</price_old>
+    <price>72</price>
+    <price_old>86</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-5220.jpg</picture>
@@ -6406,8 +6406,8 @@
   </offer>
   <offer id="174485491" available="false">
     <url>https://proekt24.com/p174485491-izolyatsiya-trub-6520.html</url>
-    <price>97</price>
-    <price_old>115</price_old>
+    <price>89</price>
+    <price_old>106</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-6520.jpg</picture>
@@ -6434,8 +6434,8 @@
   </offer>
   <offer id="174485661" available="false">
     <url>https://proekt24.com/p174485661-izolyatsiya-trub-7620.html</url>
-    <price>105</price>
-    <price_old>125</price_old>
+    <price>97</price>
+    <price_old>115</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-7620.jpg</picture>
@@ -12328,8 +12328,8 @@
   </offer>
   <offer id="194823088" available="true">
     <url>https://proekt24.com/p194823088-sportivnyj-mat-bortsovskij.html</url>
-    <price>4207</price>
-    <price_old>5009</price_old>
+    <price>4646</price>
+    <price_old>5531</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>14361134</categoryId>
     <picture>https://images.prom.ua/4487243982_sportivnyj-mat-bortsovskij.jpg</picture>
@@ -12428,8 +12428,8 @@
   </offer>
   <offer id="195390909" available="true">
     <url>https://proekt24.com/p195390909-sportivnyj-mat-bortsovskij.html</url>
-    <price>4739</price>
-    <price_old>5641</price_old>
+    <price>5290</price>
+    <price_old>6298</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>14361134</categoryId>
     <picture>https://images.prom.ua/4138592237_sportivnyj-mat-bortsovskij.jpg</picture>
@@ -16734,7 +16734,7 @@
     <vendorCode>63329</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>132</quantity_in_stock>
+    <quantity_in_stock>127</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Минимальная рабочая температура" unit="град.">-36</param>
@@ -16766,7 +16766,7 @@
     <vendorCode>63321</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>131</quantity_in_stock>
+    <quantity_in_stock>127</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Материал мембраны">Полипропилен</param>
@@ -16838,7 +16838,7 @@
     <vendorCode>63331</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>70</quantity_in_stock>
+    <quantity_in_stock>65</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Минимальная рабочая температура" unit="град.">-36</param>
@@ -17267,7 +17267,7 @@
     <vendorCode>63322</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>105</quantity_in_stock>
+    <quantity_in_stock>103</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Ширина" unit="мм">0.1</param>
     <param name="Клеевая часть" unit="">Односторонняя</param>
@@ -17799,7 +17799,7 @@
     <vendorCode>63324</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>103</quantity_in_stock>
+    <quantity_in_stock>99</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Минимальная рабочая температура" unit="град.">-36</param>
@@ -17833,7 +17833,7 @@
     <vendorCode>63327</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>93</quantity_in_stock>
+    <quantity_in_stock>91</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Минимальная рабочая температура" unit="град.">-36</param>
@@ -18669,7 +18669,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2512</quantity_in_stock>
+    <quantity_in_stock>2505</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -19177,7 +19177,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>798</quantity_in_stock>
+    <quantity_in_stock>808</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Толщина" unit="">2</param>
@@ -23337,7 +23337,7 @@
     <vendorCode>11361</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1135</quantity_in_stock>
+    <quantity_in_stock>1117</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Колесные арки</param>
@@ -23518,7 +23518,7 @@
     <vendorCode>3211010</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <param name="Длина, п.м." unit="">1000</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
@@ -23587,8 +23587,8 @@
   </offer>
   <offer id="332696394" available="true">
     <url>https://proekt24.com/p332696394-izolyatsiya-trub-5420.html</url>
-    <price>80</price>
-    <price_old>95</price_old>
+    <price>74</price>
+    <price_old>88</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-5420.jpg</picture>
@@ -23615,8 +23615,8 @@
   </offer>
   <offer id="332696625" available="false">
     <url>https://proekt24.com/p332696625-izolyatsiya-trub-8920.html</url>
-    <price>120</price>
-    <price_old>142</price_old>
+    <price>110</price>
+    <price_old>131</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-8920.jpg</picture>
@@ -24060,8 +24060,8 @@
   </offer>
   <offer id="344528393" available="false">
     <url>https://proekt24.com/p344528393-himicheski-sshityj-vspenennyj.html</url>
-    <price>74</price>
-    <price_old>88</price_old>
+    <price>89</price>
+    <price_old>106</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915637231_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -24093,8 +24093,8 @@
   </offer>
   <offer id="344554070" available="true">
     <url>https://proekt24.com/p344554070-himicheski-sshityj-vspenennyj.html</url>
-    <price>93</price>
-    <price_old>111</price_old>
+    <price>112</price>
+    <price_old>134</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915637231_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -24126,8 +24126,8 @@
   </offer>
   <offer id="344578671" available="false">
     <url>https://proekt24.com/p344578671-himicheski-sshityj-vspenennyj.html</url>
-    <price>185</price>
-    <price_old>220</price_old>
+    <price>224</price>
+    <price_old>266</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915637231_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -24159,8 +24159,8 @@
   </offer>
   <offer id="344581713" available="false">
     <url>https://proekt24.com/p344581713-himicheski-sshityj-vspenennyj.html</url>
-    <price>230</price>
-    <price_old>274</price_old>
+    <price>279</price>
+    <price_old>332</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915637231_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -24192,8 +24192,8 @@
   </offer>
   <offer id="344584949" available="true">
     <url>https://proekt24.com/p344584949-himicheski-sshityj-vspenennyj.html</url>
-    <price>349</price>
-    <price_old>415</price_old>
+    <price>421</price>
+    <price_old>501</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915637231_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -24225,8 +24225,8 @@
   </offer>
   <offer id="344587990" available="true">
     <url>https://proekt24.com/p344587990-himicheski-sshityj-vspenennyj.html</url>
-    <price>947</price>
-    <price_old>1128</price_old>
+    <price>1144</price>
+    <price_old>1362</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4997733</categoryId>
     <picture>https://images.prom.ua/2917610298_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -34273,7 +34273,7 @@
     <vendorCode>62025</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>387</quantity_in_stock>
+    <quantity_in_stock>384</quantity_in_stock>
     <param name="Тип использования" unit="">Универсальный</param>
     <param name="Минимальная температура эксплуатации" unit="">-40</param>
     <param name="Максимальная температура эксплуатации" unit="">90</param>
@@ -35869,8 +35869,8 @@
   </offer>
   <offer id="1052104815" available="false">
     <url>https://proekt24.com/p1052104815-sportivnyj-mat-bortsovskij.html</url>
-    <price>716</price>
-    <price_old>852</price_old>
+    <price>865</price>
+    <price_old>1030</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>14361134</categoryId>
     <picture>https://images.prom.ua/5459542536_sportivnyj-mat-bortsovskij.jpg</picture>
@@ -37304,7 +37304,7 @@
     <vendorCode>EF-AWTS-300</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вес" unit="кг">3</param>
     <param name="Количество утяжелителей">2</param>
     <param name="Особенности">Подходит для ног и рук|Неопреновое покрытие</param>
@@ -37348,7 +37348,7 @@
     <vendorCode>EF-AWTS-500</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <param name="Вес" unit="кг">5</param>
     <param name="Количество утяжелителей">2</param>
     <param name="Особенности">Подходит для ног и рук|Неопреновое покрытие</param>
@@ -38083,7 +38083,7 @@
     <vendorCode>1008810</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>146</quantity_in_stock>
+    <quantity_in_stock>138</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентный</param>
     <param name="Состояние клея">Готовая эмульсия</param>
     <param name="Срок хранения" unit="мес">12</param>
@@ -39027,7 +39027,7 @@
     <vendorCode>62743</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Цвет">Красный</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
@@ -39089,7 +39089,7 @@
     <vendorCode>62745</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Цвет">Красный</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
@@ -39120,7 +39120,7 @@
     <vendorCode>62741</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>28</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Цвет">Красный</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
@@ -43174,7 +43174,7 @@
     <vendorCode>42/19П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>286</quantity_in_stock>
+    <quantity_in_stock>116</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -43279,7 +43279,7 @@
     <vendorCode>89/19П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>47</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -44139,7 +44139,7 @@
     <vendorCode>83950</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>500</quantity_in_stock>
+    <quantity_in_stock>410</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -44936,8 +44936,8 @@
   </offer>
   <offer id="1489439215" available="false">
     <url>https://proekt24.com/p1489439215-izolyatsiya-trub-769.html</url>
-    <price>47</price>
-    <price_old>56</price_old>
+    <price>43</price>
+    <price_old>51</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-769.jpg</picture>
@@ -44968,8 +44968,8 @@
   </offer>
   <offer id="1489445377" available="true">
     <url>https://proekt24.com/p1489445377-izolyatsiya-trub-609.html</url>
-    <price>32</price>
-    <price_old>38</price_old>
+    <price>28</price>
+    <price_old>34</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-609.jpg</picture>
@@ -45000,8 +45000,8 @@
   </offer>
   <offer id="1489446451" available="true">
     <url>https://proekt24.com/p1489446451-izolyatsiya-trub-549.html</url>
-    <price>30</price>
-    <price_old>36</price_old>
+    <price>27</price>
+    <price_old>32</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-549.jpg</picture>
@@ -45032,8 +45032,8 @@
   </offer>
   <offer id="1489452293" available="true">
     <url>https://proekt24.com/p1489452293-izolyatsiya-trub-10213.html</url>
-    <price>70</price>
-    <price_old>84</price_old>
+    <price>65</price>
+    <price_old>78</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-10213.jpg</picture>
@@ -48976,7 +48976,7 @@
     <vendorCode>56358</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Максимальная температура эксплуатации" unit="град.">90</param>
     <param name="Материал">Битум</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-50</param>
@@ -50389,7 +50389,7 @@
     <vendorCode>112566</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>31</quantity_in_stock>
+    <quantity_in_stock>30</quantity_in_stock>
     <param name="Диаметр" unit="см">94</param>
     <param name="Конструкция">Цельная</param>
     <param name="Материал">Сталь</param>
@@ -52289,7 +52289,7 @@
     <vendorCode>EF-1818-6</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <param name="Материал">EVA пена</param>
     <param name="Состояние">Новое</param>
     <param name="Тип">Йога блок</param>
@@ -55411,8 +55411,8 @@
   </offer>
   <offer id="1614113008" available="true">
     <url>https://proekt24.com/p1614113008-himicheski-sshityj-vspenennyj.html</url>
-    <price>1574</price>
-    <price_old>1874</price_old>
+    <price>1903</price>
+    <price_old>2265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4997733</categoryId>
     <picture>https://images.prom.ua/2917610298_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -55443,8 +55443,8 @@
   </offer>
   <offer id="1614114677" available="true">
     <url>https://proekt24.com/p1614114677-himicheski-sshityj-vspenennyj.html</url>
-    <price>2107</price>
-    <price_old>2509</price_old>
+    <price>2546</price>
+    <price_old>3031</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4997733</categoryId>
     <picture>https://images.prom.ua/2917610298_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -55474,8 +55474,8 @@
   </offer>
   <offer id="1614114764" available="true">
     <url>https://proekt24.com/p1614114764-himicheski-sshityj-vspenennyj.html</url>
-    <price>2639</price>
-    <price_old>3141</price_old>
+    <price>3190</price>
+    <price_old>3798</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4997733</categoryId>
     <picture>https://images.prom.ua/2917610298_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -62937,8 +62937,8 @@
   </offer>
   <offer id="1661226092" available="true">
     <url>https://proekt24.com/p1661226092-izolyatsiya-trub-4920.html</url>
-    <price>75</price>
-    <price_old>89</price_old>
+    <price>69</price>
+    <price_old>82</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-4920.jpg</picture>
@@ -62965,8 +62965,8 @@
   </offer>
   <offer id="1661226413" available="true">
     <url>https://proekt24.com/p1661226413-izolyatsiya-trub-6020.html</url>
-    <price>86</price>
-    <price_old>102</price_old>
+    <price>79</price>
+    <price_old>94</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-6020.jpg</picture>
@@ -66447,8 +66447,8 @@
   </offer>
   <offer id="1665989088" available="true">
     <url>https://proekt24.com/p1665989088-himicheski-sshityj-vspenennyj.html</url>
-    <price>114</price>
-    <price_old>136</price_old>
+    <price>140</price>
+    <price_old>166</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915638685_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -66480,8 +66480,8 @@
   </offer>
   <offer id="1665989089" available="false">
     <url>https://proekt24.com/p1665989089-himicheski-sshityj-vspenennyj.html</url>
-    <price>114</price>
-    <price_old>136</price_old>
+    <price>140</price>
+    <price_old>166</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915638685_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -66513,8 +66513,8 @@
   </offer>
   <offer id="1665989090" available="true">
     <url>https://proekt24.com/p1665989090-himicheski-sshityj-vspenennyj.html</url>
-    <price>114</price>
-    <price_old>136</price_old>
+    <price>140</price>
+    <price_old>166</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915638685_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -66637,8 +66637,8 @@
   </offer>
   <offer id="1666027462" available="true">
     <url>https://proekt24.com/p1666027462-himicheski-sshityj-vspenennyj.html</url>
-    <price>139</price>
-    <price_old>165</price_old>
+    <price>168</price>
+    <price_old>200</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915638685_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -66701,8 +66701,8 @@
   </offer>
   <offer id="1666030934" available="true">
     <url>https://proekt24.com/p1666030934-himicheski-sshityj-vspenennyj.html</url>
-    <price>185</price>
-    <price_old>220</price_old>
+    <price>224</price>
+    <price_old>266</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915638685_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -66734,8 +66734,8 @@
   </offer>
   <offer id="1666030935" available="true">
     <url>https://proekt24.com/p1666030935-himicheski-sshityj-vspenennyj.html</url>
-    <price>185</price>
-    <price_old>220</price_old>
+    <price>224</price>
+    <price_old>266</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915638685_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -66925,8 +66925,8 @@
   </offer>
   <offer id="1666044293" available="true">
     <url>https://proekt24.com/p1666044293-himicheski-sshityj-vspenennyj.html</url>
-    <price>230</price>
-    <price_old>274</price_old>
+    <price>279</price>
+    <price_old>332</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915638685_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -66958,8 +66958,8 @@
   </offer>
   <offer id="1666044294" available="true">
     <url>https://proekt24.com/p1666044294-himicheski-sshityj-vspenennyj.html</url>
-    <price>230</price>
-    <price_old>274</price_old>
+    <price>279</price>
+    <price_old>332</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915638685_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -66974,7 +66974,7 @@
     <vendorCode>901101150</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5651</quantity_in_stock>
+    <quantity_in_stock>3176</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -66991,8 +66991,8 @@
   </offer>
   <offer id="1666044295" available="false">
     <url>https://proekt24.com/p1666044295-himicheski-sshityj-vspenennyj.html</url>
-    <price>230</price>
-    <price_old>274</price_old>
+    <price>279</price>
+    <price_old>332</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915638685_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -67057,8 +67057,8 @@
   </offer>
   <offer id="1666044297" available="true">
     <url>https://proekt24.com/p1666044297-himicheski-sshityj-vspenennyj.html</url>
-    <price>244</price>
-    <price_old>290</price_old>
+    <price>296</price>
+    <price_old>352</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/3942313705_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -67315,7 +67315,7 @@
     <vendorCode>61211</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>192</quantity_in_stock>
+    <quantity_in_stock>187</quantity_in_stock>
     <param name="Длина" unit="м">13</param>
     <param name="Толщина (мм)">5</param>
     <param name="Цвет">Черный</param>
@@ -70298,7 +70298,7 @@
     <vendorCode>81113</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>131</quantity_in_stock>
+    <quantity_in_stock>122</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Крыша|Двери|Крышка багажника|Дверные панели|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">12</param>
@@ -70766,8 +70766,8 @@
   </offer>
   <offer id="1742218903" available="true">
     <url>https://proekt24.com/p1742218903-izolyatsiya-trub-106.html</url>
-    <price>5</price>
-    <price_old>6</price_old>
+    <price>4</price>
+    <price_old>5</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23440994</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-106.jpg</picture>
@@ -70798,8 +70798,8 @@
   </offer>
   <offer id="1742220602" available="false">
     <url>https://proekt24.com/p1742220602-izolyatsiya-trub-126.html</url>
-    <price>6</price>
-    <price_old>7</price_old>
+    <price>5</price>
+    <price_old>6</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23440994</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-126.jpg</picture>
@@ -70831,7 +70831,7 @@
   <offer id="1742242424" available="true">
     <url>https://proekt24.com/p1742242424-izolyatsiya-trub-129.html</url>
     <price>8</price>
-    <price_old>10</price_old>
+    <price_old>9</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-129.jpg</picture>
@@ -70863,7 +70863,7 @@
   <offer id="1742242763" available="true">
     <url>https://proekt24.com/p1742242763-izolyatsiya-trub-159.html</url>
     <price>9</price>
-    <price_old>11</price_old>
+    <price_old>10</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-159.jpg</picture>
@@ -70894,8 +70894,8 @@
   </offer>
   <offer id="1742336864" available="false">
     <url>https://proekt24.com/p1742336864-izolyatsiya-trub-10820.html</url>
-    <price>130</price>
-    <price_old>155</price_old>
+    <price>120</price>
+    <price_old>142</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-10820.jpg</picture>
@@ -71149,8 +71149,8 @@
   </offer>
   <offer id="1757726584" available="false">
     <url>https://proekt24.com/p1757726584-himicheski-sshityj-vspenennyj.html</url>
-    <price>74</price>
-    <price_old>88</price_old>
+    <price>89</price>
+    <price_old>106</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915637231_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -74820,7 +74820,7 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>207</quantity_in_stock>
+    <quantity_in_stock>205</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -78034,7 +78034,7 @@
     <vendorCode>EF-3924-GY</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Возможность регулировки размера">Регулируемая</param>
     <param name="Цвет">Серый</param>
     <param name="Количество секций палки">3</param>
@@ -78637,8 +78637,8 @@
   </offer>
   <offer id="1895901731" available="false">
     <url>https://proekt24.com/p1895901731-himicheski-sshityj-vspenennyj.html</url>
-    <price>74</price>
-    <price_old>88</price_old>
+    <price>89</price>
+    <price_old>106</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915638685_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -78941,7 +78941,7 @@
     <vendorCode>57091</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>84</quantity_in_stock>
+    <quantity_in_stock>82</quantity_in_stock>
     <param name="Назначение материала">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Область применения">Для инженерного оборудования</param>
     <param name="Форма поставки материала">Лист</param>
@@ -79911,8 +79911,8 @@
   </offer>
   <offer id="1934088870" available="true">
     <url>https://proekt24.com/p1934088870-sportivnyj-mat-bortsovskij.html</url>
-    <price>4739</price>
-    <price_old>5641</price_old>
+    <price>5290</price>
+    <price_old>6298</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>14361134</categoryId>
     <picture>https://images.prom.ua/4487243982_sportivnyj-mat-bortsovskij.jpg</picture>
@@ -79931,8 +79931,8 @@
   </offer>
   <offer id="1935136290" available="true">
     <url>https://proekt24.com/p1935136290-sportivnyj-mat-bortsovskij.html</url>
-    <price>4207</price>
-    <price_old>5009</price_old>
+    <price>4646</price>
+    <price_old>5531</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>14361134</categoryId>
     <picture>https://images.prom.ua/4138592237_sportivnyj-mat-bortsovskij.jpg</picture>
@@ -81489,8 +81489,8 @@
   </offer>
   <offer id="1945918414" available="false">
     <url>https://proekt24.com/p1945918414-himicheski-sshityj-vspenennyj.html</url>
-    <price>93</price>
-    <price_old>111</price_old>
+    <price>112</price>
+    <price_old>134</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915637231_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -81555,8 +81555,8 @@
   </offer>
   <offer id="1945918417" available="false">
     <url>https://proekt24.com/p1945918417-himicheski-sshityj-vspenennyj.html</url>
-    <price>93</price>
-    <price_old>111</price_old>
+    <price>112</price>
+    <price_old>134</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13605805</categoryId>
     <picture>https://images.prom.ua/2915637231_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -82199,8 +82199,8 @@
   </offer>
   <offer id="1956386374" available="true">
     <url>https://proekt24.com/p1956386374-izolyatsiya-trub-5713.html</url>
-    <price>44</price>
-    <price_old>52</price_old>
+    <price>41</price>
+    <price_old>49</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-5713.jpg</picture>
@@ -82318,8 +82318,8 @@
   </offer>
   <offer id="1956389394" available="true">
     <url>https://proekt24.com/p1956389394-izolyatsiya-trub-1813.html</url>
-    <price>19</price>
-    <price_old>22</price_old>
+    <price>18</price>
+    <price_old>21</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-1813.jpg</picture>
@@ -82377,8 +82377,8 @@
   </offer>
   <offer id="1956389396" available="false">
     <url>https://proekt24.com/p1956389396-izolyatsiya-trub-12513.html</url>
-    <price>83</price>
-    <price_old>99</price_old>
+    <price>77</price>
+    <price_old>91</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-12513.jpg</picture>
@@ -82436,8 +82436,8 @@
   </offer>
   <offer id="1956389398" available="true">
     <url>https://proekt24.com/p1956389398-izolyatsiya-trub-10813.html</url>
-    <price>74</price>
-    <price_old>88</price_old>
+    <price>68</price>
+    <price_old>81</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-10813.jpg</picture>
@@ -82589,7 +82589,7 @@
   <offer id="1956392835" available="true">
     <url>https://proekt24.com/p1956392835-izolyatsiya-trub-1313.html</url>
     <price>12</price>
-    <price_old>15</price_old>
+    <price_old>14</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-1313.jpg</picture>
@@ -83803,8 +83803,8 @@
   </offer>
   <offer id="1975236373" available="false">
     <url>https://proekt24.com/p1975236373-izolyatsiya-trub-11420.html</url>
-    <price>143</price>
-    <price_old>170</price_old>
+    <price>132</price>
+    <price_old>158</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-11420.jpg</picture>
@@ -87372,7 +87372,7 @@
     <param name="Тип">Закрытый</param>
     <param name="Цвет">Синий</param>
   </offer>
-  <offer id="2016768966" available="false">
+  <offer id="2016768966" available="true">
     <url>https://proekt24.com/p2016768966-perchatki-dlya-smeshannyh.html</url>
     <price>1102</price>
     <price_old>1312</price_old>
@@ -87392,7 +87392,7 @@
     <vendorCode>889326</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Натуральная кожа</param>
     <param name="Размер">M</param>
@@ -89424,7 +89424,7 @@
     <vendorCode>889364</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -91200,7 +91200,7 @@
     <vendorCode>56789</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>281</quantity_in_stock>
+    <quantity_in_stock>275</quantity_in_stock>
     <param name="Вес упаковки" unit="кг">8.5</param>
     <param name="Длина" unit="м">10</param>
     <param name="Длина упаковки" unit="мм">50</param>
@@ -92151,8 +92151,8 @@
   </offer>
   <offer id="2099544444" available="true">
     <url>https://proekt24.com/p2099544444-izolyatsiya-trub-2225.html</url>
-    <price>48</price>
-    <price_old>58</price_old>
+    <price>44</price>
+    <price_old>52</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>127460444</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-2225.jpg</picture>
@@ -92183,8 +92183,8 @@
   </offer>
   <offer id="2099544445" available="false">
     <url>https://proekt24.com/p2099544445-izolyatsiya-trub-4913.html</url>
-    <price>40</price>
-    <price_old>48</price_old>
+    <price>37</price>
+    <price_old>44</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-4913.jpg</picture>
@@ -92244,8 +92244,8 @@
   </offer>
   <offer id="2099544448" available="true">
     <url>https://proekt24.com/p2099544448-izolyatsiya-trub-1149.html</url>
-    <price>69</price>
-    <price_old>82</price_old>
+    <price>64</price>
+    <price_old>76</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-1149.jpg</picture>
@@ -92276,8 +92276,8 @@
   </offer>
   <offer id="2099544449" available="false">
     <url>https://proekt24.com/p2099544449-izolyatsiya-trub-5225.html</url>
-    <price>85</price>
-    <price_old>101</price_old>
+    <price>79</price>
+    <price_old>94</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>127460444</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-5225.jpg</picture>
@@ -92308,8 +92308,8 @@
   </offer>
   <offer id="2099544450" available="false">
     <url>https://proekt24.com/p2099544450-izolyatsiya-trub-3525.html</url>
-    <price>61</price>
-    <price_old>72</price_old>
+    <price>57</price>
+    <price_old>68</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>127460444</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-3525.jpg</picture>
@@ -92340,8 +92340,8 @@
   </offer>
   <offer id="2099544451" available="true">
     <url>https://proekt24.com/p2099544451-izolyatsiya-trub-vspenennogo.html</url>
-    <price>8</price>
-    <price_old>9</price_old>
+    <price>7</price>
+    <price_old>8</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-79.jpg</picture>
@@ -92372,8 +92372,8 @@
   </offer>
   <offer id="2099544452" available="false">
     <url>https://proekt24.com/p2099544452-izolyatsiya-trub-5425.html</url>
-    <price>91</price>
-    <price_old>109</price_old>
+    <price>84</price>
+    <price_old>100</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>127460444</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-5425.jpg</picture>
@@ -92436,8 +92436,8 @@
   </offer>
   <offer id="2099544454" available="false">
     <url>https://proekt24.com/p2099544454-izolyatsiya-trub-526.html</url>
-    <price>21</price>
-    <price_old>25</price_old>
+    <price>20</price>
+    <price_old>24</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23440994</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-526.jpg</picture>
@@ -92468,8 +92468,8 @@
   </offer>
   <offer id="2099544455" available="false">
     <url>https://proekt24.com/p2099544455-izolyatsiya-trub-12713.html</url>
-    <price>92</price>
-    <price_old>110</price_old>
+    <price>85</price>
+    <price_old>101</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-12713.jpg</picture>
@@ -92500,8 +92500,8 @@
   </offer>
   <offer id="2099544456" available="false">
     <url>https://proekt24.com/p2099544456-izolyatsiya-trub-639.html</url>
-    <price>33</price>
-    <price_old>39</price_old>
+    <price>29</price>
+    <price_old>35</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-639.jpg</picture>
@@ -92561,8 +92561,8 @@
   </offer>
   <offer id="2099544458" available="false">
     <url>https://proekt24.com/p2099544458-izolyatsiya-trub-499.html</url>
-    <price>22</price>
-    <price_old>26</price_old>
+    <price>20</price>
+    <price_old>24</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23441184</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-499.jpg</picture>
@@ -92593,8 +92593,8 @@
   </offer>
 <offer id="2099544459" available="true">
     <url>https://proekt24.com/p2099544459-izolyatsiya-trub-1825.html</url>
-    <price>44</price>
-    <price_old>52</price_old>
+    <price>40</price>
+    <price_old>48</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>127460444</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-1825.jpg</picture>
@@ -92625,8 +92625,8 @@
   </offer>
   <offer id="2099544460" available="false">
     <url>https://proekt24.com/p2099544460-izolyatsiya-trub-4225.html</url>
-    <price>78</price>
-    <price_old>92</price_old>
+    <price>71</price>
+    <price_old>85</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>127460444</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-4225.jpg</picture>
@@ -92657,8 +92657,8 @@
   </offer>
   <offer id="2099544461" available="true">
     <url>https://proekt24.com/p2099544461-izolyatsiya-trub-6325.html</url>
-    <price>108</price>
-    <price_old>129</price_old>
+    <price>100</price>
+    <price_old>119</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>127460444</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-6325.jpg</picture>
@@ -92718,8 +92718,8 @@
   </offer>
   <offer id="2099544463" available="false">
     <url>https://proekt24.com/p2099544463-izolyatsiya-trub-6320.html</url>
-    <price>90</price>
-    <price_old>108</price_old>
+    <price>84</price>
+    <price_old>100</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-6320.jpg</picture>
@@ -92808,8 +92808,8 @@
   </offer>
   <offer id="2099544466" available="true">
     <url>https://proekt24.com/p2099544466-izolyatsiya-trub-1513.html</url>
-    <price>18</price>
-    <price_old>21</price_old>
+    <price>17</price>
+    <price_old>20</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-1513.jpg</picture>
@@ -92840,8 +92840,8 @@
   </offer>
   <offer id="2099544467" available="false">
     <url>https://proekt24.com/p2099544467-izolyatsiya-trub-7625.html</url>
-    <price>131</price>
-    <price_old>156</price_old>
+    <price>121</price>
+    <price_old>144</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>127460444</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-7625.jpg</picture>
@@ -92930,8 +92930,8 @@
   </offer>
   <offer id="2099544470" available="true">
     <url>https://proekt24.com/p2099544470-izolyatsiya-trub-6313.html</url>
-    <price>47</price>
-    <price_old>56</price_old>
+    <price>43</price>
+    <price_old>51</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-6313.jpg</picture>
@@ -92962,8 +92962,8 @@
   </offer>
   <offer id="2099544471" available="true">
     <url>https://proekt24.com/p2099544471-izolyatsiya-trub-4925.html</url>
-    <price>83</price>
-    <price_old>99</price_old>
+    <price>77</price>
+    <price_old>91</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>127460444</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-4925.jpg</picture>
@@ -92994,8 +92994,8 @@
   </offer>
   <offer id="2099544472" available="true">
     <url>https://proekt24.com/p2099544472-izolyatsiya-trub-10220.html</url>
-    <price>126</price>
-    <price_old>150</price_old>
+    <price>117</price>
+    <price_old>139</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442679</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-10220.jpg</picture>
@@ -93159,8 +93159,8 @@
   </offer>
   <offer id="2108435683" available="true">
     <url>https://proekt24.com/p2108435683-izolyatsiya-trub-5413.html</url>
-    <price>43</price>
-    <price_old>51</price_old>
+    <price>40</price>
+    <price_old>48</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>23442130</categoryId>
     <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-5413.jpg</picture>
@@ -95777,7 +95777,7 @@
     <vendorCode>03-794</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Диаметр, мм" unit="">25</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Полиуретан</param>
@@ -114940,7 +114940,7 @@
     <param name="Класс компрессии" unit="">2 класс</param>
     <param name="Пол" unit="">Унисекс</param>
   </offer>
-  <offer id="2224923054" available="true">
+  <offer id="2224923054" available="false">
     <url>https://proekt24.com/p2224923054-massazhnyj-myach-dlya.html</url>
     <price>185</price>
     <price_old>220</price_old>
@@ -114961,7 +114961,7 @@
     <vendorCode>11133</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Цвет">Разные цвета</param>
     <param name="Состояние">Новое</param>
     <param name="Материал" unit="">Резина</param>
@@ -117946,7 +117946,7 @@
     <vendorCode>9002019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>300</quantity_in_stock>
+    <quantity_in_stock>200</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -118036,7 +118036,7 @@
     <vendorCode>9005019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Покрытие">Без покрытия</param>
@@ -118066,7 +118066,7 @@
     <vendorCode>9004019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>109</quantity_in_stock>
+    <quantity_in_stock>99</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -118096,7 +118096,7 @@
     <vendorCode>9003019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>105</quantity_in_stock>
+    <quantity_in_stock>55</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Покрытие">Без покрытия</param>
@@ -123292,7 +123292,7 @@
     <param name="Цвет">Синий</param>
     <param name="Размер" unit="">12 oz</param>
   </offer>
-  <offer id="2536399449" available="false">
+  <offer id="2536399449" available="true">
     <url>https://proekt24.com/p2536399449-poyas-dlya-kimono.html</url>
     <price>168</price>
     <price_old>200</price_old>
@@ -123308,7 +123308,7 @@
     <vendorCode>NP-270B</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Цвет">Синий</param>
   </offer>
   <offer id="2536399450" available="true">
@@ -124765,7 +124765,7 @@
     <vendorCode>2015-N1Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Тип">Тренировочные</param>
     <param name="Материал">Искусственная кожа</param>
@@ -125121,8 +125121,8 @@
   </offer>
   <offer id="2588324922" available="true">
     <url>https://proekt24.com/p2588324922-himicheski-sshityj-vspenennyj.html</url>
-    <price>901</price>
-    <price_old>1072</price_old>
+    <price>1096</price>
+    <price_old>1305</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4997733</categoryId>
     <picture>https://images.prom.ua/2917610298_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -125135,7 +125135,7 @@
     <vendor>Укрізол</vendor>
     <vendorCode>889595</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>997</quantity_in_stock>
+    <quantity_in_stock>996</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Покрытие">Без покрытия</param>
@@ -125153,8 +125153,8 @@
   </offer>
   <offer id="2588324923" available="false">
     <url>https://proekt24.com/p2588324923-himicheski-sshityj-vspenennyj.html</url>
-    <price>1826</price>
-    <price_old>2174</price_old>
+    <price>2211</price>
+    <price_old>2632</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4997733</categoryId>
     <picture>https://images.prom.ua/2917610298_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -125185,8 +125185,8 @@
   </offer>
   <offer id="2588324924" available="true">
     <url>https://proekt24.com/p2588324924-himicheski-sshityj-vspenennyj.html</url>
-    <price>2287</price>
-    <price_old>2722</price_old>
+    <price>2770</price>
+    <price_old>3298</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4997733</categoryId>
     <picture>https://images.prom.ua/2917610298_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -125217,8 +125217,8 @@
   </offer>
   <offer id="2588324925" available="true">
     <url>https://proekt24.com/p2588324925-himicheski-sshityj-vspenennyj.html</url>
-    <price>1363</price>
-    <price_old>1622</price_old>
+    <price>1654</price>
+    <price_old>1969</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4997733</categoryId>
     <picture>https://images.prom.ua/2917610298_himicheski-sshityj-vspenennyj.jpg</picture>
@@ -127720,7 +127720,7 @@
     <vendorCode>889603</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>78</quantity_in_stock>
+    <quantity_in_stock>77</quantity_in_stock>
     <param name="Диаметр, мм" unit="">20</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Металл</param>
@@ -133364,7 +133364,7 @@
     <vendor>Полимер-Акация</vendor>
     <vendorCode>889755</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>630</quantity_in_stock>
+    <quantity_in_stock>491</quantity_in_stock>
     <param name="Форма поставки материала">Плита</param>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Плотность" unit="кг/м3">28</param>
@@ -133379,7 +133379,7 @@
     <param name="Длина" unit="мм">1185</param>
     <param name="Количество в упаковке, шт" unit="">16</param>
   </offer>
-  <offer id="2913241501" available="true">
+  <offer id="2913241501" available="false">
     <url>https://proekt24.com/p2913241501-ekstrudirovannyj-penopolistirol-1185h585h50.html</url>
     <price>175</price>
     <price_old>209</price_old>
@@ -133401,7 +133401,7 @@
     <vendor>Полимер-Акация</vendor>
     <vendorCode>889758</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>200</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Форма поставки материала">Плита</param>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Плотность" unit="кг/м3">30</param>
@@ -133528,7 +133528,7 @@
     <vendorCode>EF-1916-GY</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Тип">Со счетчиком</param>
     <param name="Длина" unit="м">2.8</param>
     <param name="Материал ручек">Пластик</param>
@@ -134540,6 +134540,20 @@
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>5</quantity_in_stock>
+  </offer>
+  <offer id="3017454110" available="true">
+    <url>https://proekt24.com/p3017454110-himicheski-sshityj-vspenennyj.html</url>
+    <price>198</price>
+    <price_old>236</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>151008033</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Химически сшитый вспененный полиэтилен УКРАИНА 10 мм (ширина 1,5 м) плотность 25 кг/куб.м</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>00002618</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>2475</quantity_in_stock>
   </offer>
 
 
