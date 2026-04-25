@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-04-25 10:00">
+<yml_catalog date="2026-04-25 17:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -14999,15 +14999,15 @@
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>50</quantity_in_stock>
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Серый</param>
     <param name="Назначение материала">Улучшение акустики помещений</param>
-    <param name="Плотность" unit="кг/м³">33</param>
     <param name="Степень жесткости">Мягкий</param>
     <param name="Толщина" unit="мм">2</param>
     <param name="Форма поставки материала">Рулон</param>
-    <param name="Цвет">Серый</param>
     <param name="Ширина" unit="мм">90</param>
-    <param name="Экологичный материал">Да</param>
-    <param name="Эластичность материала">Да</param>
+    <param name="Плотность" unit="кг/м³">33</param>
     <param name="Длина рулона, п.м." unit="">30</param>
     <param name="Область применения" unit="">Для каркасных конструкция</param>
   </offer>
@@ -19469,7 +19469,7 @@
     <vendorCode>03-780</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>282</quantity_in_stock>
+    <quantity_in_stock>281</quantity_in_stock>
     <param name="Материал ручки, ролика" unit="">Пластик</param>
     <param name="Материал стержня" unit="">Хромированная сталь</param>
     <param name="Ширина, мм" unit="">45</param>
@@ -42029,7 +42029,7 @@
     <vendorCode>08/9О</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>351</quantity_in_stock>
+    <quantity_in_stock>348</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -42169,7 +42169,7 @@
     <vendorCode>12/13О</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>825</quantity_in_stock>
+    <quantity_in_stock>822</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -69649,7 +69649,7 @@
     <vendorCode>20116</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>150</quantity_in_stock>
+    <quantity_in_stock>149</quantity_in_stock>
     <param name="Армированный скотч">Нет</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">25</param>
@@ -71934,7 +71934,7 @@
     <vendorCode>598461</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Тип коврика">Каремат</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Количество слоев">Однослойные</param>
@@ -133229,18 +133229,18 @@
     <vendorCode>889757</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>120</quantity_in_stock>
-    <param name="Форма поставки материала">Плита</param>
     <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Плотность" unit="кг/м3">28</param>
+    <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
+    <param name="Длина" unit="мм">1185</param>
+    <param name="Экологическая безопасность материала">Безопасен</param>
     <param name="Класс материала по теплопроводности">Низкая</param>
     <param name="Теплопроводность" unit="Вт/мК">0.034</param>
-    <param name="Упаковка">Пачка</param>
     <param name="Тип материала">Г (горючий)</param>
-    <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
-    <param name="Экологическая безопасность материала">Безопасен</param>
     <param name="Толщина" unit="мм">40</param>
+    <param name="Упаковка">Пачка</param>
+    <param name="Форма поставки материала">Плита</param>
     <param name="Ширина" unit="мм">585</param>
-    <param name="Длина" unit="мм">1185</param>
+    <param name="Плотность" unit="кг/м3">28</param>
     <param name="Количество в упаковке, шт" unit="">12</param>
   </offer>
   <offer id="2913241202" available="true">
@@ -133266,18 +133266,18 @@
     <vendorCode>889755</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>491</quantity_in_stock>
-    <param name="Форма поставки материала">Плита</param>
     <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Плотность" unit="кг/м3">28</param>
+    <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
+    <param name="Длина" unit="мм">1185</param>
+    <param name="Экологическая безопасность материала">Безопасен</param>
     <param name="Класс материала по теплопроводности">Низкая</param>
     <param name="Теплопроводность" unit="Вт/мК">0.034</param>
-    <param name="Упаковка">Пачка</param>
     <param name="Тип материала">Г (горючий)</param>
-    <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
-    <param name="Экологическая безопасность материала">Безопасен</param>
     <param name="Толщина" unit="мм">30</param>
+    <param name="Упаковка">Пачка</param>
+    <param name="Форма поставки материала">Плита</param>
     <param name="Ширина" unit="мм">585</param>
-    <param name="Длина" unit="мм">1185</param>
+    <param name="Плотность" unit="кг/м3">28</param>
     <param name="Количество в упаковке, шт" unit="">16</param>
   </offer>
   <offer id="2913241501" available="false">
@@ -133303,18 +133303,18 @@
     <vendorCode>889758</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
-    <param name="Форма поставки материала">Плита</param>
     <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Плотность" unit="кг/м3">30</param>
+    <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
+    <param name="Длина" unit="мм">1185</param>
+    <param name="Экологическая безопасность материала">Безопасен</param>
     <param name="Класс материала по теплопроводности">Низкая</param>
     <param name="Теплопроводность" unit="Вт/мК">0.034</param>
-    <param name="Упаковка">Пачка</param>
     <param name="Тип материала">Г (горючий)</param>
-    <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
-    <param name="Экологическая безопасность материала">Безопасен</param>
     <param name="Толщина" unit="мм">50</param>
+    <param name="Упаковка">Пачка</param>
+    <param name="Форма поставки материала">Плита</param>
     <param name="Ширина" unit="мм">585</param>
-    <param name="Длина" unit="мм">1185</param>
+    <param name="Плотность" unit="кг/м3">30</param>
     <param name="Количество в упаковке, шт" unit="">10</param>
   </offer>
   <offer id="2914303555" available="true">
@@ -133591,8 +133591,8 @@
   </offer>
   <offer id="2930041013" available="true">
     <url>https://proekt24.com/p2930041013-ekstrudirovannyj-penopolistirol-2370h585h100.html</url>
-    <price>360</price>
-    <price_old>429</price_old>
+    <price>692</price>
+    <price_old>824</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>3021500</categoryId>
     <picture>https://images.prom.ua/7087894180_ekstrudirovannyj-penopolistirol-2370h585h100.jpg</picture>
@@ -133607,9 +133607,22 @@
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Экструдированный пенополистирол 2370х585х100 мм</name>
-    <vendorCode>00002566</vendorCode>
+    <vendorCode>889765</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>70</quantity_in_stock>
+    <param name="Вид основного сырья">Неорганическое</param>
+    <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
+    <param name="Длина" unit="мм">2370</param>
+    <param name="Экологическая безопасность материала">Безопасен</param>
+    <param name="Класс материала по теплопроводности">Низкая</param>
+    <param name="Теплопроводность" unit="Вт/мК">0.034</param>
+    <param name="Тип материала">Г (горючий)</param>
+    <param name="Толщина" unit="мм">100</param>
+    <param name="Упаковка">Пачка</param>
+    <param name="Форма поставки материала">Плита</param>
+    <param name="Ширина" unit="мм">585</param>
+    <param name="Плотность" unit="кг/м3">30</param>
+    <param name="Количество в упаковке, шт" unit="">5</param>
   </offer>
   <offer id="2931584585" available="false">
     <url>https://proekt24.com/p2931584585-akusticheskaya-panel-piramida.html</url>
@@ -134334,7 +134347,7 @@
     <vendorCode>56431</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>48</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <param name="Длина листа" unit="см">50</param>
     <param name="Площадь листа" unit="кв.м">0.185</param>
     <param name="Тип">Виброизоляция</param>
@@ -134507,18 +134520,33 @@
     <param name="Группа материала по горючести">НГ (негорючий)</param>
   </offer>
 <offer id="3019349385" available="false">
-    <url>https://proekt24.com/p3019349385-dihtung-uplotnyayuschaya-zvukoizolyatsionnaya.html</url>
+    <url>https://proekt24.com/p3019349385-dihtung-uplotnitelnaya-zvukoizolyatsionnaya.html</url>
     <price>418</price>
     <price_old>498</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>149555465</categoryId>
+    <categoryId>1482551</categoryId>
+    <picture>https://images.prom.ua/7317796454_dihtung-2-mm.jpg</picture>
+    <picture>https://images.prom.ua/7317796456_dihtung-2-mm.jpg</picture>
+    <picture>https://images.prom.ua/7317796457_dihtung-2-mm.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Дихтунг 2 мм х 80 мм х 30 м. п. уплотняющая, звукоизоляционная лента</name>
+    <name>Дихтунг 2 мм х 80 мм х 30 м.п. уплотнительная, звукоизоляционная лента</name>
     <vendor>Изолон</vendor>
-    <vendorCode>00002622</vendorCode>
+    <vendorCode>28030</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Экологичный материал">Да</param>
+    <param name="Эластичность материала">Да</param>
+    <param name="Цвет">Серый</param>
+    <param name="Назначение материала">Улучшение акустики помещений</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Толщина" unit="мм">2</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">80</param>
+    <param name="Плотность" unit="кг/м³">33</param>
+    <param name="Длина рулона, п.м." unit="">30</param>
+    <param name="Область применения" unit="">Для каркасных конструкция</param>
   </offer>
 
 
