@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-04 17:00">
+<yml_catalog date="2026-05-05 10:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="46.108545" />
+      <currency id="USD" rate="46.2" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.177585" />
+      <currency id="EUR" rate="54.0309" />
     </currencies>
     <categories>
       <category id="103641628" parentId="908017">Бандажные хомуты</category>
@@ -326,6 +326,8 @@
       <category id="17100822" parentId="130810240">Ортопедические подушки и матрасы</category>
       <category id="131353379" parentId="130810240">Компрессионный трикотаж</category>
       <category id="149555465" parentId="138619461">Звукоизоляционные материалы</category>
+      <category id="141469736">BOXER-NEW</category>
+      <category id="148858419" parentId="141469736">Снято с производства</category>
       <category id="7771509" parentId="3682513">Базальтовая скорлупа, базальтовые цилиндры с фольгой</category>
       <category id="121445171" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 100 мм</category>
       <category id="94543941">Товары для дома</category>
@@ -343,7 +345,10 @@
       <category id="111619363">Тактическое снаряжение</category>
       <category id="130810240">Товары для реабилитации</category>
       <category id="801930">Опалубка колонн</category>
+      <category id="3021500">Экструдированный пенополистирол, экструзионный пенополистирол</category>
+      <category id="105419513">Материалы для шумоизоляции помещений</category>
       <category id="938662">Шумо-, виброизоляция для автомобилей</category>
+      <category id="142793467" parentId="5893864">Защитные профили</category>
       <category id="138096524" parentId="938662">Тепло- шумоизолирующие материалы</category>
       <category id="116112740" parentId="938662">Вибро-шумоизоляция автомобильная</category>
       <category id="12321000" parentId="938662">Автолин</category>
@@ -351,23 +356,18 @@
       <category id="12527036" parentId="938662">Виброизоляция для автомобиля (материалы, стп, практик, визол, битопласт, stp)</category>
       <category id="12325125" parentId="938662">Аксессуары для автомобилей</category>
       <category id="3061402" parentId="105419513">Звукоизоляция и шумоизоляция пола</category>
+      <category id="129892704" parentId="1946859">Манекен для борьбы</category>
       <category id="133605716">Металлический профиль</category>
       <category id="152297279" parentId="938662">Мастика, мовиль, антигравий</category>
+      <category id="98480428" parentId="2366740">Каучуковая изоляция толщина 19 мм</category>
       <category id="109333648" parentId="2366740">Каучуковая изоляция толщина 25 мм</category>
       <category id="128817937" parentId="2366740">Каучуковая изоляция толщина 32 мм</category>
       <category id="98480425" parentId="2366740">Каучуковая изоляция толщина 6 мм</category>
       <category id="98480426" parentId="2366740">Каучуковая изоляция толщина 9 мм</category>
       <category id="151008033" parentId="138619468">Полимеры</category>
+      <category id="151008043" parentId="138619474">Материалы для вибро и шумоизоляции автомобиля</category>
       <category id="151008122" parentId="138619502">Спортивные маты</category>
       <category id="151008123" parentId="137644541">Гидроизоляционные уплотнители</category>
-      <category id="141469736">BOXER-NEW</category>
-      <category id="148858419" parentId="141469736">Снято с производства</category>
-      <category id="3021500">Экструдированный пенополистирол, экструзионный пенополистирол</category>
-      <category id="105419513">Материалы для шумоизоляции помещений</category>
-      <category id="142793467" parentId="5893864">Защитные профили</category>
-      <category id="129892704" parentId="1946859">Манекен для борьбы</category>
-      <category id="98480428" parentId="2366740">Каучуковая изоляция толщина 19 мм</category>
-      <category id="151008043" parentId="138619474">Материалы для вибро и шумоизоляции автомобиля</category>
     </categories>
   <offers>
 <offer id="3034034" available="false">
@@ -2191,7 +2191,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>348</quantity_in_stock>
+    <quantity_in_stock>364</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -2380,7 +2380,7 @@
     <vendorCode>1003-01К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вес" unit="кг">30</param>
     <param name="Высота" unit="см">140</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -3823,7 +3823,7 @@
     <vendorCode>500091</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>981</quantity_in_stock>
+    <quantity_in_stock>980</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -17894,7 +17894,7 @@
     <vendorCode>20103</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>151</quantity_in_stock>
+    <quantity_in_stock>150</quantity_in_stock>
     <param name="Ширина" unit="мм">50</param>
     <param name="Длина" unit="м">50</param>
     <param name="Армированный скотч">Да</param>
@@ -18644,7 +18644,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1741</quantity_in_stock>
+    <quantity_in_stock>1721</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -23312,7 +23312,7 @@
     <vendorCode>11361</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1006</quantity_in_stock>
+    <quantity_in_stock>998</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Колесные арки</param>
@@ -24213,7 +24213,7 @@
     <name>Химически сшитый вспененный полиэтилен лист 2000х1000х20 мм 33 кг/м³</name>
     <vendorCode>901201</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>150</quantity_in_stock>
+    <quantity_in_stock>149</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Покрытие">Без покрытия</param>
@@ -34645,7 +34645,7 @@
     <vendorCode>2104012</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>85</quantity_in_stock>
+    <quantity_in_stock>75</quantity_in_stock>
     <param name="Диаметр пузырька" unit="мм">10</param>
     <param name="Длина, м" unit="">100</param>
     <param name="Количество слоев" unit="">2</param>
@@ -38265,7 +38265,7 @@
     <vendorCode>62712</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>568</quantity_in_stock>
+    <quantity_in_stock>578</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -38445,7 +38445,7 @@
     <vendorCode>62724</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Цвет">Коричневый</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
@@ -39716,7 +39716,7 @@
     <vendorCode>62796</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>259</quantity_in_stock>
+    <quantity_in_stock>258</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -56060,7 +56060,7 @@
     <vendorCode>832581</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>366</quantity_in_stock>
+    <quantity_in_stock>361</quantity_in_stock>
     <param name="Цвет">Белый</param>
     <param name="Ширина" unit="мм">1500</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -56085,7 +56085,7 @@
     <vendorCode>832584</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>69</quantity_in_stock>
+    <quantity_in_stock>75</quantity_in_stock>
     <param name="Цвет">Белый</param>
     <param name="Ширина" unit="мм">1500</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -57386,7 +57386,7 @@
     <vendorCode>48/9П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>267</quantity_in_stock>
+    <quantity_in_stock>265</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -67787,7 +67787,7 @@
     <vendorCode>180060015СТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>293</quantity_in_stock>
+    <quantity_in_stock>294</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -67812,7 +67812,7 @@
     <vendorCode>18006008СЕТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -69693,7 +69693,7 @@
     <vendorCode>20120</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>230</quantity_in_stock>
+    <quantity_in_stock>228</quantity_in_stock>
     <param name="Армированный скотч">Да</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">25</param>
@@ -70730,7 +70730,7 @@
     <vendorCode>889019</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Совместимость с маркой">Kia|Daewoo|Chrysler|BMW|Ford|Nissan|Honda|Mazda|Renault|Volkswagen|Dodge|Hyundai|Mitsubishi|Peugeot|Citroen|Volvo|Toyota|Fiat|Audi</param>
     <param name="Совместимость с моделью">Q7|Sebring|Renault Megane|Lupo|Avensis|Camry|Chrysler|Santa Fe|RAV4|Mondeo|C5|A4|Nissan Maxima|Caliber|Focus|Scorpio|Tucson|Jazz|Q5|C4|Passat|Yaris|6|Fiesta|206|Matiz|Lancer|XC90|Fusion|Dodge|Ceed|A6|Getz|Colt|Almera|C2|Accord|Sonata|Primera|Tiguan|Civic</param>
     <param name="Длина рулона, п.м." unit="">20</param>
@@ -72506,7 +72506,7 @@
     <param name="Толщина" unit="см">1.3</param>
     <param name="Цвет">Зелёный</param>
   </offer>
-  <offer id="1791392970" available="true">
+  <offer id="1791392970" available="false">
     <url>https://proekt24.com/p1791392970-disk-zdorovya-gratsiya.html</url>
     <price>472</price>
     <price_old>562</price_old>
@@ -72522,7 +72522,7 @@
     <vendorCode>163114</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Вес" unit="г">1100</param>
     <param name="Диаметр" unit="см">28</param>
     <param name="Максимальная нагрузка" unit="кг">160</param>
@@ -73464,7 +73464,7 @@
     <vendorCode>41020</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>31</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вес" unit="кг">1.925</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -73493,7 +73493,7 @@
     <vendorCode>56390</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>419</quantity_in_stock>
+    <quantity_in_stock>415</quantity_in_stock>
     <param name="Вес" unit="кг">0.78</param>
     <param name="Длина листа" unit="см">50</param>
     <param name="Применение материала">Крыша|Пол багажника|Пол автомобиля|Капот|Двери|Дверные панели|Крышка багажника|Стенки багажника|Потолок автомобиля|Колесные арки</param>
@@ -73524,7 +73524,7 @@
     <vendorCode>56392</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>187</quantity_in_stock>
+    <quantity_in_stock>192</quantity_in_stock>
     <param name="Вес" unit="кг">1.67</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Крыша|Пол багажника|Пол автомобиля|Капот|Двери|Дверные панели|Крышка багажника|Стенки багажника|Потолок автомобиля|Колесные арки</param>
@@ -73622,7 +73622,7 @@
     <vendorCode>56395</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>466</quantity_in_stock>
+    <quantity_in_stock>443</quantity_in_stock>
     <param name="Вес" unit="кг">0.95</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Крыша|Пол багажника|Пол автомобиля|Капот|Двери|Дверные панели|Крышка багажника|Стенки багажника|Потолок автомобиля|Колесные арки</param>
@@ -75839,7 +75839,7 @@
     <vendorCode>18006008СЕ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>121</quantity_in_stock>
+    <quantity_in_stock>120</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -75970,7 +75970,7 @@
     <vendorCode>Н10020010С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Материал чехла">Искусственная кожа</param>
     <param name="Состояние">Новое</param>
@@ -79400,7 +79400,7 @@
     <vendorCode>45630ЖС</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <param name="Длина" unit="см">100</param>
     <param name="Состояние">Новое</param>
     <param name="Толщина" unit="см">3</param>
@@ -79545,7 +79545,7 @@
     <param name="Толщина" unit="мм">6</param>
     <param name="Ширина" unit="см">61</param>
   </offer>
-  <offer id="1914872812" available="true">
+  <offer id="1914872812" available="false">
     <url>https://proekt24.com/p1914872812-kovrik-dlya-jogi.html</url>
     <price>688</price>
     <price_old>819</price_old>
@@ -79561,7 +79561,7 @@
     <vendorCode>EF-1924-VP</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Вес" unit="г">830</param>
     <param name="Длина" unit="см">183</param>
     <param name="Материал">ТПЭ (термопластичный эластомер)</param>
@@ -88642,7 +88642,7 @@
     <vendorCode>889328</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">XS</param>
@@ -117027,7 +117027,7 @@
     <vendorCode>321309</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1847</quantity_in_stock>
+    <quantity_in_stock>2097</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет">Серый</param>
     <param name="Тип использования">Универсальный</param>
@@ -119444,7 +119444,7 @@
     <vendorCode>21040100</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Диаметр пузырька" unit="мм">10</param>
     <param name="Длина, м" unit="">100</param>
     <param name="Количество слоев" unit="">2</param>
@@ -121207,7 +121207,7 @@
     <vendorCode>889569У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>30</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -127151,7 +127151,7 @@
     <param name="Материал">Кирза</param>
     <param name="Тип">Груша</param>
   </offer>
-  <offer id="2643740984" available="false">
+  <offer id="2643740984" available="true">
     <url>https://proekt24.com/p2643740984-montazhnyj-profil-30h30h14.html</url>
     <price>320</price>
     <price_old>381</price_old>
@@ -127169,7 +127169,7 @@
     <vendorCode>889617</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Высота" unit="мм">30</param>
     <param name="Вес 1 пог.м" unit="гр">1022</param>
     <param name="Длина" unit="">3</param>
@@ -128293,7 +128293,7 @@
     <vendor>Шумофф</vendor>
     <vendorCode>889651</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>91</quantity_in_stock>
+    <quantity_in_stock>79</quantity_in_stock>
     <param name="Консистенция">Аэрозоль</param>
     <param name="Объем" unit="мл">300</param>
   </offer>
@@ -130266,7 +130266,7 @@
     <vendorCode>889718</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Вес" unit="кг">3</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Материал">PETG</param>
@@ -132635,7 +132635,7 @@
     <vendor>Укрізол</vendor>
     <vendorCode>889735</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Армированный скотч">Да</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">50</param>
