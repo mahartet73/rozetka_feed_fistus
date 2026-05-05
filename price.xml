@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-05 10:00">
+<yml_catalog date="2026-05-05 17:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -1958,8 +1958,8 @@
   </offer>
   <offer id="29385158" available="true">
     <url>https://proekt24.com/p29385158-skorlupa-ppu-1843.html</url>
-    <price>326</price>
-    <price_old>388</price_old>
+    <price>372</price>
+    <price_old>442</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-1843.jpg</picture>
@@ -2191,7 +2191,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>364</quantity_in_stock>
+    <quantity_in_stock>352</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -2380,7 +2380,7 @@
     <vendorCode>1003-01К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Вес" unit="кг">30</param>
     <param name="Высота" unit="см">140</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -2745,6 +2745,31 @@
     <param name="Плотность" unit="кг/м3">25</param>
     <param name="Покрытие">Без покрытия</param>
     <param name="Толщина" unit="мм">8</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">1500</param>
+  </offer>
+  <offer id="44119043" available="true">
+    <url>https://proekt24.com/p44119043-fizicheski-sshityj-vspenennyj.html</url>
+    <price>516</price>
+    <price_old>614</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>3531076</categoryId>
+    <picture>https://images.prom.ua/2917947391_fizicheski-sshityj-vspenennyj.jpg</picture>
+    <picture>https://images.prom.ua/2915029956_fizicheski-sshityj-vspenennyj.jpg</picture>
+    <picture>https://images.prom.ua/2915029933_fizicheski-sshityj-vspenennyj.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Физически сшитый вспененный полиэтилен 10 мм 33 кг/м³ белый (ширина 1,5 м)</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>902101Б33</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>15</quantity_in_stock>
+    <param name="Вид основного сырья">Неорганическое</param>
+    <param name="Длина" unit="м">50</param>
+    <param name="Плотность" unit="кг/м3">33</param>
+    <param name="Покрытие">Без покрытия</param>
+    <param name="Толщина" unit="мм">10</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1500</param>
   </offer>
@@ -3321,8 +3346,8 @@
   </offer>
   <offer id="101173664" available="true">
     <url>https://proekt24.com/p101173664-fizicheski-sshityj-vspenennyj.html</url>
-    <price>111</price>
-    <price_old>132</price_old>
+    <price>131</price>
+    <price_old>156</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>3531076</categoryId>
     <picture>https://images.prom.ua/2917947391_fizicheski-sshityj-vspenennyj.jpg</picture>
@@ -3489,7 +3514,7 @@
     <vendorCode>КБ18006005К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Тип">Коврик/мат</param>
@@ -3742,7 +3767,7 @@
     <vendorCode>35015</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>877</quantity_in_stock>
+    <quantity_in_stock>3277</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -3776,7 +3801,7 @@
     <param name="Ширина, мм" unit="">25</param>
     <param name="Материал" unit="">Резинка</param>
   </offer>
-  <offer id="121370966" available="false">
+  <offer id="121370966" available="true">
     <url>https://proekt24.com/p121370966-vspenennyj-kauchuk-samokleyuschijsya.html</url>
     <price>293</price>
     <price_old>349</price_old>
@@ -3790,7 +3815,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>749</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -3823,7 +3848,7 @@
     <vendorCode>500091</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>980</quantity_in_stock>
+    <quantity_in_stock>2860</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -3893,7 +3918,7 @@
     <vendorCode>500191</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>55</quantity_in_stock>
+    <quantity_in_stock>255</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -4039,7 +4064,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>158</quantity_in_stock>
+    <quantity_in_stock>1476</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -4076,7 +4101,7 @@
     <vendorCode>500132</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>1408</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -4109,7 +4134,7 @@
     <vendorCode>500192</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>475</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -4142,7 +4167,7 @@
     <vendorCode>500252</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>846</quantity_in_stock>
+    <quantity_in_stock>1118</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -4312,7 +4337,7 @@
     <vendorCode>500133</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>888</quantity_in_stock>
+    <quantity_in_stock>885</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -4487,7 +4512,7 @@
     <vendorCode>500095</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -4769,56 +4794,6 @@
     <param name="Диаметр, мм" unit="">600</param>
     <param name="Высота, метр" unit="">3</param>
   </offer>
-  <offer id="136660315" available="false">
-    <url>https://proekt24.com/p136660315-opalubka-kolonn-700.html</url>
-    <price>4981</price>
-    <price_old>5930</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>801930</categoryId>
-    <picture>https://images.prom.ua/2853201572_opalubka-kolonn-700.jpg</picture>
-    <picture>https://images.prom.ua/2853201566_opalubka-kolonn-700.jpg</picture>
-    <picture>https://images.prom.ua/2853201565_opalubka-kolonn-700.jpg</picture>
-    <picture>https://images.prom.ua/2853201567_opalubka-kolonn-700.jpg</picture>
-    <picture>https://images.prom.ua/2853201568_opalubka-kolonn-700.jpg</picture>
-    <picture>https://images.prom.ua/2853201564_opalubka-kolonn-700.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Опалубка колонн 700 мм высота 3 метра</name>
-    <vendorCode>87003</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Назначение опалубки для заливки:">колонн</param>
-    <param name="Тип разборности опалубки">Несъемная</param>
-    <param name="Материал" unit="">многослойный картон с пропиткой</param>
-    <param name="Диаметр, мм" unit="">700</param>
-    <param name="Высота, метр" unit="">3</param>
-  </offer>
-  <offer id="136681909" available="false">
-    <url>https://proekt24.com/p136681909-opalubka-kolonn-800.html</url>
-    <price>6110</price>
-    <price_old>7274</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>801930</categoryId>
-    <picture>https://images.prom.ua/2853201572_opalubka-kolonn-800.jpg</picture>
-    <picture>https://images.prom.ua/2853201566_opalubka-kolonn-800.jpg</picture>
-    <picture>https://images.prom.ua/2853201565_opalubka-kolonn-800.jpg</picture>
-    <picture>https://images.prom.ua/2853201567_opalubka-kolonn-800.jpg</picture>
-    <picture>https://images.prom.ua/2853201568_opalubka-kolonn-800.jpg</picture>
-    <picture>https://images.prom.ua/2853201564_opalubka-kolonn-800.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Опалубка колонн 800 мм высота 3 метра</name>
-    <vendorCode>88003</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Назначение опалубки для заливки:">колонн</param>
-    <param name="Тип разборности опалубки">Несъемная</param>
-    <param name="Материал" unit="">многослойный картон с пропиткой</param>
-    <param name="Диаметр, мм" unit="">800</param>
-    <param name="Высота, метр" unit="">3</param>
-  </offer>
   <offer id="136886715" available="false">
     <url>https://proekt24.com/p136886715-opalubka-kolonn-450.html</url>
     <price>3190</price>
@@ -4892,56 +4867,6 @@
     <param name="Тип разборности опалубки">Несъемная</param>
     <param name="Материал" unit="">многослойный картон с пропиткой</param>
     <param name="Диаметр, мм" unit="">600</param>
-    <param name="Высота, метр" unit="">4</param>
-  </offer>
-  <offer id="136920291" available="false">
-    <url>https://proekt24.com/p136920291-opalubka-kolonn-700.html</url>
-    <price>6639</price>
-    <price_old>7904</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>801930</categoryId>
-    <picture>https://images.prom.ua/2853201572_opalubka-kolonn-700.jpg</picture>
-    <picture>https://images.prom.ua/2853201566_opalubka-kolonn-700.jpg</picture>
-    <picture>https://images.prom.ua/2853201565_opalubka-kolonn-700.jpg</picture>
-    <picture>https://images.prom.ua/2853201567_opalubka-kolonn-700.jpg</picture>
-    <picture>https://images.prom.ua/2853201568_opalubka-kolonn-700.jpg</picture>
-    <picture>https://images.prom.ua/2853201564_opalubka-kolonn-700.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Опалубка колонн 700 мм высота 4 метра</name>
-    <vendorCode>87004</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Назначение опалубки для заливки:">колонн</param>
-    <param name="Тип разборности опалубки">Несъемная</param>
-    <param name="Материал" unit="">многослойный картон с пропиткой</param>
-    <param name="Диаметр, мм" unit="">700</param>
-    <param name="Высота, метр" unit="">4</param>
-  </offer>
-  <offer id="136924996" available="false">
-    <url>https://proekt24.com/p136924996-opalubka-kolonn-800.html</url>
-    <price>8144</price>
-    <price_old>9695</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>801930</categoryId>
-    <picture>https://images.prom.ua/2853201572_opalubka-kolonn-800.jpg</picture>
-    <picture>https://images.prom.ua/2853201566_opalubka-kolonn-800.jpg</picture>
-    <picture>https://images.prom.ua/2853201565_opalubka-kolonn-800.jpg</picture>
-    <picture>https://images.prom.ua/2853201567_opalubka-kolonn-800.jpg</picture>
-    <picture>https://images.prom.ua/2853201568_opalubka-kolonn-800.jpg</picture>
-    <picture>https://images.prom.ua/2853201564_opalubka-kolonn-800.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Опалубка колонн 800 мм высота 4 метра</name>
-    <vendorCode>88004</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Назначение опалубки для заливки:">колонн</param>
-    <param name="Тип разборности опалубки">Несъемная</param>
-    <param name="Материал" unit="">многослойный картон с пропиткой</param>
-    <param name="Диаметр, мм" unit="">800</param>
     <param name="Высота, метр" unit="">4</param>
   </offer>
   <offer id="136984674" available="false">
@@ -6451,7 +6376,7 @@
     <vendorCode>889038</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>351</quantity_in_stock>
+    <quantity_in_stock>350</quantity_in_stock>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Потолок автомобиля</param>
     <param name="Состояние">Новое</param>
@@ -6462,8 +6387,8 @@
   </offer>
   <offer id="176870193" available="true">
     <url>https://proekt24.com/p176870193-skorlupa-ppu-2540.html</url>
-    <price>326</price>
-    <price_old>388</price_old>
+    <price>372</price>
+    <price_old>442</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-2540.jpg</picture>
@@ -6495,8 +6420,8 @@
   </offer>
   <offer id="176873190" available="true">
     <url>https://proekt24.com/p176873190-skorlupa-ppu-3237.html</url>
-    <price>296</price>
-    <price_old>352</price_old>
+    <price>372</price>
+    <price_old>442</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-3237.jpg</picture>
@@ -6528,8 +6453,8 @@
   </offer>
   <offer id="177520708" available="true">
     <url>https://proekt24.com/p177520708-skorlupa-ppu-penopoliuretan.html</url>
-    <price>337</price>
-    <price_old>401</price_old>
+    <price>424</price>
+    <price_old>505</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -6561,8 +6486,8 @@
   </offer>
   <offer id="177524420" available="true">
     <url>https://proekt24.com/p177524420-skorlupa-ppu-penopoliuretan.html</url>
-    <price>374</price>
-    <price_old>445</price_old>
+    <price>468</price>
+    <price_old>558</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -6594,8 +6519,8 @@
   </offer>
   <offer id="177524734" available="true">
     <url>https://proekt24.com/p177524734-skorlupa-ppu-penopoliuretan.html</url>
-    <price>399</price>
-    <price_old>475</price_old>
+    <price>502</price>
+    <price_old>598</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -6627,8 +6552,8 @@
   </offer>
   <offer id="177564632" available="true">
     <url>https://proekt24.com/p177564632-skorlupa-ppu-penopoliuretan.html</url>
-    <price>450</price>
-    <price_old>536</price_old>
+    <price>567</price>
+    <price_old>675</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -6659,8 +6584,8 @@
   </offer>
   <offer id="177567953" available="true">
     <url>https://proekt24.com/p177567953-skorlupa-ppu-penopoliuretan.html</url>
-    <price>449</price>
-    <price_old>535</price_old>
+    <price>566</price>
+    <price_old>674</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -6691,8 +6616,8 @@
   </offer>
   <offer id="177594459" available="true">
     <url>https://proekt24.com/p177594459-skorlupa-ppu-penopoliuretan.html</url>
-    <price>496</price>
-    <price_old>590</price_old>
+    <price>624</price>
+    <price_old>742</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -6724,8 +6649,8 @@
   </offer>
   <offer id="177597714" available="true">
     <url>https://proekt24.com/p177597714-skorlupa-ppu-penopoliuretan.html</url>
-    <price>554</price>
-    <price_old>660</price_old>
+    <price>697</price>
+    <price_old>830</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -6757,8 +6682,8 @@
   </offer>
   <offer id="177628578" available="true">
     <url>https://proekt24.com/p177628578-skorlupa-ppu-penopoliuretan.html</url>
-    <price>562</price>
-    <price_old>669</price_old>
+    <price>707</price>
+    <price_old>841</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -6790,8 +6715,8 @@
   </offer>
   <offer id="177632917" available="true">
     <url>https://proekt24.com/p177632917-skorlupa-ppu-penopoliuretan.html</url>
-    <price>699</price>
-    <price_old>832</price_old>
+    <price>863</price>
+    <price_old>1028</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -6856,8 +6781,8 @@
   </offer>
   <offer id="177639209" available="true">
     <url>https://proekt24.com/p177639209-skorlupa-ppu-3838.html</url>
-    <price>365</price>
-    <price_old>435</price_old>
+    <price>419</price>
+    <price_old>499</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-3838.jpg</picture>
@@ -6889,8 +6814,8 @@
   </offer>
   <offer id="177640318" available="true">
     <url>https://proekt24.com/p177640318-skorlupa-ppu-penopoliuretan.html</url>
-    <price>801</price>
-    <price_old>954</price_old>
+    <price>989</price>
+    <price_old>1178</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -6922,8 +6847,8 @@
   </offer>
   <offer id="177641733" available="true">
     <url>https://proekt24.com/p177641733-skorlupa-ppu-penopoliuretan.html</url>
-    <price>944</price>
-    <price_old>1124</price_old>
+    <price>1166</price>
+    <price_old>1388</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -6955,8 +6880,8 @@
   </offer>
   <offer id="177643418" available="true">
     <url>https://proekt24.com/p177643418-skorlupa-ppu-4843.html</url>
-    <price>365</price>
-    <price_old>435</price_old>
+    <price>417</price>
+    <price_old>496</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-4843.jpg</picture>
@@ -6988,8 +6913,8 @@
   </offer>
   <offer id="177645695" available="true">
     <url>https://proekt24.com/p177645695-skorlupa-ppu-4542.html</url>
-    <price>365</price>
-    <price_old>435</price_old>
+    <price>417</price>
+    <price_old>496</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-4542.jpg</picture>
@@ -7021,8 +6946,8 @@
   </offer>
   <offer id="177649139" available="true">
     <url>https://proekt24.com/p177649139-skorlupa-ppu-penopoliuretan.html</url>
-    <price>1093</price>
-    <price_old>1301</price_old>
+    <price>1350</price>
+    <price_old>1608</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -7054,8 +6979,8 @@
   </offer>
   <offer id="177650465" available="true">
     <url>https://proekt24.com/p177650465-skorlupa-ppu-5740.html</url>
-    <price>360</price>
-    <price_old>429</price_old>
+    <price>454</price>
+    <price_old>540</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-5740.jpg</picture>
@@ -7087,8 +7012,8 @@
   </offer>
   <offer id="177650497" available="true">
     <url>https://proekt24.com/p177650497-skorlupa-ppu-penopoliuretan.html</url>
-    <price>1219</price>
-    <price_old>1451</price_old>
+    <price>1504</price>
+    <price_old>1790</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -7120,8 +7045,8 @@
   </offer>
   <offer id="177651030" available="true">
     <url>https://proekt24.com/p177651030-skorlupa-ppu-7640.html</url>
-    <price>399</price>
-    <price_old>475</price_old>
+    <price>501</price>
+    <price_old>596</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-7640.jpg</picture>
@@ -7153,8 +7078,8 @@
   </offer>
   <offer id="177651068" available="true">
     <url>https://proekt24.com/p177651068-skorlupa-ppu-penopoliuretan.html</url>
-    <price>1451</price>
-    <price_old>1728</price_old>
+    <price>1790</price>
+    <price_old>2131</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -7184,10 +7109,10 @@
     <param name="Внешний диаметр трубы" unit="">530</param>
     <param name="Толщина изоляции" unit="">530</param>
   </offer>
-<offer id="177651200" available="true">
+  <offer id="177651200" available="true">
     <url>https://proekt24.com/p177651200-skorlupa-ppu-8940.html</url>
-    <price>425</price>
-    <price_old>506</price_old>
+    <price>537</price>
+    <price_old>639</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-8940.jpg</picture>
@@ -7252,8 +7177,8 @@
   </offer>
   <offer id="177657986" available="true">
     <url>https://proekt24.com/p177657986-skorlupa-ppu-penopoliuretan.html</url>
-    <price>2138</price>
-    <price_old>2545</price_old>
+    <price>2638</price>
+    <price_old>3140</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -7283,7 +7208,7 @@
     <param name="Внешний диаметр трубы" unit="">630</param>
     <param name="Толщина изоляции" unit="">630</param>
   </offer>
-  <offer id="177661027" available="false">
+<offer id="177661027" available="false">
     <url>https://proekt24.com/p177661027-skorlupa-ppu-penopoliuretan.html</url>
     <price>1464</price>
     <price_old>1742</price_old>
@@ -7351,8 +7276,8 @@
   </offer>
   <offer id="177670664" available="true">
     <url>https://proekt24.com/p177670664-skorlupa-ppu-10840.html</url>
-    <price>482</price>
-    <price_old>574</price_old>
+    <price>606</price>
+    <price_old>721</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-10840.jpg</picture>
@@ -7384,8 +7309,8 @@
   </offer>
   <offer id="177676592" available="true">
     <url>https://proekt24.com/p177676592-skorlupa-ppu-11437.html</url>
-    <price>480</price>
-    <price_old>571</price_old>
+    <price>605</price>
+    <price_old>720</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-11437.jpg</picture>
@@ -7417,8 +7342,8 @@
   </offer>
   <offer id="177678923" available="true">
     <url>https://proekt24.com/p177678923-skorlupa-ppu-13340.html</url>
-    <price>529</price>
-    <price_old>630</price_old>
+    <price>667</price>
+    <price_old>794</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-13340.jpg</picture>
@@ -7450,8 +7375,8 @@
   </offer>
   <offer id="177680712" available="true">
     <url>https://proekt24.com/p177680712-skorlupa-ppu-15940.html</url>
-    <price>592</price>
-    <price_old>705</price_old>
+    <price>744</price>
+    <price_old>886</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-15940.jpg</picture>
@@ -7483,8 +7408,8 @@
   </offer>
   <offer id="177682618" available="true">
     <url>https://proekt24.com/p177682618-skorlupa-ppu-16835.html</url>
-    <price>598</price>
-    <price_old>712</price_old>
+    <price>754</price>
+    <price_old>898</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-16835.jpg</picture>
@@ -7516,8 +7441,8 @@
   </offer>
   <offer id="178134492" available="true">
     <url>https://proekt24.com/p178134492-skorlupa-ppu-21940.html</url>
-    <price>746</price>
-    <price_old>888</price_old>
+    <price>920</price>
+    <price_old>1095</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-21940.jpg</picture>
@@ -7582,8 +7507,8 @@
   </offer>
   <offer id="178441187" available="true">
     <url>https://proekt24.com/p178441187-skorlupa-ppu-27340.html</url>
-    <price>856</price>
-    <price_old>1019</price_old>
+    <price>1056</price>
+    <price_old>1258</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-27340.jpg</picture>
@@ -7615,8 +7540,8 @@
   </offer>
   <offer id="178445005" available="true">
     <url>https://proekt24.com/p178445005-skorlupa-ppu-32540.html</url>
-    <price>1007</price>
-    <price_old>1199</price_old>
+    <price>1242</price>
+    <price_old>1479</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-32540.jpg</picture>
@@ -7648,8 +7573,8 @@
   </offer>
   <offer id="178448614" available="true">
     <url>https://proekt24.com/p178448614-skorlupa-ppu-37740.html</url>
-    <price>1179</price>
-    <price_old>1404</price_old>
+    <price>1454</price>
+    <price_old>1731</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-37740.jpg</picture>
@@ -7681,8 +7606,8 @@
   </offer>
   <offer id="178455039" available="true">
     <url>https://proekt24.com/p178455039-skorlupa-ppu-42640.html</url>
-    <price>1293</price>
-    <price_old>1539</price_old>
+    <price>1595</price>
+    <price_old>1899</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-42640.jpg</picture>
@@ -7714,8 +7639,8 @@
   </offer>
   <offer id="178460228" available="true">
     <url>https://proekt24.com/p178460228-skorlupa-ppu-53040.html</url>
-    <price>1539</price>
-    <price_old>1832</price_old>
+    <price>1898</price>
+    <price_old>2260</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-53040.jpg</picture>
@@ -7780,8 +7705,8 @@
   </offer>
   <offer id="178471237" available="true">
     <url>https://proekt24.com/p178471237-skorlupa-ppu-63040.html</url>
-    <price>2272</price>
-    <price_old>2705</price_old>
+    <price>2804</price>
+    <price_old>3338</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-63040.jpg</picture>
@@ -10943,7 +10868,7 @@
     <vendorCode>Б76/60</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>26</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">76</param>
     <param name="Длина" unit="м">1</param>
@@ -14607,7 +14532,7 @@
     <param name="Толщина изоляции" unit="мм">50</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-<offer id="200298444" available="true">
+  <offer id="200298444" available="true">
     <url>https://proekt24.com/p200298444-dihtung-uplotnitelnaya-zvukoizolyatsionnaya.html</url>
     <price>149</price>
     <price_old>178</price_old>
@@ -14696,7 +14621,7 @@
     <param name="Эластичность материала">Да</param>
     <param name="Длина рулона, п.м." unit="">30</param>
   </offer>
-  <offer id="200791498" available="true">
+<offer id="200791498" available="true">
     <url>https://proekt24.com/p200791498-penoplastovaya-skorlupa-10230.html</url>
     <price>261</price>
     <price_old>311</price_old>
@@ -16468,7 +16393,7 @@
     <vendorCode>6005025</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1633</quantity_in_stock>
+    <quantity_in_stock>1632</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Минимальная рабочая температура" unit="">-40.0</param>
     <param name="Материал" unit="">ПВХ</param>
@@ -16642,7 +16567,7 @@
     <vendorCode>63325</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>143</quantity_in_stock>
+    <quantity_in_stock>138</quantity_in_stock>
     <param name="Верхние покрытие">Полиэстер</param>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
@@ -17242,7 +17167,7 @@
     <vendorCode>63322</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>102</quantity_in_stock>
+    <quantity_in_stock>100</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Ширина" unit="мм">0.1</param>
     <param name="Клеевая часть" unit="">Односторонняя</param>
@@ -18644,7 +18569,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1721</quantity_in_stock>
+    <quantity_in_stock>1781</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -19026,7 +18951,7 @@
     <vendorCode>310015</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>301</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -19152,7 +19077,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>709</quantity_in_stock>
+    <quantity_in_stock>701</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Толщина" unit="">2</param>
@@ -19195,7 +19120,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>764</quantity_in_stock>
+    <quantity_in_stock>756</quantity_in_stock>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Толщина" unit="">2</param>
     <param name="Ширина рулона, мм" unit="">1400</param>
@@ -19274,7 +19199,7 @@
     <vendorCode>04461</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>53</quantity_in_stock>
+    <quantity_in_stock>52</quantity_in_stock>
     <param name="Длина" unit="м">50</param>
     <param name="Цвет">Белый</param>
     <param name="Назначение материала">Для стен</param>
@@ -20043,8 +19968,8 @@
   </offer>
   <offer id="316498968" available="true">
     <url>https://proekt24.com/p316498968-skorlupa-ppu-11735.html</url>
-    <price>480</price>
-    <price_old>571</price_old>
+    <price>603</price>
+    <price_old>718</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-11735.jpg</picture>
@@ -20076,8 +20001,8 @@
   </offer>
   <offer id="316505014" available="true">
     <url>https://proekt24.com/p316505014-skorlupa-ppu-14036.html</url>
-    <price>538</price>
-    <price_old>640</price_old>
+    <price>676</price>
+    <price_old>805</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-14036.jpg</picture>
@@ -20109,8 +20034,8 @@
   </offer>
   <offer id="316506972" available="true">
     <url>https://proekt24.com/p316506972-skorlupa-ppu-17930.html</url>
-    <price>606</price>
-    <price_old>721</price_old>
+    <price>762</price>
+    <price_old>908</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-17930.jpg</picture>
@@ -20142,8 +20067,8 @@
   </offer>
   <offer id="316508170" available="true">
     <url>https://proekt24.com/p316508170-skorlupa-ppu-penopoliuretan.html</url>
-    <price>449</price>
-    <price_old>535</price_old>
+    <price>566</price>
+    <price_old>674</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -20175,8 +20100,8 @@
   </offer>
   <offer id="316509164" available="true">
     <url>https://proekt24.com/p316509164-skorlupa-ppu-penopoliuretan.html</url>
-    <price>504</price>
-    <price_old>600</price_old>
+    <price>633</price>
+    <price_old>754</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -20208,8 +20133,8 @@
   </offer>
   <offer id="316509452" available="true">
     <url>https://proekt24.com/p316509452-skorlupa-ppu-penopoliuretan.html</url>
-    <price>568</price>
-    <price_old>676</price_old>
+    <price>715</price>
+    <price_old>851</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -21882,7 +21807,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-<offer id="319741388" available="true">
+  <offer id="319741388" available="true">
     <url>https://proekt24.com/p319741388-bazaltovaya-skorlupa-folgoj.html</url>
     <price>662</price>
     <price_old>788</price_old>
@@ -21975,7 +21900,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="320167591" available="true">
+<offer id="320167591" available="true">
     <url>https://proekt24.com/p320167591-bazaltovaya-skorlupa-folgoj.html</url>
     <price>381</price>
     <price_old>454</price_old>
@@ -23370,7 +23295,7 @@
     <vendorCode>11364</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>302</quantity_in_stock>
+    <quantity_in_stock>270</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Капот|Стенки багажника|Двери|Пол автомобиля|Колесные арки|Крыша|Потолок автомобиля|Крышка багажника|Пол багажника|Дверные панели</param>
@@ -24628,7 +24553,7 @@
     <vendorCode>901033</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>360</quantity_in_stock>
+    <quantity_in_stock>353</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -25270,8 +25195,8 @@
   </offer>
   <offer id="379360411" available="false">
     <url>https://proekt24.com/p379360411-zvukoizolyatsiya-shumoizolyatsiya-pola.html</url>
-    <price>523</price>
-    <price_old>622</price_old>
+    <price>516</price>
+    <price_old>614</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>3061402</categoryId>
     <picture>https://images.prom.ua/1060004662_zvukoizolyatsiya-shumoizolyatsiya-pola.jpg</picture>
@@ -26633,7 +26558,7 @@
     <vendorCode>62013</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>88</quantity_in_stock>
+    <quantity_in_stock>86</quantity_in_stock>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Ширина, мм" unit="">50</param>
     <param name="Тип использования" unit="">Универсальный</param>
@@ -29919,7 +29844,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-<offer id="459600219" available="true">
+  <offer id="459600219" available="true">
     <url>https://proekt24.com/p459600219-penoplastovaya-skorlupa-15960.html</url>
     <price>487</price>
     <price_old>580</price_old>
@@ -30030,7 +29955,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="459602271" available="true">
+<offer id="459602271" available="true">
     <url>https://proekt24.com/p459602271-penoplastovaya-skorlupa-27360.html</url>
     <price>1013</price>
     <price_old>1206</price_old>
@@ -32690,7 +32615,7 @@
     <vendorCode>500061</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>596</quantity_in_stock>
+    <quantity_in_stock>716</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -32712,8 +32637,8 @@
   </offer>
   <offer id="529802693" available="true">
     <url>https://proekt24.com/p529802693-skorlupa-ppu-penopoliuretan.html</url>
-    <price>345</price>
-    <price_old>411</price_old>
+    <price>434</price>
+    <price_old>516</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -32745,8 +32670,8 @@
   </offer>
   <offer id="529814490" available="true">
     <url>https://proekt24.com/p529814490-skorlupa-ppu-6337.html</url>
-    <price>369</price>
-    <price_old>439</price_old>
+    <price>463</price>
+    <price_old>551</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-6337.jpg</picture>
@@ -33319,7 +33244,7 @@
     <vendorCode>62018</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>426</quantity_in_stock>
+    <quantity_in_stock>424</quantity_in_stock>
     <param name="Тип использования">Универсальный</param>
     <param name="Назначение материала">Для кровли|Для подвалов|Для фасадов|Для цоколей|Для балконов|Для стен</param>
     <param name="Форма поставляемого материала">Рулон</param>
@@ -36889,7 +36814,7 @@
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Мешок</param>
   </offer>
-<offer id="1351993730" available="false">
+  <offer id="1351993730" available="false">
     <url>https://proekt24.com/p1351993730-fitnes-rezinka-chernaya.html</url>
     <price>114</price>
     <price_old>136</price_old>
@@ -36985,7 +36910,7 @@
     <param name="Цвет">Салатовый</param>
     <param name="Ширина" unit="см">5</param>
   </offer>
-  <offer id="1352016775" available="false">
+<offer id="1352016775" available="false">
     <url>https://proekt24.com/p1352016775-fitnes-rezinka-oranzhevaya.html</url>
     <price>69</price>
     <price_old>82</price_old>
@@ -38295,7 +38220,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>389</quantity_in_stock>
+    <quantity_in_stock>379</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -38353,7 +38278,7 @@
     <vendorCode>62715</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>75</quantity_in_stock>
+    <quantity_in_stock>67</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -38445,7 +38370,7 @@
     <vendorCode>62724</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>30</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Цвет">Коричневый</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
@@ -39374,7 +39299,7 @@
     <vendorCode>62769</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>75</quantity_in_stock>
+    <quantity_in_stock>74</quantity_in_stock>
     <param name="Длина" unit="м">3</param>
     <param name="Цвет">Коричневый</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
@@ -39716,7 +39641,7 @@
     <vendorCode>62796</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>258</quantity_in_stock>
+    <quantity_in_stock>218</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -39899,7 +39824,7 @@
     <vendorCode>62717</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -40291,7 +40216,7 @@
     <vendorCode>EF-DBC-80</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Максимальная ширина" unit="см">17.5</param>
     <param name="Материал">Нейлон</param>
     <param name="Назначение">Пауэрлифтинг</param>
@@ -40338,7 +40263,7 @@
     <vendorCode>EF-AWTМ-050</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Количество утяжелителей">2</param>
     <param name="Особенности">Подходит для ног и рук|Неопреновое покрытие</param>
     <param name="Состояние">Новое</param>
@@ -40360,14 +40285,14 @@
     <vendorCode>EF-AWTМ-100</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Количество утяжелителей">2</param>
     <param name="Особенности">Подходит для ног и рук|Неопреновое покрытие</param>
     <param name="Состояние">Новое</param>
     <param name="Вес" unit="">1</param>
     <param name="Тип" unit="">1</param>
   </offer>
-  <offer id="1415626233" available="true">
+  <offer id="1415626233" available="false">
     <url>https://proekt24.com/p1415626233-utyazheliteli-dlya-ruk.html</url>
     <price>465</price>
     <price_old>554</price_old>
@@ -40382,7 +40307,7 @@
     <vendorCode>EF-AWTМ-150</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Количество утяжелителей">2</param>
     <param name="Особенности">Подходит для ног и рук|Неопреновое покрытие</param>
     <param name="Состояние">Новое</param>
@@ -43638,7 +43563,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="1441520234" available="true">
+  <offer id="1441520234" available="false">
     <url>https://proekt24.com/p1441520234-vspenennyj-polietilen-laminirovannyj.html</url>
     <price>64</price>
     <price_old>76</price_old>
@@ -43660,7 +43585,7 @@
     <vendorCode>900054Р</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -43697,7 +43622,7 @@
     <vendorCode>900039</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Длина" unit="м">50</param>
@@ -43987,7 +43912,7 @@
     <vendorCode>2701-1</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Термопластик</param>
     <param name="Цвет">Разные цвета</param>
@@ -44249,7 +44174,7 @@
     <param name="Материал">Кирза</param>
     <param name="Тип">Груша</param>
   </offer>
-<offer id="1473410637" available="true">
+  <offer id="1473410637" available="true">
     <url>https://proekt24.com/p1473410637-grusha-bokserskaya-boxer.html</url>
     <price>1512</price>
     <price_old>1800</price_old>
@@ -44325,7 +44250,7 @@
     <param name="Тип">Открытый</param>
     <param name="Цвет">Красный</param>
   </offer>
-  <offer id="1478143853" available="false">
+<offer id="1478143853" available="false">
     <url>https://proekt24.com/p1478143853-shlem-karate-boxer.html</url>
     <price>704</price>
     <price_old>838</price_old>
@@ -49768,7 +49693,7 @@
     <vendorCode>EF-1633-4</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Тип">Турник</param>
     <param name="Материал">Металл</param>
@@ -50505,7 +50430,7 @@
     <param name="Ширина" unit="см">30</param>
     <param name="Цвет">Бирюзовый</param>
   </offer>
-<offer id="1569838531" available="false">
+  <offer id="1569838531" available="false">
     <url>https://proekt24.com/p1569838531-sidushka-optima-ligh.html</url>
     <price>74</price>
     <price_old>88</price_old>
@@ -50594,7 +50519,7 @@
     <param name="Экологичный материал" unit="">Да</param>
     <param name="Эластичность материала" unit="">Да</param>
   </offer>
-  <offer id="1570665025" available="true">
+<offer id="1570665025" available="true">
     <url>https://proekt24.com/p1570665025-shumovibroizolyatsiya-avtomobilnaya-sandwich.html</url>
     <price>2641</price>
     <price_old>3144</price_old>
@@ -52116,7 +52041,7 @@
     <vendorCode>369857</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Длина" unit="см">400</param>
     <param name="Количество">2</param>
     <param name="Материал">Хлопок</param>
@@ -53754,7 +53679,7 @@
     <vendorCode>9000212</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>77</quantity_in_stock>
+    <quantity_in_stock>76</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -54552,7 +54477,7 @@
     <vendorCode>902052</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>500</quantity_in_stock>
+    <quantity_in_stock>480</quantity_in_stock>
     <param name="Тип покрытия" unit="">С одной стороны и самоклеещееся с другой</param>
     <param name="Группа материала по горючести" unit="">Г1 (слабогорючий)</param>
     <param name="Вид основного сырья" unit="">Неорганическое</param>
@@ -56061,13 +55986,14 @@
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>361</quantity_in_stock>
-    <param name="Цвет">Белый</param>
-    <param name="Ширина" unit="мм">1500</param>
+    <param name="Тип">Шумоизоляция</param>
     <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина, метр погонный" unit="">50</param>
     <param name="Плотность" unit="">75</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Толщина (мм)" unit="">1.5</param>
+    <param name="Цвет" unit="">Белый</param>
+    <param name="Ширина" unit="">1500.0</param>
   </offer>
   <offer id="1644402649" available="true">
     <url>https://proekt24.com/p1644402649-material-eva-eva.html</url>
@@ -56135,7 +56061,7 @@
     <vendorCode>832582</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>186</quantity_in_stock>
+    <quantity_in_stock>183</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -56212,7 +56138,7 @@
     <vendorCode>832586</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>204</quantity_in_stock>
+    <quantity_in_stock>203</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -57890,7 +57816,7 @@
     <param name="Внутрішній діаметр трубки ізоляції" unit="мм">12</param>
     <param name="Зовнішній діаметр ізоляції" unit="мм">38</param>
   </offer>
-<offer id="1650925474" available="true">
+  <offer id="1650925474" available="true">
     <url>https://proekt24.com/p1650925474-kauchukovaya-izolyatsiya-dlya.html</url>
     <price>42</price>
     <price_old>50</price_old>
@@ -57995,7 +57921,7 @@
     <param name="Внутрішній діаметр трубки ізоляції" unit="мм">48</param>
     <param name="Зовнішній діаметр ізоляції" unit="мм">74</param>
   </offer>
-  <offer id="1650930077" available="false">
+<offer id="1650930077" available="false">
     <url>https://proekt24.com/p1650930077-kauchukovaya-izolyatsiya-dlya.html</url>
     <price>78</price>
     <price_old>92</price_old>
@@ -59252,8 +59178,8 @@
   </offer>
   <offer id="1656452482" available="true">
     <url>https://proekt24.com/p1656452482-skorlupa-ppu-5140.html</url>
-    <price>346</price>
-    <price_old>412</price_old>
+    <price>435</price>
+    <price_old>518</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-5140.jpg</picture>
@@ -59285,8 +59211,8 @@
   </offer>
   <offer id="1656455757" available="true">
     <url>https://proekt24.com/p1656455757-skorlupa-ppu-4240.html</url>
-    <price>365</price>
-    <price_old>435</price_old>
+    <price>417</price>
+    <price_old>496</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966345</categoryId>
     <picture>https://images.prom.ua/3240829458_skorlupa-ppu-4240.jpg</picture>
@@ -59318,8 +59244,8 @@
   </offer>
   <offer id="1656483424" available="true">
     <url>https://proekt24.com/p1656483424-skorlupa-ppu-penopoliuretan.html</url>
-    <price>365</price>
-    <price_old>435</price_old>
+    <price>417</price>
+    <price_old>496</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966369</categoryId>
     <picture>https://images.prom.ua/3515743175_skorlupa-ppu-penopoliuretan.jpg</picture>
@@ -59351,8 +59277,8 @@
   </offer>
   <offer id="1656552196" available="false">
     <url>https://proekt24.com/p1656552196-skorlupa-ppu-1843.html</url>
-    <price>352</price>
-    <price_old>419</price_old>
+    <price>402</price>
+    <price_old>479</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-1843.jpg</picture>
@@ -59384,8 +59310,8 @@
   </offer>
   <offer id="1656552197" available="false">
     <url>https://proekt24.com/p1656552197-skorlupa-ppu-2540.html</url>
-    <price>352</price>
-    <price_old>419</price_old>
+    <price>402</price>
+    <price_old>479</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-2540.jpg</picture>
@@ -59417,8 +59343,8 @@
   </offer>
   <offer id="1656552198" available="false">
     <url>https://proekt24.com/p1656552198-skorlupa-ppu-3237.html</url>
-    <price>352</price>
-    <price_old>419</price_old>
+    <price>402</price>
+    <price_old>479</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-3237.jpg</picture>
@@ -59450,8 +59376,8 @@
   </offer>
   <offer id="1656552199" available="false">
     <url>https://proekt24.com/p1656552199-skorlupa-ppu-3838.html</url>
-    <price>401</price>
-    <price_old>478</price_old>
+    <price>459</price>
+    <price_old>546</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-3838.jpg</picture>
@@ -59483,8 +59409,8 @@
   </offer>
   <offer id="1656552200" available="false">
     <url>https://proekt24.com/p1656552200-skorlupa-ppu-4240.html</url>
-    <price>401</price>
-    <price_old>478</price_old>
+    <price>459</price>
+    <price_old>546</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-4240.jpg</picture>
@@ -59516,8 +59442,8 @@
   </offer>
   <offer id="1656552201" available="false">
     <url>https://proekt24.com/p1656552201-skorlupa-ppu-4542.html</url>
-    <price>401</price>
-    <price_old>478</price_old>
+    <price>459</price>
+    <price_old>546</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-4542.jpg</picture>
@@ -59549,8 +59475,8 @@
   </offer>
   <offer id="1656552202" available="false">
     <url>https://proekt24.com/p1656552202-skorlupa-ppu-4843.html</url>
-    <price>401</price>
-    <price_old>478</price_old>
+    <price>459</price>
+    <price_old>546</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-4843.jpg</picture>
@@ -59582,8 +59508,8 @@
   </offer>
   <offer id="1656552203" available="false">
     <url>https://proekt24.com/p1656552203-skorlupa-ppu-5140.html</url>
-    <price>376</price>
-    <price_old>448</price_old>
+    <price>472</price>
+    <price_old>562</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-5140.jpg</picture>
@@ -59615,8 +59541,8 @@
   </offer>
   <offer id="1656552204" available="false">
     <url>https://proekt24.com/p1656552204-skorlupa-ppu-5740.html</url>
-    <price>397</price>
-    <price_old>472</price_old>
+    <price>501</price>
+    <price_old>596</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-5740.jpg</picture>
@@ -59648,8 +59574,8 @@
   </offer>
   <offer id="1656552205" available="false">
     <url>https://proekt24.com/p1656552205-skorlupa-ppu-6337.html</url>
-    <price>405</price>
-    <price_old>482</price_old>
+    <price>510</price>
+    <price_old>608</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-6337.jpg</picture>
@@ -59681,8 +59607,8 @@
   </offer>
   <offer id="1656552206" available="false">
     <url>https://proekt24.com/p1656552206-skorlupa-ppu-7640.html</url>
-    <price>441</price>
-    <price_old>525</price_old>
+    <price>554</price>
+    <price_old>660</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-7640.jpg</picture>
@@ -59714,8 +59640,8 @@
   </offer>
   <offer id="1656552207" available="false">
     <url>https://proekt24.com/p1656552207-skorlupa-ppu-8940.html</url>
-    <price>472</price>
-    <price_old>562</price_old>
+    <price>593</price>
+    <price_old>706</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-8940.jpg</picture>
@@ -59747,8 +59673,8 @@
   </offer>
   <offer id="1656552208" available="false">
     <url>https://proekt24.com/p1656552208-skorlupa-ppu-10840.html</url>
-    <price>529</price>
-    <price_old>630</price_old>
+    <price>667</price>
+    <price_old>794</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-10840.jpg</picture>
@@ -59780,8 +59706,8 @@
   </offer>
   <offer id="1656552209" available="false">
     <url>https://proekt24.com/p1656552209-skorlupa-ppu-11437.html</url>
-    <price>523</price>
-    <price_old>622</price_old>
+    <price>657</price>
+    <price_old>782</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-11437.jpg</picture>
@@ -59813,8 +59739,8 @@
   </offer>
   <offer id="1656552210" available="false">
     <url>https://proekt24.com/p1656552210-skorlupa-ppu-11735.html</url>
-    <price>523</price>
-    <price_old>622</price_old>
+    <price>657</price>
+    <price_old>782</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-11735.jpg</picture>
@@ -59846,8 +59772,8 @@
   </offer>
   <offer id="1656552211" available="false">
     <url>https://proekt24.com/p1656552211-skorlupa-ppu-13340.html</url>
-    <price>580</price>
-    <price_old>690</price_old>
+    <price>729</price>
+    <price_old>868</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-13340.jpg</picture>
@@ -59879,8 +59805,8 @@
   </offer>
   <offer id="1656552212" available="false">
     <url>https://proekt24.com/p1656552212-skorlupa-ppu-14036.html</url>
-    <price>587</price>
-    <price_old>699</price_old>
+    <price>737</price>
+    <price_old>878</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-14036.jpg</picture>
@@ -59912,8 +59838,8 @@
   </offer>
   <offer id="1656552213" available="false">
     <url>https://proekt24.com/p1656552213-skorlupa-ppu-15940.html</url>
-    <price>648</price>
-    <price_old>771</price_old>
+    <price>815</price>
+    <price_old>970</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-15940.jpg</picture>
@@ -59945,8 +59871,8 @@
   </offer>
   <offer id="1656552214" available="false">
     <url>https://proekt24.com/p1656552214-skorlupa-ppu-16835.html</url>
-    <price>653</price>
-    <price_old>778</price_old>
+    <price>822</price>
+    <price_old>979</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-16835.jpg</picture>
@@ -59978,8 +59904,8 @@
   </offer>
   <offer id="1656552215" available="false">
     <url>https://proekt24.com/p1656552215-skorlupa-ppu-17930.html</url>
-    <price>660</price>
-    <price_old>786</price_old>
+    <price>831</price>
+    <price_old>989</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-17930.jpg</picture>
@@ -60011,8 +59937,8 @@
   </offer>
   <offer id="1656552216" available="false">
     <url>https://proekt24.com/p1656552216-skorlupa-ppu-21940.html</url>
-    <price>808</price>
-    <price_old>962</price_old>
+    <price>996</price>
+    <price_old>1186</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-21940.jpg</picture>
@@ -60044,8 +59970,8 @@
   </offer>
   <offer id="1656552217" available="false">
     <url>https://proekt24.com/p1656552217-skorlupa-ppu-27340.html</url>
-    <price>937</price>
-    <price_old>1115</price_old>
+    <price>1155</price>
+    <price_old>1375</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-27340.jpg</picture>
@@ -60077,8 +60003,8 @@
   </offer>
   <offer id="1656552218" available="false">
     <url>https://proekt24.com/p1656552218-skorlupa-ppu-32540.html</url>
-    <price>1093</price>
-    <price_old>1301</price_old>
+    <price>1350</price>
+    <price_old>1608</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-32540.jpg</picture>
@@ -60143,8 +60069,8 @@
   </offer>
   <offer id="1656552220" available="false">
     <url>https://proekt24.com/p1656552220-skorlupa-ppu-42640.html</url>
-    <price>1399</price>
-    <price_old>1665</price_old>
+    <price>1725</price>
+    <price_old>2054</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-42640.jpg</picture>
@@ -60176,8 +60102,8 @@
   </offer>
   <offer id="1656552221" available="false">
     <url>https://proekt24.com/p1656552221-skorlupa-ppu-53040.html</url>
-    <price>1656</price>
-    <price_old>1971</price_old>
+    <price>2044</price>
+    <price_old>2434</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-53040.jpg</picture>
@@ -60209,8 +60135,8 @@
   </offer>
   <offer id="1656552222" available="false">
     <url>https://proekt24.com/p1656552222-skorlupa-ppu-63040.html</url>
-    <price>2328</price>
-    <price_old>2771</price_old>
+    <price>2873</price>
+    <price_old>3420</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-63040.jpg</picture>
@@ -60242,8 +60168,8 @@
   </offer>
   <offer id="1656573092" available="true">
     <url>https://proekt24.com/p1656573092-skorlupa-ppu-1843.html</url>
-    <price>379</price>
-    <price_old>451</price_old>
+    <price>434</price>
+    <price_old>516</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-1843.jpg</picture>
@@ -60276,8 +60202,8 @@
   </offer>
   <offer id="1656573093" available="true">
     <url>https://proekt24.com/p1656573093-skorlupa-ppu-2540.html</url>
-    <price>379</price>
-    <price_old>451</price_old>
+    <price>434</price>
+    <price_old>516</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-2540.jpg</picture>
@@ -60310,8 +60236,8 @@
   </offer>
   <offer id="1656573094" available="true">
     <url>https://proekt24.com/p1656573094-skorlupa-ppu-3237.html</url>
-    <price>380</price>
-    <price_old>452</price_old>
+    <price>434</price>
+    <price_old>516</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-3237.jpg</picture>
@@ -60344,8 +60270,8 @@
   </offer>
   <offer id="1656573095" available="true">
     <url>https://proekt24.com/p1656573095-skorlupa-ppu-3838.html</url>
-    <price>432</price>
-    <price_old>514</price_old>
+    <price>495</price>
+    <price_old>589</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-3838.jpg</picture>
@@ -60378,8 +60304,8 @@
   </offer>
   <offer id="1656573096" available="true">
     <url>https://proekt24.com/p1656573096-skorlupa-ppu-4542.html</url>
-    <price>432</price>
-    <price_old>514</price_old>
+    <price>495</price>
+    <price_old>589</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-4542.jpg</picture>
@@ -60412,8 +60338,8 @@
   </offer>
   <offer id="1656573097" available="true">
     <url>https://proekt24.com/p1656573097-skorlupa-ppu-4843.html</url>
-    <price>432</price>
-    <price_old>514</price_old>
+    <price>494</price>
+    <price_old>588</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-4843.jpg</picture>
@@ -60446,8 +60372,8 @@
   </offer>
   <offer id="1656573098" available="true">
     <url>https://proekt24.com/p1656573098-skorlupa-ppu-5740.html</url>
-    <price>470</price>
-    <price_old>560</price_old>
+    <price>538</price>
+    <price_old>640</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-5740.jpg</picture>
@@ -60480,8 +60406,8 @@
   </offer>
   <offer id="1656573099" available="true">
     <url>https://proekt24.com/p1656573099-skorlupa-ppu-7640.html</url>
-    <price>522</price>
-    <price_old>621</price_old>
+    <price>597</price>
+    <price_old>711</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-7640.jpg</picture>
@@ -60514,8 +60440,8 @@
   </offer>
   <offer id="1656573100" available="true">
     <url>https://proekt24.com/p1656573100-skorlupa-ppu-8940.html</url>
-    <price>559</price>
-    <price_old>665</price_old>
+    <price>639</price>
+    <price_old>761</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-8940.jpg</picture>
@@ -60548,8 +60474,8 @@
   </offer>
   <offer id="1656573101" available="true">
     <url>https://proekt24.com/p1656573101-skorlupa-ppu-10840.html</url>
-    <price>627</price>
-    <price_old>746</price_old>
+    <price>716</price>
+    <price_old>852</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-10840.jpg</picture>
@@ -60582,8 +60508,8 @@
   </offer>
   <offer id="1656573102" available="true">
     <url>https://proekt24.com/p1656573102-skorlupa-ppu-11437.html</url>
-    <price>626</price>
-    <price_old>745</price_old>
+    <price>715</price>
+    <price_old>851</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-11437.jpg</picture>
@@ -60616,8 +60542,8 @@
   </offer>
   <offer id="1656573103" available="true">
     <url>https://proekt24.com/p1656573103-skorlupa-ppu-13340.html</url>
-    <price>695</price>
-    <price_old>828</price_old>
+    <price>794</price>
+    <price_old>945</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-13340.jpg</picture>
@@ -60650,8 +60576,8 @@
   </offer>
   <offer id="1656573104" available="true">
     <url>https://proekt24.com/p1656573104-skorlupa-ppu-15940.html</url>
-    <price>775</price>
-    <price_old>922</price_old>
+    <price>885</price>
+    <price_old>1054</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-15940.jpg</picture>
@@ -60684,8 +60610,8 @@
   </offer>
   <offer id="1656573105" available="true">
     <url>https://proekt24.com/p1656573105-skorlupa-ppu-16835.html</url>
-    <price>783</price>
-    <price_old>932</price_old>
+    <price>896</price>
+    <price_old>1066</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-16835.jpg</picture>
@@ -60718,8 +60644,8 @@
   </offer>
   <offer id="1656573106" available="true">
     <url>https://proekt24.com/p1656573106-skorlupa-ppu-21940.html</url>
-    <price>948</price>
-    <price_old>1129</price_old>
+    <price>1086</price>
+    <price_old>1292</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-21940.jpg</picture>
@@ -60786,8 +60712,8 @@
   </offer>
   <offer id="1656573108" available="true">
     <url>https://proekt24.com/p1656573108-skorlupa-ppu-27340.html</url>
-    <price>1099</price>
-    <price_old>1309</price_old>
+    <price>1256</price>
+    <price_old>1495</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-27340.jpg</picture>
@@ -60820,8 +60746,8 @@
   </offer>
   <offer id="1656573109" available="true">
     <url>https://proekt24.com/p1656573109-skorlupa-ppu-32540.html</url>
-    <price>1284</price>
-    <price_old>1529</price_old>
+    <price>1469</price>
+    <price_old>1749</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-32540.jpg</picture>
@@ -60854,8 +60780,8 @@
   </offer>
   <offer id="1656573110" available="true">
     <url>https://proekt24.com/p1656573110-skorlupa-ppu-37740.html</url>
-    <price>1453</price>
-    <price_old>1730</price_old>
+    <price>1662</price>
+    <price_old>1979</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-37740.jpg</picture>
@@ -60888,8 +60814,8 @@
   </offer>
   <offer id="1656573111" available="true">
     <url>https://proekt24.com/p1656573111-skorlupa-ppu-42640.html</url>
-    <price>1643</price>
-    <price_old>1956</price_old>
+    <price>1880</price>
+    <price_old>2238</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-42640.jpg</picture>
@@ -60922,8 +60848,8 @@
   </offer>
   <offer id="1656573112" available="true">
     <url>https://proekt24.com/p1656573112-skorlupa-ppu-53040.html</url>
-    <price>1947</price>
-    <price_old>2318</price_old>
+    <price>2226</price>
+    <price_old>2650</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-53040.jpg</picture>
@@ -60990,8 +60916,8 @@
   </offer>
   <offer id="1656573114" available="true">
     <url>https://proekt24.com/p1656573114-skorlupa-ppu-63040.html</url>
-    <price>2726</price>
-    <price_old>3245</price_old>
+    <price>3115</price>
+    <price_old>3709</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-63040.jpg</picture>
@@ -61092,8 +61018,8 @@
   </offer>
   <offer id="1656573117" available="true">
     <url>https://proekt24.com/p1656573117-skorlupa-ppu-11735.html</url>
-    <price>626</price>
-    <price_old>745</price_old>
+    <price>715</price>
+    <price_old>851</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-11735.jpg</picture>
@@ -61126,8 +61052,8 @@
   </offer>
   <offer id="1656573118" available="true">
     <url>https://proekt24.com/p1656573118-skorlupa-ppu-14036.html</url>
-    <price>702</price>
-    <price_old>836</price_old>
+    <price>802</price>
+    <price_old>955</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-14036.jpg</picture>
@@ -61160,8 +61086,8 @@
   </offer>
   <offer id="1656573119" available="true">
     <url>https://proekt24.com/p1656573119-skorlupa-ppu-17930.html</url>
-    <price>790</price>
-    <price_old>940</price_old>
+    <price>904</price>
+    <price_old>1076</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-17930.jpg</picture>
@@ -61194,8 +61120,8 @@
   </offer>
   <offer id="1656573120" available="true">
     <url>https://proekt24.com/p1656573120-skorlupa-ppu-6337.html</url>
-    <price>480</price>
-    <price_old>571</price_old>
+    <price>549</price>
+    <price_old>654</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-6337.jpg</picture>
@@ -61262,8 +61188,8 @@
   </offer>
   <offer id="1656573122" available="true">
     <url>https://proekt24.com/p1656573122-skorlupa-ppu-4240.html</url>
-    <price>432</price>
-    <price_old>514</price_old>
+    <price>495</price>
+    <price_old>589</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-4240.jpg</picture>
@@ -61296,8 +61222,8 @@
   </offer>
   <offer id="1656573123" available="true">
     <url>https://proekt24.com/p1656573123-skorlupa-ppu-5140.html</url>
-    <price>445</price>
-    <price_old>530</price_old>
+    <price>508</price>
+    <price_old>605</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>7966390</categoryId>
     <picture>https://images.prom.ua/3524551803_skorlupa-ppu-5140.jpg</picture>
@@ -66139,7 +66065,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-<offer id="1665675989" available="true">
+  <offer id="1665675989" available="true">
     <url>https://proekt24.com/p1665675989-fizicheski-sshityj-vspenennyj.html</url>
     <price>532</price>
     <price_old>634</price_old>
@@ -66237,7 +66163,7 @@
     <param name="Ширина" unit="м">0.01</param>
     <param name="Паропроницаемость, не менее" unit="г/(м²*24 часа)">300</param>
   </offer>
-  <offer id="1665964131" available="false">
+<offer id="1665964131" available="false">
     <url>https://proekt24.com/p1665964131-himicheski-sshityj-vspenennyj.html</url>
     <price>5292</price>
     <price_old>6300</price_old>
@@ -66504,7 +66430,7 @@
     <vendorCode>901051100</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>161</quantity_in_stock>
+    <quantity_in_stock>158</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -66949,7 +66875,7 @@
     <vendorCode>901101150</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3176</quantity_in_stock>
+    <quantity_in_stock>2951</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -67762,7 +67688,7 @@
     <vendorCode>180060010СЕ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>348</quantity_in_stock>
+    <quantity_in_stock>347</quantity_in_stock>
     <param name="Тип коврика">Каремат</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Количество слоев">Однослойные</param>
@@ -69583,7 +69509,7 @@
     <vendorCode>20118</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>190</quantity_in_stock>
+    <quantity_in_stock>189</quantity_in_stock>
     <param name="Армированный скотч">Да</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">25</param>
@@ -70205,7 +70131,7 @@
     <vendorCode>81115</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>242</quantity_in_stock>
+    <quantity_in_stock>240</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Крыша|Двери|Крышка багажника|Дверные панели|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">8</param>
@@ -70239,7 +70165,7 @@
     <vendorCode>81114</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>119</quantity_in_stock>
+    <quantity_in_stock>115</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Крыша|Двери|Крышка багажника|Дверные панели|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">5</param>
@@ -70730,7 +70656,7 @@
     <vendorCode>889019</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Совместимость с маркой">Kia|Daewoo|Chrysler|BMW|Ford|Nissan|Honda|Mazda|Renault|Volkswagen|Dodge|Hyundai|Mitsubishi|Peugeot|Citroen|Volvo|Toyota|Fiat|Audi</param>
     <param name="Совместимость с моделью">Q7|Sebring|Renault Megane|Lupo|Avensis|Camry|Chrysler|Santa Fe|RAV4|Mondeo|C5|A4|Nissan Maxima|Caliber|Focus|Scorpio|Tucson|Jazz|Q5|C4|Passat|Yaris|6|Fiesta|206|Matiz|Lancer|XC90|Fusion|Dodge|Ceed|A6|Getz|Colt|Almera|C2|Accord|Sonata|Primera|Tiguan|Civic</param>
     <param name="Длина рулона, п.м." unit="">20</param>
@@ -72522,7 +72448,7 @@
     <vendorCode>163114</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вес" unit="г">1100</param>
     <param name="Диаметр" unit="см">28</param>
     <param name="Максимальная нагрузка" unit="кг">160</param>
@@ -72704,7 +72630,7 @@
     <param name="Цвет">Красный</param>
     <param name="Фиксация" unit="">Ременная</param>
   </offer>
-<offer id="1793912181" available="true">
+  <offer id="1793912181" available="true">
     <url>https://proekt24.com/p1793912181-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
     <price>792</price>
     <price_old>942</price_old>
@@ -72803,7 +72729,7 @@
     <param name="Ширина" unit="см">5</param>
     <param name="Конструкция" unit="">Цельная</param>
   </offer>
-  <offer id="1794129218" available="false">
+<offer id="1794129218" available="false">
     <url>https://proekt24.com/p1794129218-kapa-badboy-proseries.html</url>
     <price>207</price>
     <price_old>246</price_old>
@@ -72934,7 +72860,7 @@
     <param name="Толщина" unit="см">1.3</param>
     <param name="Цвет">Разные цвета</param>
   </offer>
-  <offer id="1796907132" available="true">
+  <offer id="1796907132" available="false">
     <url>https://proekt24.com/p1796907132-karemat-armejskij-takticheskij.html</url>
     <price>1050</price>
     <price_old>1250</price_old>
@@ -72952,7 +72878,7 @@
     <vendorCode>233092192</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Длина" unit="см">190</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -73248,7 +73174,7 @@
     <vendorCode>832620</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>78</quantity_in_stock>
+    <quantity_in_stock>72</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -73464,7 +73390,7 @@
     <vendorCode>41020</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Вес" unit="кг">1.925</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -73524,7 +73450,7 @@
     <vendorCode>56392</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>192</quantity_in_stock>
+    <quantity_in_stock>182</quantity_in_stock>
     <param name="Вес" unit="кг">1.67</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Крыша|Пол багажника|Пол автомобиля|Капот|Двери|Дверные панели|Крышка багажника|Стенки багажника|Потолок автомобиля|Колесные арки</param>
@@ -73622,7 +73548,7 @@
     <vendorCode>56395</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>443</quantity_in_stock>
+    <quantity_in_stock>446</quantity_in_stock>
     <param name="Вес" unit="кг">0.95</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Крыша|Пол багажника|Пол автомобиля|Капот|Двери|Дверные панели|Крышка багажника|Стенки багажника|Потолок автомобиля|Колесные арки</param>
@@ -73801,7 +73727,7 @@
     <vendorCode>30013</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>44</quantity_in_stock>
     <param name="Вес" unit="кг">0.32</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -74795,7 +74721,7 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>184</quantity_in_stock>
+    <quantity_in_stock>181</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -74942,8 +74868,8 @@
   </offer>
   <offer id="1821008153" available="true">
     <url>https://proekt24.com/p1821008153-fizicheski-sshityj-vspenennyj.html</url>
-    <price>111</price>
-    <price_old>132</price_old>
+    <price>131</price>
+    <price_old>156</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>3531076</categoryId>
     <picture>https://images.prom.ua/2917947391_fizicheski-sshityj-vspenennyj.jpg</picture>
@@ -75151,7 +75077,7 @@
     <vendorCode>163100</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <param name="Вес" unit="г">1100</param>
     <param name="Диаметр" unit="см">28</param>
     <param name="Максимальная нагрузка" unit="кг">160</param>
@@ -76394,7 +76320,7 @@
     <vendorCode>КБ18006005ФТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Толщина" unit="мм">5</param>
@@ -77414,7 +77340,7 @@
     <vendorCode>889012</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -78806,6 +78732,31 @@
     <param name="Состояние" unit="">Новое</param>
     <param name="Цвет" unit="">Белый</param>
   </offer>
+  <offer id="1904638724" available="true">
+    <url>https://proekt24.com/p1904638724-fizicheski-sshityj-vspenennyj.html</url>
+    <price>308</price>
+    <price_old>366</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>3531076</categoryId>
+    <picture>https://images.prom.ua/2917947391_fizicheski-sshityj-vspenennyj.jpg</picture>
+    <picture>https://images.prom.ua/2915029956_fizicheski-sshityj-vspenennyj.jpg</picture>
+    <picture>https://images.prom.ua/2915029933_fizicheski-sshityj-vspenennyj.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Физически сшитый вспененный полиэтилен 8 мм 25 кг/м³ серый (ширина 1,5 м)</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>889048</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>35</quantity_in_stock>
+    <param name="Вид основного сырья">Неорганическое</param>
+    <param name="Длина" unit="м">60</param>
+    <param name="Плотность" unit="кг/м3">25</param>
+    <param name="Покрытие">Без покрытия</param>
+    <param name="Толщина" unit="мм">8</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">1500</param>
+  </offer>
   <offer id="1904638725" available="true">
     <url>https://proekt24.com/p1904638725-fizicheski-sshityj-vspenennyj.html</url>
     <price>223</price>
@@ -78891,7 +78842,7 @@
     <vendorCode>57091</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>77</quantity_in_stock>
+    <quantity_in_stock>76</quantity_in_stock>
     <param name="Назначение материала">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Область применения">Для инженерного оборудования</param>
     <param name="Форма поставки материала">Лист</param>
@@ -79151,7 +79102,7 @@
     <name>Детский коврик-пазл 1000х1000х10 мм белый</name>
     <vendorCode>889103</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Возраст">От 1 мес</param>
     <param name="Высота" unit="мм">10</param>
     <param name="Длина" unit="мм">1000</param>
@@ -79349,7 +79300,7 @@
     <param name="Ширина" unit="см">100</param>
     <param name="Цвет" unit="">желто-синий</param>
   </offer>
-<offer id="1914010780" available="true">
+  <offer id="1914010780" available="true">
     <url>https://proekt24.com/p1914010780-sportivnyj-mat-tatami.html</url>
     <price>1260</price>
     <price_old>1500</price_old>
@@ -79407,7 +79358,7 @@
     <param name="Ширина" unit="см">100</param>
     <param name="Цвет" unit="">желто-синий</param>
   </offer>
-  <offer id="1914010782" available="false">
+<offer id="1914010782" available="false">
     <url>https://proekt24.com/p1914010782-sportivnyj-mat-tatami.html</url>
     <price>588</price>
     <price_old>700</price_old>
@@ -79561,7 +79512,7 @@
     <vendorCode>EF-1924-VP</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вес" unit="г">830</param>
     <param name="Длина" unit="см">183</param>
     <param name="Материал">ТПЭ (термопластичный эластомер)</param>
@@ -80069,7 +80020,7 @@
     <vendorCode>889113</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>721</quantity_in_stock>
+    <quantity_in_stock>496</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -85236,7 +85187,7 @@
     <param name="Тип">Боевые</param>
     <param name="Цвет">Синий</param>
   </offer>
-  <offer id="1994100823" available="true">
+  <offer id="1994100823" available="false">
     <url>https://proekt24.com/p1994100823-lapa-bokserskaya-lev.html</url>
     <price>1307</price>
     <price_old>1556</price_old>
@@ -85255,7 +85206,7 @@
     <vendorCode>889223</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Материал">Искусственная кожа</param>
     <param name="Форма">Прямая</param>
     <param name="Цвет">Красный</param>
@@ -86103,7 +86054,7 @@
     <param name="Тип">Боевые</param>
     <param name="Цвет">Синий</param>
   </offer>
-<offer id="1994100860" available="true">
+  <offer id="1994100860" available="true">
     <url>https://proekt24.com/p1994100860-perchatki-dlya-smeshannyh.html</url>
     <price>1050</price>
     <price_old>1250</price_old>
@@ -86148,7 +86099,7 @@
     <param name="Форма">Гнутая</param>
     <param name="Цвет">Красный</param>
   </offer>
-  <offer id="1997751734" available="false">
+<offer id="1997751734" available="false">
     <url>https://proekt24.com/p1997751734-himicheski-sshityj-vspenennyj.html</url>
     <price>13598</price>
     <price_old>16188</price_old>
@@ -90145,8 +90096,8 @@
   </offer>
   <offer id="2030684397" available="false">
     <url>https://proekt24.com/p2030684397-skorlupa-ppu-37740.html</url>
-    <price>1236</price>
-    <price_old>1471</price_old>
+    <price>1526</price>
+    <price_old>1816</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>18716300</categoryId>
     <picture>https://images.prom.ua/3550315043_skorlupa-ppu-37740.jpg</picture>
@@ -90240,7 +90191,7 @@
     <vendorCode>889386</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>593</quantity_in_stock>
+    <quantity_in_stock>581</quantity_in_stock>
     <param name="Длина" unit="м">20</param>
     <param name="Максимальная рабочая температура" unit="град.">200</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -91100,7 +91051,7 @@
     <vendorCode>56789</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>271</quantity_in_stock>
+    <quantity_in_stock>267</quantity_in_stock>
     <param name="Вес упаковки" unit="кг">8.5</param>
     <param name="Длина" unit="м">10</param>
     <param name="Длина упаковки" unit="мм">50</param>
@@ -91792,7 +91743,7 @@
     <vendorCode>889441</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>370</quantity_in_stock>
+    <quantity_in_stock>369</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="">200</param>
     <param name="Минимальная температура эксплуатации" unit="">-30</param>
@@ -92616,7 +92567,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-<offer id="2099544463" available="false">
+  <offer id="2099544463" available="false">
     <url>https://proekt24.com/p2099544463-izolyatsiya-trub-6320.html</url>
     <price>84</price>
     <price_old>100</price_old>
@@ -92677,7 +92628,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="2099544465" available="false">
+<offer id="2099544465" available="false">
     <url>https://proekt24.com/p2099544465-izolyatsiya-trub-246.html</url>
     <price>10</price>
     <price_old>12</price_old>
@@ -93690,7 +93641,7 @@
     <vendorCode>Т18006008ЖСУ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Состояние">Новое</param>
@@ -100879,7 +100830,7 @@
     <param name="Ручка">Эмалированный металл</param>
     <param name="Тип">Кастрюля</param>
   </offer>
-<offer id="2183163493" available="true">
+  <offer id="2183163493" available="true">
     <url>https://proekt24.com/p2183163493-skovoroda-chugunnaya-wok.html</url>
     <price>1049</price>
     <price_old>1249</price_old>
@@ -100958,7 +100909,7 @@
     <param name="Діаметр основи, мм" unit="">99</param>
     <param name="Объем, л" unit="">3.82</param>
   </offer>
-  <offer id="2183163495" available="false">
+<offer id="2183163495" available="false">
     <url>https://proekt24.com/p2183163495-kastryulya-chugunnaya-podstavkoj.html</url>
     <price>420</price>
     <price_old>500</price_old>
@@ -109293,7 +109244,7 @@
     <param name="Цвет" unit="">Черный</param>
     <param name="Чехол для хранения и транспортировки" unit="">Да</param>
   </offer>
-<offer id="2183248722" available="false">
+  <offer id="2183248722" available="false">
     <url>https://proekt24.com/p2183248722-menazhnitsa-snack-sektsij.html</url>
     <price>273</price>
     <price_old>325</price_old>
@@ -109357,7 +109308,7 @@
     <param name="Диаметр" unit="">360</param>
     <param name="Объем" unit="мл.">8</param>
   </offer>
-  <offer id="2183248724" available="false">
+<offer id="2183248724" available="false">
     <url>https://proekt24.com/p2183248724-kazan-chugunnyj-turisticheskij.html</url>
     <price>1790</price>
     <price_old>2131</price_old>
@@ -109781,7 +109732,7 @@
     <vendorCode>889493</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>30</quantity_in_stock>
     <param name="Тип использования">Для наружных работ</param>
     <param name="Назначение материала">Для кровли</param>
     <param name="Форма поставляемого материала">Рулон</param>
@@ -115169,7 +115120,7 @@
     <param name="Цвет">Черный</param>
     <param name="Размер изелия" unit="">1</param>
   </offer>
-<offer id="2224923068" available="false">
+  <offer id="2224923068" available="false">
     <url>https://proekt24.com/p2224923068-kompressionnye-kolgoty-otkrytym.html</url>
     <price>1743</price>
     <price_old>2075</price_old>
@@ -115219,7 +115170,7 @@
     <param name="Цвет">Бежевый</param>
     <param name="Размер изелия" unit="">1</param>
   </offer>
-  <offer id="2224923070" available="false">
+<offer id="2224923070" available="false">
     <url>https://proekt24.com/p2224923070-antiembolicheskie-chulki-otverstiem.html</url>
     <price>640</price>
     <price_old>762</price_old>
@@ -117288,7 +117239,7 @@
     <vendorCode>9001019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1463</quantity_in_stock>
+    <quantity_in_stock>1313</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -117454,7 +117405,7 @@
     <vendorCode>8890279</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1906</quantity_in_stock>
+    <quantity_in_stock>1606</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет">Серый</param>
     <param name="Тип использования">Универсальный</param>
@@ -117846,7 +117797,7 @@
     <vendorCode>9002019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>284</quantity_in_stock>
+    <quantity_in_stock>274</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -117966,7 +117917,7 @@
     <vendorCode>9004019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>99</quantity_in_stock>
+    <quantity_in_stock>84</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -117982,7 +117933,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="2292946510" available="true">
+  <offer id="2292946510" available="false">
     <url>https://proekt24.com/p2292946510-gazovspenennyj-polietilen-listovoj.html</url>
     <price>904</price>
     <price_old>1076</price_old>
@@ -117996,7 +117947,7 @@
     <vendorCode>9003019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Покрытие">Без покрытия</param>
@@ -119444,7 +119395,7 @@
     <vendorCode>21040100</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Диаметр пузырька" unit="мм">10</param>
     <param name="Длина, м" unit="">100</param>
     <param name="Количество слоев" unit="">2</param>
@@ -121612,7 +121563,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-<offer id="2443903095" available="true">
+  <offer id="2443903095" available="true">
     <url>https://proekt24.com/p2443903095-penoplastovaya-skorlupa-102100.html</url>
     <price>728</price>
     <price_old>866</price_old>
@@ -121666,7 +121617,7 @@
     <param name="Цвет">Синий</param>
     <param name="Ширина" unit="см">30</param>
   </offer>
-  <offer id="2456165200" available="false">
+<offer id="2456165200" available="false">
     <url>https://proekt24.com/p2456165200-vspenennyj-kauchuk-samokleyuschijsya.html</url>
     <price>2906</price>
     <price_old>3460</price_old>
@@ -122736,7 +122687,7 @@
     <vendorCode>EF-8501</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Цвет">Красный</param>
     <param name="Тип">Универсальный</param>
   </offer>
@@ -128165,7 +128116,7 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>4</quantity_in_stock>
   </offer>
-<offer id="2695153220" available="true">
+  <offer id="2695153220" available="true">
     <url>https://proekt24.com/p2695153220-rukavichki-dlya-zmishanih.html</url>
     <price>903</price>
     <price_old>1075</price_old>
@@ -128211,7 +128162,7 @@
     <param name="Тип">Боевые</param>
     <param name="Цвет">Черный</param>
   </offer>
-  <offer id="2695153222" available="true">
+<offer id="2695153222" available="true">
     <url>https://proekt24.com/p2695153222-rukavichki-dlya-zmishanih.html</url>
     <price>903</price>
     <price_old>1075</price_old>
@@ -129174,7 +129125,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="2785125627" available="true">
+  <offer id="2785125627" available="false">
     <url>https://proekt24.com/p2785125627-steklovata-izocam-alyuminievym.html</url>
     <price>1890</price>
     <price_old>2250</price_old>
@@ -129188,7 +129139,7 @@
     <vendor>İzocam</vendor>
     <vendorCode>889664</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид минеральной ваты">Стекловата</param>
     <param name="Длина" unit="мм">10000</param>
     <param name="Покрытие">Фольгированное</param>
@@ -130266,7 +130217,7 @@
     <vendorCode>889718</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Вес" unit="кг">3</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Материал">PETG</param>
@@ -134105,12 +134056,12 @@
     <vendorCode>889783</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>105</quantity_in_stock>
+    <quantity_in_stock>91</quantity_in_stock>
     <param name="Высота" unit="мм">41</param>
     <param name="Длина" unit="">3</param>
     <param name="Материал" unit="">Сталь</param>
-    <param name="Ширина, мм" unit="">41</param>
     <param name="Толщина (мм)" unit="">1.4</param>
+    <param name="Ширина, мм" unit="">41</param>
   </offer>
   <offer id="2966389328" available="true">
     <url>https://proekt24.com/p2966389328-skotch-lenta-pvh.html</url>
@@ -134491,6 +134442,29 @@
     <param name="Ширина" unit="мм">1500</param>
     <param name="Плотность" unit="кг/м3">25</param>
   </offer>
+  <offer id="3019349383" available="true">
+    <url>https://proekt24.com/p3019349383-steklovata-izocam-alyuminievym.html</url>
+    <price>2345</price>
+    <price_old>2791</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>3061258</categoryId>
+    <picture>https://images.prom.ua/7313035625_steklovata-izocam-s.jpg</picture>
+    <picture>https://images.prom.ua/7313035626_steklovata-izocam-s.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Стекловата IZOCAM с алюминиевым покрытием 50 мм 15 м2 (12,5х1,2 м)</name>
+    <vendor>İzocam</vendor>
+    <vendorCode>889793</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>17</quantity_in_stock>
+    <param name="Вид минеральной ваты">Стекловата</param>
+    <param name="Покрытие">Фольгированное</param>
+    <param name="Тип покрытия">С одной стороны</param>
+    <param name="Толщина" unit="мм">50</param>
+    <param name="Форма поставки материала">Рулон</param>
+    <param name="Ширина" unit="мм">1200</param>
+    <param name="Длина" unit="">12500</param>
+  </offer>
   <offer id="3019349384" available="true">
     <url>https://proekt24.com/p3019349384-zvukoizolyatsiya-peregorodok-knauf.html</url>
     <price>1322</price>
@@ -134518,7 +134492,7 @@
     <param name="Плотность" unit="кг/м³">15</param>
     <param name="Группа материала по горючести">НГ (негорючий)</param>
   </offer>
-<offer id="3019349385" available="false">
+  <offer id="3019349385" available="false">
     <url>https://proekt24.com/p3019349385-dihtung-uplotnitelnaya-zvukoizolyatsionnaya.html</url>
     <price>418</price>
     <price_old>498</price_old>
@@ -134547,7 +134521,7 @@
     <param name="Длина рулона, п.м." unit="">30</param>
     <param name="Область применения" unit="">Для каркасных конструкция</param>
   </offer>
-  <offer id="3025179967" available="true">
+<offer id="3025179967" available="true">
     <url>https://proekt24.com/p3025179967-filament-dsf-petg.html</url>
     <price>630</price>
     <price_old>750</price_old>
@@ -134674,7 +134648,7 @@
     <name>Пленка защитная с малярной лентой 550 мм x 20 м</name>
     <vendorCode>00002635</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
   </offer>
   <offer id="3026318077" available="true">
     <url>https://proekt24.com/p3026318077-plenka-zaschitnaya-malyarnoj.html</url>
@@ -134748,17 +134722,31 @@
     <param name="Цвет">Красный</param>
   </offer>
   <offer id="3031833290" available="false">
-    <url>https://proekt24.com/p3031833290-solnechnyj-profil-41h41h14.html</url>
-    <price>180</price>
-    <price_old>214</price_old>
+    <url>https://proekt24.com/p3031833290-montazhnyj-profil-41h41h14.html</url>
+    <price>504</price>
+    <price_old>600</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>151847403</categoryId>
+    <categoryId>133605716</categoryId>
+    <picture>https://images.prom.ua/7349789595_montazhnyj-profil-41h41h14.jpg</picture>
+    <picture>https://images.prom.ua/7349789596_montazhnyj-profil-41h41h14.jpg</picture>
+    <picture>https://images.prom.ua/7349789597_montazhnyj-profil-41h41h14.jpg</picture>
+    <picture>https://images.prom.ua/7349789598_montazhnyj-profil-41h41h14.jpg</picture>
+    <picture>https://images.prom.ua/7349789600_montazhnyj-profil-41h41h14.jpg</picture>
+    <picture>https://images.prom.ua/7349789601_montazhnyj-profil-41h41h14.jpg</picture>
+    <picture>https://images.prom.ua/7349789603_montazhnyj-profil-41h41h14.jpg</picture>
+    <picture>https://images.prom.ua/7349789604_montazhnyj-profil-41h41h14.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Солнечный профиль 41х41х1,4 мм с загибами</name>
-    <vendorCode>00002655</vendorCode>
+    <name>Монтажный профиль 41х41х1,4 мм для солнечных панелей с загибами, длина 3 м</name>
+    <vendorCode>889822</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+    <param name="Высота" unit="">41</param>
+    <param name="Длина" unit="">3</param>
+    <param name="Материал" unit="">Сталь</param>
+    <param name="Толщина (мм)" unit="">1.4</param>
+    <param name="Ширина, мм" unit="">41</param>
   </offer>
 
 
