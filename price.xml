@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-11 10:00">
+<yml_catalog date="2026-05-11 17:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -1178,7 +1178,7 @@
     <vendorCode>889406</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>206</quantity_in_stock>
+    <quantity_in_stock>203</quantity_in_stock>
     <param name="Длина" unit="см">46</param>
     <param name="Максимальный вес" unit="кг">100</param>
     <param name="Тип">Цепь для подвеса</param>
@@ -1223,7 +1223,7 @@
     <vendorCode>1006-02С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вес" unit="кг">7</param>
     <param name="Высота" unit="см">75</param>
     <param name="Возрастная группа">Детская</param>
@@ -1380,7 +1380,7 @@
     <vendorCode>1002-04</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Вес" unit="кг">16</param>
     <param name="Высота" unit="см">80</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -2191,7 +2191,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>226</quantity_in_stock>
+    <quantity_in_stock>194</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -3514,7 +3514,7 @@
     <vendorCode>КБ18006005К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Тип">Коврик/мат</param>
@@ -3708,18 +3708,18 @@
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Цвет">Черный</param>
     <param name="Форма поставки материала">Рулон</param>
+    <param name="Длина" unit="мм">15</param>
     <param name="Ширина" unit="мм">50</param>
-    <param name="Длина" unit="">15</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Цвет">Черный</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Максимальная рабочая температура" unit="">180</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Плотность" unit="">55</param>
-    <param name="Теплопроводность" unit="">0.032</param>
     <param name="Тип" unit="">Шумоизоляция</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
     <param name="Толщина изоляции" unit="">2</param>
+    <param name="Теплопроводность" unit="">0.032</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
     <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
   <offer id="108985548" available="true">
@@ -3747,8 +3747,8 @@
   </offer>
   <offer id="108998957" available="true">
     <url>https://proekt24.com/p108998957-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>251</price>
-    <price_old>299</price_old>
+    <price>210</price>
+    <price_old>250</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6969781181_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -3767,7 +3767,7 @@
     <vendorCode>35015</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3244</quantity_in_stock>
+    <quantity_in_stock>3243</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -3796,15 +3796,15 @@
     <vendorCode>233454</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>79</quantity_in_stock>
+    <quantity_in_stock>78</quantity_in_stock>
     <param name="Длина, мм" unit="">520</param>
     <param name="Ширина, мм" unit="">25</param>
     <param name="Материал" unit="">Резинка</param>
   </offer>
   <offer id="121370966" available="true">
     <url>https://proekt24.com/p121370966-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>293</price>
-    <price_old>349</price_old>
+    <price>267</price>
+    <price_old>318</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-6.jpg</picture>
@@ -3815,7 +3815,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>710</quantity_in_stock>
+    <quantity_in_stock>467</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -3836,8 +3836,8 @@
   </offer>
   <offer id="121678348" available="true">
     <url>https://proekt24.com/p121678348-vspenennyj-kauchuk.html</url>
-    <price>214</price>
-    <price_old>255</price_old>
+    <price>197</price>
+    <price_old>235</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020403</categoryId>
     <picture>https://images.prom.ua/2824192537_vspenennyj-kauchuk-9.jpg</picture>
@@ -3848,7 +3848,7 @@
     <vendorCode>500091</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2856</quantity_in_stock>
+    <quantity_in_stock>2846</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -3871,8 +3871,8 @@
   </offer>
   <offer id="121681600" available="true">
     <url>https://proekt24.com/p121681600-vspenennyj-kauchuk.html</url>
-    <price>287</price>
-    <price_old>341</price_old>
+    <price>265</price>
+    <price_old>315</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020403</categoryId>
     <picture>https://images.prom.ua/2824192537_vspenennyj-kauchuk-13.jpg</picture>
@@ -3906,8 +3906,8 @@
   </offer>
   <offer id="121786568" available="true">
     <url>https://proekt24.com/p121786568-vspenennyj-kauchuk.html</url>
-    <price>412</price>
-    <price_old>490</price_old>
+    <price>380</price>
+    <price_old>452</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020403</categoryId>
     <picture>https://images.prom.ua/2824192537_vspenennyj-kauchuk-19.jpg</picture>
@@ -3982,8 +3982,8 @@
   </offer>
   <offer id="122914039" available="true">
     <url>https://proekt24.com/p122914039-vspenennyj-kauchuk.html</url>
-    <price>541</price>
-    <price_old>644</price_old>
+    <price>499</price>
+    <price_old>594</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020403</categoryId>
     <picture>https://images.prom.ua/2824192537_vspenennyj-kauchuk-25.jpg</picture>
@@ -4017,8 +4017,8 @@
   </offer>
   <offer id="122917175" available="true">
     <url>https://proekt24.com/p122917175-vspenennyj-kauchuk.html</url>
-    <price>710</price>
-    <price_old>845</price_old>
+    <price>655</price>
+    <price_old>780</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020403</categoryId>
     <picture>https://images.prom.ua/2824192537_vspenennyj-kauchuk-32.jpg</picture>
@@ -4052,8 +4052,8 @@
   </offer>
   <offer id="122919961" available="true">
     <url>https://proekt24.com/p122919961-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>333</price>
-    <price_old>396</price_old>
+    <price>304</price>
+    <price_old>362</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-9.jpg</picture>
@@ -4089,8 +4089,8 @@
   </offer>
   <offer id="122949188" available="true">
     <url>https://proekt24.com/p122949188-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>406</price>
-    <price_old>484</price_old>
+    <price>373</price>
+    <price_old>444</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-13.jpg</picture>
@@ -4122,8 +4122,8 @@
   </offer>
   <offer id="122951690" available="true">
     <url>https://proekt24.com/p122951690-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>525</price>
-    <price_old>625</price_old>
+    <price>482</price>
+    <price_old>574</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-19.jpg</picture>
@@ -4134,7 +4134,7 @@
     <vendorCode>500192</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>479</quantity_in_stock>
+    <quantity_in_stock>459</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -4155,8 +4155,8 @@
   </offer>
   <offer id="122954685" available="true">
     <url>https://proekt24.com/p122954685-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>658</price>
-    <price_old>784</price_old>
+    <price>604</price>
+    <price_old>719</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-25.jpg</picture>
@@ -4188,8 +4188,8 @@
   </offer>
   <offer id="122993367" available="true">
     <url>https://proekt24.com/p122993367-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>827</price>
-    <price_old>985</price_old>
+    <price>760</price>
+    <price_old>905</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-32.jpg</picture>
@@ -4200,7 +4200,7 @@
     <vendorCode>500322</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>686</quantity_in_stock>
+    <quantity_in_stock>680</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -4220,8 +4220,8 @@
   </offer>
   <offer id="126010747" available="true">
     <url>https://proekt24.com/p126010747-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>410</price>
-    <price_old>488</price_old>
+    <price>372</price>
+    <price_old>442</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-6.jpg</picture>
@@ -4291,8 +4291,8 @@
   </offer>
   <offer id="126630721" available="true">
     <url>https://proekt24.com/p126630721-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>450</price>
-    <price_old>536</price_old>
+    <price>410</price>
+    <price_old>488</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-9.jpg</picture>
@@ -4325,8 +4325,8 @@
   </offer>
   <offer id="126648462" available="true">
     <url>https://proekt24.com/p126648462-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>524</price>
-    <price_old>624</price_old>
+    <price>478</price>
+    <price_old>569</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-13.jpg</picture>
@@ -4360,8 +4360,8 @@
   </offer>
   <offer id="126651116" available="true">
     <url>https://proekt24.com/p126651116-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>647</price>
-    <price_old>770</price_old>
+    <price>591</price>
+    <price_old>704</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-19.jpg</picture>
@@ -4372,7 +4372,7 @@
     <vendorCode>500193</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>541</quantity_in_stock>
+    <quantity_in_stock>526</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -4394,8 +4394,8 @@
   </offer>
   <offer id="126706961" available="true">
     <url>https://proekt24.com/p126706961-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>776</price>
-    <price_old>924</price_old>
+    <price>710</price>
+    <price_old>845</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-25.jpg</picture>
@@ -4428,8 +4428,8 @@
   </offer>
   <offer id="126709678" available="true">
     <url>https://proekt24.com/p126709678-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>945</price>
-    <price_old>1125</price_old>
+    <price>866</price>
+    <price_old>1031</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-32.jpg</picture>
@@ -4462,8 +4462,8 @@
   </offer>
   <offer id="131296097" available="true">
     <url>https://proekt24.com/p131296097-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>293</price>
-    <price_old>349</price_old>
+    <price>267</price>
+    <price_old>318</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-6.jpg</picture>
@@ -4499,8 +4499,8 @@
   </offer>
   <offer id="131614769" available="true">
     <url>https://proekt24.com/p131614769-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>333</price>
-    <price_old>396</price_old>
+    <price>304</price>
+    <price_old>362</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-9.jpg</picture>
@@ -4533,8 +4533,8 @@
   </offer>
   <offer id="131634549" available="true">
     <url>https://proekt24.com/p131634549-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>406</price>
-    <price_old>484</price_old>
+    <price>373</price>
+    <price_old>444</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-13.jpg</picture>
@@ -4567,8 +4567,8 @@
   </offer>
   <offer id="131638890" available="true">
     <url>https://proekt24.com/p131638890-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>529</price>
-    <price_old>630</price_old>
+    <price>486</price>
+    <price_old>579</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-19.jpg</picture>
@@ -4601,8 +4601,8 @@
   </offer>
   <offer id="131653950" available="true">
     <url>https://proekt24.com/p131653950-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>658</price>
-    <price_old>784</price_old>
+    <price>604</price>
+    <price_old>719</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-25.jpg</picture>
@@ -4636,8 +4636,8 @@
   </offer>
   <offer id="131660307" available="true">
     <url>https://proekt24.com/p131660307-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>827</price>
-    <price_old>985</price_old>
+    <price>760</price>
+    <price_old>905</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-32.jpg</picture>
@@ -5503,7 +5503,7 @@
     <vendorCode>ВП42/6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>200</quantity_in_stock>
+    <quantity_in_stock>170</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">42</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
@@ -12160,8 +12160,8 @@
   </offer>
   <offer id="194023709" available="false">
     <url>https://proekt24.com/p194023709-vspenennyj-kauchuk.html</url>
-    <price>1372</price>
-    <price_old>1634</price_old>
+    <price>1259</price>
+    <price_old>1499</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020403</categoryId>
     <picture>https://images.prom.ua/2824192537_vspenennyj-kauchuk-50.jpg</picture>
@@ -12174,12 +12174,6 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Цвет">Черный</param>
-    <param name="Область применения">Для инженерного оборудования|Для стен|Для потолков|Для каркасных конструкций|Для пола</param>
-    <param name="Назначение материала">Звукоизоляция|Улучшение акустики помещений|Виброизоляция|Снижение ударного шума</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">50</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
@@ -12192,11 +12186,17 @@
     <param name="Тип" unit="">Шумоизоляция</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Ширина" unit="">1000</param>
+    <param name="Назначение материала" unit="">Звукоизоляция|Улучшение акустики помещений|Виброизоляция|Снижение ударного шума</param>
+    <param name="Эластичность материала" unit="">Да</param>
+    <param name="Область применения" unit="">Для инженерного оборудования|Для стен|Для потолков|Для каркасных конструкций|Для пола</param>
+    <param name="Толщина" unit="">50.0</param>
+    <param name="Цвет" unit="">Черный</param>
+    <param name="Степень жесткости" unit="">Мягкий</param>
   </offer>
   <offer id="194057763" available="false">
     <url>https://proekt24.com/p194057763-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>1490</price>
-    <price_old>1774</price_old>
+    <price>1365</price>
+    <price_old>1625</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-50.jpg</picture>
@@ -14979,7 +14979,7 @@
     <vendorCode>33030</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Назначение материала">Улучшение акустики помещений</param>
     <param name="Плотность" unit="кг/м³">33</param>
     <param name="Степень жесткости">Мягкий</param>
@@ -16601,7 +16601,7 @@
     <vendorCode>63326</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>121</quantity_in_stock>
+    <quantity_in_stock>119</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Минимальная рабочая температура" unit="град.">-36</param>
@@ -16666,7 +16666,7 @@
     <vendorCode>63321</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>126</quantity_in_stock>
+    <quantity_in_stock>111</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Материал мембраны">Полипропилен</param>
@@ -17733,7 +17733,7 @@
     <vendorCode>63327</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>71</quantity_in_stock>
+    <quantity_in_stock>73</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Минимальная рабочая температура" unit="град.">-36</param>
@@ -18569,7 +18569,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>656</quantity_in_stock>
+    <quantity_in_stock>635</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -18893,8 +18893,8 @@
   </offer>
   <offer id="285080730" available="true">
     <url>https://proekt24.com/p285080730-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>378</price>
-    <price_old>450</price_old>
+    <price>359</price>
+    <price_old>428</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6969783026_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -18930,8 +18930,8 @@
   </offer>
   <offer id="285088517" available="true">
     <url>https://proekt24.com/p285088517-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>511</price>
-    <price_old>609</price_old>
+    <price>432</price>
+    <price_old>514</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -18968,8 +18968,8 @@
   </offer>
   <offer id="285095463" available="true">
     <url>https://proekt24.com/p285095463-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>205</price>
-    <price_old>244</price_old>
+    <price>210</price>
+    <price_old>250</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -18982,7 +18982,7 @@
     <vendorCode>630155</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологичный материал">Да</param>
     <param name="Эластичность материала">Да</param>
@@ -19029,8 +19029,8 @@
   </offer>
   <offer id="285104442" available="false">
     <url>https://proekt24.com/p285104442-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>556</price>
-    <price_old>662</price_old>
+    <price>570</price>
+    <price_old>679</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -19120,7 +19120,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>745</quantity_in_stock>
+    <quantity_in_stock>743</quantity_in_stock>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Толщина" unit="">2</param>
     <param name="Ширина рулона, мм" unit="">1400</param>
@@ -19140,7 +19140,7 @@
     <vendor>Шумофф</vendor>
     <vendorCode>7075121</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <param name="Консистенция">Аэрозоль</param>
     <param name="Объем" unit="мл">250</param>
   </offer>
@@ -19199,7 +19199,7 @@
     <vendorCode>04461</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>50</quantity_in_stock>
+    <quantity_in_stock>44</quantity_in_stock>
     <param name="Длина" unit="м">50</param>
     <param name="Цвет">Белый</param>
     <param name="Назначение материала">Для стен</param>
@@ -19223,7 +19223,7 @@
     <vendorCode>04455</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>48</quantity_in_stock>
+    <quantity_in_stock>47</quantity_in_stock>
     <param name="Длина" unit="м">50</param>
     <param name="Назначение материала">Для стен</param>
     <param name="Тип использования">Универсальный</param>
@@ -19309,7 +19309,7 @@
     <vendorCode>03-781</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>247</quantity_in_stock>
+    <quantity_in_stock>246</quantity_in_stock>
     <param name="Материал ручки, ролика" unit="">Пластик</param>
     <param name="Материал стержня" unit="">Хромированная сталь</param>
     <param name="Ширина, мм" unit="">45</param>
@@ -23032,7 +23032,7 @@
     <vendorCode>889039</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>166</quantity_in_stock>
+    <quantity_in_stock>160</quantity_in_stock>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Потолок автомобиля</param>
     <param name="Состояние">Новое</param>
@@ -23208,7 +23208,7 @@
     <vendorCode>11362</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1372</quantity_in_stock>
+    <quantity_in_stock>72</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Капот|Стенки багажника|Двери|Пол автомобиля|Колесные арки|Крыша|Потолок автомобиля|Крышка багажника|Пол багажника|Дверные панели</param>
@@ -23264,7 +23264,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>48</quantity_in_stock>
+    <quantity_in_stock>36</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Капот|Стенки багажника|Двери|Пол автомобиля|Колесные арки|Крыша|Потолок автомобиля|Крышка багажника|Пол багажника|Дверные панели</param>
@@ -23295,7 +23295,7 @@
     <vendorCode>11364</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>258</quantity_in_stock>
+    <quantity_in_stock>254</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Капот|Стенки багажника|Двери|Пол автомобиля|Колесные арки|Крыша|Потолок автомобиля|Крышка багажника|Пол багажника|Дверные панели</param>
@@ -23318,7 +23318,7 @@
     <vendorCode>321209</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет">Серый</param>
     <param name="Тип использования">Универсальный</param>
@@ -24138,7 +24138,7 @@
     <name>Химически сшитый вспененный полиэтилен лист 2000х1000х20 мм 33 кг/м³</name>
     <vendorCode>901201</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>146</quantity_in_stock>
+    <quantity_in_stock>149</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Покрытие">Без покрытия</param>
@@ -26445,8 +26445,8 @@
   </offer>
   <offer id="444161785" available="true">
     <url>https://proekt24.com/p444161785-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>278</price>
-    <price_old>331</price_old>
+    <price>252</price>
+    <price_old>300</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-3.jpg</picture>
@@ -26535,7 +26535,7 @@
     <vendorCode>62012</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <param name="Длина рулона" unit="м">20</param>
     <param name="Максимальная температура эксплуатации" unit="град.">90</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-40</param>
@@ -27276,7 +27276,7 @@
     <vendorCode>П159/30Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -32270,7 +32270,7 @@
     <vendorCode>2024-03С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>27</quantity_in_stock>
+    <quantity_in_stock>26</quantity_in_stock>
     <param name="Вес" unit="oz">8</param>
     <param name="Возрастная группа">Детская</param>
     <param name="Материал">Искусственная кожа</param>
@@ -32603,8 +32603,8 @@
   </offer>
   <offer id="521582954" available="true">
     <url>https://proekt24.com/p521582954-vspenennyj-kauchuk.html</url>
-    <price>173</price>
-    <price_old>206</price_old>
+    <price>160</price>
+    <price_old>190</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020403</categoryId>
     <picture>https://images.prom.ua/2824192537_vspenennyj-kauchuk-6.jpg</picture>
@@ -33098,8 +33098,8 @@
   </offer>
   <offer id="546495650" available="true">
     <url>https://proekt24.com/p546495650-krovelnaya-lenta-folgirovannoj.html</url>
-    <price>517</price>
-    <price_old>615</price_old>
+    <price>498</price>
+    <price_old>592</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13199627</categoryId>
     <picture>https://images.prom.ua/3108633171_krovelnaya-lenta-s.jpg</picture>
@@ -33131,8 +33131,8 @@
   </offer>
   <offer id="546506182" available="true">
     <url>https://proekt24.com/p546506182-krovelnaya-lenta-folgirovannoj.html</url>
-    <price>862</price>
-    <price_old>1026</price_old>
+    <price>828</price>
+    <price_old>986</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13199627</categoryId>
     <picture>https://images.prom.ua/3108567886_krovelnaya-lenta-s.jpg</picture>
@@ -33244,7 +33244,7 @@
     <vendorCode>62018</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>423</quantity_in_stock>
+    <quantity_in_stock>422</quantity_in_stock>
     <param name="Тип использования">Универсальный</param>
     <param name="Назначение материала">Для кровли|Для подвалов|Для фасадов|Для цоколей|Для балконов|Для стен</param>
     <param name="Форма поставляемого материала">Рулон</param>
@@ -33280,8 +33280,8 @@
   </offer>
   <offer id="546560484" available="true">
     <url>https://proekt24.com/p546560484-krovelnaya-lenta-folgirovannoj.html</url>
-    <price>1250</price>
-    <price_old>1488</price_old>
+    <price>1201</price>
+    <price_old>1430</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13199627</categoryId>
     <picture>https://images.prom.ua/3108567886_krovelnaya-lenta-s.jpg</picture>
@@ -33988,7 +33988,7 @@
     <param name="Толщина" unit="мм">13</param>
     <param name="Ширина листа" unit="см">100</param>
   </offer>
-  <offer id="600830695" available="true">
+  <offer id="600830695" available="false">
     <url>https://proekt24.com/p600830695-kovrik-dlya-fitnesa.html</url>
     <price>168</price>
     <price_old>200</price_old>
@@ -34002,7 +34002,7 @@
     <vendorCode>КБ18006005О</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Длина" unit="см">180</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Толщина" unit="мм">5</param>
@@ -34173,7 +34173,7 @@
     <vendorCode>62025</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>156</quantity_in_stock>
+    <quantity_in_stock>85</quantity_in_stock>
     <param name="Тип использования" unit="">Универсальный</param>
     <param name="Минимальная температура эксплуатации" unit="">-40</param>
     <param name="Максимальная температура эксплуатации" unit="">90</param>
@@ -34356,8 +34356,8 @@
   </offer>
   <offer id="625167029" available="true">
     <url>https://proekt24.com/p625167029-krovelnaya-bitumnaya-lenta.html</url>
-    <price>1425</price>
-    <price_old>1696</price_old>
+    <price>1368</price>
+    <price_old>1629</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13199627</categoryId>
     <picture>https://images.prom.ua/3017574188_krovelnaya-bitumnaya-lenta.jpg</picture>
@@ -36230,8 +36230,8 @@
   </offer>
   <offer id="1339548524" available="false">
     <url>https://proekt24.com/p1339548524-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>1608</price>
-    <price_old>1914</price_old>
+    <price>1470</price>
+    <price_old>1750</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-50.jpg</picture>
@@ -36989,7 +36989,7 @@
     <vendorCode>TW-1210XL</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Размер">XL</param>
     <param name="Тип">Защита паха</param>
     <param name="Цвет">Белый</param>
@@ -37248,7 +37248,7 @@
     <vendorCode>EF-AWTS-500</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Вес" unit="кг">5</param>
     <param name="Количество утяжелителей">2</param>
     <param name="Особенности">Подходит для ног и рук|Неопреновое покрытие</param>
@@ -37983,7 +37983,7 @@
     <vendorCode>1008810</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>79</quantity_in_stock>
+    <quantity_in_stock>77</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентный</param>
     <param name="Состояние клея">Готовая эмульсия</param>
     <param name="Срок хранения" unit="мес">12</param>
@@ -38161,7 +38161,7 @@
     <vendorCode>62711</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>290</quantity_in_stock>
+    <quantity_in_stock>288</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -38290,8 +38290,8 @@
   </offer>
   <offer id="1399834015" available="true">
     <url>https://proekt24.com/p1399834015-bitumnaya-lenta-alubrown.html</url>
-    <price>316</price>
-    <price_old>376</price_old>
+    <price>278</price>
+    <price_old>331</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458671_bitumnaya-lenta-50.jpg</picture>
@@ -38321,8 +38321,8 @@
   </offer>
   <offer id="1399834016" available="true">
     <url>https://proekt24.com/p1399834016-bitumnaya-lenta-100.html</url>
-    <price>490</price>
-    <price_old>584</price_old>
+    <price>433</price>
+    <price_old>515</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458701_bitumnaya-lenta-100.jpg</picture>
@@ -38352,8 +38352,8 @@
   </offer>
   <offer id="1399834017" available="true">
     <url>https://proekt24.com/p1399834017-bitumnaya-lenta-150.html</url>
-    <price>699</price>
-    <price_old>832</price_old>
+    <price>617</price>
+    <price_old>735</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458708_bitumnaya-lenta-150.jpg</picture>
@@ -38383,8 +38383,8 @@
   </offer>
   <offer id="1399834018" available="true">
     <url>https://proekt24.com/p1399834018-bitumnaya-lenta-250.html</url>
-    <price>1080</price>
-    <price_old>1286</price_old>
+    <price>953</price>
+    <price_old>1135</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458719_bitumnaya-lenta-250.jpg</picture>
@@ -38414,8 +38414,8 @@
   </offer>
   <offer id="1399834019" available="true">
     <url>https://proekt24.com/p1399834019-bitumnaya-lenta-alubrown.html</url>
-    <price>403</price>
-    <price_old>480</price_old>
+    <price>355</price>
+    <price_old>422</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3155800557_bitumnaya-lenta-75.jpg</picture>
@@ -38445,8 +38445,8 @@
   </offer>
   <offer id="1399834020" available="true">
     <url>https://proekt24.com/p1399834020-bitumnaya-lenta-100.html</url>
-    <price>490</price>
-    <price_old>584</price_old>
+    <price>433</price>
+    <price_old>515</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458751_bitumnaya-lenta-100.jpg</picture>
@@ -38475,8 +38475,8 @@
   </offer>
   <offer id="1399834021" available="true">
     <url>https://proekt24.com/p1399834021-bitumnaya-lenta-150.html</url>
-    <price>699</price>
-    <price_old>832</price_old>
+    <price>617</price>
+    <price_old>735</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458777_bitumnaya-lenta-150.jpg</picture>
@@ -38506,8 +38506,8 @@
   </offer>
   <offer id="1399834022" available="true">
     <url>https://proekt24.com/p1399834022-bitumnaya-lenta-250.html</url>
-    <price>1080</price>
-    <price_old>1286</price_old>
+    <price>953</price>
+    <price_old>1135</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458791_bitumnaya-lenta-250.jpg</picture>
@@ -38537,8 +38537,8 @@
   </offer>
   <offer id="1399834023" available="true">
     <url>https://proekt24.com/p1399834023-bitumnaya-lenta-aluterracot.html</url>
-    <price>316</price>
-    <price_old>376</price_old>
+    <price>278</price>
+    <price_old>331</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458798_bitumnaya-lenta-50.jpg</picture>
@@ -38568,8 +38568,8 @@
   </offer>
   <offer id="1399834024" available="true">
     <url>https://proekt24.com/p1399834024-bitumnaya-lenta-aluterracot.html</url>
-    <price>403</price>
-    <price_old>480</price_old>
+    <price>355</price>
+    <price_old>422</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458806_bitumnaya-lenta-75.jpg</picture>
@@ -38599,8 +38599,8 @@
   </offer>
   <offer id="1399834025" available="true">
     <url>https://proekt24.com/p1399834025-bitumnaya-lenta-100.html</url>
-    <price>490</price>
-    <price_old>584</price_old>
+    <price>433</price>
+    <price_old>515</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460161_bitumnaya-lenta-100.jpg</picture>
@@ -38630,8 +38630,8 @@
   </offer>
   <offer id="1399834026" available="true">
     <url>https://proekt24.com/p1399834026-bitumnaya-lenta-250.html</url>
-    <price>1080</price>
-    <price_old>1286</price_old>
+    <price>953</price>
+    <price_old>1135</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460168_bitumnaya-lenta-250.jpg</picture>
@@ -38661,8 +38661,8 @@
   </offer>
   <offer id="1399834027" available="true">
     <url>https://proekt24.com/p1399834027-bitumnaya-lenta-alugraphite.html</url>
-    <price>316</price>
-    <price_old>376</price_old>
+    <price>278</price>
+    <price_old>331</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460175_bitumnaya-lenta-50.jpg</picture>
@@ -38692,8 +38692,8 @@
   </offer>
   <offer id="1399834028" available="true">
     <url>https://proekt24.com/p1399834028-bitumnaya-lenta-alugraphite.html</url>
-    <price>403</price>
-    <price_old>480</price_old>
+    <price>355</price>
+    <price_old>422</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460183_bitumnaya-lenta-75.jpg</picture>
@@ -38723,8 +38723,8 @@
   </offer>
   <offer id="1399834029" available="true">
     <url>https://proekt24.com/p1399834029-bitumnaya-lenta-150.html</url>
-    <price>699</price>
-    <price_old>832</price_old>
+    <price>617</price>
+    <price_old>735</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460195_bitumnaya-lenta-150.jpg</picture>
@@ -38741,7 +38741,7 @@
     <vendorCode>62759</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -38754,8 +38754,8 @@
   </offer>
   <offer id="1399834030" available="true">
     <url>https://proekt24.com/p1399834030-bitumnaya-lenta-100.html</url>
-    <price>490</price>
-    <price_old>584</price_old>
+    <price>433</price>
+    <price_old>515</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460208_bitumnaya-lenta-100.jpg</picture>
@@ -38785,8 +38785,8 @@
   </offer>
   <offer id="1399834031" available="true">
     <url>https://proekt24.com/p1399834031-bitumnaya-lenta-250.html</url>
-    <price>1080</price>
-    <price_old>1286</price_old>
+    <price>953</price>
+    <price_old>1135</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460219_bitumnaya-lenta-250.jpg</picture>
@@ -38816,8 +38816,8 @@
   </offer>
   <offer id="1399834032" available="true">
     <url>https://proekt24.com/p1399834032-bitumnaya-lenta-alugreen.html</url>
-    <price>316</price>
-    <price_old>376</price_old>
+    <price>278</price>
+    <price_old>331</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460234_bitumnaya-lenta-50.jpg</picture>
@@ -38847,8 +38847,8 @@
   </offer>
   <offer id="1399834033" available="true">
     <url>https://proekt24.com/p1399834033-bitumnaya-lenta-alugreen.html</url>
-    <price>403</price>
-    <price_old>480</price_old>
+    <price>355</price>
+    <price_old>422</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460247_bitumnaya-lenta-75.jpg</picture>
@@ -38878,8 +38878,8 @@
   </offer>
   <offer id="1399834034" available="true">
     <url>https://proekt24.com/p1399834034-bitumnaya-lenta-150.html</url>
-    <price>699</price>
-    <price_old>832</price_old>
+    <price>617</price>
+    <price_old>735</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460260_bitumnaya-lenta-150.jpg</picture>
@@ -38909,8 +38909,8 @@
   </offer>
   <offer id="1399834035" available="true">
     <url>https://proekt24.com/p1399834035-bitumnaya-lenta-100.html</url>
-    <price>490</price>
-    <price_old>584</price_old>
+    <price>433</price>
+    <price_old>515</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460272_bitumnaya-lenta-100.jpg</picture>
@@ -38940,8 +38940,8 @@
   </offer>
   <offer id="1399834036" available="true">
     <url>https://proekt24.com/p1399834036-bitumnaya-lenta-150.html</url>
-    <price>699</price>
-    <price_old>832</price_old>
+    <price>617</price>
+    <price_old>735</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460284_bitumnaya-lenta-150.jpg</picture>
@@ -38971,8 +38971,8 @@
   </offer>
   <offer id="1399834037" available="true">
     <url>https://proekt24.com/p1399834037-bitumnaya-lenta-250.html</url>
-    <price>1080</price>
-    <price_old>1286</price_old>
+    <price>953</price>
+    <price_old>1135</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460297_bitumnaya-lenta-250.jpg</picture>
@@ -39002,8 +39002,8 @@
   </offer>
   <offer id="1399834038" available="true">
     <url>https://proekt24.com/p1399834038-bitumnaya-lenta-alured.html</url>
-    <price>316</price>
-    <price_old>376</price_old>
+    <price>278</price>
+    <price_old>331</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460307_bitumnaya-lenta-50.jpg</picture>
@@ -39033,8 +39033,8 @@
   </offer>
   <offer id="1399834039" available="true">
     <url>https://proekt24.com/p1399834039-bitumnaya-lenta-alured.html</url>
-    <price>403</price>
-    <price_old>480</price_old>
+    <price>355</price>
+    <price_old>422</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460316_bitumnaya-lenta-75.jpg</picture>
@@ -39064,8 +39064,8 @@
   </offer>
   <offer id="1399834040" available="true">
     <url>https://proekt24.com/p1399834040-bitumnaya-lenta-100.html</url>
-    <price>490</price>
-    <price_old>584</price_old>
+    <price>433</price>
+    <price_old>515</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461774_bitumnaya-lenta-100.jpg</picture>
@@ -39095,8 +39095,8 @@
   </offer>
   <offer id="1399834041" available="true">
     <url>https://proekt24.com/p1399834041-bitumnaya-lenta-150.html</url>
-    <price>699</price>
-    <price_old>832</price_old>
+    <price>617</price>
+    <price_old>735</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461790_bitumnaya-lenta-150.jpg</picture>
@@ -39126,8 +39126,8 @@
   </offer>
   <offer id="1399834042" available="true">
     <url>https://proekt24.com/p1399834042-bitumnaya-lenta-250.html</url>
-    <price>1080</price>
-    <price_old>1286</price_old>
+    <price>953</price>
+    <price_old>1135</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461806_bitumnaya-lenta-250.jpg</picture>
@@ -39157,8 +39157,8 @@
   </offer>
   <offer id="1399834043" available="true">
     <url>https://proekt24.com/p1399834043-bitumnaya-lenta-alublue.html</url>
-    <price>316</price>
-    <price_old>376</price_old>
+    <price>278</price>
+    <price_old>331</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461813_bitumnaya-lenta-50.jpg</picture>
@@ -39188,8 +39188,8 @@
   </offer>
   <offer id="1399834044" available="true">
     <url>https://proekt24.com/p1399834044-bitumnaya-lenta-alublue.html</url>
-    <price>403</price>
-    <price_old>480</price_old>
+    <price>355</price>
+    <price_old>422</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461820_bitumnaya-lenta-75.jpg</picture>
@@ -39280,8 +39280,8 @@
   </offer>
   <offer id="1399834047" available="true">
     <url>https://proekt24.com/p1399834047-bitumnaya-lenta-150.html</url>
-    <price>339</price>
-    <price_old>404</price_old>
+    <price>299</price>
+    <price_old>356</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461843_bitumnaya-lenta-150.jpg</picture>
@@ -39312,8 +39312,8 @@
   </offer>
   <offer id="1399834048" available="true">
     <url>https://proekt24.com/p1399834048-bitumnaya-lenta-150.html</url>
-    <price>339</price>
-    <price_old>404</price_old>
+    <price>299</price>
+    <price_old>356</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461851_bitumnaya-lenta-150.jpg</picture>
@@ -39343,8 +39343,8 @@
   </offer>
   <offer id="1399834049" available="true">
     <url>https://proekt24.com/p1399834049-bitumnaya-lenta-100.html</url>
-    <price>243</price>
-    <price_old>289</price_old>
+    <price>214</price>
+    <price_old>255</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461858_bitumnaya-lenta-100.jpg</picture>
@@ -39375,8 +39375,8 @@
   </offer>
   <offer id="1399834050" available="true">
     <url>https://proekt24.com/p1399834050-bitumnaya-lenta-100.html</url>
-    <price>243</price>
-    <price_old>289</price_old>
+    <price>214</price>
+    <price_old>255</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461876_bitumnaya-lenta-100.jpg</picture>
@@ -39407,8 +39407,8 @@
   </offer>
   <offer id="1399834051" available="true">
     <url>https://proekt24.com/p1399834051-bitumnaya-lenta-100.html</url>
-    <price>243</price>
-    <price_old>289</price_old>
+    <price>214</price>
+    <price_old>255</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461890_bitumnaya-lenta-100.jpg</picture>
@@ -39501,8 +39501,8 @@
   </offer>
   <offer id="1399834054" available="false">
     <url>https://proekt24.com/p1399834054-bitumnaya-lenta-150.html</url>
-    <price>339</price>
-    <price_old>404</price_old>
+    <price>299</price>
+    <price_old>356</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461931_bitumnaya-lenta-150.jpg</picture>
@@ -39532,8 +39532,8 @@
   </offer>
   <offer id="1399834055" available="true">
     <url>https://proekt24.com/p1399834055-bitumnaya-lenta-100.html</url>
-    <price>243</price>
-    <price_old>289</price_old>
+    <price>214</price>
+    <price_old>255</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463115_bitumnaya-lenta-100.jpg</picture>
@@ -39563,8 +39563,8 @@
   </offer>
   <offer id="1399834056" available="true">
     <url>https://proekt24.com/p1399834056-bitumnaya-lenta-100.html</url>
-    <price>243</price>
-    <price_old>289</price_old>
+    <price>214</price>
+    <price_old>255</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463123_bitumnaya-lenta-100.jpg</picture>
@@ -39593,8 +39593,8 @@
   </offer>
   <offer id="1399834057" available="false">
     <url>https://proekt24.com/p1399834057-bitumnaya-lenta-100.html</url>
-    <price>243</price>
-    <price_old>289</price_old>
+    <price>214</price>
+    <price_old>255</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463129_bitumnaya-lenta-100.jpg</picture>
@@ -39641,7 +39641,7 @@
     <vendorCode>62796</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>66</quantity_in_stock>
+    <quantity_in_stock>65</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -39653,8 +39653,8 @@
   </offer>
   <offer id="1399834059" available="true">
     <url>https://proekt24.com/p1399834059-bitumnaya-lenta-250.html</url>
-    <price>582</price>
-    <price_old>692</price_old>
+    <price>513</price>
+    <price_old>611</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463142_bitumnaya-lenta-250.jpg</picture>
@@ -39713,8 +39713,8 @@
   </offer>
   <offer id="1399834061" available="true">
     <url>https://proekt24.com/p1399834061-bitumnaya-lenta-300.html</url>
-    <price>1217</price>
-    <price_old>1449</price_old>
+    <price>1074</price>
+    <price_old>1279</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463160_bitumnaya-lenta-300.jpg</picture>
@@ -39744,8 +39744,8 @@
   </offer>
   <offer id="1399834062" available="true">
     <url>https://proekt24.com/p1399834062-bitumnaya-lenta-300.html</url>
-    <price>1217</price>
-    <price_old>1449</price_old>
+    <price>1074</price>
+    <price_old>1279</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463167_bitumnaya-lenta-300.jpg</picture>
@@ -39775,8 +39775,8 @@
   </offer>
   <offer id="1399834063" available="true">
     <url>https://proekt24.com/p1399834063-bitumnaya-lenta-300.html</url>
-    <price>1217</price>
-    <price_old>1449</price_old>
+    <price>1074</price>
+    <price_old>1279</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463174_bitumnaya-lenta-300.jpg</picture>
@@ -39854,7 +39854,7 @@
     <vendorCode>62765</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>51</quantity_in_stock>
+    <quantity_in_stock>49</quantity_in_stock>
     <param name="Длина" unit="м">3</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -39866,8 +39866,8 @@
   </offer>
   <offer id="1399834067" available="true">
     <url>https://proekt24.com/p1399834067-bitumnaya-lenta-300.html</url>
-    <price>1217</price>
-    <price_old>1449</price_old>
+    <price>1074</price>
+    <price_old>1279</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463202_bitumnaya-lenta-300.jpg</picture>
@@ -39897,8 +39897,8 @@
   </offer>
   <offer id="1399834068" available="true">
     <url>https://proekt24.com/p1399834068-bitumnaya-lenta-300.html</url>
-    <price>1217</price>
-    <price_old>1449</price_old>
+    <price>1074</price>
+    <price_old>1279</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463210_bitumnaya-lenta-300.jpg</picture>
@@ -39928,8 +39928,8 @@
   </offer>
   <offer id="1399834069" available="true">
     <url>https://proekt24.com/p1399834069-bitumnaya-lenta-300.html</url>
-    <price>1217</price>
-    <price_old>1449</price_old>
+    <price>1074</price>
+    <price_old>1279</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463217_bitumnaya-lenta-300.jpg</picture>
@@ -40031,7 +40031,7 @@
     <vendorCode>1006-01К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Вес" unit="кг">13</param>
     <param name="Высота" unit="см">95</param>
     <param name="Диаметр" unit="см">26</param>
@@ -40679,7 +40679,7 @@
     <vendorCode>64023</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>171</quantity_in_stock>
+    <quantity_in_stock>170</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентная</param>
     <param name="Консистенция">Полужидкая</param>
     <param name="Назначение материала">Для полов|Для стен|Для фасадов|Для подвалов|Для резервуаров|Для кровли|Для цоколей</param>
@@ -40765,7 +40765,7 @@
     <vendorCode>64020</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>56</quantity_in_stock>
+    <quantity_in_stock>46</quantity_in_stock>
     <param name="Тип использования">Универсальный</param>
     <param name="Назначение материала">Для кровли|Для полов|Для подвалов|Для фасадов|Для цоколей|Для резервуаров|Для стен</param>
     <param name="Тип поверхности">Пластик|Металл|Древесина|Керамика|Бетон|Камень</param>
@@ -40970,8 +40970,8 @@
   </offer>
   <offer id="1424367927" available="true">
     <url>https://proekt24.com/p1424367927-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>442</price>
-    <price_old>526</price_old>
+    <price>405</price>
+    <price_old>482</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-16.jpg</picture>
@@ -40990,7 +40990,7 @@
     <vendorCode>500162</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>750</quantity_in_stock>
+    <quantity_in_stock>738</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м³">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -41096,8 +41096,8 @@
   </offer>
   <offer id="1425960022" available="true">
     <url>https://proekt24.com/p1425960022-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>361</price>
-    <price_old>430</price_old>
+    <price>330</price>
+    <price_old>392</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-10.jpg</picture>
@@ -41240,7 +41240,7 @@
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
-  <offer id="1430565436" available="false">
+  <offer id="1430565436" available="true">
     <url>https://proekt24.com/p1430565436-zhilet-utyazhelitelnyj-easyfit.html</url>
     <price>808</price>
     <price_old>962</price_old>
@@ -41256,7 +41256,7 @@
     <vendorCode>EF-WTVS-016</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вес" unit="кг">16</param>
     <param name="Тип">Жилет</param>
     <param name="Цвет">Черный</param>
@@ -41954,7 +41954,7 @@
     <vendorCode>08/9О</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>547</quantity_in_stock>
+    <quantity_in_stock>535</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -41989,7 +41989,7 @@
     <vendorCode>15/9О</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>143</quantity_in_stock>
+    <quantity_in_stock>131</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -43298,8 +43298,8 @@
   </offer>
   <offer id="1440931595" available="false">
     <url>https://proekt24.com/p1440931595-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>308</price>
-    <price_old>366</price_old>
+    <price>313</price>
+    <price_old>372</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98707380</categoryId>
     <picture>https://images.prom.ua/3204348866_vspenennyj-kauchuk-samokleyuschijsya.jpg</picture>
@@ -43376,8 +43376,8 @@
   </offer>
   <offer id="1441392283" available="false">
     <url>https://proekt24.com/p1441392283-vspenennyj-kauchuk-laminirovannyj.html</url>
-    <price>239</price>
-    <price_old>285</price_old>
+    <price>249</price>
+    <price_old>296</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98707380</categoryId>
     <picture>https://images.prom.ua/3205861503_vspenennyj-kauchuk-laminirovannyj.jpg</picture>
@@ -43429,22 +43429,22 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Область применения">Для потолков|Для каркасных конструкций|Для стен|Для инженерного оборудования|Для пола</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Назначение материала">Снижение ударного шума|Виброизоляция|Звукоизоляция|Улучшение акустики помещений</param>
-    <param name="Эластичность материала">Да</param>
+    <param name="Материал изоляции">Вспененный каучук</param>
+    <param name="Класс материала по теплопроводности">Низкая</param>
+    <param name="Экологическая безопасность материала">Безопасен</param>
     <param name="Длина рулона, п.м." unit="">20</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
     <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
     <param name="Необходимость нагрева" unit="">Нет</param>
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
+    <param name="Назначение материала" unit="">Виброизоляция|Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
+    <param name="Эластичность материала" unit="">Да</param>
+    <param name="Область применения" unit="">Для пола|Для инженерного оборудования|Для стен|Для потолков|Для каркасных конструкций</param>
     <param name="Толщина" unit="">9.0</param>
+    <param name="Степень жесткости" unit="">Мягкий</param>
   </offer>
   <offer id="1441520226" available="true">
     <url>https://proekt24.com/p1441520226-vspenennyj-polietilen-laminirovannyj.html</url>
@@ -44164,7 +44164,7 @@
     <vendorCode>1002-05</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>47</quantity_in_stock>
+    <quantity_in_stock>46</quantity_in_stock>
     <param name="Вес" unit="кг">40</param>
     <param name="Высота" unit="см">170</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -45242,7 +45242,7 @@
     <vendorCode>EF-AWTМ-500</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Количество утяжелителей">2</param>
     <param name="Особенности">Подходит для ног и рук|Неопреновое покрытие</param>
     <param name="Состояние">Новое</param>
@@ -45420,8 +45420,8 @@
   </offer>
   <offer id="1509948295" available="false">
     <url>https://proekt24.com/p1509948295-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>372</price>
-    <price_old>442</price_old>
+    <price>368</price>
+    <price_old>438</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98707380</categoryId>
     <picture>https://images.prom.ua/3204348866_vspenennyj-kauchuk-samokleyuschijsya.jpg</picture>
@@ -50397,7 +50397,7 @@
     <vendorCode>1008-01СН</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Возрастная группа">Детская</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Цвет">Синий</param>
@@ -50975,7 +50975,7 @@
     <vendorCode>05021-03С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">M</param>
@@ -52109,7 +52109,7 @@
     <param name="Толщина (мм)" unit="">75</param>
     <param name="Ширина, мм" unit="">155</param>
   </offer>
-  <offer id="1575330294" available="true">
+  <offer id="1575330294" available="false">
     <url>https://proekt24.com/p1575330294-blok-dlya-jogi.html</url>
     <price>145</price>
     <price_old>172</price_old>
@@ -52129,7 +52129,7 @@
     <vendorCode>EF-1818-4</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Материал">EVA пена</param>
     <param name="Состояние">Новое</param>
     <param name="Тип">Йога блок</param>
@@ -53251,7 +53251,7 @@
     <vendorCode>163107</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>36</quantity_in_stock>
+    <quantity_in_stock>35</quantity_in_stock>
     <param name="Вес" unit="г">1100</param>
     <param name="Диаметр" unit="см">28</param>
     <param name="Максимальная нагрузка" unit="кг">160</param>
@@ -53815,7 +53815,7 @@
     <vendorCode>900081</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>306</quantity_in_stock>
+    <quantity_in_stock>256</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -54217,7 +54217,7 @@
     <vendorCode>900105</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>159</quantity_in_stock>
+    <quantity_in_stock>109</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -54292,7 +54292,7 @@
     <vendorCode>902022</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>379</quantity_in_stock>
+    <quantity_in_stock>319</quantity_in_stock>
     <param name="Тип покрытия" unit="">С одной стороны и самоклеещееся с другой</param>
     <param name="Группа материала по горючести" unit="">Г1 (слабогорючий)</param>
     <param name="Вид основного сырья" unit="">Неорганическое</param>
@@ -55186,7 +55186,7 @@
     <vendorCode>654337</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Длина" unit="см">36</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -55238,7 +55238,7 @@
     <vendorCode>83920</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>375</quantity_in_stock>
+    <quantity_in_stock>354</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -56175,8 +56175,8 @@
   </offer>
   <offer id="1650711999" available="true">
     <url>https://proekt24.com/p1650711999-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>1490</price>
-    <price_old>1774</price_old>
+    <price>1365</price>
+    <price_old>1625</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-50.jpg</picture>
@@ -56209,8 +56209,8 @@
   </offer>
   <offer id="1650778599" available="true">
     <url>https://proekt24.com/p1650778599-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>269</price>
-    <price_old>320</price_old>
+    <price>254</price>
+    <price_old>302</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-6.jpg</picture>
@@ -56242,8 +56242,8 @@
   </offer>
   <offer id="1650779185" available="true">
     <url>https://proekt24.com/p1650779185-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>333</price>
-    <price_old>396</price_old>
+    <price>306</price>
+    <price_old>364</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-9.jpg</picture>
@@ -56321,8 +56321,8 @@
   </offer>
   <offer id="1650780136" available="false">
     <url>https://proekt24.com/p1650780136-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>430</price>
-    <price_old>512</price_old>
+    <price>392</price>
+    <price_old>466</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-13.jpg</picture>
@@ -56396,8 +56396,8 @@
   </offer>
   <offer id="1650782089" available="false">
     <url>https://proekt24.com/p1650782089-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>589</price>
-    <price_old>701</price_old>
+    <price>536</price>
+    <price_old>638</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-19.jpg</picture>
@@ -56464,8 +56464,8 @@
   </offer>
   <offer id="1650784354" available="false">
     <url>https://proekt24.com/p1650784354-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>298</price>
-    <price_old>355</price_old>
+    <price>245</price>
+    <price_old>291</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-6.jpg</picture>
@@ -56500,8 +56500,8 @@
   </offer>
   <offer id="1650784477" available="false">
     <url>https://proekt24.com/p1650784477-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>361</price>
-    <price_old>430</price_old>
+    <price>295</price>
+    <price_old>351</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-9.jpg</picture>
@@ -56568,8 +56568,8 @@
   </offer>
   <offer id="1650786922" available="false">
     <url>https://proekt24.com/p1650786922-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>460</price>
-    <price_old>548</price_old>
+    <price>382</price>
+    <price_old>455</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-13.jpg</picture>
@@ -56672,8 +56672,8 @@
   </offer>
   <offer id="1650787181" available="true">
     <url>https://proekt24.com/p1650787181-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>318</price>
-    <price_old>379</price_old>
+    <price>303</price>
+    <price_old>361</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-6.jpg</picture>
@@ -56704,8 +56704,8 @@
   </offer>
   <offer id="1650787640" available="false">
     <url>https://proekt24.com/p1650787640-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>381</price>
-    <price_old>454</price_old>
+    <price>354</price>
+    <price_old>421</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-9.jpg</picture>
@@ -56770,8 +56770,8 @@
   </offer>
   <offer id="1650789879" available="false">
     <url>https://proekt24.com/p1650789879-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>479</price>
-    <price_old>570</price_old>
+    <price>441</price>
+    <price_old>525</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-13.jpg</picture>
@@ -56803,8 +56803,8 @@
   </offer>
   <offer id="1650790566" available="false">
     <url>https://proekt24.com/p1650790566-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>637</price>
-    <price_old>759</price_old>
+    <price>585</price>
+    <price_old>696</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-19.jpg</picture>
@@ -56904,8 +56904,8 @@
   </offer>
   <offer id="1650796458" available="false">
     <url>https://proekt24.com/p1650796458-vspenennyj-kauchuk-laminirovannyj.html</url>
-    <price>401</price>
-    <price_old>478</price_old>
+    <price>398</price>
+    <price_old>474</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98707380</categoryId>
     <picture>https://images.prom.ua/3205861503_vspenennyj-kauchuk-laminirovannyj.jpg</picture>
@@ -56939,8 +56939,8 @@
   </offer>
   <offer id="1650798091" available="false">
     <url>https://proekt24.com/p1650798091-vspenennyj-kauchuk-laminirovannyj.html</url>
-    <price>560</price>
-    <price_old>666</price_old>
+    <price>553</price>
+    <price_old>659</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98707380</categoryId>
     <picture>https://images.prom.ua/3205861503_vspenennyj-kauchuk-laminirovannyj.jpg</picture>
@@ -56954,27 +56954,27 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Область применения">Для потолков|Для каркасных конструкций|Для стен|Для инженерного оборудования|Для пола</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Назначение материала">Снижение ударного шума|Виброизоляция|Звукоизоляция|Улучшение акустики помещений</param>
-    <param name="Эластичность материала">Да</param>
+    <param name="Материал изоляции">Вспененный каучук</param>
+    <param name="Класс материала по теплопроводности">Низкая</param>
+    <param name="Экологическая безопасность материала">Безопасен</param>
     <param name="Длина рулона, п.м." unit="">10</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
     <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
     <param name="Необходимость нагрева" unit="">Нет</param>
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
+    <param name="Назначение материала" unit="">Виброизоляция|Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
+    <param name="Эластичность материала" unit="">Да</param>
+    <param name="Область применения" unit="">Для пола|Для инженерного оборудования|Для стен|Для потолков|Для каркасных конструкций</param>
     <param name="Толщина" unit="">19.0</param>
+    <param name="Степень жесткости" unit="">Мягкий</param>
   </offer>
   <offer id="1650798407" available="false">
     <url>https://proekt24.com/p1650798407-vspenennyj-kauchuk-laminirovannyj.html</url>
-    <price>746</price>
-    <price_old>888</price_old>
+    <price>712</price>
+    <price_old>848</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98707380</categoryId>
     <picture>https://images.prom.ua/3205861503_vspenennyj-kauchuk-laminirovannyj.jpg</picture>
@@ -57046,8 +57046,8 @@
   </offer>
   <offer id="1650802267" available="true">
     <url>https://proekt24.com/p1650802267-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>469</price>
-    <price_old>559</price_old>
+    <price>462</price>
+    <price_old>550</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98707380</categoryId>
     <picture>https://images.prom.ua/3204348866_vspenennyj-kauchuk-samokleyuschijsya.jpg</picture>
@@ -62628,8 +62628,8 @@
   </offer>
   <offer id="1658015793" available="true">
     <url>https://proekt24.com/p1658015793-bitumnaya-lenta-200.html</url>
-    <price>855</price>
-    <price_old>1018</price_old>
+    <price>755</price>
+    <price_old>899</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920923258_bitumnaya-lenta-200.jpg</picture>
@@ -62658,8 +62658,8 @@
   </offer>
   <offer id="1658021744" available="true">
     <url>https://proekt24.com/p1658021744-bitumnaya-lenta-200.html</url>
-    <price>855</price>
-    <price_old>1018</price_old>
+    <price>755</price>
+    <price_old>899</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920923178_bitumnaya-lenta-200.jpg</picture>
@@ -62688,8 +62688,8 @@
   </offer>
   <offer id="1658027246" available="true">
     <url>https://proekt24.com/p1658027246-bitumnaya-lenta-150.html</url>
-    <price>339</price>
-    <price_old>404</price_old>
+    <price>299</price>
+    <price_old>356</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920923013_bitumnaya-lenta-150.jpg</picture>
@@ -62705,7 +62705,7 @@
     <vendorCode>62254</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Длина" unit="м">3</param>
     <param name="Цвет">Зелёный</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
@@ -62718,8 +62718,8 @@
   </offer>
   <offer id="1658027571" available="true">
     <url>https://proekt24.com/p1658027571-bitumnaya-lenta-200.html</url>
-    <price>855</price>
-    <price_old>1018</price_old>
+    <price>755</price>
+    <price_old>899</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920922940_bitumnaya-lenta-200.jpg</picture>
@@ -62748,8 +62748,8 @@
   </offer>
   <offer id="1658030807" available="true">
     <url>https://proekt24.com/p1658030807-bitumnaya-lenta-200.html</url>
-    <price>855</price>
-    <price_old>1018</price_old>
+    <price>755</price>
+    <price_old>899</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920922849_bitumnaya-lenta-200.jpg</picture>
@@ -62778,8 +62778,8 @@
   </offer>
   <offer id="1658033913" available="true">
     <url>https://proekt24.com/p1658033913-bitumnaya-lenta-200.html</url>
-    <price>855</price>
-    <price_old>1018</price_old>
+    <price>755</price>
+    <price_old>899</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920922774_bitumnaya-lenta-200.jpg</picture>
@@ -62808,8 +62808,8 @@
   </offer>
   <offer id="1658037098" available="true">
     <url>https://proekt24.com/p1658037098-bitumnaya-lenta-200.html</url>
-    <price>855</price>
-    <price_old>1018</price_old>
+    <price>755</price>
+    <price_old>899</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920922564_bitumnaya-lenta-200.jpg</picture>
@@ -67223,8 +67223,8 @@
   </offer>
   <offer id="1666909670" available="true">
     <url>https://proekt24.com/p1666909670-germetiziruyuschaya-lenta-aqua.html</url>
-    <price>397</price>
-    <price_old>472</price_old>
+    <price>351</price>
+    <price_old>418</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8390912</categoryId>
     <picture>https://images.prom.ua/3946239921_germetiziruyuschaya-lenta-aqua.jpg</picture>
@@ -67688,7 +67688,7 @@
     <vendorCode>180060010СЕ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>345</quantity_in_stock>
+    <quantity_in_stock>344</quantity_in_stock>
     <param name="Тип коврика">Каремат</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Количество слоев">Однослойные</param>
@@ -67713,7 +67713,7 @@
     <vendorCode>180060015СТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>284</quantity_in_stock>
+    <quantity_in_stock>282</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -68462,7 +68462,7 @@
     <vendorCode>EF-1344</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Длина" unit="м">2.8</param>
     <param name="Цвет">Черный</param>
     <param name="Материал ручек">Пластик</param>
@@ -69690,7 +69690,7 @@
     <vendorCode>180060010СЕТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -69932,7 +69932,7 @@
     <vendorCode>Н11006005ФТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Цвет">Фиолетовый</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Тип">Коврик/мат</param>
@@ -69983,7 +69983,7 @@
     <vendorCode>Н15006005РТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <param name="Длина" unit="см">150</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Особенности">Стяжки в комплекте</param>
@@ -70199,7 +70199,7 @@
     <vendorCode>81113</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>99</quantity_in_stock>
+    <quantity_in_stock>95</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Крыша|Двери|Крышка багажника|Дверные панели|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">12</param>
@@ -70267,7 +70267,7 @@
     <vendorCode>30115</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>135</quantity_in_stock>
+    <quantity_in_stock>127</quantity_in_stock>
     <param name="Вес" unit="кг">0.38</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -70354,7 +70354,7 @@
     <vendorCode>6895162</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>81</quantity_in_stock>
+    <quantity_in_stock>80</quantity_in_stock>
     <param name="Тип напольного покрытия">Теплый пол</param>
     <param name="Фольгированная подложка">Да</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -70364,8 +70364,8 @@
   </offer>
   <offer id="1726679720" available="true">
     <url>https://proekt24.com/p1726679720-bitumnaya-lenta-alubrown.html</url>
-    <price>145</price>
-    <price_old>172</price_old>
+    <price>128</price>
+    <price_old>152</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/4135540659_bitumnaya-lenta-50.jpg</picture>
@@ -70394,8 +70394,8 @@
   </offer>
   <offer id="1726679721" available="true">
     <url>https://proekt24.com/p1726679721-bitumnaya-lenta-alubrown.html</url>
-    <price>207</price>
-    <price_old>246</price_old>
+    <price>182</price>
+    <price_old>216</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/4135540659_bitumnaya-lenta-75.jpg</picture>
@@ -70658,7 +70658,7 @@
     <vendorCode>889019</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Совместимость с маркой">Kia|Daewoo|Chrysler|BMW|Ford|Nissan|Honda|Mazda|Renault|Volkswagen|Dodge|Hyundai|Mitsubishi|Peugeot|Citroen|Volvo|Toyota|Fiat|Audi</param>
     <param name="Совместимость с моделью">Q7|Sebring|Renault Megane|Lupo|Avensis|Camry|Chrysler|Santa Fe|RAV4|Mondeo|C5|A4|Nissan Maxima|Caliber|Focus|Scorpio|Tucson|Jazz|Q5|C4|Passat|Yaris|6|Fiesta|206|Matiz|Lancer|XC90|Fusion|Dodge|Ceed|A6|Getz|Colt|Almera|C2|Accord|Sonata|Primera|Tiguan|Civic</param>
     <param name="Длина рулона, п.м." unit="">20</param>
@@ -70967,8 +70967,8 @@
   </offer>
   <offer id="1751547462" available="true">
     <url>https://proekt24.com/p1751547462-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>313</price>
-    <price_old>372</price_old>
+    <price>286</price>
+    <price_old>340</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-8.jpg</picture>
@@ -70987,7 +70987,7 @@
     <vendorCode>500082</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1329</quantity_in_stock>
+    <quantity_in_stock>1324</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м³">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -71636,8 +71636,8 @@
   </offer>
   <offer id="1762578218" available="false">
     <url>https://proekt24.com/p1762578218-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>417</price>
-    <price_old>496</price_old>
+    <price>395</price>
+    <price_old>470</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6969781141_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -71672,11 +71672,10 @@
   </offer>
   <offer id="1762582867" available="false">
     <url>https://proekt24.com/p1762582867-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>502</price>
-    <price_old>598</price_old>
+    <price>90</price>
+    <price_old>108</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
-    <picture>https://images.prom.ua/6969781160_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2824211151_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/6969781161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
     <picture>https://images.prom.ua/2998888255_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -71693,23 +71692,24 @@
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Цвет">Черный</param>
     <param name="Форма поставки материала">Рулон</param>
+    <param name="Длина" unit="мм">15000</param>
     <param name="Ширина" unit="мм">20</param>
-    <param name="Длина" unit="">15</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Толщина" unit="мм">3</param>
+    <param name="Цвет">Черный</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Максимальная рабочая температура" unit="">180</param>
     <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Плотность" unit="">55</param>
     <param name="Теплопроводность" unit="">0.032</param>
-    <param name="Толщина изоляции" unit="">3</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
     <param name="Экологическая безопасность материала" unit="">Безопасен</param>
+    <param name="Клеевая часть" unit="">Односторонняя</param>
   </offer>
   <offer id="1762583707" available="false">
     <url>https://proekt24.com/p1762583707-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>635</price>
-    <price_old>756</price_old>
+    <price>144</price>
+    <price_old>171</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6969781167_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -71847,7 +71847,7 @@
     <param name="Самоклеющаяся поверхность">Нет</param>
     <param name="Толщина" unit="">25</param>
   </offer>
-  <offer id="1766062305" available="true">
+  <offer id="1766062305" available="false">
     <url>https://proekt24.com/p1766062305-karemat-armejskij-takticheskij.html</url>
     <price>976</price>
     <price_old>1162</price_old>
@@ -71863,7 +71863,7 @@
     <vendorCode>598461</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Тип коврика">Каремат</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Количество слоев">Однослойные</param>
@@ -72021,7 +72021,7 @@
     <vendorCode>EF-2017-СА</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Материал">EVA пена</param>
     <param name="Состояние">Новое</param>
     <param name="Тип">Ролик для йоги</param>
@@ -72635,8 +72635,8 @@
   </offer>
   <offer id="1793912181" available="true">
     <url>https://proekt24.com/p1793912181-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>792</price>
-    <price_old>942</price_old>
+    <price>674</price>
+    <price_old>802</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -72672,8 +72672,8 @@
   </offer>
   <offer id="1793961657" available="false">
     <url>https://proekt24.com/p1793961657-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>458</price>
-    <price_old>545</price_old>
+    <price>385</price>
+    <price_old>459</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -73187,7 +73187,7 @@
     <param name="Толщина (мм)" unit="">2</param>
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
   </offer>
-  <offer id="1799575805" available="true">
+  <offer id="1799575805" available="false">
     <url>https://proekt24.com/p1799575805-vibroizolyatsiya-acoustics-xtreme.html</url>
     <price>321</price>
     <price_old>382</price_old>
@@ -73207,7 +73207,7 @@
     <vendorCode>41015</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вес" unit="кг">1.015</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -73422,7 +73422,7 @@
     <vendorCode>56390</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>405</quantity_in_stock>
+    <quantity_in_stock>399</quantity_in_stock>
     <param name="Вес" unit="кг">0.78</param>
     <param name="Длина листа" unit="см">50</param>
     <param name="Применение материала">Крыша|Пол багажника|Пол автомобиля|Капот|Двери|Дверные панели|Крышка багажника|Стенки багажника|Потолок автомобиля|Колесные арки</param>
@@ -73453,7 +73453,7 @@
     <vendorCode>56392</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>159</quantity_in_stock>
+    <quantity_in_stock>152</quantity_in_stock>
     <param name="Вес" unit="кг">1.67</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Крыша|Пол багажника|Пол автомобиля|Капот|Двери|Дверные панели|Крышка багажника|Стенки багажника|Потолок автомобиля|Колесные арки</param>
@@ -73551,7 +73551,7 @@
     <vendorCode>56395</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>443</quantity_in_stock>
+    <quantity_in_stock>437</quantity_in_stock>
     <param name="Вес" unit="кг">0.95</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Крыша|Пол багажника|Пол автомобиля|Капот|Двери|Дверные панели|Крышка багажника|Стенки багажника|Потолок автомобиля|Колесные арки</param>
@@ -75768,7 +75768,7 @@
     <vendorCode>18006008СЕ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>102</quantity_in_stock>
+    <quantity_in_stock>91</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -76139,7 +76139,7 @@
     <vendorCode>888920</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>125</quantity_in_stock>
+    <quantity_in_stock>124</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Материал чехла">Искусственная кожа</param>
     <param name="Состояние">Новое</param>
@@ -76202,7 +76202,7 @@
     <vendorCode>888921</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>51</quantity_in_stock>
+    <quantity_in_stock>50</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Материал чехла">Искусственная кожа</param>
     <param name="Состояние">Новое</param>
@@ -76223,7 +76223,7 @@
     <vendorCode>888922</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>55</quantity_in_stock>
+    <quantity_in_stock>54</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Материал чехла">Искусственная кожа</param>
     <param name="Состояние">Новое</param>
@@ -76642,7 +76642,7 @@
     <vendorCode>889021</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>84</quantity_in_stock>
+    <quantity_in_stock>81</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">4</param>
@@ -78845,7 +78845,7 @@
     <vendorCode>57091</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>73</quantity_in_stock>
+    <quantity_in_stock>72</quantity_in_stock>
     <param name="Назначение материала">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Область применения">Для инженерного оборудования</param>
     <param name="Форма поставки материала">Лист</param>
@@ -79267,7 +79267,7 @@
     <vendorCode>45620КС</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Длина" unit="см">100</param>
     <param name="Состояние">Новое</param>
     <param name="Толщина" unit="см">2</param>
@@ -79759,7 +79759,7 @@
     <name>Поролон для спортивних матов 2000х1000х100 мм</name>
     <vendorCode>888999</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>150</quantity_in_stock>
+    <quantity_in_stock>148</quantity_in_stock>
     <param name="Толщина" unit="мм">100</param>
     <param name="Плотность, кг\м3" unit="кг\м3">50</param>
   </offer>
@@ -84674,7 +84674,7 @@
     <vendorCode>889207</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">S</param>
@@ -86270,7 +86270,7 @@
     <vendorCode>1003-02Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вес" unit="кг">27</param>
     <param name="Высота" unit="см">120</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -88650,7 +88650,7 @@
     <vendorCode>889329</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">S</param>
@@ -89185,7 +89185,7 @@
     <param name="Тип">Закрытый</param>
     <param name="Цвет">Черный</param>
   </offer>
-  <offer id="2016769043" available="true">
+  <offer id="2016769043" available="false">
     <url>https://proekt24.com/p2016769043-lapy-bokserskie-everlast.html</url>
     <price>1260</price>
     <price_old>1500</price_old>
@@ -89199,7 +89199,7 @@
     <vendorCode>889348</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Материал">Искусственная кожа</param>
     <param name="Форма">Гнутая</param>
     <param name="Цвет">Черный</param>
@@ -89598,7 +89598,7 @@
     <vendor>Изолон</vendor>
     <vendorCode>889374</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>97</quantity_in_stock>
+    <quantity_in_stock>87</quantity_in_stock>
     <param name="Цвет" unit="">Персиковый</param>
     <param name="Диаметр" unit="">5.0</param>
     <param name="Длина" unit="">150.0</param>
@@ -89642,7 +89642,7 @@
     <vendor>Изолон</vendor>
     <vendorCode>889373</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Цвет">Оранжевый</param>
     <param name="Диаметр" unit="">5.0</param>
     <param name="Длина" unit="">150.0</param>
@@ -90194,7 +90194,7 @@
     <vendorCode>889386</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>474</quantity_in_stock>
+    <quantity_in_stock>477</quantity_in_stock>
     <param name="Длина" unit="м">20</param>
     <param name="Максимальная рабочая температура" unit="град.">200</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -90508,7 +90508,7 @@
     <vendorCode>06/6ОДЕ</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>234</quantity_in_stock>
+    <quantity_in_stock>210</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -91988,7 +91988,7 @@
     <vendorCode>ВП52/6К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>72</quantity_in_stock>
+    <quantity_in_stock>64</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">52</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
@@ -93329,7 +93329,7 @@
     <param name="Тип">Закрытый</param>
     <param name="Цвет">Красный</param>
   </offer>
-  <offer id="2121220861" available="true">
+  <offer id="2121220861" available="false">
     <url>https://proekt24.com/p2121220861-shlem-trenirovochnyj-karate.html</url>
     <price>761</price>
     <price_old>906</price_old>
@@ -93347,7 +93347,7 @@
     <vendorCode>889463</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -93781,8 +93781,8 @@
   </offer>
   <offer id="2134036416" available="false">
     <url>https://proekt24.com/p2134036416-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>849</price>
-    <price_old>1011</price_old>
+    <price>176</price>
+    <price_old>210</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6969781174_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -95612,14 +95612,14 @@
     <vendorCode>03-790</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>45</quantity_in_stock>
     <param name="Материал ручки">дерево</param>
     <param name="Диаметр, мм" unit="">25</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Металл</param>
     <param name="Ширина, мм" unit="">32</param>
   </offer>
-  <offer id="2171428514" available="true">
+  <offer id="2171428514" available="false">
     <url>https://proekt24.com/p2171428514-poliuretanovyj-prikatochnyj-rolik.html</url>
     <price>173</price>
     <price_old>206</price_old>
@@ -95632,7 +95632,7 @@
     <vendorCode>03-794</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Диаметр, мм" unit="">25</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Полиуретан</param>
@@ -109844,7 +109844,7 @@
     <vendorCode>12/6ОДЕ</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>529</quantity_in_stock>
+    <quantity_in_stock>530</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -116983,7 +116983,7 @@
     <vendorCode>321309</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2097</quantity_in_stock>
+    <quantity_in_stock>1997</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет">Серый</param>
     <param name="Тип использования">Универсальный</param>
@@ -117244,7 +117244,7 @@
     <vendorCode>9001019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1294</quantity_in_stock>
+    <quantity_in_stock>1284</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -117802,7 +117802,7 @@
     <vendorCode>9002019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>263</quantity_in_stock>
+    <quantity_in_stock>259</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -117922,7 +117922,7 @@
     <vendorCode>9004019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>84</quantity_in_stock>
+    <quantity_in_stock>74</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -120280,7 +120280,7 @@
     <vendorCode>57097</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>195</quantity_in_stock>
+    <quantity_in_stock>194</quantity_in_stock>
     <param name="Вес" unit="кг">0.64</param>
     <param name="Длина листа" unit="см">50</param>
     <param name="Применение материала">Крыша|Пол багажника|Пол автомобиля|Двери|Дверные панели|Крышка багажника|Стенки багажника|Потолок автомобиля|Колесные арки</param>
@@ -120730,7 +120730,7 @@
     <vendorCode>Н11006005КТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Длина" unit="см">110</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Особенности">Стяжки в комплекте</param>
@@ -120819,8 +120819,8 @@
   </offer>
   <offer id="2407180970" available="false">
     <url>https://proekt24.com/p2407180970-bitumna-strichka-400.html</url>
-    <price>1529</price>
-    <price_old>1820</price_old>
+    <price>1348</price>
+    <price_old>1605</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>608616</categoryId>
     <pickup>true</pickup>
@@ -121119,8 +121119,8 @@
   </offer>
   <offer id="2437846732" available="true">
     <url>https://proekt24.com/p2437846732-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>3106</price>
-    <price_old>3698</price_old>
+    <price>2911</price>
+    <price_old>3465</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-13.jpg</picture>
@@ -121153,8 +121153,8 @@
   </offer>
   <offer id="2437846733" available="true">
     <url>https://proekt24.com/p2437846733-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>4411</price>
-    <price_old>5251</price_old>
+    <price>4293</price>
+    <price_old>5111</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-6.jpg</picture>
@@ -121164,7 +121164,7 @@
     <vendorCode>889569У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -121186,8 +121186,8 @@
   </offer>
   <offer id="2437846734" available="false">
     <url>https://proekt24.com/p2437846734-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>3549</price>
-    <price_old>4225</price_old>
+    <price>3326</price>
+    <price_old>3960</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-13.jpg</picture>
@@ -121220,8 +121220,8 @@
   </offer>
   <offer id="2437846735" available="false">
     <url>https://proekt24.com/p2437846735-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>3078</price>
-    <price_old>3664</price_old>
+    <price>2880</price>
+    <price_old>3429</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-9.jpg</picture>
@@ -121256,8 +121256,8 @@
   </offer>
   <offer id="2437846736" available="true">
     <url>https://proekt24.com/p2437846736-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>2950</price>
-    <price_old>3512</price_old>
+    <price>2757</price>
+    <price_old>3282</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-19.jpg</picture>
@@ -121290,8 +121290,8 @@
   </offer>
   <offer id="2437846737" available="false">
     <url>https://proekt24.com/p2437846737-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>3528</price>
-    <price_old>4200</price_old>
+    <price>3341</price>
+    <price_old>3978</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-9.jpg</picture>
@@ -121323,8 +121323,8 @@
   </offer>
   <offer id="2437846738" available="true">
     <url>https://proekt24.com/p2437846738-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>3737</price>
-    <price_old>4449</price_old>
+    <price>3599</price>
+    <price_old>4285</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-6.jpg</picture>
@@ -121334,7 +121334,7 @@
     <vendorCode>889564У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>106</quantity_in_stock>
+    <quantity_in_stock>104</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -121355,8 +121355,8 @@
   </offer>
   <offer id="2437846739" available="false">
     <url>https://proekt24.com/p2437846739-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>3189</price>
-    <price_old>3796</price_old>
+    <price>2958</price>
+    <price_old>3521</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-13.jpg</picture>
@@ -121368,27 +121368,27 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Максимальная рабочая температура" unit="град.">120</param>
-    <param name="Плотность" unit="кг/м3">55</param>
+    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для инженерного оборудования|Для потолков|Для стен|Для пола|Для каркасных конструкций</param>
+    <param name="Назначение материала">Улучшение акустики помещений|Звукоизоляция|Виброизоляция|Снижение ударного шума</param>
+    <param name="Эластичность материала">Да</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">8</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
     <param name="Срок службы" unit="">25</param>
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">13</param>
-    <param name="Цвет" unit="">Черный</param>
-    <param name="Эластичность материала" unit="">Да</param>
+    <param name="Максимальная рабочая температура" unit="">120.0</param>
   </offer>
   <offer id="2437846740" available="false">
     <url>https://proekt24.com/p2437846740-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>2791</price>
-    <price_old>3322</price_old>
+    <price>2588</price>
+    <price_old>3081</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-13.jpg</picture>
@@ -121400,27 +121400,27 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Плотность" unit="кг/м3">55</param>
+    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для инженерного оборудования|Для потолков|Для стен|Для пола|Для каркасных конструкций</param>
+    <param name="Назначение материала">Улучшение акустики помещений|Звукоизоляция|Виброизоляция|Снижение ударного шума</param>
+    <param name="Эластичность материала">Да</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">7</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
     <param name="Срок службы" unit="">25</param>
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">13</param>
-    <param name="Цвет" unit="">Черный</param>
-    <param name="Эластичность материала" unit="">Да</param>
     <param name="Максимальная рабочая температура" unit="">120.0</param>
   </offer>
   <offer id="2437846741" available="false">
     <url>https://proekt24.com/p2437846741-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>2727</price>
-    <price_old>3246</price_old>
+    <price>2526</price>
+    <price_old>3008</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-19.jpg</picture>
@@ -121432,24 +121432,24 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Длина" unit="м">5</param>
-    <param name="Максимальная рабочая температура" unit="град.">120</param>
-    <param name="Плотность" unit="кг/м3">55</param>
+    <param name="Длина" unit="мм">5</param>
+    <param name="Плотность" unit="кг/м³">55</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для инженерного оборудования|Для потолков|Для стен|Для пола|Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Назначение материала">Улучшение акустики помещений|Звукоизоляция|Виброизоляция|Снижение ударного шума</param>
+    <param name="Эластичность материала">Да</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">5</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
     <param name="Срок службы" unit="">25</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">19</param>
-    <param name="Цвет" unit="">Черный</param>
-    <param name="Эластичность материала" unit="">Да</param>
+    <param name="Максимальная рабочая температура" unit="">120.0</param>
   </offer>
   <offer id="2439127603" available="true">
     <url>https://proekt24.com/p2439127603-rezinka-dlya-fitnesa.html</url>
@@ -121625,8 +121625,8 @@
   </offer>
 <offer id="2456165200" available="false">
     <url>https://proekt24.com/p2456165200-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>2906</price>
-    <price_old>3460</price_old>
+    <price>2860</price>
+    <price_old>3405</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98707380</categoryId>
     <picture>https://images.prom.ua/3204348866_vspenennyj-kauchuk-samokleyuschijsya.jpg</picture>
@@ -121663,8 +121663,8 @@
   </offer>
   <offer id="2456165201" available="true">
     <url>https://proekt24.com/p2456165201-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>4277</price>
-    <price_old>5091</price_old>
+    <price>4343</price>
+    <price_old>5170</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98707380</categoryId>
     <picture>https://images.prom.ua/3204348866_vspenennyj-kauchuk-samokleyuschijsya.jpg</picture>
@@ -121701,8 +121701,8 @@
   </offer>
   <offer id="2456165202" available="false">
     <url>https://proekt24.com/p2456165202-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>3478</price>
-    <price_old>4140</price_old>
+    <price>3421</price>
+    <price_old>4072</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98707380</categoryId>
     <picture>https://images.prom.ua/3204348866_vspenennyj-kauchuk-samokleyuschijsya.jpg</picture>
@@ -121739,8 +121739,8 @@
   </offer>
   <offer id="2456165203" available="true">
     <url>https://proekt24.com/p2456165203-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>3043</price>
-    <price_old>3622</price_old>
+    <price>2994</price>
+    <price_old>3564</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98707380</categoryId>
     <picture>https://images.prom.ua/3204348866_vspenennyj-kauchuk-samokleyuschijsya.jpg</picture>
@@ -121777,8 +121777,8 @@
   </offer>
   <offer id="2456165204" available="true">
     <url>https://proekt24.com/p2456165204-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>3438</price>
-    <price_old>4092</price_old>
+    <price>3406</price>
+    <price_old>4055</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98707380</categoryId>
     <picture>https://images.prom.ua/3204348866_vspenennyj-kauchuk-samokleyuschijsya.jpg</picture>
@@ -121815,8 +121815,8 @@
   </offer>
   <offer id="2456262916" available="false">
     <url>https://proekt24.com/p2456262916-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>628</price>
-    <price_old>748</price_old>
+    <price>617</price>
+    <price_old>735</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>98707380</categoryId>
     <picture>https://images.prom.ua/3204348866_vspenennyj-kauchuk-samokleyuschijsya.jpg</picture>
@@ -122693,7 +122693,7 @@
     <vendorCode>EF-8501</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Цвет">Красный</param>
     <param name="Тип">Универсальный</param>
   </offer>
@@ -123622,7 +123622,7 @@
     <vendorCode>2004-N2Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>38</quantity_in_stock>
+    <quantity_in_stock>37</quantity_in_stock>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">L</param>
     <param name="Тип">Защита голени/стопы</param>
@@ -124128,7 +124128,7 @@
     <vendorCode>2028-N1К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Вид шлема">Бокс</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -124231,7 +124231,7 @@
     <vendorCode>2030-N1К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -124364,7 +124364,7 @@
     <vendorCode>2028-N1Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <param name="Вид шлема">Бокс</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -124596,7 +124596,7 @@
     <vendorCode>2030-N1Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -124823,7 +124823,7 @@
     <vendorCode>2028-N1С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Вид шлема">Бокс</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -126834,7 +126834,7 @@
     <vendorCode>889609</vendorCode>
     <country_of_origin>Голландия</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>60</quantity_in_stock>
+    <quantity_in_stock>59</quantity_in_stock>
     <param name="Вес" unit="г">505</param>
     <param name="Консистенция">Аэрозоль</param>
     <param name="Объем" unit="мл">500</param>
@@ -127070,7 +127070,7 @@
     <vendorCode>1006-01Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Вес" unit="кг">13</param>
     <param name="Высота" unit="см">95</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -127269,8 +127269,8 @@
   </offer>
   <offer id="2656466289" available="false">
     <url>https://proekt24.com/p2656466289-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>339</price>
-    <price_old>404</price_old>
+    <price>345</price>
+    <price_old>411</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -127300,8 +127300,8 @@
   </offer>
   <offer id="2656466290" available="false">
     <url>https://proekt24.com/p2656466290-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>448</price>
-    <price_old>534</price_old>
+    <price>458</price>
+    <price_old>545</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -127331,8 +127331,8 @@
   </offer>
   <offer id="2656466291" available="false">
     <url>https://proekt24.com/p2656466291-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>394</price>
-    <price_old>469</price_old>
+    <price>402</price>
+    <price_old>479</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -127362,8 +127362,8 @@
   </offer>
   <offer id="2656466292" available="false">
     <url>https://proekt24.com/p2656466292-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>230</price>
-    <price_old>274</price_old>
+    <price>234</price>
+    <price_old>279</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -127393,8 +127393,8 @@
   </offer>
   <offer id="2656466293" available="false">
     <url>https://proekt24.com/p2656466293-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>285</price>
-    <price_old>339</price_old>
+    <price>290</price>
+    <price_old>345</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -127424,8 +127424,8 @@
   </offer>
   <offer id="2656466294" available="false">
     <url>https://proekt24.com/p2656466294-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>502</price>
-    <price_old>598</price_old>
+    <price>513</price>
+    <price_old>611</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -127455,8 +127455,8 @@
   </offer>
   <offer id="2656839728" available="false">
     <url>https://proekt24.com/p2656839728-bitumna-strichka-150.html</url>
-    <price>339</price>
-    <price_old>404</price_old>
+    <price>299</price>
+    <price_old>356</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>144048496</categoryId>
     <pickup>true</pickup>
@@ -127469,8 +127469,8 @@
   </offer>
   <offer id="2656839729" available="false">
     <url>https://proekt24.com/p2656839729-bitumna-strichka-150.html</url>
-    <price>339</price>
-    <price_old>404</price_old>
+    <price>299</price>
+    <price_old>356</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>144048496</categoryId>
     <pickup>true</pickup>
@@ -127747,7 +127747,7 @@
     <vendorCode>2030-N1С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Вид шлема">Карате</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Материал верха">Искусственная кожа</param>
@@ -128052,7 +128052,7 @@
     <vendor>Boxer</vendor>
     <vendorCode>1003-07К</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вес" unit="кг">40</param>
     <param name="Высота" unit="см">180</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -129178,7 +129178,7 @@
     <vendorCode>889665</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">L</param>
@@ -129474,7 +129474,7 @@
     <vendorCode>889666</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>764</quantity_in_stock>
+    <quantity_in_stock>762</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">2</param>
@@ -129504,7 +129504,7 @@
     <vendorCode>889679</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>257</quantity_in_stock>
+    <quantity_in_stock>246</quantity_in_stock>
     <param name="Применение материала">Потолок автомобиля|Стенки багажника|Пол автомобиля|Двери|Пол багажника</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -130230,7 +130230,7 @@
     <vendorCode>889718</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Вес" unit="кг">3</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Материал">PETG</param>
@@ -130689,8 +130689,8 @@
   </offer>
   <offer id="2848206610" available="true">
     <url>https://proekt24.com/p2848206610-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>334</price>
-    <price_old>398</price_old>
+    <price>343</price>
+    <price_old>409</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -130719,8 +130719,8 @@
   </offer>
   <offer id="2848206611" available="false">
     <url>https://proekt24.com/p2848206611-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>236</price>
-    <price_old>281</price_old>
+    <price>234</price>
+    <price_old>279</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -130750,8 +130750,8 @@
   </offer>
   <offer id="2848206612" available="false">
     <url>https://proekt24.com/p2848206612-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>192</price>
-    <price_old>229</price_old>
+    <price>189</price>
+    <price_old>225</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -130781,8 +130781,8 @@
   </offer>
   <offer id="2848206613" available="true">
     <url>https://proekt24.com/p2848206613-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>399</price>
-    <price_old>475</price_old>
+    <price>411</price>
+    <price_old>489</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -130795,7 +130795,7 @@
     <vendorCode>660155</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологичный материал">Да</param>
     <param name="Эластичность материала">Да</param>
@@ -130811,8 +130811,8 @@
   </offer>
   <offer id="2848206615" available="false">
     <url>https://proekt24.com/p2848206615-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>462</price>
-    <price_old>550</price_old>
+    <price>458</price>
+    <price_old>545</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -130842,8 +130842,8 @@
   </offer>
   <offer id="2848206616" available="true">
     <url>https://proekt24.com/p2848206616-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>475</price>
-    <price_old>565</price_old>
+    <price>478</price>
+    <price_old>569</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -130872,8 +130872,8 @@
   </offer>
   <offer id="2848206617" available="false">
     <url>https://proekt24.com/p2848206617-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>281</price>
-    <price_old>335</price_old>
+    <price>278</price>
+    <price_old>331</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -130903,8 +130903,8 @@
   </offer>
   <offer id="2848206618" available="false">
     <url>https://proekt24.com/p2848206618-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>327</price>
-    <price_old>389</price_old>
+    <price>323</price>
+    <price_old>385</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -130964,8 +130964,8 @@
   </offer>
   <offer id="2848206620" available="true">
     <url>https://proekt24.com/p2848206620-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>463</price>
-    <price_old>551</price_old>
+    <price>478</price>
+    <price_old>569</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -130994,8 +130994,8 @@
   </offer>
   <offer id="2848206621" available="true">
     <url>https://proekt24.com/p2848206621-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>372</price>
-    <price_old>442</price_old>
+    <price>374</price>
+    <price_old>445</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -131024,8 +131024,8 @@
   </offer>
   <offer id="2848206622" available="false">
     <url>https://proekt24.com/p2848206622-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>372</price>
-    <price_old>442</price_old>
+    <price>369</price>
+    <price_old>439</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -131085,8 +131085,8 @@
   </offer>
   <offer id="2848206624" available="false">
     <url>https://proekt24.com/p2848206624-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>417</price>
-    <price_old>496</price_old>
+    <price>413</price>
+    <price_old>491</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -131116,8 +131116,8 @@
   </offer>
   <offer id="2848206625" available="true">
     <url>https://proekt24.com/p2848206625-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>423</price>
-    <price_old>504</price_old>
+    <price>425</price>
+    <price_old>506</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -131146,8 +131146,8 @@
   </offer>
   <offer id="2848206626" available="true">
     <url>https://proekt24.com/p2848206626-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>656</price>
-    <price_old>781</price_old>
+    <price>677</price>
+    <price_old>806</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -131176,8 +131176,8 @@
   </offer>
   <offer id="2848206627" available="true">
     <url>https://proekt24.com/p2848206627-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>269</price>
-    <price_old>320</price_old>
+    <price>270</price>
+    <price_old>321</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -131206,8 +131206,8 @@
   </offer>
   <offer id="2848206628" available="true">
     <url>https://proekt24.com/p2848206628-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>270</price>
-    <price_old>321</price_old>
+    <price>277</price>
+    <price_old>330</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -131236,8 +131236,8 @@
   </offer>
   <offer id="2848206629" available="false">
     <url>https://proekt24.com/p2848206629-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>147</price>
-    <price_old>175</price_old>
+    <price>144</price>
+    <price_old>171</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -131267,8 +131267,8 @@
   </offer>
   <offer id="2848206630" available="true">
     <url>https://proekt24.com/p2848206630-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>526</price>
-    <price_old>626</price_old>
+    <price>529</price>
+    <price_old>630</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -131297,8 +131297,8 @@
   </offer>
   <offer id="2848206631" available="false">
     <url>https://proekt24.com/p2848206631-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>175</price>
-    <price_old>209</price_old>
+    <price>177</price>
+    <price_old>211</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/2824211738_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -131365,8 +131365,8 @@
   </offer>
   <offer id="2848206633" available="true">
     <url>https://proekt24.com/p2848206633-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>320</price>
-    <price_old>381</price_old>
+    <price>321</price>
+    <price_old>382</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -131395,8 +131395,8 @@
   </offer>
   <offer id="2848206634" available="true">
     <url>https://proekt24.com/p2848206634-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>592</price>
-    <price_old>705</price_old>
+    <price>611</price>
+    <price_old>728</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -131425,8 +131425,8 @@
   </offer>
   <offer id="2848206635" available="true">
     <url>https://proekt24.com/p2848206635-kauchukovaya-zvukoizolyatsionnaya-lenta.html</url>
-    <price>527</price>
-    <price_old>628</price_old>
+    <price>544</price>
+    <price_old>648</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>2366920</categoryId>
     <picture>https://images.prom.ua/6973615161_kauchukovaya-zvukoizolyatsionnaya-lenta.jpg</picture>
@@ -131634,7 +131634,7 @@
     <vendorCode>2021-0N3Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вес" unit="oz">12</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Цвет">Черный</param>
@@ -132640,8 +132640,8 @@
   </offer>
   <offer id="2889929733" available="true">
     <url>https://proekt24.com/p2889929733-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>6010</price>
-    <price_old>7155</price_old>
+    <price>5600</price>
+    <price_old>6666</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/2857005411_vspenennyj-kauchuk-50.jpg</picture>
@@ -132673,8 +132673,8 @@
   </offer>
   <offer id="2889929734" available="true">
     <url>https://proekt24.com/p2889929734-vspenennyj-kauchuk-tsena.html</url>
-    <price>3964</price>
-    <price_old>4719</price_old>
+    <price>4796</price>
+    <price_old>5710</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020403</categoryId>
     <picture>https://images.prom.ua/2824192537_vspenennyj-kauchuk-50.jpg</picture>
@@ -132706,8 +132706,8 @@
   </offer>
   <offer id="2889929735" available="false">
     <url>https://proekt24.com/p2889929735-vspenennyj-kauchuk-samokleyuschijsya.html</url>
-    <price>5570</price>
-    <price_old>6631</price_old>
+    <price>5198</price>
+    <price_old>6188</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/2824201858_vspenennyj-kauchuk-50.jpg</picture>
@@ -132739,8 +132739,8 @@
   </offer>
   <offer id="2889987975" available="false">
     <url>https://proekt24.com/p2889987975-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>4403</price>
-    <price_old>5241</price_old>
+    <price>5198</price>
+    <price_old>6188</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-50.jpg</picture>
@@ -133229,7 +133229,7 @@
     <vendor>Полимер-Акация</vendor>
     <vendorCode>889755</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>491</quantity_in_stock>
+    <quantity_in_stock>487</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1185</param>
@@ -133902,8 +133902,8 @@
   </offer>
   <offer id="2955927019" available="true">
     <url>https://proekt24.com/p2955927019-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>3810</price>
-    <price_old>4536</price_old>
+    <price>4150</price>
+    <price_old>4940</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/7177181951_vspenennyj-kauchuk-6.jpg</picture>
@@ -133940,8 +133940,8 @@
   </offer>
   <offer id="2955927020" available="true">
     <url>https://proekt24.com/p2955927020-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>2980</price>
-    <price_old>3548</price_old>
+    <price>2521</price>
+    <price_old>3001</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-13.jpg</picture>
@@ -133974,8 +133974,8 @@
   </offer>
   <offer id="2955927021" available="true">
     <url>https://proekt24.com/p2955927021-vspenennyj-kauchuk-folgirovannyj.html</url>
-    <price>4141</price>
-    <price_old>4930</price_old>
+    <price>3456</price>
+    <price_old>4114</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-6.jpg</picture>
@@ -134098,8 +134098,8 @@
   </offer>
   <offer id="2968106772" available="false">
     <url>https://proekt24.com/p2968106772-vspenennyj-kauchuk-flex.html</url>
-    <price>4640</price>
-    <price_old>5524</price_old>
+    <price>4347</price>
+    <price_old>5175</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020471</categoryId>
     <picture>https://images.prom.ua/7176746566_vspenennyj-kauchuk-pa-flex.jpg</picture>
@@ -134139,8 +134139,8 @@
   </offer>
   <offer id="2968106773" available="false">
     <url>https://proekt24.com/p2968106773-vspenennyj-kauchuk-flex.html</url>
-    <price>3982</price>
-    <price_old>4740</price_old>
+    <price>3743</price>
+    <price_old>4456</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020403</categoryId>
     <picture>https://images.prom.ua/7176746556_vspenennyj-kauchuk-pa-flex.jpg</picture>
@@ -134181,8 +134181,8 @@
   </offer>
   <offer id="2968608935" available="false">
     <url>https://proekt24.com/p2968608935-vspenennyj-kauchuk-flex.html</url>
-    <price>5298</price>
-    <price_old>6308</price_old>
+    <price>4949</price>
+    <price_old>5891</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020620</categoryId>
     <picture>https://images.prom.ua/7176746576_vspenennyj-kauchuk-pa-flex.jpg</picture>
@@ -134219,8 +134219,8 @@
   </offer>
   <offer id="2968608936" available="false">
     <url>https://proekt24.com/p2968608936-vspenennyj-kauchuk-flex.html</url>
-    <price>4640</price>
-    <price_old>5524</price_old>
+    <price>4347</price>
+    <price_old>5175</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8020511</categoryId>
     <picture>https://images.prom.ua/2824208551_vspenennyj-kauchuk-pa-flex.jpg</picture>
@@ -134242,22 +134242,22 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Максимальная рабочая температура" unit="град.">120</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для инженерного оборудования|Для потолков|Для стен|Для пола|Для каркасных конструкций</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Назначение материала">Улучшение акустики помещений|Звукоизоляция|Виброизоляция|Снижение ударного шума</param>
+    <param name="Эластичность материала">Да</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">6</param>
-    <param name="Эластичность материала" unit="">Да</param>
-    <param name="Цвет" unit="">Черный</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
     <param name="Срок службы" unit="">25</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">32</param>
     <param name="Плотность" unit="">55</param>
+    <param name="Максимальная рабочая температура" unit="">120.0</param>
   </offer>
   <offer id="3000833234" available="true">
     <url>https://proekt24.com/p3000833234-vibroizolyatsiya-avtomobilnaya-sandwich.html</url>
@@ -134865,6 +134865,22 @@
     <param name="Количество слоев" unit="">2</param>
     <param name="Толщина пленки" unit="мкм">50</param>
     <param name="Ширина" unit="">1000</param>
+  </offer>
+  <offer id="3042130096" available="false">
+    <url>https://proekt24.com/p3042130096-zaschita-nogi-golenostopa.html</url>
+    <price>265</price>
+    <price_old>315</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>151847376</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Защита ноги с голеностопа FGT черный XS</name>
+    <vendor>FGT</vendor>
+    <vendorCode>00002660</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Материал">Хлопок</param>
+    <param name="Цвет">Черный</param>
   </offer>
 
 
