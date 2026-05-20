@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-20 10:00">
+<yml_catalog date="2026-05-20 17:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -1178,7 +1178,7 @@
     <vendorCode>889406</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>195</quantity_in_stock>
+    <quantity_in_stock>194</quantity_in_stock>
     <param name="Длина" unit="см">46</param>
     <param name="Максимальный вес" unit="кг">100</param>
     <param name="Тип">Цепь для подвеса</param>
@@ -1764,8 +1764,8 @@
   </offer>
   <offer id="25780839" available="false">
     <url>https://proekt24.com/p25780839-zhgut-uplotnitelnyj-belyj.html</url>
-    <price>37</price>
-    <price_old>44</price_old>
+    <price>25</price>
+    <price_old>30</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-30.jpg</picture>
@@ -1784,8 +1784,8 @@
   </offer>
   <offer id="25780872" available="false">
     <url>https://proekt24.com/p25780872-zhgut-uplotnitelnyj-belyj.html</url>
-    <price>57</price>
-    <price_old>68</price_old>
+    <price>39</price>
+    <price_old>46</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-40.jpg</picture>
@@ -2191,7 +2191,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>296</quantity_in_stock>
+    <quantity_in_stock>212</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
@@ -2863,7 +2863,7 @@
     <vendorCode>112565</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>27</quantity_in_stock>
+    <quantity_in_stock>26</quantity_in_stock>
     <param name="Диаметр" unit="см">94</param>
     <param name="Конструкция">Цельная</param>
     <param name="Материал">Сталь</param>
@@ -3500,7 +3500,7 @@
     <param name="Цвет">Серый</param>
     <param name="Ширина" unit="см">75</param>
   </offer>
-  <offer id="101765414" available="true">
+  <offer id="101765414" available="false">
     <url>https://proekt24.com/p101765414-kovrik-dlya-fitnesa.html</url>
     <price>168</price>
     <price_old>200</price_old>
@@ -3514,7 +3514,7 @@
     <vendorCode>КБ18006005К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Длина" unit="см">180</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Тип">Коврик/мат</param>
@@ -3770,7 +3770,7 @@
     <vendorCode>35015</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3112</quantity_in_stock>
+    <quantity_in_stock>3054</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологичный материал">Да</param>
     <param name="Эластичность материала">Да</param>
@@ -3818,7 +3818,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>52</quantity_in_stock>
+    <quantity_in_stock>182</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -4067,7 +4067,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1291</quantity_in_stock>
+    <quantity_in_stock>1381</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -4104,7 +4104,7 @@
     <vendorCode>500132</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>850</quantity_in_stock>
+    <quantity_in_stock>848</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -4137,7 +4137,7 @@
     <vendorCode>500192</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>364</quantity_in_stock>
+    <quantity_in_stock>429</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -4235,7 +4235,7 @@
     <vendorCode>500063</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>436</quantity_in_stock>
+    <quantity_in_stock>346</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -4409,25 +4409,25 @@
     <vendorCode>500253</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>569</quantity_in_stock>
+    <quantity_in_stock>565</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для каркасных конструкций|Для стен|Для потолков|Для пола|Для инженерного оборудования</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Назначение материала">Улучшение акустики помещений|Виброизоляция|Снижение ударного шума|Звукоизоляция</param>
+    <param name="Эластичность материала">Да</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">8</param>
     <param name="Максимальная рабочая температура" unit="">120</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
     <param name="Плотность" unit="">55</param>
     <param name="Срок службы" unit="">25</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">25</param>
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
-    <param name="Цвет" unit="">Черный</param>
-    <param name="Эластичность материала" unit="">Да</param>
   </offer>
   <offer id="126709678" available="true">
     <url>https://proekt24.com/p126709678-vspenennyj-kauchuk-samokleyuschijsya.html</url>
@@ -5144,11 +5144,11 @@
     <vendorCode>233456</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Цвет">Серый</param>
+    <param name="Тип">Чехол</param>
     <param name="Диаметр, мм" unit="">230</param>
     <param name="Длина, мм" unit="">700</param>
-    <param name="Тип" unit="">Чехол</param>
   </offer>
   <offer id="154454794" available="false">
     <url>https://proekt24.com/p154454794-kovrik-dlya-fitnesa.html</url>
@@ -6033,7 +6033,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="174478756" available="true">
+  <offer id="174478756" available="false">
     <url>https://proekt24.com/p174478756-izolyatsiya-trub-8913.html</url>
     <price>57</price>
     <price_old>68</price_old>
@@ -6046,7 +6046,7 @@
     <vendorCode>ВП89/13</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>100</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">89</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
@@ -16669,7 +16669,7 @@
     <vendorCode>63321</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>111</quantity_in_stock>
+    <quantity_in_stock>110</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Материал мембраны">Полипропилен</param>
@@ -17736,7 +17736,7 @@
     <vendorCode>63327</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Минимальная рабочая температура" unit="град.">-36</param>
@@ -18572,7 +18572,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>680</quantity_in_stock>
+    <quantity_in_stock>670</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -19084,7 +19084,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>627</quantity_in_stock>
+    <quantity_in_stock>591</quantity_in_stock>
     <param name="Совместимость с маркой">Dodge|BMW|Hyundai|Mazda|Nissan|Mitsubishi|Fiat|Ford|Daewoo|Honda|Volkswagen|Audi|Toyota|Citroen|Kia|Renault|Volvo|Peugeot|Chrysler</param>
     <param name="Совместимость с моделью">Avensis|Sonata|Getz|Fusion|Camry|A6|Fiesta|Scorpio|Chrysler|Primera|Dodge|Q7|Accord|Tiguan|Civic|Lancer|Nissan Maxima|Q5|6|Jazz|C2|Caliber|Passat|Almera|Matiz|C5|RAV4|Santa Fe|Peugeot 206|Colt|XC90|Yaris|Focus|Mondeo|Tucson|Lupo|Ceed|C4|A4|Renault Megane|Sebring</param>
     <param name="Длина рулона, п.м." unit="">20</param>
@@ -19129,7 +19129,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>489</quantity_in_stock>
+    <quantity_in_stock>454</quantity_in_stock>
     <param name="Совместимость с маркой">Nissan|Fiat|Dodge|Kia|Mazda|Citroen|Mitsubishi|Audi|BMW|Daewoo|Hyundai|Volvo|Ford|Honda|Peugeot|Chrysler|Volkswagen|Toyota|Renault</param>
     <param name="Совместимость с моделью">Sebring|Fiesta|Civic|Dodge|Primera|Almera|Tiguan|Santa Fe|Renault Megane|A4|Jazz|Q7|A6|Accord|Tucson|206|Mondeo|Sonata|Fusion|Scorpio|XC90|Lupo|Ceed|Focus|Matiz|Yaris|Avensis|Chrysler|Lancer|Passat|RAV4|C2|Caliber|Colt|C5|6|Nissan Maxima|Q5|Getz|Camry|C4</param>
     <param name="Длина рулона, п.м." unit="">20</param>
@@ -23248,7 +23248,7 @@
     <vendorCode>11361</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>925</quantity_in_stock>
+    <quantity_in_stock>910</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Колесные арки</param>
@@ -23317,8 +23317,8 @@
   </offer>
   <offer id="324595917" available="true">
     <url>https://proekt24.com/p324595917-zhgut-uplotnitelnyj-seryj.html</url>
-    <price>15</price>
-    <price_old>18</price_old>
+    <price>14</price>
+    <price_old>16</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/6146471876_zhgut-uplotnitelnyj-20.jpg</picture>
@@ -23338,8 +23338,8 @@
   </offer>
   <offer id="324596576" available="false">
     <url>https://proekt24.com/p324596576-zhgut-uplotnitelnyj-belyj.html</url>
-    <price>105</price>
-    <price_old>125</price_old>
+    <price>72</price>
+    <price_old>86</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-50.jpg</picture>
@@ -23358,8 +23358,8 @@
   </offer>
   <offer id="324596868" available="false">
     <url>https://proekt24.com/p324596868-zhgut-uplotnitelnyj-belyj.html</url>
-    <price>152</price>
-    <price_old>181</price_old>
+    <price>104</price>
+    <price_old>124</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-60.jpg</picture>
@@ -23378,8 +23378,8 @@
   </offer>
   <offer id="324600142" available="true">
     <url>https://proekt24.com/p324600142-zhgut-uplotnitelnyj-500.html</url>
-    <price>1040</price>
-    <price_old>1238</price_old>
+    <price>630</price>
+    <price_old>750</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-6.jpg</picture>
@@ -23398,8 +23398,8 @@
   </offer>
   <offer id="324600800" available="false">
     <url>https://proekt24.com/p324600800-zhgut-uplotnitelnyj-500.html</url>
-    <price>1292</price>
-    <price_old>1538</price_old>
+    <price>756</price>
+    <price_old>900</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-8.jpg</picture>
@@ -23418,8 +23418,8 @@
   </offer>
   <offer id="324601080" available="true">
     <url>https://proekt24.com/p324601080-zhgut-uplotnitelnyj-1000.html</url>
-    <price>3213</price>
-    <price_old>3825</price_old>
+    <price>2016</price>
+    <price_old>2400</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-10.jpg</picture>
@@ -23438,8 +23438,8 @@
   </offer>
   <offer id="324601205" available="false">
     <url>https://proekt24.com/p324601205-zhgut-uplotnitelnyj-1000.html</url>
-    <price>4032</price>
-    <price_old>4800</price_old>
+    <price>2520</price>
+    <price_old>3000</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-12.jpg</picture>
@@ -23458,8 +23458,8 @@
   </offer>
   <offer id="324604378" available="true">
     <url>https://proekt24.com/p324604378-zhgut-uplotnitelnyj-500.html</url>
-    <price>2992</price>
-    <price_old>3562</price_old>
+    <price>1827</price>
+    <price_old>2175</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-15.jpg</picture>
@@ -24149,7 +24149,7 @@
     <name>Химически сшитый вспененный полиэтилен лист 2000х1000х20 мм 33 кг/м³</name>
     <vendorCode>901201</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>149</quantity_in_stock>
+    <quantity_in_stock>146</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Покрытие">Без покрытия</param>
@@ -24610,7 +24610,7 @@
     <vendorCode>901053</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>286</quantity_in_stock>
+    <quantity_in_stock>284</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -26468,7 +26468,7 @@
     <vendorCode>500032</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1051</quantity_in_stock>
+    <quantity_in_stock>1041</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -33386,7 +33386,7 @@
     <vendorCode>62113</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>49</quantity_in_stock>
+    <quantity_in_stock>48</quantity_in_stock>
     <param name="Длина" unit="м">20</param>
     <param name="Тип использования">Универсальный</param>
     <param name="Толщина (мм)">1.5</param>
@@ -36234,10 +36234,10 @@
     <param name="Длина" unit="см">180</param>
     <param name="Ширина" unit="см">55</param>
     <param name="Тип коврика">Каремат</param>
-    <param name="Материал">Пенополиэтилен</param>
-    <param name="Количество слоев">Однослойные</param>
     <param name="Толщина" unit="">8.0</param>
     <param name="Плотность материала" unit="">33.0</param>
+    <param name="Количество слоев" unit="">Однослойные</param>
+    <param name="Материал" unit="">Пенополиэтилен</param>
   </offer>
   <offer id="1339548524" available="false">
     <url>https://proekt24.com/p1339548524-vspenennyj-kauchuk-samokleyuschijsya.html</url>
@@ -37994,7 +37994,7 @@
     <vendorCode>1008810</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>260</quantity_in_stock>
+    <quantity_in_stock>257</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентный</param>
     <param name="Состояние клея">Готовая эмульсия</param>
     <param name="Срок хранения" unit="мес">12</param>
@@ -38231,7 +38231,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>260</quantity_in_stock>
+    <quantity_in_stock>257</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -39248,7 +39248,7 @@
     <vendorCode>62764</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>49</quantity_in_stock>
+    <quantity_in_stock>48</quantity_in_stock>
     <param name="Длина" unit="м">3</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -39279,7 +39279,7 @@
     <vendorCode>62763</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>189</quantity_in_stock>
+    <quantity_in_stock>188</quantity_in_stock>
     <param name="Длина" unit="м">3</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -39865,7 +39865,7 @@
     <vendorCode>62765</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>45</quantity_in_stock>
     <param name="Длина" unit="м">3</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -40274,7 +40274,7 @@
     <vendorCode>EF-AWTМ-050</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Количество утяжелителей">2</param>
     <param name="Особенности">Подходит для ног и рук|Неопреновое покрытие</param>
     <param name="Состояние">Новое</param>
@@ -40746,7 +40746,7 @@
     <vendorCode>64021</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>35</quantity_in_stock>
+    <quantity_in_stock>32</quantity_in_stock>
     <param name="Тип использования">Универсальный</param>
     <param name="Назначение материала">Для кровли|Для полов|Для подвалов|Для фасадов|Для цоколей|Для резервуаров|Для стен</param>
     <param name="Тип поверхности">Пластик|Металл|Древесина|Керамика|Бетон|Камень</param>
@@ -40802,7 +40802,7 @@
     <vendorCode>64025</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>78</quantity_in_stock>
+    <quantity_in_stock>77</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентная</param>
     <param name="Консистенция">Полужидкая</param>
     <param name="Назначение материала">Для полов|Для стен|Для фасадов|Для подвалов|Для резервуаров|Для кровли|Для балконов|Для цоколей</param>
@@ -41001,7 +41001,7 @@
     <vendorCode>500162</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>734</quantity_in_stock>
+    <quantity_in_stock>732</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м³">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -42910,7 +42910,7 @@
     <vendorCode>35/13П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>364</quantity_in_stock>
+    <quantity_in_stock>354</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -44050,7 +44050,7 @@
     <vendorCode>83950</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>232</quantity_in_stock>
+    <quantity_in_stock>242</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -44175,7 +44175,7 @@
     <vendorCode>1002-05</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>44</quantity_in_stock>
+    <quantity_in_stock>41</quantity_in_stock>
     <param name="Вес" unit="кг">40</param>
     <param name="Высота" unit="см">170</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -45589,8 +45589,8 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>1</quantity_in_stock>
     <param name="Длина" unit="см">60</param>
-    <param name="Форма">Прямоугольная</param>
     <param name="Цвет">Бежевый</param>
+    <param name="Форма">Прямоугольная</param>
     <param name="Ширина" unit="см">40</param>
   </offer>
   <offer id="1517142814" available="false">
@@ -46771,7 +46771,7 @@
     <vendorCode>10187</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Состояние">Новое</param>
     <param name="Цвет">Зелёный</param>
     <param name="Тип">Универсальный</param>
@@ -47534,7 +47534,7 @@
     <param name="Ширина подушки" unit="см">58</param>
     <param name="Материал наперника/чехла" unit="">велюр</param>
   </offer>
-  <offer id="1517279867" available="true">
+  <offer id="1517279867" available="false">
     <url>https://proekt24.com/p1517279867-podushka-naduvnaya-pod.html</url>
     <price>911</price>
     <price_old>1085</price_old>
@@ -47553,7 +47553,7 @@
     <vendorCode>10129</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Форма">Квадратная</param>
     <param name="Высота подушки" unit="см">23</param>
     <param name="Длина подушки" unit="см">60</param>
@@ -48656,7 +48656,7 @@
     <vendorCode>АЭ15006008Ф</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Длина" unit="см">150</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Тип">Коврик/мат</param>
@@ -52200,7 +52200,7 @@
     <vendorCode>EF-1818-6</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Материал">EVA пена</param>
     <param name="Состояние">Новое</param>
     <param name="Тип">Йога блок</param>
@@ -53724,7 +53724,7 @@
     <vendorCode>900031</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>532</quantity_in_stock>
+    <quantity_in_stock>382</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -56087,7 +56087,7 @@
     <vendorCode>832585</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>278</quantity_in_stock>
+    <quantity_in_stock>276</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина, метр погонный" unit="">50</param>
@@ -56112,7 +56112,7 @@
     <vendorCode>832586</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>341</quantity_in_stock>
+    <quantity_in_stock>336</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -56138,7 +56138,7 @@
     <vendorCode>832587</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>206</quantity_in_stock>
+    <quantity_in_stock>205</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина, метр погонный" unit="">50</param>
@@ -57671,7 +57671,7 @@
     <vendorCode>06/13П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>584</quantity_in_stock>
+    <quantity_in_stock>550</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -57741,7 +57741,7 @@
     <vendorCode>10/13П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>814</quantity_in_stock>
+    <quantity_in_stock>786</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -57776,7 +57776,7 @@
     <vendorCode>12/13П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>788</quantity_in_stock>
+    <quantity_in_stock>782</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -59000,7 +59000,7 @@
     <vendorCode>900023</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>129</quantity_in_stock>
+    <quantity_in_stock>79</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -64883,7 +64883,7 @@
     <vendorCode>П110/30ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -68437,7 +68437,7 @@
     <vendorCode>EF-1344</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Длина" unit="м">2.8</param>
     <param name="Цвет">Черный</param>
     <param name="Материал ручек">Пластик</param>
@@ -70207,7 +70207,7 @@
     <vendorCode>30107</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вес" unit="кг">0.26</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -70242,7 +70242,7 @@
     <vendorCode>30115</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>119</quantity_in_stock>
+    <quantity_in_stock>95</quantity_in_stock>
     <param name="Вес" unit="кг">0.38</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -70609,8 +70609,7 @@
     <vendorCode>889018</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
-    <param name="Цвет">Черный</param>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Совместимость с маркой">Fiat|Chrysler|Honda|Kia|BMW|Volkswagen|Mazda|Citroen|Daewoo|Dodge|Nissan|Peugeot|Toyota|Renault|Mitsubishi|Ford|Hyundai|Volvo|Audi</param>
     <param name="Совместимость с моделью">Chrysler|Primera|Tiguan|Santa Fe|Tucson|Accord|Sebring|Fiesta|Caliber|Colt|Q5|Almera|Avensis|Lupo|6|Ceed|A4|Renault Megane|Mondeo|Passat|RAV4|C5|Civic|Scorpio|Nissan Maxima|A6|Fusion|Dodge|C2|Camry|XC90|Lancer|Q7|Getz|Yaris|Jazz|Matiz|Sonata|Focus|C4|Peugeot 206</param>
     <param name="Длина рулона, п.м." unit="">20</param>
@@ -70618,8 +70617,9 @@
     <param name="Ширина рулона, мм" unit="">1400</param>
     <param name="Тип ткани" unit="">Однотонная</param>
     <param name="Применение" unit="">Для панелей и проемов</param>
+    <param name="Цвет" unit="">Черный</param>
   </offer>
-  <offer id="1741705318" available="true">
+  <offer id="1741705318" available="false">
     <url>https://proekt24.com/p1741705318-karpet-avtomobilnyj-temno.html</url>
     <price>177</price>
     <price_old>211</price_old>
@@ -70633,7 +70633,7 @@
     <vendorCode>889019</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Совместимость с маркой">Kia|Daewoo|Chrysler|BMW|Ford|Nissan|Honda|Mazda|Renault|Volkswagen|Dodge|Hyundai|Mitsubishi|Peugeot|Citroen|Volvo|Toyota|Fiat|Audi</param>
     <param name="Совместимость с моделью">Q7|Sebring|Renault Megane|Lupo|Avensis|Camry|Chrysler|Santa Fe|RAV4|Mondeo|C5|A4|Nissan Maxima|Caliber|Focus|Scorpio|Tucson|Jazz|Q5|C4|Passat|Yaris|6|Fiesta|206|Matiz|Lancer|XC90|Fusion|Dodge|Ceed|A6|Getz|Colt|Almera|C2|Accord|Sonata|Primera|Tiguan|Civic</param>
     <param name="Длина рулона, п.м." unit="">20</param>
@@ -70906,7 +70906,7 @@
     <vendorCode>832615</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>249</quantity_in_stock>
+    <quantity_in_stock>149</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -70962,7 +70962,7 @@
     <vendorCode>500082</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1288</quantity_in_stock>
+    <quantity_in_stock>1285</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м³">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -71790,8 +71790,8 @@
   </offer>
   <offer id="1765254087" available="false">
     <url>https://proekt24.com/p1765254087-zhgut-uplotnitelnyj-300.html</url>
-    <price>2155</price>
-    <price_old>2565</price_old>
+    <price>1909</price>
+    <price_old>2272</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-20.jpg</picture>
@@ -71810,8 +71810,8 @@
   </offer>
   <offer id="1765293008" available="true">
     <url>https://proekt24.com/p1765293008-zhgut-uplotnitelnyj-belyj.html</url>
-    <price>27</price>
-    <price_old>32</price_old>
+    <price>19</price>
+    <price_old>22</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-25.jpg</picture>
@@ -72270,7 +72270,7 @@
     <vendorCode>ВВ-В3С</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Длина" unit="см">300</param>
     <param name="Материал">Нейлон</param>
     <param name="Тип">Эластичные бинты</param>
@@ -72760,8 +72760,8 @@
   </offer>
   <offer id="1795870824" available="false">
     <url>https://proekt24.com/p1795870824-zhgut-uplotnitelnyj-275.html</url>
-    <price>79</price>
-    <price_old>94</price_old>
+    <price>54</price>
+    <price_old>64</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-40.jpg</picture>
@@ -72780,8 +72780,8 @@
   </offer>
   <offer id="1795872729" available="false">
     <url>https://proekt24.com/p1795872729-zhgut-uplotnitelnyj-275.html</url>
-    <price>145</price>
-    <price_old>172</price_old>
+    <price>99</price>
+    <price_old>118</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-50.jpg</picture>
@@ -73160,7 +73160,7 @@
     <vendorCode>832620</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>364</quantity_in_stock>
+    <quantity_in_stock>361</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -73170,7 +73170,7 @@
     <param name="Толщина (мм)" unit="">2</param>
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
   </offer>
-  <offer id="1799575805" available="true">
+  <offer id="1799575805" available="false">
     <url>https://proekt24.com/p1799575805-vibroizolyatsiya-acoustics-xtreme.html</url>
     <price>321</price>
     <price_old>382</price_old>
@@ -73190,7 +73190,7 @@
     <vendorCode>41015</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>34</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вес" unit="кг">1.015</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -73436,7 +73436,7 @@
     <vendorCode>56392</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>121</quantity_in_stock>
+    <quantity_in_stock>79</quantity_in_stock>
     <param name="Вес" unit="кг">1.67</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Крыша|Пол багажника|Пол автомобиля|Капот|Двери|Дверные панели|Крышка багажника|Стенки багажника|Потолок автомобиля|Колесные арки</param>
@@ -74707,7 +74707,7 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>163</quantity_in_stock>
+    <quantity_in_stock>133</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -74736,7 +74736,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>251</quantity_in_stock>
+    <quantity_in_stock>221</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -75751,7 +75751,7 @@
     <vendorCode>18006008СЕ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -76306,7 +76306,7 @@
     <vendorCode>КБ18006005ФТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Толщина" unit="мм">5</param>
@@ -77016,8 +77016,8 @@
   </offer>
   <offer id="1857048894" available="true">
     <url>https://proekt24.com/p1857048894-zhgut-uplotnitelnyj-2500.html</url>
-    <price>4410</price>
-    <price_old>5250</price_old>
+    <price>2835</price>
+    <price_old>3375</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-6.jpg</picture>
@@ -77230,7 +77230,7 @@
     <vendorCode>889008</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>464</quantity_in_stock>
+    <quantity_in_stock>455</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -78003,15 +78003,15 @@
     <vendor>EasyFit</vendor>
     <vendorCode>EF-3002-R</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Цвет">Красный</param>
     <param name="Состояние">Новое</param>
+    <param name="Форма">Круглая</param>
     <param name="Вес" unit="">310</param>
     <param name="Длина" unit="">15</param>
     <param name="Материал" unit="">Резина</param>
     <param name="Складная конструкция для хранения и транспортировки" unit="">Нет</param>
     <param name="Толщина" unit="">8</param>
-    <param name="Форма" unit="">Круглая</param>
     <param name="Ширина" unit="">15</param>
   </offer>
   <offer id="1880290629" available="true">
@@ -78028,7 +78028,7 @@
     <vendor>EasyFit</vendor>
     <vendorCode>EF-3002-BL</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Цвет">Синий</param>
     <param name="Состояние">Новое</param>
     <param name="Вес" unit="">310</param>
@@ -78630,8 +78630,8 @@
   </offer>
   <offer id="1903233197" available="false">
     <url>https://proekt24.com/p1903233197-zhgut-uplotnitelnyj-500.html</url>
-    <price>2016</price>
-    <price_old>2400</price_old>
+    <price>1260</price>
+    <price_old>1500</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-12.jpg</picture>
@@ -78650,8 +78650,8 @@
   </offer>
   <offer id="1903233199" available="false">
     <url>https://proekt24.com/p1903233199-zhgut-uplotnitelnyj-275.html</url>
-    <price>50</price>
-    <price_old>60</price_old>
+    <price>35</price>
+    <price_old>41</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-30.jpg</picture>
@@ -78670,8 +78670,8 @@
   </offer>
   <offer id="1903233201" available="false">
     <url>https://proekt24.com/p1903233201-zhgut-uplotnitelnyj-200.html</url>
-    <price>2696</price>
-    <price_old>3210</price_old>
+    <price>1890</price>
+    <price_old>2250</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-25.jpg</picture>
@@ -78828,7 +78828,7 @@
     <vendorCode>57091</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>56</quantity_in_stock>
+    <quantity_in_stock>55</quantity_in_stock>
     <param name="Назначение материала">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Область применения">Для инженерного оборудования</param>
     <param name="Форма поставки материала">Лист</param>
@@ -81748,7 +81748,7 @@
     <vendorCode>1003-05К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вес" unit="кг">40</param>
     <param name="Высота" unit="см">170</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -81943,7 +81943,7 @@
     <vendorCode>КБ18006005ЗТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Тип">Коврик/мат</param>
@@ -83190,7 +83190,7 @@
     <vendorCode>889022</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>96</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -89746,8 +89746,8 @@
   </offer>
   <offer id="2021494190" available="false">
     <url>https://proekt24.com/p2021494190-zhgut-uplotnitelnyj-tsvetnoj.html</url>
-    <price>109</price>
-    <price_old>130</price_old>
+    <price>104</price>
+    <price_old>124</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-60.jpg</picture>
@@ -90154,7 +90154,7 @@
     <vendorCode>889384</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4002</quantity_in_stock>
+    <quantity_in_stock>3996</quantity_in_stock>
     <param name="Армированная фольга">Да</param>
     <param name="Длина" unit="м">50</param>
     <param name="Максимальная рабочая температура" unit="град.">200</param>
@@ -91861,8 +91861,8 @@
   </offer>
   <offer id="2096054380" available="true">
     <url>https://proekt24.com/p2096054380-zhgut-uplotnitelnyj-600.html</url>
-    <price>3591</price>
-    <price_old>4275</price_old>
+    <price>2192</price>
+    <price_old>2610</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-15.jpg</picture>
@@ -93046,8 +93046,8 @@
   </offer>
   <offer id="2108977231" available="true">
     <url>https://proekt24.com/p2108977231-zhgut-uplotnitelnyj-200.html</url>
-    <price>1197</price>
-    <price_old>1425</price_old>
+    <price>731</price>
+    <price_old>870</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-15.jpg</picture>
@@ -94167,8 +94167,8 @@
   </offer>
   <offer id="2150808676" available="true">
     <url>https://proekt24.com/p2150808676-zhgut-uplotnitelnyj-1500.html</url>
-    <price>3874</price>
-    <price_old>4612</price_old>
+    <price>2268</price>
+    <price_old>2700</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-8.jpg</picture>
@@ -116958,8 +116958,8 @@
   </offer>
   <offer id="2292878850" available="true">
     <url>https://proekt24.com/p2292878850-zhgut-uplotnitelnyj-seryj.html</url>
-    <price>27</price>
-    <price_old>32</price_old>
+    <price>29</price>
+    <price_old>35</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/6146496583_zhgut-uplotnitelnyj-30.jpg</picture>
@@ -116998,27 +116998,6 @@
     <param name="Самоклеющаяся поверхность">Нет</param>
     <param name="Толщина" unit="">25</param>
   </offer>
-  <offer id="2292878852" available="false">
-    <url>https://proekt24.com/p2292878852-zhgut-uplotnitelnyj-1500.html</url>
-    <price>3874</price>
-    <price_old>4612</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>12824490</categoryId>
-    <picture>https://images.prom.ua/6146496592_zhgut-uplotnitelnyj-8.jpg</picture>
-    <picture>https://images.prom.ua/6146496595_zhgut-uplotnitelnyj-8.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Жгут уплотнительный 8 мм х 1500 м.пг серый</name>
-    <vendorCode>32108159</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина, п.м." unit="">1500</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
-    <param name="Тип использования" unit="">Универсальный</param>
-    <param name="Толщина" unit="">8</param>
-    <param name="Цвет" unit="">Серый</param>
-  </offer>
   <offer id="2292878853" available="true">
     <url>https://proekt24.com/p2292878853-gazovspenennyj-polietilen-seryj.html</url>
     <price>25</price>
@@ -117034,7 +117013,7 @@
     <vendorCode>9000319</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2467</quantity_in_stock>
+    <quantity_in_stock>2443</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -117081,52 +117060,10 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="2292878856" available="false">
-    <url>https://proekt24.com/p2292878856-zhgut-uplotnitelnyj-2500.html</url>
-    <price>4410</price>
-    <price_old>5250</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>12824490</categoryId>
-    <picture>https://images.prom.ua/6146496598_zhgut-uplotnitelnyj-6.jpg</picture>
-    <picture>https://images.prom.ua/6146496602_zhgut-uplotnitelnyj-6.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Жгут уплотнительный 6 мм х 2500 м.пг серый</name>
-    <vendorCode>32106259</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина, п.м." unit="">2500</param>
-    <param name="Толщина" unit="">6</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
-    <param name="Тип использования" unit="">Универсальный</param>
-    <param name="Цвет" unit="">Серый</param>
-  </offer>
-  <offer id="2292878857" available="false">
-    <url>https://proekt24.com/p2292878857-zhgut-uplotnitelnyj-500.html</url>
-    <price>2992</price>
-    <price_old>3562</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>12824490</categoryId>
-    <picture>https://images.prom.ua/6146496605_zhgut-uplotnitelnyj-15.jpg</picture>
-    <picture>https://images.prom.ua/6146496606_zhgut-uplotnitelnyj-15.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Жгут уплотнительный 15 мм х 500 м.пг серый</name>
-    <vendorCode>32115059</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина, п.м." unit="">500</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
-    <param name="Тип использования" unit="">Универсальный</param>
-    <param name="Толщина" unit="">15</param>
-    <param name="Цвет" unit="">Серый</param>
-  </offer>
   <offer id="2292878858" available="true">
     <url>https://proekt24.com/p2292878858-zhgut-uplotnitelnyj-seryj.html</url>
-    <price>114</price>
-    <price_old>136</price_old>
+    <price>80</price>
+    <price_old>95</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/6146496610_zhgut-uplotnitelnyj-60.jpg</picture>
@@ -117146,8 +117083,8 @@
   </offer>
   <offer id="2292878859" available="false">
     <url>https://proekt24.com/p2292878859-zhgut-uplotnitelnyj-275.html</url>
-    <price>57</price>
-    <price_old>68</price_old>
+    <price>56</price>
+    <price_old>66</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/6146496612_zhgut-uplotnitelnyj-40.jpg</picture>
@@ -117165,27 +117102,6 @@
     <param name="Самоклеющаяся поверхность">Нет</param>
     <param name="Толщина" unit="">40</param>
   </offer>
-  <offer id="2292878860" available="false">
-    <url>https://proekt24.com/p2292878860-zhgut-uplotnitelnyj-500.html</url>
-    <price>1040</price>
-    <price_old>1238</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>12824490</categoryId>
-    <picture>https://images.prom.ua/6146496614_zhgut-uplotnitelnyj-6.jpg</picture>
-    <picture>https://images.prom.ua/6146496615_zhgut-uplotnitelnyj-6.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Жгут уплотнительный 6 мм х 500 м.пг серый</name>
-    <vendorCode>32106059</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина, п.м." unit="">500</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
-    <param name="Тип использования" unit="">Универсальный</param>
-    <param name="Толщина" unit="">6</param>
-    <param name="Цвет" unit="">Серый</param>
-  </offer>
   <offer id="2292878861" available="true">
     <url>https://proekt24.com/p2292878861-gazovspenennyj-polietilen-seryj.html</url>
     <price>89</price>
@@ -117201,7 +117117,7 @@
     <vendorCode>9001019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1307</quantity_in_stock>
+    <quantity_in_stock>1287</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -117216,27 +117132,6 @@
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
-  </offer>
-  <offer id="2292878862" available="false">
-    <url>https://proekt24.com/p2292878862-zhgut-uplotnitelnyj-1000.html</url>
-    <price>3213</price>
-    <price_old>3825</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>12824490</categoryId>
-    <picture>https://images.prom.ua/6146496962_zhgut-uplotnitelnyj-10.jpg</picture>
-    <picture>https://images.prom.ua/6146496968_zhgut-uplotnitelnyj-10.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Жгут уплотнительный 10 мм х 1000 м.пг серый</name>
-    <vendorCode>32110109</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина, п.м." unit="">1000</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
-    <param name="Тип использования" unit="">Универсальный</param>
-    <param name="Толщина" unit="">10</param>
-    <param name="Цвет" unit="">Серый</param>
   </offer>
   <offer id="2292878863" available="false">
     <url>https://proekt24.com/p2292878863-zhgut-uplotnitelnyj-seryj.html</url>
@@ -117301,27 +117196,6 @@
     <param name="Толщина" unit="">25</param>
     <param name="Цвет" unit="">Серый</param>
   </offer>
-  <offer id="2292878866" available="false">
-    <url>https://proekt24.com/p2292878866-zhgut-uplotnitelnyj-500.html</url>
-    <price>1292</price>
-    <price_old>1538</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>12824490</categoryId>
-    <picture>https://images.prom.ua/6146496997_zhgut-uplotnitelnyj-8.jpg</picture>
-    <picture>https://images.prom.ua/6146497002_zhgut-uplotnitelnyj-8.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Жгут уплотнительный 8 мм х 500 м.пг серый</name>
-    <vendorCode>32108059</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина, п.м." unit="">500</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
-    <param name="Тип использования" unit="">Универсальный</param>
-    <param name="Толщина" unit="">8</param>
-    <param name="Цвет" unit="">Серый</param>
-  </offer>
   <offer id="2292878867" available="true">
     <url>https://proekt24.com/p2292878867-gazovspenennyj-polietilen-seryj.html</url>
     <price>34</price>
@@ -117355,8 +117229,8 @@
   </offer>
   <offer id="2292878868" available="true">
     <url>https://proekt24.com/p2292878868-zhgut-uplotnitelnyj-seryj.html</url>
-    <price>77</price>
-    <price_old>91</price_old>
+    <price>57</price>
+    <price_old>68</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/6146497008_zhgut-uplotnitelnyj-50.jpg</picture>
@@ -117376,8 +117250,8 @@
   </offer>
   <offer id="2292878869" available="false">
     <url>https://proekt24.com/p2292878869-zhgut-uplotnitelnyj-275.html</url>
-    <price>38</price>
-    <price_old>45</price_old>
+    <price>40</price>
+    <price_old>48</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/6146497021_zhgut-uplotnitelnyj-30.jpg</picture>
@@ -117418,8 +117292,8 @@
   </offer>
   <offer id="2292878872" available="false">
     <url>https://proekt24.com/p2292878872-zhgut-uplotnitelnyj-300.html</url>
-    <price>2155</price>
-    <price_old>2565</price_old>
+    <price>2041</price>
+    <price_old>2430</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/6146497406_zhgut-uplotnitelnyj-20.jpg</picture>
@@ -117436,27 +117310,6 @@
     <param name="Цвет">Серый</param>
     <param name="Длина, п.м." unit="">300</param>
     <param name="Толщина" unit="">20</param>
-  </offer>
-  <offer id="2292878873" available="false">
-    <url>https://proekt24.com/p2292878873-zhgut-uplotnitelnyj-600.html</url>
-    <price>3591</price>
-    <price_old>4275</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>12824490</categoryId>
-    <picture>https://images.prom.ua/6146497410_zhgut-uplotnitelnyj-15.jpg</picture>
-    <picture>https://images.prom.ua/6146497413_zhgut-uplotnitelnyj-15.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Жгут уплотнительный 15 мм х 600 м.пг серый</name>
-    <vendorCode>32115069</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина, п.м." unit="">600</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
-    <param name="Тип использования" unit="">Универсальный</param>
-    <param name="Толщина" unit="">15</param>
-    <param name="Цвет" unit="">Серый</param>
   </offer>
   <offer id="2292878874" available="true">
     <url>https://proekt24.com/p2292878874-gazovspenennyj-polietilen-seryj.html</url>
@@ -117489,52 +117342,10 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="2292878875" available="false">
-    <url>https://proekt24.com/p2292878875-zhgut-uplotnitelnyj-1000.html</url>
-    <price>4032</price>
-    <price_old>4800</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>12824490</categoryId>
-    <picture>https://images.prom.ua/6146497418_zhgut-uplotnitelnyj-12.jpg</picture>
-    <picture>https://images.prom.ua/6146497423_zhgut-uplotnitelnyj-12.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Жгут уплотнительный 12 мм х 1000 м.пг серый</name>
-    <vendorCode>32112109</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина, п.м." unit="">1000</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
-    <param name="Тип использования" unit="">Универсальный</param>
-    <param name="Толщина" unit="">12</param>
-    <param name="Цвет" unit="">Серый</param>
-  </offer>
-  <offer id="2292878876" available="false">
-    <url>https://proekt24.com/p2292878876-zhgut-uplotnitelnyj-500.html</url>
-    <price>2016</price>
-    <price_old>2400</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>12824490</categoryId>
-    <picture>https://images.prom.ua/6146497424_zhgut-uplotnitelnyj-12.jpg</picture>
-    <picture>https://images.prom.ua/6146497426_zhgut-uplotnitelnyj-12.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Жгут уплотнительный 12 мм х 500 м.пг серый</name>
-    <vendorCode>8890269</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина, п.м." unit="">500</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
-    <param name="Тип использования" unit="">Универсальный</param>
-    <param name="Толщина" unit="">12</param>
-    <param name="Цвет" unit="">Серый</param>
-  </offer>
   <offer id="2292878877" available="true">
     <url>https://proekt24.com/p2292878877-zhgut-uplotnitelnyj-seryj.html</url>
-    <price>41</price>
-    <price_old>49</price_old>
+    <price>40</price>
+    <price_old>48</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/6146471876_zhgut-uplotnitelnyj-40.jpg</picture>
@@ -117585,8 +117396,8 @@
   </offer>
   <offer id="2292878879" available="false">
     <url>https://proekt24.com/p2292878879-zhgut-uplotnitelnyj-275.html</url>
-    <price>106</price>
-    <price_old>126</price_old>
+    <price>78</price>
+    <price_old>92</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/6146497433_zhgut-uplotnitelnyj-50.jpg</picture>
@@ -117602,27 +117413,6 @@
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
     <param name="Тип использования" unit="">Универсальный</param>
     <param name="Толщина" unit="">50</param>
-    <param name="Цвет" unit="">Серый</param>
-  </offer>
-  <offer id="2292878881" available="false">
-    <url>https://proekt24.com/p2292878881-zhgut-uplotnitelnyj-200.html</url>
-    <price>1197</price>
-    <price_old>1425</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>12824490</categoryId>
-    <picture>https://images.prom.ua/6146497440_zhgut-uplotnitelnyj-15.jpg</picture>
-    <picture>https://images.prom.ua/6146497444_zhgut-uplotnitelnyj-15.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Жгут уплотнительный 15 мм х 200 м.пг серый</name>
-    <vendorCode>32115029</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина, п.м." unit="">200</param>
-    <param name="Самоклеющаяся поверхность" unit="">Нет</param>
-    <param name="Тип использования" unit="">Универсальный</param>
-    <param name="Толщина" unit="">15</param>
     <param name="Цвет" unit="">Серый</param>
   </offer>
   <offer id="2292878882" available="true">
@@ -119376,8 +119166,8 @@
   </offer>
   <offer id="2343982107" available="true">
     <url>https://proekt24.com/p2343982107-zhgut-uplotnitelnyj-1000.html</url>
-    <price>2583</price>
-    <price_old>3075</price_old>
+    <price>1512</price>
+    <price_old>1800</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-8.jpg</picture>
@@ -119391,27 +119181,6 @@
     <param name="Самоклеющаяся поверхность">Нет</param>
     <param name="Тип использования">Универсальный</param>
     <param name="Цвет">Белый</param>
-    <param name="Длина, п.м." unit="">1000</param>
-    <param name="Толщина" unit="">8</param>
-  </offer>
-  <offer id="2343982108" available="false">
-    <url>https://proekt24.com/p2343982108-zhgut-uplotnitelnyj-1000.html</url>
-    <price>2583</price>
-    <price_old>3075</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>12824490</categoryId>
-    <picture>https://images.prom.ua/6146471876_zhgut-uplotnitelnyj-8.jpg</picture>
-    <picture>https://images.prom.ua/6146471872_zhgut-uplotnitelnyj-8.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Жгут уплотнительный 8 мм х 1000 м.пг серый</name>
-    <vendorCode>32108109</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Самоклеющаяся поверхность">Нет</param>
-    <param name="Тип использования">Универсальный</param>
-    <param name="Цвет">Серый</param>
     <param name="Длина, п.м." unit="">1000</param>
     <param name="Толщина" unit="">8</param>
   </offer>
@@ -120657,7 +120426,7 @@
     <vendorCode>Н11006005КТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Длина" unit="см">110</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Особенности">Стяжки в комплекте</param>
@@ -121261,7 +121030,7 @@
     <vendorCode>889564У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>102</quantity_in_stock>
+    <quantity_in_stock>96</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -121664,7 +121433,7 @@
     <param name="Необходимость нагрева" unit="">Нет</param>
     <param name="Тип" unit="">Шумоизоляция</param>
   </offer>
-<offer id="2456165203" available="true">
+  <offer id="2456165203" available="true">
     <url>https://proekt24.com/p2456165203-vspenennyj-kauchuk-samokleyuschijsya.html</url>
     <price>2994</price>
     <price_old>3564</price_old>
@@ -121975,7 +121744,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
   </offer>
-  <offer id="2483381112" available="true">
+<offer id="2483381112" available="true">
     <url>https://proekt24.com/p2483381112-massazhnyj-kovrik-dinozavry.html</url>
     <price>3112</price>
     <price_old>3705</price_old>
@@ -123191,13 +122960,13 @@
     <vendorCode>EF-1953</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Длина" unit="см">120</param>
   </offer>
   <offer id="2538678541" available="true">
     <url>https://proekt24.com/p2538678541-zhgut-uplotnitelnyj-belyj.html</url>
-    <price>15</price>
-    <price_old>18</price_old>
+    <price>13</price>
+    <price_old>15</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/3158171042_zhgut-uplotnitelnyj-20.jpg</picture>
@@ -123207,7 +122976,7 @@
     <vendorCode>32120</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1085</quantity_in_stock>
+    <quantity_in_stock>1059</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет">Белый</param>
     <param name="Тип использования">Универсальный</param>
@@ -123725,7 +123494,7 @@
     <vendorCode>2011-N3Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>47</quantity_in_stock>
+    <quantity_in_stock>45</quantity_in_stock>
     <param name="Длина" unit="см">24</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Лапа</param>
@@ -123778,7 +123547,7 @@
     <vendorCode>2004-N1С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">XL</param>
     <param name="Тип">Защита голени/стопы</param>
@@ -124919,7 +124688,7 @@
     <vendor>Укрізол</vendor>
     <vendorCode>889595</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>986</quantity_in_stock>
+    <quantity_in_stock>976</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Покрытие">Без покрытия</param>
@@ -127732,7 +127501,7 @@
     <vendorCode>889632</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>316</quantity_in_stock>
+    <quantity_in_stock>314</quantity_in_stock>
     <param name="Вес" unit="г">500</param>
     <param name="Консистенция">Аэрозоль</param>
     <param name="Объем" unit="мл">600</param>
@@ -128178,7 +127947,7 @@
     <param name="Тип">Тренажер для пресса</param>
     <param name="Цвет">Белый</param>
   </offer>
-<offer id="2712530269" available="true">
+  <offer id="2712530269" available="true">
     <url>https://proekt24.com/p2712530269-himicheski-sshityj-vspenennyj.html</url>
     <price>188</price>
     <price_old>224</price_old>
@@ -128503,7 +128272,7 @@
     <param name="Толщина стенки" unit="мм">2.7</param>
     <param name="Форма">Круглая</param>
   </offer>
-  <offer id="2743657415" available="false">
+<offer id="2743657415" available="false">
     <url>https://proekt24.com/p2743657415-skovoroda-alyuminievaya-260h60.html</url>
     <price>1038</price>
     <price_old>1236</price_old>
@@ -128872,7 +128641,7 @@
     <vendorCode>57717</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Объем" unit="мл.">0.5</param>
   </offer>
   <offer id="2769608179" available="true">
@@ -129373,7 +129142,7 @@
     <vendorCode>889666</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>740</quantity_in_stock>
+    <quantity_in_stock>738</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">2</param>
@@ -129403,7 +129172,7 @@
     <vendorCode>889679</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>192</quantity_in_stock>
+    <quantity_in_stock>188</quantity_in_stock>
     <param name="Применение материала">Потолок автомобиля|Стенки багажника|Пол автомобиля|Двери|Пол багажника</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -130417,14 +130186,14 @@
     <vendorCode>EF-1064-GN</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Состояние">Новое</param>
     <param name="Цвет">Зелёный</param>
     <param name="Тип">Массажный</param>
     <param name="Диаметр" unit="">9</param>
     <param name="Материал" unit="">ПВХ</param>
   </offer>
-  <offer id="2837074365" available="true">
+  <offer id="2837074365" available="false">
     <url>https://proekt24.com/p2837074365-massazhnyj-myachik-easyfit.html</url>
     <price>100</price>
     <price_old>119</price_old>
@@ -130439,12 +130208,12 @@
     <vendorCode>EF-1064-BL</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Состояние">Новое</param>
     <param name="Цвет">Синий</param>
+    <param name="Тип">Массажный</param>
     <param name="Диаметр" unit="">9</param>
     <param name="Материал" unit="">ПВХ</param>
-    <param name="Тип" unit="">Массажный</param>
   </offer>
   <offer id="2837074366" available="true">
     <url>https://proekt24.com/p2837074366-massazhnyj-myachik-easyfit.html</url>
@@ -131650,7 +131419,7 @@
     <vendorCode>500061У</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>51</quantity_in_stock>
+    <quantity_in_stock>47</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -132484,7 +132253,7 @@
     <vendor>Укрізол</vendor>
     <vendorCode>889735</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Армированный скотч">Да</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">50</param>
@@ -133391,7 +133160,7 @@
     <param name="Состояние">Новое</param>
     <param name="Тип">Гладкий</param>
   </offer>
-  <offer id="2914982865" available="true">
+  <offer id="2914982865" available="false">
     <url>https://proekt24.com/p2914982865-polusfera-massazhnaya-kinderbol.html</url>
     <price>173</price>
     <price_old>206</price_old>
@@ -133405,7 +133174,7 @@
     <vendor>EasyFit</vendor>
     <vendorCode>EF-3002-V</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Длина" unit="см">15</param>
     <param name="Состояние">Новое</param>
     <param name="Вес" unit="">310</param>
@@ -133454,7 +133223,7 @@
     <vendorCode>889762</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вес" unit="кг">1</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Материал">PETG</param>
@@ -133805,8 +133574,8 @@
   </offer>
   <offer id="2949643577" available="true">
     <url>https://proekt24.com/p2949643577-zhgut-uplotnitelnyj-300.html</url>
-    <price>4045</price>
-    <price_old>4815</price_old>
+    <price>2835</price>
+    <price_old>3375</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12824490</categoryId>
     <picture>https://images.prom.ua/6146497410_zhgut-uplotnitelnyj-25.jpg</picture>
@@ -133878,7 +133647,7 @@
     <vendorCode>889656</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -134555,7 +134324,7 @@
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1200</param>
   </offer>
-<offer id="3026318073" available="true">
+  <offer id="3026318073" available="true">
     <url>https://proekt24.com/p3026318073-lenta-serpyanka.html</url>
     <price>42</price>
     <price_old>50</price_old>
@@ -134780,7 +134549,7 @@
     <param name="Совместимость с колесами" unit="дюйм">29</param>
     <param name="Комплектация" unit="">Чехол, вставка под вилку, мешочек для хранения, именной брелок</param>
   </offer>
-  <offer id="3038295924" available="true">
+<offer id="3038295924" available="true">
     <url>https://proekt24.com/p3038295924-vozdushno-puzyrchataya-plenka.html</url>
     <price>1443</price>
     <price_old>1718</price_old>
@@ -134867,6 +134636,30 @@
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Цвет">Черный</param>
     <param name="Материал">PLA</param>
+  </offer>
+  <offer id="3053399433" available="false">
+    <url>https://proekt24.com/p3053399433-kovrik-massazhnyj-ortek.html</url>
+    <price>1056</price>
+    <price_old>1258</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>102662966</categoryId>
+    <picture>https://images.prom.ua/7394460238_kovrik-massazhnyj-ortek.jpg</picture>
+    <picture>https://images.prom.ua/7394460239_kovrik-massazhnyj-ortek.jpg</picture>
+    <picture>https://images.prom.ua/7394460243_kovrik-massazhnyj-ortek.jpg</picture>
+    <picture>https://images.prom.ua/7394460246_kovrik-massazhnyj-ortek.jpg</picture>
+    <picture>https://images.prom.ua/7394460245_kovrik-massazhnyj-ortek.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Коврик массажный ORTEK Натуральная галька 110х40 см</name>
+    <vendor>Ortek</vendor>
+    <vendorCode>11644</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Длина" unit="см">110</param>
+    <param name="Форма">Прямоугольная</param>
+    <param name="Ширина" unit="см">40</param>
+    <param name="Цвет">Черный</param>
   </offer>
 
 
