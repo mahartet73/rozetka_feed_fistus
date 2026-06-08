@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-07 17:00">
+<yml_catalog date="2026-06-08 09:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -4237,26 +4237,26 @@
     <vendorCode>500063</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1199</quantity_in_stock>
+    <quantity_in_stock>1197</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Цвет">Черный</param>
-    <param name="Область применения">Для пола|Для каркасных конструкций|Для инженерного оборудования|Для стен|Для потолков</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Назначение материала">Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция|Виброизоляция</param>
-    <param name="Эластичность материала">Да</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">30</param>
     <param name="Максимальная рабочая температура" unit="">120</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
+    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
     <param name="Плотность" unit="">55</param>
     <param name="Срок службы" unit="">25</param>
+    <param name="Степень жесткости" unit="">Мягкий</param>
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">6</param>
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
+    <param name="Цвет" unit="">Черный</param>
+    <param name="Эластичность материала" unit="">Да</param>
   </offer>
   <offer id="126419668" available="true">
     <url>https://proekt24.com/p126419668-gazovspenennyj-polietilen-folgirovannyj.html</url>
@@ -4480,7 +4480,7 @@
     <vendorCode>500065</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>127</quantity_in_stock>
+    <quantity_in_stock>125</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -18576,7 +18576,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1428</quantity_in_stock>
+    <quantity_in_stock>1386</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -23973,7 +23973,7 @@
     <param name="Удельная теплоемкость" unit="">1,95 кДж/ (кг°С)</param>
     <param name="Водопоглощение по объему" unit="">Менее 1%</param>
   </offer>
-  <offer id="343403487" available="false">
+  <offer id="343403487" available="true">
     <url>https://proekt24.com/p343403487-karpet-avtomobilnyj-seryj.html</url>
     <price>171</price>
     <price_old>204</price_old>
@@ -23991,7 +23991,7 @@
     <vendorCode>889017</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Совместимость с маркой">Citroen|Fiat|Dodge|Honda|Volkswagen|Peugeot|Renault|Toyota|Mazda|Chrysler|Hyundai|Ford|BMW|Volvo|Mitsubishi|Audi|Kia|Nissan|Daewoo</param>
     <param name="Совместимость с моделью">C2|RAV4|Q7|Lancer|Accord|C4|Dodge|Fusion|Q5|Lupo|Renault Megane|Tucson|Primera|Matiz|A6|Santa Fe|Chrysler|A4|Scorpio|Sebring|Colt|XC90|Focus|Yaris|Peugeot 206|Avensis|Nissan Maxima|Sonata|Fiesta|Camry|Getz|Passat|Ceed|C5|Tiguan|Mondeo|Caliber|Civic|Jazz|Almera|6|206</param>
     <param name="Толщина" unit="">2</param>
@@ -38040,7 +38040,7 @@
     <vendorCode>1008810</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>247</quantity_in_stock>
+    <quantity_in_stock>248</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентный</param>
     <param name="Состояние клея">Готовая эмульсия</param>
     <param name="Срок хранения" unit="мес">12</param>
@@ -42116,7 +42116,7 @@
     <vendorCode>15/9П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>784</quantity_in_stock>
+    <quantity_in_stock>756</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -74776,7 +74776,7 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>251</quantity_in_stock>
+    <quantity_in_stock>249</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -86312,7 +86312,7 @@
     <vendorCode>1003-03Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вес" unit="кг">22</param>
     <param name="Высота" unit="см">100</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -123609,7 +123609,7 @@
     <vendorCode>2011-N3Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>81</quantity_in_stock>
+    <quantity_in_stock>82</quantity_in_stock>
     <param name="Длина" unit="см">24</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Лапа</param>
@@ -128035,7 +128035,7 @@
     <vendor>Шумофф</vendor>
     <vendorCode>889651</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>76</quantity_in_stock>
+    <quantity_in_stock>77</quantity_in_stock>
     <param name="Консистенция">Аэрозоль</param>
     <param name="Объем" unit="мл">300</param>
   </offer>
