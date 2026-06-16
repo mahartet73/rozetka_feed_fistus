@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-15 17:00">
+<yml_catalog date="2026-06-16 09:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="47.05512" />
+      <currency id="USD" rate="47.058585" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.45216" />
+      <currency id="EUR" rate="54.63969" />
     </currencies>
     <categories>
       <category id="103641628" parentId="908017">Бандажные хомуты</category>
@@ -3820,7 +3820,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>549</quantity_in_stock>
+    <quantity_in_stock>519</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -3853,13 +3853,13 @@
     <vendorCode>500091</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5642</quantity_in_stock>
+    <quantity_in_stock>5637</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Цвет">Черный</param>
-    <param name="Область применения">Для инженерного оборудования|Для потолков|Для пола|Для каркасных конструкций|Для стен</param>
+    <param name="Область применения">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Степень жесткости">Мягкий</param>
-    <param name="Назначение материала">Снижение ударного шума|Улучшение акустики помещений|Виброизоляция|Звукоизоляция</param>
+    <param name="Назначение материала">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Эластичность материала">Да</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
@@ -4411,7 +4411,7 @@
     <vendorCode>500253</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>445</quantity_in_stock>
+    <quantity_in_stock>437</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -4445,7 +4445,7 @@
     <vendorCode>500323</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -4619,7 +4619,7 @@
     <vendorCode>500255</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>99</quantity_in_stock>
+    <quantity_in_stock>100</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -5732,7 +5732,7 @@
     <vendorCode>ВП52/9</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1840</quantity_in_stock>
+    <quantity_in_stock>40</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">52</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
@@ -16608,7 +16608,7 @@
     <vendorCode>63326</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>113</quantity_in_stock>
+    <quantity_in_stock>109</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Минимальная рабочая температура" unit="град.">-36</param>
@@ -16710,7 +16710,7 @@
     <vendorCode>63323</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>77</quantity_in_stock>
+    <quantity_in_stock>73</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
     <param name="Материал мембраны">Полипропилен</param>
@@ -19133,7 +19133,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>311</quantity_in_stock>
+    <quantity_in_stock>301</quantity_in_stock>
     <param name="Совместимость с маркой">Nissan|Fiat|Dodge|Kia|Mazda|Citroen|Mitsubishi|Audi|BMW|Daewoo|Hyundai|Volvo|Ford|Honda|Peugeot|Chrysler|Volkswagen|Toyota|Renault</param>
     <param name="Совместимость с моделью">Sebring|Fiesta|Civic|Dodge|Primera|Almera|Tiguan|Santa Fe|Renault Megane|A4|Jazz|Q7|A6|Accord|Tucson|206|Mondeo|Sonata|Fusion|Scorpio|XC90|Lupo|Ceed|Focus|Matiz|Yaris|Avensis|Chrysler|Lancer|Passat|RAV4|C2|Caliber|Colt|C5|6|Nissan Maxima|Q5|Getz|Camry|C4</param>
     <param name="Длина рулона, п.м." unit="">20</param>
@@ -25368,7 +25368,7 @@
     <vendorCode>163102</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>53</quantity_in_stock>
+    <quantity_in_stock>52</quantity_in_stock>
     <param name="Диаметр" unit="см">28</param>
     <param name="Максимальная нагрузка" unit="кг">140</param>
     <param name="Материал">Металл</param>
@@ -35200,7 +35200,7 @@
     <vendorCode>1003-03К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вес" unit="кг">22</param>
     <param name="Высота" unit="см">100</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -37354,11 +37354,11 @@
     <vendorCode>EF-AWTS-550</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вес" unit="кг">10</param>
     <param name="Количество утяжелителей">2</param>
     <param name="Особенности">Подходит для ног и рук|Неопреновое покрытие</param>
-    <param name="Тип" unit="">5</param>
+    <param name="Тип">Жилет</param>
   </offer>
   <offer id="1360701803" available="true">
     <url>https://proekt24.com/p1360701803-bokserskie-perchatki-boxer.html</url>
@@ -38250,7 +38250,7 @@
     <vendorCode>62712</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>387</quantity_in_stock>
+    <quantity_in_stock>363</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -38492,7 +38492,7 @@
     <vendorCode>62722</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>34</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Цвет">Коричневый</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
@@ -39701,7 +39701,7 @@
     <vendorCode>62796</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>45</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для балконов|Для кровли|Для стен|Для фасадов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -40739,7 +40739,7 @@
     <vendorCode>64023</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>160</quantity_in_stock>
+    <quantity_in_stock>159</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентная</param>
     <param name="Консистенция">Полужидкая</param>
     <param name="Назначение материала">Для полов|Для стен|Для фасадов|Для подвалов|Для резервуаров|Для кровли|Для цоколей</param>
@@ -45007,7 +45007,7 @@
     <vendorCode>ВП102/13</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>844</quantity_in_stock>
+    <quantity_in_stock>44</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Внешний диаметр трубы" unit="мм">102</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
@@ -46822,9 +46822,8 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>10</quantity_in_stock>
     <param name="Состояние">Новое</param>
-    <param name="Цвет">Зелёный</param>
-    <param name="Тип">Универсальный</param>
     <param name="Длина" unit="">25</param>
+    <param name="Цвет" unit="">Зелёный</param>
   </offer>
   <offer id="1517279830" available="true">
     <url>https://proekt24.com/p1517279830-ortopedicheskaya-podushka-valik.html</url>
@@ -53843,7 +53842,7 @@
     <vendorCode>900051</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1043</quantity_in_stock>
+    <quantity_in_stock>1033</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -58668,7 +58667,7 @@
     <vendorCode>35/25П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>176</quantity_in_stock>
+    <quantity_in_stock>174</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -70244,7 +70243,7 @@
     <vendorCode>81113</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>137</quantity_in_stock>
+    <quantity_in_stock>132</quantity_in_stock>
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Крыша|Двери|Крышка багажника|Дверные панели|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">12</param>
@@ -73095,6 +73094,8 @@
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">2</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Совместимость с маркой">Peugeot|Fiat|Volvo|Ford|Honda|Hyundai|Renault|Audi|Mitsubishi|Chrysler|Citroen|BMW|Dodge|Nissan|Daewoo|Mazda|Kia|Toyota|Volkswagen</param>
+    <param name="Совместимость с моделью">Focus|Jazz|Passat|Sebring|Camry|A6|Avensis|Yaris|Sonata|Chrysler|Nissan Maxima|Ceed|XC90|Dodge|Santa Fe|Q5|Scorpio|Lancer|Civic|C4|206|Colt|Renault Megane|A4|C5|Fiesta|Almera|RAV4|Accord|Caliber|Getz|Primera|Tucson|Matiz|Lupo|Fusion|Tiguan|6|C2|Mondeo|Q7</param>
   </offer>
   <offer id="1799473103" available="true">
     <url>https://proekt24.com/p1799473103-vibroizolyatsiya-acoustics-evolution.html</url>
@@ -73127,6 +73128,8 @@
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">3</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Совместимость с маркой">Ford|Honda|Toyota|Kia|Mazda|Peugeot|Nissan|Audi|BMW|Renault|Fiat|Dodge|Hyundai|Chrysler|Citroen|Daewoo|Volkswagen|Volvo|Mitsubishi</param>
+    <param name="Совместимость с моделью">Sonata|Primera|Matiz|A6|A4|Accord|Q7|Colt|Avensis|Sebring|C2|Mondeo|Getz|RAV4|XC90|Camry|Passat|Fusion|Ceed|6|Jazz|Fiesta|Nissan Maxima|C5|Lupo|Dodge|Chrysler|Caliber|Tiguan|Tucson|Almera|Scorpio|Focus|Renault Megane|Yaris|Santa Fe|Lancer|Q5|Peugeot 206|Civic|C4|206</param>
   </offer>
   <offer id="1799479297" available="true">
     <url>https://proekt24.com/p1799479297-vibroizolyatsiya-acoustics-evolution.html</url>
@@ -73159,6 +73162,8 @@
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">4</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Совместимость с маркой">Daewoo|Audi|Dodge|Nissan|Mitsubishi|Fiat|Mazda|BMW|Toyota|Honda|Peugeot|Chrysler|Volkswagen|Kia|Ford|Volvo|Renault|Citroen|Hyundai</param>
+    <param name="Совместимость с моделью">Fiesta|Q7|6|A6|Fusion|Avensis|Dodge|Renault Megane|A4|Matiz|Lupo|Sonata|Focus|Scorpio|Yaris|Q5|Peugeot 206|Accord|Almera|Jazz|C4|C2|RAV4|Tiguan|Santa Fe|Tucson|Mondeo|Passat|Ceed|Chrysler|Primera|Sebring|Nissan Maxima|Caliber|Getz|Colt|Lancer|Civic|Camry|XC90|C5|206</param>
   </offer>
   <offer id="1799496057" available="true">
     <url>https://proekt24.com/p1799496057-detskij-kovrik-pazl.html</url>
@@ -73307,6 +73312,8 @@
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">3</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Совместимость с маркой">Nissan|Kia|Mazda|Toyota|BMW|Dodge|Peugeot|Renault|Hyundai|Volkswagen|Citroen|Fiat|Volvo|Ford|Audi|Daewoo|Chrysler|Mitsubishi|Honda</param>
+    <param name="Совместимость с моделью">Sonata|Nissan Maxima|Q7|Avensis|XC90|6|Colt|Civic|Tucson|Passat|Renault Megane|Accord|Peugeot 206|A4|Sebring|Lupo|Tiguan|Focus|C5|Dodge|Lancer|C2|Yaris|Camry|Fusion|C4|Ceed|Jazz|RAV4|Matiz|Caliber|Primera|Almera|Q5|Mondeo|Santa Fe|Scorpio|Chrysler|A6|Fiesta|Getz</param>
   </offer>
   <offer id="1799594467" available="true">
     <url>https://proekt24.com/p1799594467-vibroizolyatsiya-acoustics-xtreme.html</url>
@@ -73338,6 +73345,8 @@
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">4</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Совместимость с маркой">Ford|Honda|Toyota|Kia|Mazda|Peugeot|Nissan|Audi|BMW|Renault|Fiat|Dodge|Hyundai|Chrysler|Citroen|Daewoo|Volkswagen|Volvo|Mitsubishi</param>
+    <param name="Совместимость с моделью">Sonata|Primera|Matiz|A6|A4|Accord|Q7|Colt|Avensis|Sebring|C2|Mondeo|Getz|RAV4|XC90|Camry|Passat|Fusion|Ceed|6|Jazz|Fiesta|Nissan Maxima|C5|Lupo|Dodge|Chrysler|Caliber|Tiguan|Tucson|Almera|Scorpio|Focus|Renault Megane|Yaris|Santa Fe|Lancer|Q5|Peugeot 206|Civic|C4|206</param>
   </offer>
   <offer id="1799644899" available="true">
     <url>https://proekt24.com/p1799644899-vibroizolyatsiya-acoustics-profy.html</url>
@@ -73369,6 +73378,8 @@
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">1.8</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Совместимость с маркой">Ford|Kia|Audi|Chrysler|Dodge|Volkswagen|Peugeot|Mitsubishi|Honda|Daewoo|Hyundai|Renault|BMW|Toyota|Fiat|Volvo|Nissan|Mazda|Citroen</param>
+    <param name="Совместимость с моделью">Colt|Civic|Accord|Fusion|Camry|Santa Fe|Avensis|Matiz|Q5|Almera|Chrysler|Focus|Dodge|Primera|C4|A6|Mondeo|Tiguan|Jazz|Caliber|6|C5|Nissan Maxima|XC90|Ceed|Sonata|Getz|RAV4|Yaris|Lupo|Lancer|Renault Megane|Sebring|Passat|Q7|206|Fiesta|Tucson|Scorpio|A4|C2|Peugeot 206</param>
   </offer>
   <offer id="1799652153" available="true">
     <url>https://proekt24.com/p1799652153-vibroizolyatsiya-acoustics-profy.html</url>
@@ -73400,6 +73411,8 @@
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">2.2</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Совместимость с маркой">Nissan|Kia|Mazda|Toyota|BMW|Dodge|Peugeot|Renault|Hyundai|Volkswagen|Citroen|Fiat|Volvo|Ford|Audi|Daewoo|Chrysler|Mitsubishi|Honda</param>
+    <param name="Совместимость с моделью">Sonata|Nissan Maxima|Q7|Avensis|XC90|6|Colt|Civic|Tucson|Passat|Renault Megane|Accord|Peugeot 206|A4|Sebring|Lupo|Tiguan|Focus|C5|Dodge|Lancer|C2|Yaris|Camry|Fusion|C4|Ceed|Jazz|RAV4|Matiz|Caliber|Primera|Almera|Q5|Mondeo|Santa Fe|Scorpio|Chrysler|A6|Fiesta|Getz|206</param>
   </offer>
   <offer id="1799654004" available="true">
     <url>https://proekt24.com/p1799654004-vibroizolyatsiya-acoustics-profy.html</url>
@@ -73431,6 +73444,8 @@
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">3</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Совместимость с маркой">Volvo|Citroen|Dodge|Peugeot|Daewoo|Hyundai|Audi|Volkswagen|Kia|Fiat|Ford|Mitsubishi|Honda|BMW|Renault|Nissan|Toyota|Chrysler|Mazda</param>
+    <param name="Совместимость с моделью">Caliber|Tiguan|Lupo|Colt|Getz|Dodge|Fusion|C5|Camry|Fiesta|Nissan Maxima|Matiz|6|Passat|Lancer|Avensis|Ceed|A6|Jazz|Primera|Tucson|Focus|Yaris|Civic|Scorpio|A4|Chrysler|Q5|Renault Megane|Almera|Accord|Sebring|RAV4|Santa Fe|Peugeot 206|C4|C2|Q7|XC90|Sonata|Mondeo</param>
   </offer>
   <offer id="1799656593" available="true">
     <url>https://proekt24.com/p1799656593-vibroizolyatsiya-acoustics-profy.html</url>
@@ -73462,6 +73477,8 @@
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">4</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Совместимость с маркой">Volkswagen|Ford|Audi|Kia|Chrysler|BMW|Renault|Mazda|Toyota|Mitsubishi|Daewoo|Peugeot|Citroen|Fiat|Nissan|Honda|Volvo|Dodge|Hyundai</param>
+    <param name="Совместимость с моделью">Tucson|Q5|Nissan Maxima|Chrysler|Jazz|Lupo|Mondeo|Fiesta|XC90|C2|206|Colt|Scorpio|Q7|Renault Megane|Focus|A4|Primera|Caliber|Accord|Lancer|A6|Matiz|Yaris|Fusion|Santa Fe|Getz|6|Ceed|Civic|C4|Passat|Tiguan|Sonata|Camry|Almera|C5|Dodge|Sebring|RAV4|Avensis</param>
   </offer>
   <offer id="1799664162" available="true">
     <url>https://proekt24.com/p1799664162-vibroshumoizolyatsiya-acoustics-multi.html</url>
@@ -73647,6 +73664,8 @@
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">0.2</param>
     <param name="Ширина листа" unit="см">50</param>
+    <param name="Совместимость с маркой">Kia|Chrysler|Dodge|Renault|BMW|Daewoo|Mitsubishi|Citroen|Volvo|Hyundai|Toyota|Mazda|Ford|Audi|Volkswagen|Fiat|Nissan|Peugeot|Honda</param>
+    <param name="Совместимость с моделью">Scorpio|Santa Fe|A6|Camry|Ceed|Q5|Civic|Chrysler|Avensis|Dodge|Caliber|Q7|Getz|Fiesta|Accord|Sonata|Fusion|Mondeo|6|A4|Matiz|C5|Tiguan|Colt|Yaris|Almera|Nissan Maxima|Tucson|Lancer|Focus|Jazz|C2|Primera|Sebring|206|RAV4|Passat|C4|XC90|Lupo|Renault Megane|Peugeot 206</param>
   </offer>
   <offer id="1799772979" available="true">
     <url>https://proekt24.com/p1799772979-shumopogloschayuschij-mat-acoustics.html</url>
@@ -74263,6 +74282,7 @@
     <quantity_in_stock />
     <param name="Цвет">Черный</param>
     <param name="Материал">Резина</param>
+    <param name="Совместимость с маркой">ЗИМ</param>
     <param name="Длина" unit="">1400</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Толщина (мм)" unit="">12</param>
@@ -74823,7 +74843,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>252</quantity_in_stock>
+    <quantity_in_stock>251</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -76718,6 +76738,8 @@
     <param name="Тип">Шумоизоляция</param>
     <param name="Применение материала">Двери|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника</param>
     <param name="Толщина" unit="мм">4</param>
+    <param name="Совместимость с маркой">Daewoo|Peugeot|Volvo|Nissan|Citroen|Honda|Toyota|Renault|Audi|BMW|Chrysler|Fiat|Mazda|Dodge|Hyundai|Ford|Kia|Volkswagen|Mitsubishi</param>
+    <param name="Совместимость с моделью">Tiguan|Sonata|Scorpio|Lancer|Accord|Almera|Getz|Colt|Santa Fe|C2|Jazz|XC90|A4|Primera|Sebring|Fusion|6|Avensis|Q5|A6|Lupo|Ceed|Camry|Caliber|Fiesta|Chrysler|Civic|Nissan Maxima|Q7|Dodge|RAV4|Yaris|Peugeot 206|Mondeo|Focus|C5|Matiz|Renault Megane|Passat|C4|Tucson</param>
     <param name="Форма поставки материала" unit="">Рулон</param>
     <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Эластичность материала" unit="">Да</param>
@@ -117744,7 +117766,7 @@
     <vendorCode>9004019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -132479,7 +132501,7 @@
     <vendorCode>5005030</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Назначение материала">Виброизоляция|Улучшение акустики помещений|Снижение ударного шума|Звукоизоляция</param>
     <param name="Область применения">Для стен|Для пола|Для потолков|Для каркасных конструкций|Для инженерного оборудования</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -135071,7 +135093,7 @@
     <name>Лист ЭВА (EVA) черный 2500×1450х10 мм (автоковер, ромб)</name>
     <vendorCode>889777</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Высота" unit="мм">10</param>
     <param name="Длина" unit="мм">2500</param>
     <param name="Цвет">Черный</param>
