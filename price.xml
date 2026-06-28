@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-27 17:00">
+<yml_catalog date="2026-06-28 09:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -16541,7 +16541,7 @@
     <vendorCode>63325</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>111</quantity_in_stock>
+    <quantity_in_stock>110</quantity_in_stock>
     <param name="Верхние покрытие">Полиэстер</param>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
@@ -17106,7 +17106,7 @@
     <vendorCode>63320</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>58</quantity_in_stock>
+    <quantity_in_stock>57</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">80</param>
     <param name="Материал мембраны">Полипропилен</param>
@@ -46299,7 +46299,7 @@
     <param name="Кол-во элементов" unit="">10</param>
     <param name="Страна бренда" unit="">Украина</param>
   </offer>
-  <offer id="1517142838" available="true">
+  <offer id="1517142838" available="false">
     <url>https://proekt24.com/p1517142838-ortopedicheskij-massazhnyj-kovrik.html</url>
     <price>202</price>
     <price_old>240</price_old>
@@ -46314,7 +46314,7 @@
     <vendorCode>09681</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Длина" unit="см">26</param>
     <param name="Материал">Пластик</param>
     <param name="Складная конструкция для хранения и транспортировки">Да</param>
@@ -79564,7 +79564,7 @@
     <name>Коврик для спорта РИБАК 1100х600х4 зеленый тисненый</name>
     <vendorCode>Р11006004ЗТ1</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Длина" unit="см">110</param>
     <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -129943,6 +129943,8 @@
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
     <param name="Толщина" unit="мм">2</param>
+    <param name="Совместимость с маркой">Chrysler|Mitsubishi|Peugeot|Renault|Ford|Kia|Toyota|Dodge|Volkswagen|Audi|Fiat|Nissan|Mazda|Daewoo|Citroen|BMW|Hyundai|Volvo|Honda</param>
+    <param name="Совместимость с моделью">Chrysler|Mondeo|Matiz|Peugeot 206|C4|Renault Megane|Fusion|Passat|RAV4|Tucson|A6|C5|Focus|Dodge|Avensis|Getz|Tiguan|Q7|Camry|Caliber|Colt|Lupo|Nissan Maxima|Lancer|Sebring|6|Accord|A4|C2|Yaris|Fiesta|Almera|Sonata|Jazz|Ceed|Civic|Q5|Primera|XC90|Santa Fe|Scorpio</param>
     <param name="Длина рулона, п.м." unit="">50</param>
     <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Форма поставки материала" unit="">Рулон</param>
@@ -131000,6 +131002,8 @@
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
     <param name="Толщина" unit="мм">2</param>
+    <param name="Совместимость с маркой">Audi|Kia|Daewoo|Fiat|Ford|Nissan|Citroen|Mitsubishi|Volvo|Dodge|Honda|Hyundai|BMW|Mazda|Toyota|Peugeot|Volkswagen|Renault|Chrysler</param>
+    <param name="Совместимость с моделью">A4|A6|RAV4|Fusion|206|Civic|Accord|Ceed|Matiz|Passat|C5|Almera|Camry|6|Santa Fe|Tucson|Avensis|Colt|Jazz|Sonata|Tiguan|Sebring|Lupo|Focus|Renault Megane|Mondeo|C4|Dodge|Getz|Scorpio|Fiesta|Caliber|Q5|Lancer|Primera|Yaris|XC90|Nissan Maxima|Q7|C2|Chrysler</param>
     <param name="Длина рулона, п.м." unit="">50</param>
     <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Форма поставки материала" unit="">Рулон</param>
