@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-28 09:00">
+<yml_catalog date="2026-06-28 17:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -14582,7 +14582,7 @@
     <vendorCode>23030</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>50</quantity_in_stock>
+    <quantity_in_stock>48</quantity_in_stock>
     <param name="Назначение материала">Снижение ударного шума|Виброизоляция|Улучшение акустики помещений|Звукоизоляция</param>
     <param name="Область применения">Для инженерного оборудования|Для потолков|Для стен</param>
     <param name="Плотность" unit="кг/м³">33</param>
@@ -16541,7 +16541,7 @@
     <vendorCode>63325</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>110</quantity_in_stock>
+    <quantity_in_stock>111</quantity_in_stock>
     <param name="Верхние покрытие">Полиэстер</param>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
@@ -17106,7 +17106,7 @@
     <vendorCode>63320</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>57</quantity_in_stock>
+    <quantity_in_stock>58</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Максимальная рабочая температура" unit="град.">80</param>
     <param name="Материал мембраны">Полипропилен</param>
@@ -19055,7 +19055,7 @@
     <vendorCode>889015</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>849</quantity_in_stock>
+    <quantity_in_stock>847</quantity_in_stock>
     <param name="Совместимость с маркой">Dodge|BMW|Hyundai|Mazda|Nissan|Mitsubishi|Fiat|Ford|Daewoo|Honda|Volkswagen|Audi|Toyota|Citroen|Kia|Renault|Volvo|Peugeot|Chrysler</param>
     <param name="Совместимость с моделью">Avensis|Sonata|Getz|Fusion|Camry|A6|Fiesta|Scorpio|Chrysler|Primera|Dodge|Q7|Accord|Tiguan|Civic|Lancer|Nissan Maxima|Q5|6|Jazz|C2|Caliber|Passat|Almera|Matiz|C5|RAV4|Santa Fe|Peugeot 206|Colt|XC90|Yaris|Focus|Mondeo|Tucson|Lupo|Ceed|C4|A4|Renault Megane|Sebring</param>
     <param name="Длина рулона, п.м." unit="">20</param>
@@ -23241,7 +23241,7 @@
     <vendorCode>11361</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>908</quantity_in_stock>
+    <quantity_in_stock>904</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Применение материала">Колесные арки</param>
@@ -41143,7 +41143,7 @@
     <vendorCode>500102</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2229</quantity_in_stock>
+    <quantity_in_stock>2228</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м³">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -46299,7 +46299,7 @@
     <param name="Кол-во элементов" unit="">10</param>
     <param name="Страна бренда" unit="">Украина</param>
   </offer>
-  <offer id="1517142838" available="false">
+  <offer id="1517142838" available="true">
     <url>https://proekt24.com/p1517142838-ortopedicheskij-massazhnyj-kovrik.html</url>
     <price>202</price>
     <price_old>240</price_old>
@@ -46314,7 +46314,7 @@
     <vendorCode>09681</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Длина" unit="см">26</param>
     <param name="Материал">Пластик</param>
     <param name="Складная конструкция для хранения и транспортировки">Да</param>
@@ -79564,15 +79564,15 @@
     <name>Коврик для спорта РИБАК 1100х600х4 зеленый тисненый</name>
     <vendorCode>Р11006004ЗТ1</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Длина" unit="см">110</param>
-    <param name="Количество слоев">Однослойные</param>
     <param name="Материал">Пенополиэтилен</param>
-    <param name="Плотность материала" unit="кг/м3">33</param>
-    <param name="Тип коврика">Каремат</param>
     <param name="Толщина" unit="мм">4</param>
     <param name="Цвет">Зелёный</param>
     <param name="Ширина" unit="см">60</param>
+    <param name="Тип коврика" unit="">Каремат</param>
+    <param name="Плотность материала" unit="">33.0</param>
+    <param name="Количество слоев" unit="">Однослойные</param>
   </offer>
   <offer id="1927179989" available="false">
     <url>https://proekt24.com/p1927179989-kovrik-dlya-fitnesa.html</url>
