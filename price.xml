@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-07 17:00">
+<yml_catalog date="2026-07-08 09:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="46.79199" />
+      <currency id="USD" rate="46.73529" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="53.41308" />
+      <currency id="EUR" rate="53.42778" />
     </currencies>
     <categories>
       <category id="103641628" parentId="908017">Бандажные хомуты</category>
@@ -4105,7 +4105,7 @@
     <vendorCode>500192</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1063</quantity_in_stock>
+    <quantity_in_stock>1023</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м3">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -40048,7 +40048,7 @@
     <vendorCode>500102</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2151</quantity_in_stock>
+    <quantity_in_stock>2451</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Плотность" unit="кг/м³">55</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -44595,11 +44595,11 @@
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>1</quantity_in_stock>
-    <param name="Материал">Пластик</param>
     <param name="Состояние">Новое</param>
-    <param name="Толщина" unit="см">9</param>
-    <param name="Форма">Круглая</param>
     <param name="Диаметр, мм" unit="">160</param>
+    <param name="Форма" unit="">Круглая</param>
+    <param name="Толщина" unit="">9.0</param>
+    <param name="Материал" unit="">Пластик</param>
   </offer>
   <offer id="1517142819" available="true">
     <url>https://proekt24.com/p1517142819-ortopedicheskij-massazhnyj-kovrik.html</url>
@@ -64130,7 +64130,7 @@
     <vendorCode>900037</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>618</quantity_in_stock>
+    <quantity_in_stock>598</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Длина" unit="м">50</param>
@@ -65699,7 +65699,7 @@
     <vendorCode>233453У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1660</quantity_in_stock>
+    <quantity_in_stock>1662</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">Резинка</param>
     <param name="Ширина, мм" unit="">30</param>
@@ -65719,7 +65719,7 @@
     <vendorCode>180060010СЕ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>312</quantity_in_stock>
+    <quantity_in_stock>313</quantity_in_stock>
     <param name="Тип коврика">Каремат</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Количество слоев">Однослойные</param>
@@ -71614,7 +71614,7 @@
     <vendorCode>56395</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>309</quantity_in_stock>
+    <quantity_in_stock>304</quantity_in_stock>
     <param name="Вес" unit="кг">0.95</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Крыша|Пол багажника|Пол автомобиля|Капот|Двери|Дверные панели|Крышка багажника|Стенки багажника|Потолок автомобиля|Колесные арки</param>
@@ -72627,7 +72627,7 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>186</quantity_in_stock>
+    <quantity_in_stock>176</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -72658,7 +72658,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>201</quantity_in_stock>
+    <quantity_in_stock>199</quantity_in_stock>
     <param name="Применение материала">Пол багажника|Стенки багажника|Потолок автомобиля|Пол автомобиля|Двери</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Тип">Шумоизоляция</param>
@@ -86714,7 +86714,7 @@
     <param name="Длина" unit="">150.0</param>
     <param name="Тип" unit="">Аквапалка</param>
   </offer>
-  <offer id="2021494188" available="false">
+  <offer id="2021494188" available="true">
     <url>https://proekt24.com/p2021494188-akvapalka-nudls-dlya.html</url>
     <price>126</price>
     <price_old>150</price_old>
@@ -86731,7 +86731,7 @@
     <vendor>Изолон</vendor>
     <vendorCode>889376</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Цвет">Желтый</param>
     <param name="Диаметр" unit="">6.0</param>
     <param name="Длина" unit="">150.0</param>
@@ -123568,7 +123568,7 @@
     <vendorCode>889610</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Цвет">Синий</param>
     <param name="Диаметр" unit="">6</param>
     <param name="Длина" unit="">150</param>
@@ -126310,7 +126310,7 @@
     <vendorCode>889680</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>74</quantity_in_stock>
+    <quantity_in_stock>44</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
