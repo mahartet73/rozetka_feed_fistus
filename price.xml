@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-31 17:00">
+<yml_catalog date="2026-08-01 09:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="46.92618" />
+      <currency id="USD" rate="46.871475" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="53.838435" />
+      <currency id="EUR" rate="53.836545" />
     </currencies>
     <categories>
       <category id="105213334" parentId="2341984">Бутилкаучуковые шнуры</category>
@@ -160,26 +160,45 @@
       <category id="109634325" parentId="105796939">Супердиффузионные мембраны</category>
       <category id="109634387" parentId="105796939">Пароизоляционные мембраны</category>
       <category id="122264427" parentId="122205579">Леса и другие конструкции для ремонтно-строительных работ</category>
+      <category id="113645999" parentId="13883140">Вспененный этиленвинилацетат (материал EVA) в листах</category>
       <category id="18716300" parentId="3679790">Скорлупа ППУ армированная фольгой</category>
+      <category id="98428566" parentId="1932799">Тенты туристические</category>
       <category id="4454223" parentId="5893864">Газовспененный полиэтилен листовой</category>
+      <category id="13552512" parentId="5893864">Физически сшитые полиэтилены</category>
+      <category id="12824490" parentId="5893864">Уплотнительные жгуты для швов</category>
       <category id="7966369" parentId="3679790">Скорлупа ППУ, трубная изоляция пенополиуретановая</category>
       <category id="7966390" parentId="3679790">Скорлупа ППУ с фольгопергамином, фольгоизолом</category>
       <category id="98480427" parentId="2366740">Каучуковая изоляция толщина 13 мм</category>
       <category id="111894907" parentId="2341984">Скотчи строительные</category>
       <category id="130863419" parentId="128785722">Пленки упаковочные</category>
       <category id="5863938" parentId="1932799">Коврики, карематы для спорта, фитнеса, йоги, туризма и отдыха</category>
+      <category id="6037166" parentId="5863938">Сидушки туристические</category>
+      <category id="3682513" parentId="908017">Базальтовая скорлупа, базальтовые цилиндры</category>
       <category id="3531076" parentId="13552512">Физически сшитый вспененный пенополиэтилен</category>
       <category id="7771509" parentId="3682513">Базальтовая скорлупа, базальтовые цилиндры с фольгой</category>
       <category id="121445171" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 100 мм</category>
+      <category id="94543941">Товары для дома</category>
+      <category id="5893864">Вспененный полиэтилен, пенополиэтилен</category>
       <category id="2341984">Ленты, скотчи, уплотнители</category>
+      <category id="97783027">Кровельные герметики и мастики</category>
       <category id="13883140">Вспененный этиленвинилацетат (материал EVA)</category>
+      <category id="908017">Трубная изоляция, утеплители для труб</category>
+      <category id="1932799">Товары для спорта, отдыха, туризма</category>
+      <category id="111619363">Тактическое снаряжение</category>
+      <category id="105419513">Материалы для шумоизоляции помещений</category>
       <category id="12527024" parentId="938662">Шумоизоляция автомобиля (материалы, шумка, сплэн, обесшумка авто)</category>
       <category id="133605716">Металлический профиль</category>
       <category id="98480428" parentId="2366740">Каучуковая изоляция толщина 19 мм</category>
+      <category id="109333648" parentId="2366740">Каучуковая изоляция толщина 25 мм</category>
       <category id="98480425" parentId="2366740">Каучуковая изоляция толщина 6 мм</category>
       <category id="98480426" parentId="2366740">Каучуковая изоляция толщина 9 мм</category>
+      <category id="153788979" parentId="138619474">Материалы для вибро и шумоизоляции автомобиля</category>
       <category id="23547055" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 40 мм</category>
       <category id="23547059" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 50 мм</category>
+      <category id="3530972" parentId="5893864">Газовспененные полиэтилены</category>
+      <category id="4453995" parentId="5893864">Газовспененный полиэтилен с фольгой</category>
+      <category id="4454011" parentId="5893864">Газовспененный полиэтилен фольгированный с двух сторон</category>
+      <category id="4454047" parentId="5893864">Газовспененный полиэтилен фольгированный самоклеющийся</category>
       <category id="137644541">Гидроизоляционные материалы</category>
       <category id="138619460">Спортивные товары</category>
       <category id="138619497" parentId="138619460">Боевые искусства</category>
@@ -197,16 +216,21 @@
       <category id="155337323">Тактическое снаряжение</category>
       <category id="155337324">BOXER-NEW</category>
       <category id="155337325">3D-печать</category>
+      <category id="155337327" parentId="155337309">Бутилкаучуковые шнуры</category>
       <category id="155337331" parentId="155337312">Газовспененный полиэтилен ламинированный</category>
       <category id="155337332" parentId="155337310">Спортивные маты</category>
       <category id="155337333" parentId="155337312">Газовспененный полиэтилен фольгированный</category>
       <category id="155337334" parentId="155337312">Химически сшитый полиэтилен</category>
+      <category id="155337335" parentId="155337312">Физически сшитый вспененный полиэтилен с клеющей стороной</category>
       <category id="155337344" parentId="155337307">Гидроизоляционные мембраны</category>
       <category id="155337345" parentId="155337307">Ветроизоляционные мембраны</category>
       <category id="155337346" parentId="155337307">Супердиффузионные мембраны</category>
       <category id="155337347" parentId="155337309">Ленты с фольгированной основой</category>
+      <category id="155337362" parentId="155337313">Вспененный каучук фольгированный</category>
+      <category id="155337350" parentId="155337309">Лента конька</category>
       <category id="155337368" parentId="155337318">Покрытие для труб и теплоизоляции</category>
       <category id="155337371" parentId="155337312">Защитные профили</category>
+      <category id="155337377" parentId="155337310">Хулахуп, обруч для похудения, талии, массажный</category>
       <category id="155337394" parentId="155337312">Химически сшитый полиэтилен ТУРЦИЯ</category>
       <category id="155337395" parentId="155337315">ЕВА автокаремат</category>
       <category id="155337396" parentId="155337306">Лента уплотнительная Дихтунг (Дихтунгсбанд)</category>
@@ -215,27 +239,66 @@
       <category id="155337399" parentId="155337325">PETG филамент</category>
       <category id="155337400" parentId="155337324">Снято с производства</category>
       <category id="155337401" parentId="155337315">Мастика, мовиль, антигравий</category>
+      <category id="155337402" parentId="155337326">Пароизоляционные ленты с утеплителем</category>
+      <category id="155337403" parentId="155337326">Гидро- и пароизоляционные ленты для монтажа окон</category>
+      <category id="155337404" parentId="155337363">Макивары (большие и малые)</category>
+      <category id="155337405" parentId="155337363">Груши, боксерские мешки</category>
+      <category id="155337406" parentId="155337363">Перчатки для бокса и единоборств</category>
+      <category id="155337407" parentId="155337363">Шлемы для бокса и единоборств</category>
       <category id="155337425" parentId="155337373">Скорлупа ППУ, трубная изоляция с пергамином</category>
       <category id="155337426" parentId="155337373">Скорлупа ППУ, трубная изоляция пенополиуретановая</category>
       <category id="155337427" parentId="155337373">Скорлупа ППУ с фольгопергамином, фольгоизолом</category>
       <category id="155337428" parentId="155337373">Скорлупа ППУ армированная фольгой</category>
+      <category id="155337432" parentId="155337378">Ролики для пресса</category>
       <category id="155337433" parentId="155337378">Фитнес резинки</category>
       <category id="155337434" parentId="155337378">Фитболы</category>
       <category id="155337435" parentId="155337378">Аквааэробика</category>
       <category id="155337436" parentId="155337372">Изоляция труб TUBEX</category>
       <category id="155337437" parentId="155337343">Каучуковая изоляция толщина 25 мм</category>
+      <category id="155337444" parentId="155337406">Боксерские перчатки 6 унций</category>
+      <category id="155337445" parentId="155337406">Боксерские перчатки 8 унций</category>
+      <category id="155337447" parentId="155337406">Боксерские перчатки 12 унций</category>
+      <category id="155337448" parentId="155337406">Боксерские перчатки 4 унции</category>
+      <category id="155337449" parentId="155337406">Тренировочные, снарядные перчатки</category>
+      <category id="155337450" parentId="155337406">Перчатки для единоборств</category>
+      <category id="155337451" parentId="155337406">Перчатки MMA</category>
+      <category id="155337452" parentId="155337406">Накладки для единоборств</category>
+      <category id="155337453" parentId="155337406">Боксерские перчатки 14 унций</category>
+      <category id="155337454" parentId="155337419">Утеплитель для труб из пенопласта, толщина 30 мм</category>
+      <category id="155337455" parentId="155337419">Утеплитель для труб из пенопласта, толщина 40 мм</category>
+      <category id="155337456" parentId="155337419">Утеплитель для труб из пенопласта, толщина 50 мм</category>
       <category id="155337470" parentId="155337430">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 40 мм</category>
+      <category id="155337474" parentId="155337430">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 80 мм</category>
       <category id="155337480" parentId="155337424">Утеплитель для труб из пенопласта с фольгой толщиной 80 мм</category>
       <category id="155337481" parentId="155337424">Утеплитель для труб из пенопласта с фольгой толщиной 90 мм</category>
+      <category id="155337306">Лента уплотнительная звукоизоляционная</category>
+      <category id="148777420">Перчатки для бокса и единоборств</category>
+      <category id="155337307">Строительные мембраны</category>
+      <category id="155337310">Товары для спорта, отдыха, туризма</category>
+      <category id="155337311">Товары для дома</category>
+      <category id="155337314">Инструменты</category>
+      <category id="155337319">Материалы для шумоизоляции помещений</category>
       <category id="155337320">Опалубка колонн</category>
       <category id="155337321">Теплоизоляционные материалы</category>
       <category id="155337322">Вспененный этиленвинилацетат (материал EVA)</category>
       <category id="155337326" parentId="155337309">Оконные ленты</category>
       <category id="155337328" parentId="155337307">Пароизоляционные мембраны</category>
       <category id="155337329" parentId="155337312">Газовспененный полиэтилен</category>
+      <category id="155337330" parentId="155337312">Газовспененный полиэтилен фольгированный самоклеющийся</category>
+      <category id="155337336" parentId="155337312">Химически сшитый полиэтилен в листах</category>
+      <category id="155337337" parentId="155337312">Химически сшитый полиэтилен самоклеющийся</category>
+      <category id="155337338" parentId="155337312">Физически сшитый полиэтилен фольгированный с клеящей стороной</category>
+      <category id="155337339" parentId="155337312">Изолон цветной</category>
+      <category id="155337340" parentId="155337313">Вспененный каучук</category>
+      <category id="155337341" parentId="155337313">Вспененный каучук самоклеющийся</category>
+      <category id="155337342" parentId="155337313">Вспененный каучук самоклеющийся фольгированный</category>
+      <category id="155337343" parentId="155337318">Каучуковая трубная изоляция</category>
+      <category id="155337348" parentId="155337309">Ленты с нетканным полотном</category>
       <category id="155337349" parentId="155337309">Ленты двухсторонние без основы</category>
       <category id="155337351" parentId="155337309">Демпферные ленты</category>
       <category id="155337352" parentId="155337313">Материалы для монтажа вспененного каучука</category>
+      <category id="155337353" parentId="155337313">Вспененный каучук ламинированный металлизированной пленкой</category>
+      <category id="155337354" parentId="155337312">Химически сшитый вспененный полиэтилен, самоклеющийся, фольгированный</category>
       <category id="155337355" parentId="155337312">Химически сшитый полиэтилен фольгированный</category>
       <category id="155337356" parentId="155337312">Газовспененный полиэтилен фольгированный с двух сторон</category>
       <category id="155337357" parentId="155337312">Газовспененный полиэтилен листовой</category>
@@ -251,108 +314,6 @@
       <category id="155337369" parentId="155337310">Коврики для фитнеса</category>
       <category id="155337370" parentId="155337318">Утеплитель для труб из пенопласта</category>
       <category id="155337372" parentId="155337318">Трубная изоляция, утеплители для труб</category>
-      <category id="155337388" parentId="155337315">Автомобильная шумоизоляция</category>
-      <category id="155337389" parentId="155337315">Автомобильный ковер, карпет, автолин</category>
-      <category id="155337390" parentId="155337315">Автомобильная вибро-шумоизоляция</category>
-      <category id="155337391" parentId="155337322">Вспененный этиленвинилацетат (материал EVA) в листах</category>
-      <category id="155337392" parentId="155337322">Вспененный этиленвинилацетат (материал EVA) в рулонах</category>
-      <category id="155337393" parentId="155337322">Вспененный этиленвинилацетат (материал EVA) в рулонах самоклеющийся</category>
-      <category id="155337415" parentId="155337343">Каучуковая изоляция толщина 6 мм</category>
-      <category id="155337416" parentId="155337343">Каучуковая изоляция толщина 9 мм</category>
-      <category id="155337417" parentId="155337343">Каучуковая изоляция толщина 13 мм</category>
-      <category id="155337418" parentId="155337343">Каучуковая изоляция толщина 19 мм</category>
-      <category id="155337419" parentId="155337370">Утеплитель для труб из пенопласта</category>
-      <category id="155337420" parentId="155337372">Изоляция труб UKRIZOL толщиной 6 мм</category>
-      <category id="155337429" parentId="155337374">Базальтовая скорлупа, базальтовые цилиндры без покрытия</category>
-      <category id="155337430" parentId="155337374">Базальтовая скорлупа, базальтовые цилиндры с фольгой</category>
-      <category id="155337431" parentId="155337383">Коврики Пазл для детей</category>
-      <category id="155337438" parentId="155337343">Каучуковая изоляция толщина 32 мм</category>
-      <category id="155337439" parentId="155337378">Лямки, ремни, крючки</category>
-      <category id="155337440" parentId="155337378">Жилет утяжелитель</category>
-      <category id="155337441" parentId="155337378">Стойки для отжиманий</category>
-      <category id="155337442" parentId="155337372">Изоляция труб UKRIZOL толщиной 25 мм</category>
-      <category id="155337443" parentId="155337363">Сувеніри боксерські</category>
-      <category id="155337446" parentId="155337406">Боксерские перчатки 10 унций</category>
-      <category id="155337464" parentId="155337429">Базальтовая скорлупа, базальтовые цилиндры толщиной 40 мм</category>
-      <category id="155337465" parentId="155337429">Базальтовая скорлупа, базальтовые цилиндры толщиной 50 мм</category>
-      <category id="155337477" parentId="155337424">Утеплитель для труб из пенопласта с фольгой толщиной 100 мм</category>
-      <category id="155337478" parentId="155337424">Утеплитель для труб из пенопласта с фольгой толщиной 70 мм</category>
-      <category id="155337479" parentId="155337424">Утеплитель для труб из пенопласта с фольгой толщиной 60 мм</category>
-      <category id="23547106" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 60 мм</category>
-      <category id="23547113" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 70 мм</category>
-      <category id="110212672" parentId="5863938">Коврики для пляжа</category>
-      <category id="111293232" parentId="1946861">Стойки для отжиманий</category>
-      <category id="113655210" parentId="13883140">Вспененный этиленвинилацетат (материал EVA) самоклеющийся</category>
-      <category id="118482895" parentId="5893864">Химически сшитый полиэтилен ТУРЦИЯ</category>
-      <category id="122338181" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 70 мм</category>
-      <category id="122741450" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 60 мм</category>
-      <category id="123067007" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 80 мм</category>
-      <category id="127460444" parentId="3676854">Изоляция труб Мерилон толщиной 25 мм</category>
-      <category id="128817937" parentId="2366740">Каучуковая изоляция толщина 32 мм</category>
-      <category id="129348803" parentId="2341984">Звукоизоляционная самоклеющаяся лента XPE</category>
-      <category id="113645999" parentId="13883140">Вспененный этиленвинилацетат (материал EVA) в листах</category>
-      <category id="98428566" parentId="1932799">Тенты туристические</category>
-      <category id="13552512" parentId="5893864">Физически сшитые полиэтилены</category>
-      <category id="12824490" parentId="5893864">Уплотнительные жгуты для швов</category>
-      <category id="6037166" parentId="5863938">Сидушки туристические</category>
-      <category id="3682513" parentId="908017">Базальтовая скорлупа, базальтовые цилиндры</category>
-      <category id="94543941">Товары для дома</category>
-      <category id="5893864">Вспененный полиэтилен, пенополиэтилен</category>
-      <category id="97783027">Кровельные герметики и мастики</category>
-      <category id="908017">Трубная изоляция, утеплители для труб</category>
-      <category id="1932799">Товары для спорта, отдыха, туризма</category>
-      <category id="111619363">Тактическое снаряжение</category>
-      <category id="105419513">Материалы для шумоизоляции помещений</category>
-      <category id="109333648" parentId="2366740">Каучуковая изоляция толщина 25 мм</category>
-      <category id="153788979" parentId="138619474">Материалы для вибро и шумоизоляции автомобиля</category>
-      <category id="3530972" parentId="5893864">Газовспененные полиэтилены</category>
-      <category id="4453995" parentId="5893864">Газовспененный полиэтилен с фольгой</category>
-      <category id="4454011" parentId="5893864">Газовспененный полиэтилен фольгированный с двух сторон</category>
-      <category id="4454047" parentId="5893864">Газовспененный полиэтилен фольгированный самоклеющийся</category>
-      <category id="155337327" parentId="155337309">Бутилкаучуковые шнуры</category>
-      <category id="155337335" parentId="155337312">Физически сшитый вспененный полиэтилен с клеющей стороной</category>
-      <category id="155337362" parentId="155337313">Вспененный каучук фольгированный</category>
-      <category id="155337350" parentId="155337309">Лента конька</category>
-      <category id="155337377" parentId="155337310">Хулахуп, обруч для похудения, талии, массажный</category>
-      <category id="155337402" parentId="155337326">Пароизоляционные ленты с утеплителем</category>
-      <category id="155337403" parentId="155337326">Гидро- и пароизоляционные ленты для монтажа окон</category>
-      <category id="155337404" parentId="155337363">Макивары (большие и малые)</category>
-      <category id="155337405" parentId="155337363">Груши, боксерские мешки</category>
-      <category id="155337406" parentId="155337363">Перчатки для бокса и единоборств</category>
-      <category id="155337407" parentId="155337363">Шлемы для бокса и единоборств</category>
-      <category id="155337432" parentId="155337378">Ролики для пресса</category>
-      <category id="155337444" parentId="155337406">Боксерские перчатки 6 унций</category>
-      <category id="155337445" parentId="155337406">Боксерские перчатки 8 унций</category>
-      <category id="155337447" parentId="155337406">Боксерские перчатки 12 унций</category>
-      <category id="155337448" parentId="155337406">Боксерские перчатки 4 унции</category>
-      <category id="155337449" parentId="155337406">Тренировочные, снарядные перчатки</category>
-      <category id="155337450" parentId="155337406">Перчатки для единоборств</category>
-      <category id="155337451" parentId="155337406">Перчатки MMA</category>
-      <category id="155337452" parentId="155337406">Накладки для единоборств</category>
-      <category id="155337453" parentId="155337406">Боксерские перчатки 14 унций</category>
-      <category id="155337454" parentId="155337419">Утеплитель для труб из пенопласта, толщина 30 мм</category>
-      <category id="155337455" parentId="155337419">Утеплитель для труб из пенопласта, толщина 40 мм</category>
-      <category id="155337456" parentId="155337419">Утеплитель для труб из пенопласта, толщина 50 мм</category>
-      <category id="155337474" parentId="155337430">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 80 мм</category>
-      <category id="155337306">Лента уплотнительная звукоизоляционная</category>
-      <category id="148777420">Перчатки для бокса и единоборств</category>
-      <category id="155337307">Строительные мембраны</category>
-      <category id="155337310">Товары для спорта, отдыха, туризма</category>
-      <category id="155337311">Товары для дома</category>
-      <category id="155337314">Инструменты</category>
-      <category id="155337319">Материалы для шумоизоляции помещений</category>
-      <category id="155337330" parentId="155337312">Газовспененный полиэтилен фольгированный самоклеющийся</category>
-      <category id="155337336" parentId="155337312">Химически сшитый полиэтилен в листах</category>
-      <category id="155337337" parentId="155337312">Химически сшитый полиэтилен самоклеющийся</category>
-      <category id="155337338" parentId="155337312">Физически сшитый полиэтилен фольгированный с клеящей стороной</category>
-      <category id="155337339" parentId="155337312">Изолон цветной</category>
-      <category id="155337340" parentId="155337313">Вспененный каучук</category>
-      <category id="155337341" parentId="155337313">Вспененный каучук самоклеющийся</category>
-      <category id="155337342" parentId="155337313">Вспененный каучук самоклеющийся фольгированный</category>
-      <category id="155337343" parentId="155337318">Каучуковая трубная изоляция</category>
-      <category id="155337348" parentId="155337309">Ленты с нетканным полотном</category>
-      <category id="155337353" parentId="155337313">Вспененный каучук ламинированный металлизированной пленкой</category>
-      <category id="155337354" parentId="155337312">Химически сшитый вспененный полиэтилен, самоклеющийся, фольгированный</category>
       <category id="155337373" parentId="155337318">Изоляция труб ППУ, скорлупы ППУ</category>
       <category id="155337374" parentId="155337318">Базальтовая скорлупа, базальтовые цилиндры</category>
       <category id="155337375" parentId="155337318">Бандажные хомуты</category>
@@ -367,16 +328,38 @@
       <category id="155337386" parentId="155337311">Детская безопасность</category>
       <category id="155337387" parentId="155337315">Автомобильная виброизоляция</category>
       <category id="155337379" parentId="155337579">Массажные коврики</category>
+      <category id="155337388" parentId="155337315">Автомобильная шумоизоляция</category>
+      <category id="155337389" parentId="155337315">Автомобильный ковер, карпет, автолин</category>
+      <category id="155337390" parentId="155337315">Автомобильная вибро-шумоизоляция</category>
+      <category id="155337391" parentId="155337322">Вспененный этиленвинилацетат (материал EVA) в листах</category>
+      <category id="155337392" parentId="155337322">Вспененный этиленвинилацетат (материал EVA) в рулонах</category>
+      <category id="155337393" parentId="155337322">Вспененный этиленвинилацетат (материал EVA) в рулонах самоклеющийся</category>
       <category id="155337409" parentId="155337363">Защитная экипировка для единоборств</category>
       <category id="155337410" parentId="155337363">Капы,бинты</category>
       <category id="155337411" parentId="155337361">Аксессуары к велосипедам</category>
       <category id="155337412" parentId="155337363">Пояс для кимоно</category>
       <category id="155337413" parentId="155337378">Гантели</category>
       <category id="155337414" parentId="155337378">Диск здоровья Грация</category>
+      <category id="155337415" parentId="155337343">Каучуковая изоляция толщина 6 мм</category>
+      <category id="155337416" parentId="155337343">Каучуковая изоляция толщина 9 мм</category>
+      <category id="155337417" parentId="155337343">Каучуковая изоляция толщина 13 мм</category>
+      <category id="155337418" parentId="155337343">Каучуковая изоляция толщина 19 мм</category>
+      <category id="155337419" parentId="155337370">Утеплитель для труб из пенопласта</category>
+      <category id="155337420" parentId="155337372">Изоляция труб UKRIZOL толщиной 6 мм</category>
       <category id="155337421" parentId="155337372">Изоляция труб UKRIZOL толщиной 9 мм</category>
       <category id="155337422" parentId="155337372">Изоляция труб UKRIZOL толщиной 13 мм</category>
       <category id="155337423" parentId="155337372">Изоляция труб UKRIZOL толщиной 20 мм</category>
       <category id="155337424" parentId="155337370">Утеплитель для труб из пенопласта с фольгой</category>
+      <category id="155337429" parentId="155337374">Базальтовая скорлупа, базальтовые цилиндры без покрытия</category>
+      <category id="155337430" parentId="155337374">Базальтовая скорлупа, базальтовые цилиндры с фольгой</category>
+      <category id="155337431" parentId="155337383">Коврики Пазл для детей</category>
+      <category id="155337438" parentId="155337343">Каучуковая изоляция толщина 32 мм</category>
+      <category id="155337439" parentId="155337378">Лямки, ремни, крючки</category>
+      <category id="155337440" parentId="155337378">Жилет утяжелитель</category>
+      <category id="155337441" parentId="155337378">Стойки для отжиманий</category>
+      <category id="155337442" parentId="155337372">Изоляция труб UKRIZOL толщиной 25 мм</category>
+      <category id="155337443" parentId="155337363">Сувеніри боксерські</category>
+      <category id="155337446" parentId="155337406">Боксерские перчатки 10 унций</category>
       <category id="155337457" parentId="155337419">Утеплитель для труб из пенопласта, толщина 60 мм</category>
       <category id="155337458" parentId="155337419">Утеплитель для труб из пенопласта, толщина 70 мм</category>
       <category id="155337459" parentId="155337419">Утеплитель для труб из пенопласта, толщина 80 мм</category>
@@ -384,6 +367,8 @@
       <category id="155337461" parentId="155337424">Утеплитель для труб из пенопласта с фольгой толщиной 40 мм</category>
       <category id="155337462" parentId="155337424">Утеплитель для труб из пенопласта с фольгой толщиной 50 мм</category>
       <category id="155337463" parentId="155337429">Базальтовая скорлупа, базальтовые цилиндры толщиной 30 мм</category>
+      <category id="155337464" parentId="155337429">Базальтовая скорлупа, базальтовые цилиндры толщиной 40 мм</category>
+      <category id="155337465" parentId="155337429">Базальтовая скорлупа, базальтовые цилиндры толщиной 50 мм</category>
       <category id="155337466" parentId="155337429">Базальтовая скорлупа, базальтовые цилиндры толщиной 60 мм</category>
       <category id="155337467" parentId="155337429">Базальтовая скорлупа, базальтовые цилиндры толщиной 70 мм</category>
       <category id="155337468" parentId="155337429">Базальтовая скорлупа, базальтовые цилиндры толщиной 80 мм</category>
@@ -393,6 +378,11 @@
       <category id="155337473" parentId="155337430">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 70 мм</category>
       <category id="155337475" parentId="155337406">Боксерские перчатки 16 унций</category>
       <category id="155337476" parentId="155337430">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 100 мм</category>
+      <category id="155337477" parentId="155337424">Утеплитель для труб из пенопласта с фольгой толщиной 100 мм</category>
+      <category id="155337478" parentId="155337424">Утеплитель для труб из пенопласта с фольгой толщиной 70 мм</category>
+      <category id="155337479" parentId="155337424">Утеплитель для труб из пенопласта с фольгой толщиной 60 мм</category>
+      <category id="23547106" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 60 мм</category>
+      <category id="23547113" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 70 мм</category>
       <category id="23547240" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 80 мм</category>
       <category id="63210442" parentId="5893864">Изолон для цветов</category>
       <category id="96660616" parentId="1932799">Аксессуары для тренировок</category>
@@ -404,6 +394,21 @@
       <category id="105895881" parentId="1932799">Аквааэробика</category>
       <category id="106077851" parentId="1946861">Гантели для фитнеса</category>
       <category id="109633386" parentId="105796939">Гидроизоляционные мембраны</category>
+      <category id="110212672" parentId="5863938">Коврики для пляжа</category>
+      <category id="111293232" parentId="1946861">Стойки для отжиманий</category>
+      <category id="113655210" parentId="13883140">Вспененный этиленвинилацетат (материал EVA) самоклеющийся</category>
+      <category id="118482895" parentId="5893864">Химически сшитый полиэтилен ТУРЦИЯ</category>
+      <category id="122338181" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 70 мм</category>
+      <category id="122741450" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 60 мм</category>
+      <category id="123067007" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 80 мм</category>
+      <category id="127460444" parentId="3676854">Изоляция труб Мерилон толщиной 25 мм</category>
+      <category id="128817937" parentId="2366740">Каучуковая изоляция толщина 32 мм</category>
+      <category id="129348803" parentId="2341984">Звукоизоляционная самоклеющаяся лента XPE</category>
+      <category id="129892704" parentId="1946859">Манекен для борьбы</category>
+      <category id="141469736">BOXER-NEW</category>
+      <category id="142793467" parentId="5893864">Защитные профили</category>
+      <category id="148519048">3D-печать</category>
+      <category id="148519288" parentId="148519048">PLA філамент</category>
       <category id="148519291" parentId="148519048">PETG філамент</category>
       <category id="148644501" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 90 мм</category>
       <category id="155281560" parentId="155337579">Компрессионный трикотаж</category>
@@ -434,11 +439,27 @@
       <category id="4077805" parentId="13552512">Изолон цветной</category>
       <category id="4499870" parentId="13552512">Физически сшитый вспененный полиэтилен листовой</category>
       <category id="4499951" parentId="13552512">Физически сшитый вспененный полиэтилен самоклеющийся</category>
-      <category id="129892704" parentId="1946859">Манекен для борьбы</category>
-      <category id="141469736">BOXER-NEW</category>
-      <category id="142793467" parentId="5893864">Защитные профили</category>
-      <category id="148519048">3D-печать</category>
-      <category id="148519288" parentId="148519048">PLA філамент</category>
+      <category id="4503265" parentId="13552512">Физически сшитый вспененный полиэтилен фольгированный</category>
+      <category id="4609024" parentId="13552512">Физически сшитый вспененный полиэтилен фольгированный самоклеющийся</category>
+      <category id="4734220">Упаковочные материалы</category>
+      <category id="4997733" parentId="5893864">Химически сшитый вспененный полиэтилен листовой</category>
+      <category id="5928528" parentId="5863938">Коврики для йоги и пилатеса</category>
+      <category id="6054164" parentId="5863938">Коврики для детей</category>
+      <category id="6112788" parentId="5863938">Аксессуары для ковриков</category>
+      <category id="6319363" parentId="1946859">Лапы, пады для бокса и единоборств</category>
+      <category id="6379390" parentId="1946859">Защитная экипировка для единоборств</category>
+      <category id="6989028" parentId="1932799">Уценка</category>
+      <category id="7175560" parentId="1946859">Аксессуары для бокса и единоборств</category>
+      <category id="7177958" parentId="1946859">Ринги боксерские, ринги для единоборств, аксессуары для рингов</category>
+      <category id="7643639" parentId="908017">Утеплитель для труб из пенопласта</category>
+      <category id="7770707" parentId="3682513">Базальтовая скорлупа, базальтовые цилиндры без покрытия</category>
+      <category id="7966345" parentId="3679790">Скорлупа ППУ, трубная изоляция с пергамином</category>
+      <category id="7966588" parentId="1946861">Хулахуп, обруч для похудения, талии, массажный</category>
+      <category id="8020403" parentId="1721740">Вспененный каучук</category>
+      <category id="8020471" parentId="1721740">Самоклеющийся вспененный каучук</category>
+      <category id="8020511" parentId="1721740">Вспененный каучук фольгированный</category>
+      <category id="8020620" parentId="1721740">Вспененный каучук фольгированный самоклеющийся</category>
+      <category id="8052608" parentId="7643639">Утеплитель для труб из пенопласта.</category>
       <category id="8052628" parentId="7643639">Утеплитель для труб из пенопласта с фольгой</category>
       <category id="8342666" parentId="111894907">Скотч алюминиевый фольгированный армированный</category>
       <category id="8417970" parentId="8390912">Гидро- и пароизоляционные ленты для монтажа окон</category>
@@ -463,40 +484,6 @@
       <category id="13677105" parentId="5893864">Полифом (Polifoam) химически сшитый без покрытия</category>
       <category id="14361134" parentId="1946941">Маты спортивные, гимнастические, борцовские</category>
       <category id="13351892" parentId="5893864">Газовспененный полиэтилен ламинированный</category>
-      <category id="19809879" parentId="1947002">Боксерские перчатки 16 унций</category>
-      <category id="19835047" parentId="1947002">Перчатки для бокса 4 унции</category>
-      <category id="19900982" parentId="1947002">Тренировочные, снарядные перчатки</category>
-      <category id="20017392" parentId="1947002">Перчатки для единоборств</category>
-      <category id="20018068" parentId="1947002">Перчатки MMA</category>
-      <category id="20243973" parentId="1947002">Накладки для единоборств</category>
-      <category id="21325081" parentId="1946861">Ролики для пресса</category>
-      <category id="21984621" parentId="2341984">Герметизирующая лента без основы</category>
-      <category id="22469956" parentId="1946861">Жилет утяжелитель</category>
-      <category id="23440994" parentId="3676854">Изоляция труб Мерилон толщиной 6 мм</category>
-      <category id="23441184" parentId="3676854">Изоляция труб Мерилон толщиной 9 мм</category>
-      <category id="23442130" parentId="3676854">Изоляция труб Мерилон толщиной 13 мм</category>
-      <category id="23547048" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 30 мм</category>
-      <category id="4503265" parentId="13552512">Физически сшитый вспененный полиэтилен фольгированный</category>
-      <category id="4609024" parentId="13552512">Физически сшитый вспененный полиэтилен фольгированный самоклеющийся</category>
-      <category id="4734220">Упаковочные материалы</category>
-      <category id="4997733" parentId="5893864">Химически сшитый вспененный полиэтилен листовой</category>
-      <category id="5928528" parentId="5863938">Коврики для йоги и пилатеса</category>
-      <category id="6054164" parentId="5863938">Коврики для детей</category>
-      <category id="6112788" parentId="5863938">Аксессуары для ковриков</category>
-      <category id="6319363" parentId="1946859">Лапы, пады для бокса и единоборств</category>
-      <category id="6379390" parentId="1946859">Защитная экипировка для единоборств</category>
-      <category id="6989028" parentId="1932799">Уценка</category>
-      <category id="7175560" parentId="1946859">Аксессуары для бокса и единоборств</category>
-      <category id="7177958" parentId="1946859">Ринги боксерские, ринги для единоборств, аксессуары для рингов</category>
-      <category id="7643639" parentId="908017">Утеплитель для труб из пенопласта</category>
-      <category id="7770707" parentId="3682513">Базальтовая скорлупа, базальтовые цилиндры без покрытия</category>
-      <category id="7966345" parentId="3679790">Скорлупа ППУ, трубная изоляция с пергамином</category>
-      <category id="7966588" parentId="1946861">Хулахуп, обруч для похудения, талии, массажный</category>
-      <category id="8020403" parentId="1721740">Вспененный каучук</category>
-      <category id="8020471" parentId="1721740">Самоклеющийся вспененный каучук</category>
-      <category id="8020511" parentId="1721740">Вспененный каучук фольгированный</category>
-      <category id="8020620" parentId="1721740">Вспененный каучук фольгированный самоклеющийся</category>
-      <category id="8052608" parentId="7643639">Утеплитель для труб из пенопласта.</category>
       <category id="14361197" parentId="1946941">Резиновое покрытие для спортзалов, детских площадок</category>
       <category id="15506143" parentId="1946861">Балансировочные диски</category>
       <category id="17641438" parentId="8052608">Утеплитель для труб из пенопласта, толщина 30 мм</category>
@@ -510,6 +497,18 @@
       <category id="19804082" parentId="1947002">Боксерские перчатки 10 унций</category>
       <category id="19804092" parentId="1947002">Боксерские перчатки 12 унций</category>
       <category id="19805931" parentId="1947002">Боксерские перчатки 14 унций</category>
+      <category id="19809879" parentId="1947002">Боксерские перчатки 16 унций</category>
+      <category id="19835047" parentId="1947002">Перчатки для бокса 4 унции</category>
+      <category id="19900982" parentId="1947002">Тренировочные, снарядные перчатки</category>
+      <category id="20017392" parentId="1947002">Перчатки для единоборств</category>
+      <category id="20018068" parentId="1947002">Перчатки MMA</category>
+      <category id="20243973" parentId="1947002">Накладки для единоборств</category>
+      <category id="21325081" parentId="1946861">Ролики для пресса</category>
+      <category id="21984621" parentId="2341984">Герметизирующая лента без основы</category>
+      <category id="22469956" parentId="1946861">Жилет утяжелитель</category>
+      <category id="23440994" parentId="3676854">Изоляция труб Мерилон толщиной 6 мм</category>
+      <category id="23441184" parentId="3676854">Изоляция труб Мерилон толщиной 9 мм</category>
+      <category id="23442130" parentId="3676854">Изоляция труб Мерилон толщиной 13 мм</category>
       <category id="23442679" parentId="3676854">Изоляция труб Мерилон толщиной 20 мм</category>
       <category id="23545655" parentId="7770707">Базальтовая скорлупа, базальтовые цилиндры толщиной 30 мм</category>
       <category id="23545677" parentId="7770707">Базальтовая скорлупа, базальтовые цилиндры толщиной 40 мм</category>
@@ -517,6 +516,7 @@
       <category id="23545685" parentId="7770707">Базальтовая скорлупа, базальтовые цилиндры толщиной 60 мм</category>
       <category id="23545693" parentId="7770707">Базальтовая скорлупа, базальтовые цилиндры толщиной 70 мм</category>
       <category id="23545701" parentId="7770707">Базальтовая скорлупа, базальтовые цилиндры толщиной 80 мм</category>
+      <category id="23547048" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 30 мм</category>
     </categories>
   <offers>
 <offer id="3034034" available="false">
@@ -2335,7 +2335,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1077</quantity_in_stock>
+    <quantity_in_stock>1075</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал" unit="">Резинка</param>
     <param name="Ширина, мм" unit="">30</param>
@@ -4015,7 +4015,7 @@
     <vendorCode>500191</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>232</quantity_in_stock>
+    <quantity_in_stock>229</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -4231,7 +4231,7 @@
     <vendorCode>500192</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>322</quantity_in_stock>
+    <quantity_in_stock>298</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -16429,7 +16429,7 @@
     <vendorCode>63325</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>77</quantity_in_stock>
+    <quantity_in_stock>76</quantity_in_stock>
     <param name="Верхние покрытие">Полиэстер</param>
     <param name="Длина" unit="м">12</param>
     <param name="Цвет">Черный</param>
@@ -17658,7 +17658,7 @@
     <vendorCode>63334</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>61</quantity_in_stock>
+    <quantity_in_stock>44</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Цвет">Черный</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
@@ -22853,7 +22853,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1580</quantity_in_stock>
+    <quantity_in_stock>1572</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Колесные арки|Пол автомобиля|Пол багажника</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -25895,7 +25895,7 @@
     <vendorCode>62013</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Максимальная температура эксплуатации" unit="">90</param>
     <param name="Минимальная температура эксплуатации" unit="">-40.0</param>
@@ -30624,6 +30624,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
+
 <offer id="463028593" available="true">
     <url>https://proekt24.com/p463028593-penoplastovaya-skorlupa-8980.html</url>
     <price>483</price>
@@ -37098,6 +37099,7 @@
     <param name="Ширина" unit="см">60</param>
     <param name="Плотность материала" unit="кг/м3">33</param>
   </offer>
+
 <offer id="1366896881" available="false">
     <url>https://proekt24.com/p1366896881-kovrik-dlya-fitnesa.html</url>
     <price>184</price>
@@ -37259,7 +37261,7 @@
     <vendorCode>1008810</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>169</quantity_in_stock>
+    <quantity_in_stock>168</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентный</param>
     <param name="Состояние клея">Готовая эмульсия</param>
     <param name="Срок хранения" unit="мес">12</param>
@@ -40392,7 +40394,7 @@
     <vendorCode>500102</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1631</quantity_in_stock>
+    <quantity_in_stock>1331</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -66833,7 +66835,7 @@
     <vendorCode>180060010СЕ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>293</quantity_in_stock>
+    <quantity_in_stock>292</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Цвет">Серый</param>
     <param name="Количество слоев">Однослойные</param>
@@ -118131,7 +118133,7 @@
     <vendorCode>889550</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Высота" unit="см">170</param>
     <param name="Материал">Кирза</param>
     <param name="Тип">Груша</param>
@@ -122782,7 +122784,7 @@
     <vendorCode>2011-N3Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>61</quantity_in_stock>
+    <quantity_in_stock>62</quantity_in_stock>
     <param name="Длина" unit="см">24</param>
     <param name="Цвет">Черный</param>
     <param name="Материал">Искусственная кожа</param>
@@ -124072,7 +124074,7 @@
     <vendor>Укрізол</vendor>
     <vendorCode>889596</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>845</quantity_in_stock>
+    <quantity_in_stock>841</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -134163,7 +134165,7 @@
     <vendorCode>1502629</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Совместимость с колесами" unit="дюйм">29</param>
     <param name="Ручки для переноса чехла">Да</param>
     <param name="Водонепроницаемый чехол">Да</param>
@@ -134835,7 +134837,7 @@
     <vendorCode>EF-2654s</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Цвет">Разные цвета</param>
     <param name="Конструкция">Ленточная</param>
     <param name="Состояние">Новое</param>
