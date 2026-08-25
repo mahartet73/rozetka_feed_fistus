@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-25 09:00">
+<yml_catalog date="2026-08-25 17:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -73,6 +73,9 @@
       <category id="111619363">Тактическое снаряжение</category>
       <category id="105419513">Материалы для шумоизоляции помещений</category>
       <category id="12527024" parentId="938662">Шумоизоляция автомобиля (материалы, шумка, сплэн, обесшумка авто)</category>
+      <category id="156303350" parentId="7770707">Базальтовая скорлупа, базальтовые цилиндры толщиной 100 мм</category>
+      <category id="156303414" parentId="7771509">Базальтовая скорлупа, цилиндры базальтовые с фольгой толщиной 90 мм</category>
+      <category id="156303349" parentId="7770707">Базальтовая скорлупа, базальтовые цилиндры толщиной 90 мм</category>
       <category id="133605716">Металлический профиль</category>
       <category id="98480428" parentId="2366740">Каучуковая изоляция толщина 19 мм</category>
       <category id="109333648" parentId="2366740">Каучуковая изоляция толщина 25 мм</category>
@@ -2209,7 +2212,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>981</quantity_in_stock>
+    <quantity_in_stock>937</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал" unit="">Резинка</param>
     <param name="Ширина, мм" unit="">30</param>
@@ -3651,7 +3654,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2394</quantity_in_stock>
+    <quantity_in_stock>2392</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -3684,7 +3687,7 @@
     <vendorCode>500091</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3255</quantity_in_stock>
+    <quantity_in_stock>3251</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -3830,7 +3833,7 @@
     <vendorCode>500251</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>243</quantity_in_stock>
+    <quantity_in_stock>242</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -3900,7 +3903,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2260</quantity_in_stock>
+    <quantity_in_stock>2255</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -4139,7 +4142,7 @@
     <vendorCode>500093</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>979</quantity_in_stock>
+    <quantity_in_stock>959</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид натурального каучука" unit="">Синтетический каучук</param>
@@ -4173,7 +4176,7 @@
     <vendorCode>500133</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>454</quantity_in_stock>
+    <quantity_in_stock>440</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -4242,7 +4245,7 @@
     <vendorCode>500253</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>429</quantity_in_stock>
+    <quantity_in_stock>427</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
@@ -4416,7 +4419,7 @@
     <vendorCode>500195</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>104</quantity_in_stock>
+    <quantity_in_stock>101</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Плотность" unit="кг/м3">55</param>
@@ -6421,7 +6424,7 @@
     <vendorCode>ППУ114/37</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">1</param>
@@ -15122,7 +15125,7 @@
     <vendorCode>20110</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>128</quantity_in_stock>
+    <quantity_in_stock>122</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Цвет">Серый</param>
     <param name="Максимальная температура эксплуатации" unit="град.">80</param>
@@ -17054,7 +17057,7 @@
     <vendorCode>63324</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>44</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Цвет">Черный</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
@@ -17088,7 +17091,7 @@
     <vendorCode>63327</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>67</quantity_in_stock>
+    <quantity_in_stock>65</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Цвет">Черный</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
@@ -17274,7 +17277,7 @@
     <vendorCode>20104</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>59</quantity_in_stock>
+    <quantity_in_stock>58</quantity_in_stock>
     <param name="Армированный скотч">Да</param>
     <param name="Длина" unit="м">40</param>
     <param name="Максимальная рабочая температура" unit="град.">110</param>
@@ -17924,7 +17927,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1096</quantity_in_stock>
+    <quantity_in_stock>1077</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -18269,7 +18272,7 @@
     <vendorCode>37515</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>156</quantity_in_stock>
+    <quantity_in_stock>155</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологичный материал">Да</param>
     <param name="Эластичность материала">Да</param>
@@ -18308,7 +18311,7 @@
     <vendorCode>310015</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>233</quantity_in_stock>
+    <quantity_in_stock>232</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологичный материал">Да</param>
     <param name="Эластичность материала">Да</param>
@@ -18657,7 +18660,7 @@
     <vendorCode>03-789</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>317</quantity_in_stock>
+    <quantity_in_stock>316</quantity_in_stock>
     <param name="Совместимость с маркой">Ford|Fiat|Toyota|Mitsubishi|Renault|Citroen|Audi|BMW|Chrysler|Volkswagen|Peugeot|Honda|Hyundai|Kia|Daewoo|Volvo|Dodge|Nissan|Mazda</param>
     <param name="Совместимость с моделью">Fusion|6|XC90|Tucson|Scorpio|C5|Sonata|Camry|Avensis|Almera|Mondeo|Yaris|C2|Renault Megane|A4|206|Focus|Ceed|Colt|Chrysler|Fiesta|Tiguan|Accord|A6|Lupo|Lancer|C4|Sebring|Primera|Jazz|Getz|Nissan Maxima|Caliber|Q5|Matiz|Santa Fe|Q7|Passat|Civic|Dodge|RAV4</param>
     <param name="Диаметр, мм" unit="">25</param>
@@ -18682,7 +18685,7 @@
     <vendorCode>03-782</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>107</quantity_in_stock>
+    <quantity_in_stock>106</quantity_in_stock>
     <param name="Диаметр, мм" unit="">25</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Металл</param>
@@ -22346,7 +22349,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1305</quantity_in_stock>
+    <quantity_in_stock>1296</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Колесные арки|Пол автомобиля|Пол багажника</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -22379,7 +22382,7 @@
     <vendorCode>11364</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>637</quantity_in_stock>
+    <quantity_in_stock>627</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Колесные арки|Пол автомобиля|Пол багажника</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -24163,7 +24166,7 @@
     <vendorCode>163104</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Диаметр" unit="см">28</param>
     <param name="Цвет">Розовый</param>
     <param name="Максимальная нагрузка" unit="кг">140</param>
@@ -24452,7 +24455,7 @@
     <vendorCode>20108</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>487</quantity_in_stock>
+    <quantity_in_stock>481</quantity_in_stock>
     <param name="Армированный скотч">Нет</param>
     <param name="Длина" unit="м">50</param>
     <param name="Максимальная рабочая температура" unit="град.">90</param>
@@ -25179,7 +25182,7 @@
     <vendorCode>500032</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2077</quantity_in_stock>
+    <quantity_in_stock>2071</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -31945,7 +31948,7 @@
     <vendorCode>62018</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>86</quantity_in_stock>
+    <quantity_in_stock>66</quantity_in_stock>
     <param name="Длина" unit="м">35</param>
     <param name="Цвет">Черный</param>
     <param name="Назначение материала">Для цоколей|Для стен|Для кровли|Для балконов|Для фасадов|Для подвалов</param>
@@ -32819,7 +32822,7 @@
     <vendorCode>62025</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Материал">Каучук</param>
     <param name="Максимальная температура эксплуатации" unit="">90</param>
     <param name="Минимальная температура эксплуатации" unit="">-40</param>
@@ -35599,7 +35602,7 @@
     <param name="Размер">XL</param>
     <param name="Тип">MMA</param>
   </offer>
-  <offer id="1356352194" available="true">
+  <offer id="1356352194" available="false">
     <url>https://proekt24.com/p1356352194-utyazheliteli-dlya-ruk.html</url>
     <price>284</price>
     <price_old>338</price_old>
@@ -35614,7 +35617,7 @@
     <vendorCode>EF-AWTS-100</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вес" unit="кг">1</param>
     <param name="Цвет">Серый</param>
     <param name="Количество утяжелителей">2</param>
@@ -35701,7 +35704,7 @@
     <vendorCode>EF-AWTS-300</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Вес" unit="кг">3</param>
     <param name="Цвет">Серый</param>
     <param name="Количество утяжелителей">2</param>
@@ -35723,7 +35726,7 @@
     <vendorCode>EF-AWTS-400</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Вес" unit="кг">4</param>
     <param name="Цвет">Серый</param>
     <param name="Количество утяжелителей">2</param>
@@ -35745,7 +35748,7 @@
     <vendorCode>EF-AWTS-500</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Вес" unit="кг">5</param>
     <param name="Цвет">Серый</param>
     <param name="Количество утяжелителей">2</param>
@@ -36717,7 +36720,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>269</quantity_in_stock>
+    <quantity_in_stock>258</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -36746,7 +36749,7 @@
     <vendorCode>62714</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>113</quantity_in_stock>
+    <quantity_in_stock>111</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -37734,7 +37737,7 @@
     <vendorCode>62764</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <param name="Длина" unit="м">3</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -37765,7 +37768,7 @@
     <vendorCode>62763</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>233</quantity_in_stock>
+    <quantity_in_stock>223</quantity_in_stock>
     <param name="Длина" unit="м">3</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -38138,7 +38141,7 @@
     <vendorCode>62796</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>391</quantity_in_stock>
+    <quantity_in_stock>390</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -38474,7 +38477,7 @@
     <vendorCode>62797</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>169</quantity_in_stock>
+    <quantity_in_stock>167</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -39202,7 +39205,7 @@
     <vendorCode>64022</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Расход материала" unit="кг/м2">1.4</param>
     <param name="Цвет">Серый</param>
     <param name="Консистенция">Полужидкая</param>
@@ -40871,7 +40874,7 @@
     <vendorCode>42/13П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>374</quantity_in_stock>
+    <quantity_in_stock>350</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -44921,7 +44924,7 @@
     <vendorCode>10008</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Материал">Пластик</param>
     <param name="Состояние">Новое</param>
     <param name="Диаметр" unit="">7</param>
@@ -44945,7 +44948,7 @@
     <vendorCode>10009</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Состояние">Новое</param>
     <param name="Диаметр" unit="">9</param>
     <param name="Материал" unit="">ПВХ</param>
@@ -46066,7 +46069,7 @@
     <vendorCode>10188</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Длина подушки" unit="см">40</param>
     <param name="Цвет">Белый</param>
     <param name="Количество подушек в наборе" unit="шт">1</param>
@@ -47266,7 +47269,7 @@
     <vendorCode>56352</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>60</quantity_in_stock>
+    <quantity_in_stock>59</quantity_in_stock>
     <param name="Максимальная температура эксплуатации" unit="град.">90</param>
     <param name="Материал">Каучук</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-50</param>
@@ -47290,7 +47293,7 @@
     <vendorCode>56359</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>131</quantity_in_stock>
+    <quantity_in_stock>130</quantity_in_stock>
     <param name="Максимальная температура эксплуатации" unit="град.">90</param>
     <param name="Материал">Битум</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-50</param>
@@ -52129,7 +52132,7 @@
     <vendorCode>900031</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5477</quantity_in_stock>
+    <quantity_in_stock>5327</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -52265,7 +52268,7 @@
     <vendorCode>900101</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>866</quantity_in_stock>
+    <quantity_in_stock>832</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -53651,7 +53654,7 @@
     <vendorCode>83940</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>129</quantity_in_stock>
+    <quantity_in_stock>124</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -56164,7 +56167,7 @@
     <vendorCode>10/13П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>354</quantity_in_stock>
+    <quantity_in_stock>346</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -56479,7 +56482,7 @@
     <vendorCode>25/19П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>214</quantity_in_stock>
+    <quantity_in_stock>213</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -56899,7 +56902,7 @@
     <vendorCode>114/25П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>358</quantity_in_stock>
+    <quantity_in_stock>357</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -67372,7 +67375,7 @@
     <vendorCode>832603</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>142</quantity_in_stock>
+    <quantity_in_stock>130</quantity_in_stock>
     <param name="Высота" unit="мм">10</param>
     <param name="Возраст">От 1 мес</param>
     <param name="Длина" unit="мм">500</param>
@@ -67872,7 +67875,7 @@
     <vendorCode>20115</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>302</quantity_in_stock>
+    <quantity_in_stock>301</quantity_in_stock>
     <param name="Армированный скотч">Нет</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">25</param>
@@ -68273,7 +68276,7 @@
     <vendorCode>Н11006005ФТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Цвет">Фиолетовый</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Особенности">Стяжки в комплекте</param>
@@ -68933,7 +68936,7 @@
     <vendorCode>1008813</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>62</quantity_in_stock>
+    <quantity_in_stock>52</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентный</param>
     <param name="Состояние клея">Готовая эмульсия</param>
     <param name="Срок хранения" unit="мес">12</param>
@@ -69274,7 +69277,7 @@
     <vendorCode>832615</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>274</quantity_in_stock>
+    <quantity_in_stock>272</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -69330,7 +69333,7 @@
     <vendorCode>500082</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1082</quantity_in_stock>
+    <quantity_in_stock>1081</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -69514,7 +69517,7 @@
     <vendorCode>EF-2017-С</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Цвет">Синий</param>
     <param name="Материал">EVA пена</param>
     <param name="Состояние">Новое</param>
@@ -70193,7 +70196,7 @@
     <vendorCode>32125</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2303</quantity_in_stock>
+    <quantity_in_stock>2302</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет" unit="">Белый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -70527,7 +70530,7 @@
     <vendorCode>EF-1812-5</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Длина" unit="см">60</param>
     <param name="Цвет">Черный</param>
     <param name="Конструкция">Ленточная</param>
@@ -71828,7 +71831,7 @@
     <vendorCode>56392</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>113</quantity_in_stock>
+    <quantity_in_stock>103</quantity_in_stock>
     <param name="Вес" unit="кг">1.67</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Колесные арки|Пол автомобиля|Пол багажника</param>
@@ -73009,7 +73012,7 @@
     <vendorCode>55718</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>335</quantity_in_stock>
+    <quantity_in_stock>314</quantity_in_stock>
     <param name="Применение материала">Двери|Потолок автомобиля|Стенки багажника|Пол автомобиля|Пол багажника</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
@@ -73040,7 +73043,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>410</quantity_in_stock>
+    <quantity_in_stock>418</quantity_in_stock>
     <param name="Применение материала">Двери|Потолок автомобиля|Стенки багажника|Пол автомобиля|Пол багажника</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
@@ -74428,7 +74431,7 @@
     <vendorCode>888920</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>163</quantity_in_stock>
+    <quantity_in_stock>161</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Цвет">Черный</param>
     <param name="Материал чехла">Искусственная кожа</param>
@@ -74512,7 +74515,7 @@
     <vendorCode>888922</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Цвет">Синий</param>
     <param name="Материал чехла">Искусственная кожа</param>
@@ -76248,7 +76251,7 @@
     <param name="Минимальная длина" unit="см">64</param>
     <param name="Состояние">Новое</param>
   </offer>
-  <offer id="1880290626" available="true">
+  <offer id="1880290626" available="false">
     <url>https://proekt24.com/p1880290626-palka-dlya-skandinavskoj.html</url>
     <price>341</price>
     <price_old>406</price_old>
@@ -76267,7 +76270,7 @@
     <vendorCode>EF-3924-R</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Возможность регулировки размера">Регулируемая</param>
     <param name="Цвет">Красный</param>
     <param name="Количество секций палки">3</param>
@@ -76296,7 +76299,7 @@
     <vendorCode>EF-3924-BL</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Возможность регулировки размера">Регулируемая</param>
     <param name="Цвет">Синий</param>
     <param name="Количество секций палки">3</param>
@@ -77147,7 +77150,7 @@
     <vendorCode>57091</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Вес" unit="кг">6.6</param>
     <param name="Длина" unit="мм">480</param>
     <param name="Эластичность материала">Да</param>
@@ -78071,7 +78074,7 @@
     <name>Поролон для спортивних матов 2000х1000х100 мм</name>
     <vendorCode>888999</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>134</quantity_in_stock>
+    <quantity_in_stock>121</quantity_in_stock>
     <param name="Толщина" unit="см">100</param>
     <param name="Плотность, кг\м3" unit="кг\м3">50</param>
   </offer>
@@ -79232,7 +79235,7 @@
     <vendorCode>10779</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Состояние">Новое</param>
     <param name="Диаметр" unit="">9</param>
     <param name="Материал" unit="">ПВХ</param>
@@ -82157,7 +82160,7 @@
     <vendorCode>889149</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Длина" unit="см">100</param>
     <param name="Цвет">Черный</param>
     <param name="Состояние">Новое</param>
@@ -84597,7 +84600,7 @@
     <vendorCode>1003-02Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Вес" unit="кг">27</param>
     <param name="Высота" unit="см">120</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -86979,7 +86982,7 @@
     <vendorCode>889329</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Цвет">Красный</param>
     <param name="Материал">Искусственная кожа</param>
@@ -88523,7 +88526,7 @@
     <vendorCode>889386</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1445</quantity_in_stock>
+    <quantity_in_stock>1439</quantity_in_stock>
     <param name="Длина" unit="м">20</param>
     <param name="Максимальная рабочая температура" unit="град.">200</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -89389,7 +89392,7 @@
     <vendorCode>56789</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Вес упаковки" unit="кг">8.5</param>
     <param name="Длина" unit="м">10</param>
     <param name="Длина упаковки" unit="мм">50</param>
@@ -90246,7 +90249,7 @@
     <vendorCode>889445</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Длина в упаковке" unit="м">50</param>
     <param name="Внешний диаметр" unit="мм">20</param>
     <param name="Цвет">Черный</param>
@@ -93129,7 +93132,7 @@
     <vendorCode>058020</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>52</quantity_in_stock>
+    <quantity_in_stock>56</quantity_in_stock>
     <param name="Экологичный материал">Да</param>
     <param name="Цвет">Серый</param>
     <param name="Область применения">Для стен|Для пола|Для каркасных конструкций|Для инженерного оборудования|Для потолков</param>
@@ -93726,7 +93729,7 @@
     <vendorCode>889453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Внутренний диаметр" unit="мм">18</param>
     <param name="Длина бухты" unit="м">50</param>
     <param name="Наружный диаметр" unit="мм">22</param>
@@ -93751,7 +93754,7 @@
     <vendorCode>889454</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Внутренний диаметр" unit="мм">18</param>
     <param name="Длина бухты" unit="м">50</param>
     <param name="Наружный диаметр" unit="мм">22</param>
@@ -115502,7 +115505,7 @@
     <vendorCode>321609</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>791</quantity_in_stock>
+    <quantity_in_stock>741</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет" unit="">Серый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -115669,7 +115672,7 @@
     <vendorCode>8890279</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>48</quantity_in_stock>
+    <quantity_in_stock>28</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет" unit="">Серый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -116023,7 +116026,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Плотность" unit="кг/м3">15</param>
   </offer>
-  <offer id="2292946508" available="true">
+  <offer id="2292946508" available="false">
     <url>https://proekt24.com/p2292946508-gazovspenennyj-polietilen-listovoj.html</url>
     <price>1255</price>
     <price_old>1494</price_old>
@@ -116037,7 +116040,7 @@
     <vendorCode>9005019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -116053,7 +116056,7 @@
     <param name="Ширина" unit="">1000</param>
     <param name="Плотность" unit="">15</param>
   </offer>
-  <offer id="2292946509" available="true">
+  <offer id="2292946509" available="false">
     <url>https://proekt24.com/p2292946509-gazovspenennyj-polietilen-listovoj.html</url>
     <price>1089</price>
     <price_old>1296</price_old>
@@ -116067,7 +116070,7 @@
     <vendorCode>9004019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -118312,7 +118315,7 @@
     <vendorCode>41028</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>55</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <param name="Вес" unit="кг">1.018</param>
     <param name="Длина листа" unit="см">37</param>
     <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Колесные арки|Пол автомобиля|Пол багажника</param>
@@ -119332,7 +119335,7 @@
     <param name="Толщина" unit="">13</param>
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
   </offer>
-  <offer id="2437846733" available="true">
+  <offer id="2437846733" available="false">
     <url>https://proekt24.com/p2437846733-vspenennyj-kauchuk-samokleyuschijsya.html</url>
     <price>4293</price>
     <price_old>5111</price_old>
@@ -119345,7 +119348,7 @@
     <vendorCode>889569У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -119515,7 +119518,7 @@
     <vendorCode>889564У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>59</quantity_in_stock>
+    <quantity_in_stock>58</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -126060,7 +126063,7 @@
     <vendorCode>889632</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>201</quantity_in_stock>
+    <quantity_in_stock>191</quantity_in_stock>
     <param name="Вес" unit="г">500</param>
     <param name="Цвет">Белый</param>
     <param name="Консистенция">Аэрозоль</param>
@@ -127265,7 +127268,7 @@
     <vendorCode>EF-1677</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Цвет" unit="">Желтый</param>
     <param name="Материал" unit="">Нейлон</param>
   </offer>
@@ -128754,7 +128757,7 @@
     <vendorCode>EF-1063-Bl</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Цвет">Синий</param>
     <param name="Состояние">Новое</param>
     <param name="Тип">Массажный</param>
@@ -128827,7 +128830,7 @@
     <param name="Диаметр" unit="">9</param>
     <param name="Материал" unit="">ПВХ</param>
   </offer>
-  <offer id="2837074366" available="true">
+  <offer id="2837074366" available="false">
     <url>https://proekt24.com/p2837074366-massazhnyj-myachik-easyfit.html</url>
     <price>84</price>
     <price_old>100</price_old>
@@ -128842,7 +128845,7 @@
     <vendorCode>EF-1063-GN</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Цвет">Зелёный</param>
     <param name="Состояние">Новое</param>
     <param name="Тип">Массажный</param>
@@ -130161,7 +130164,7 @@
     <vendor>Roofer</vendor>
     <vendorCode>889733</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Цвет">Коричневый</param>
   </offer>
   <offer id="2862173307" available="true">
@@ -130935,7 +130938,7 @@
     <vendorCode>5005030</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>38</quantity_in_stock>
+    <quantity_in_stock>37</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Область применения">Для стен|Для пола|Для каркасных конструкций|Для инженерного оборудования|Для потолков</param>
@@ -131001,7 +131004,7 @@
     <vendorCode>5005020</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>70</quantity_in_stock>
+    <quantity_in_stock>69</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Область применения">Для стен|Для пола|Для каркасных конструкций|Для инженерного оборудования|Для потолков</param>
@@ -131349,7 +131352,7 @@
     <vendorCode>889749</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Вес" unit="кг">1</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Цвет">Черный</param>
@@ -131852,7 +131855,7 @@
     <vendorCode>889762</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Вес" unit="кг">1</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Материал">PETG</param>
@@ -131871,7 +131874,7 @@
     <vendorCode>889761</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Вес" unit="кг">1</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Материал">PETG</param>
@@ -133643,7 +133646,7 @@
     <name>Лист ЭВА (EVA) темно-серый 2500×1450х10 мм (автоковер, сота)</name>
     <vendorCode>889778</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <param name="Цвет">Серый</param>
     <param name="Материал">Резина</param>
     <param name="Совместимость с маркой">ЗИМ</param>
@@ -134070,7 +134073,7 @@
     <vendorCode>EF-2654s</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Цвет">Разные цвета</param>
     <param name="Конструкция">Ленточная</param>
     <param name="Состояние">Новое</param>
@@ -135766,21 +135769,30 @@
     <price>402</price>
     <price_old>479</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>156083693</categoryId>
+    <categoryId>111293232</categoryId>
+    <picture>https://images.prom.ua/7659436050_stojki-dlya-otzhimanij.jpg</picture>
+    <picture>https://images.prom.ua/7659436052_stojki-dlya-otzhimanij.jpg</picture>
+    <picture>https://images.prom.ua/7659436054_stojki-dlya-otzhimanij.jpg</picture>
+    <picture>https://images.prom.ua/7659436055_stojki-dlya-otzhimanij.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Стойки для отжиманий Push Up Stand S-образные металл 2 шт</name>
-    <vendorCode>00002714</vendorCode>
+    <vendorCode>83112</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>5</quantity_in_stock>
+    <param name="Возрастная группа">Взрослая</param>
     <param name="Материал">Металл</param>
+    <param name="Состояние">Новое</param>
+    <param name="Конструкция" unit="">Цельная</param>
+    <param name="Тип" unit="">упори для віджимань</param>
   </offer>
   <offer id="3165645173" available="false">
     <url>https://proekt24.com/p3165645173-bazaltovaya-skorlupa-folgoj.html</url>
     <price>568</price>
     <price_old>676</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 100/60 (цилиндры базальтовые)</name>
@@ -135793,7 +135805,7 @@
     <price>413</price>
     <price_old>491</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 54/60 (цилиндры базальтовые)</name>
@@ -135806,7 +135818,7 @@
     <price>675</price>
     <price_old>804</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 160/60 (цилиндры базальтовые)</name>
@@ -135819,7 +135831,7 @@
     <price>1215</price>
     <price_old>1446</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 426/50 (цилиндры базальтовые)</name>
@@ -135832,7 +135844,7 @@
     <price>775</price>
     <price_old>922</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 160/60 (цилиндры базальтовые)</name>
@@ -135845,7 +135857,7 @@
     <price>377</price>
     <price_old>449</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 63/60 (цилиндры базальтовые)</name>
@@ -135858,7 +135870,7 @@
     <price>358</price>
     <price_old>426</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 90/50 (цилиндры базальтовые)</name>
@@ -135871,7 +135883,7 @@
     <price>310</price>
     <price_old>369</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 50/50 (цилиндры базальтовые)</name>
@@ -135884,7 +135896,7 @@
     <price>255</price>
     <price_old>304</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 30/50 (цилиндры базальтовые)</name>
@@ -135897,7 +135909,7 @@
     <price>656</price>
     <price_old>781</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 125/60 (цилиндры базальтовые)</name>
@@ -135910,7 +135922,7 @@
     <price>280</price>
     <price_old>334</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 30/60 (цилиндры базальтовые)</name>
@@ -135923,7 +135935,7 @@
     <price>889</price>
     <price_old>1059</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 250/50 (цилиндры базальтовые)</name>
@@ -135936,7 +135948,7 @@
     <price>319</price>
     <price_old>380</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 75/50 (цилиндры базальтовые)</name>
@@ -135949,7 +135961,7 @@
     <price>338</price>
     <price_old>402</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 50/60 (цилиндры базальтовые)</name>
@@ -135962,7 +135974,7 @@
     <price>1150</price>
     <price_old>1369</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 315/60 (цилиндры базальтовые)</name>
@@ -135975,7 +135987,7 @@
     <price>350</price>
     <price_old>416</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 54/60 (цилиндры базальтовые)</name>
@@ -135988,7 +136000,7 @@
     <price>256</price>
     <price_old>305</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 50/50 (цилиндры базальтовые)</name>
@@ -136001,7 +136013,7 @@
     <price>443</price>
     <price_old>528</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 63/60 (цилиндры базальтовые)</name>
@@ -136014,7 +136026,7 @@
     <price>553</price>
     <price_old>659</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 120/60 (цилиндры базальтовые)</name>
@@ -136027,7 +136039,7 @@
     <price>1079</price>
     <price_old>1285</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 250/60 (цилиндры базальтовые)</name>
@@ -136040,7 +136052,7 @@
     <price>255</price>
     <price_old>304</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 22/60 (цилиндры базальтовые)</name>
@@ -136053,7 +136065,7 @@
     <price>858</price>
     <price_old>1021</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 220/60 (цилиндры базальтовые)</name>
@@ -136066,7 +136078,7 @@
     <price>1035</price>
     <price_old>1232</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 300/50 (цилиндры базальтовые)</name>
@@ -136079,7 +136091,7 @@
     <price>1591</price>
     <price_old>1894</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 400/60 (цилиндры базальтовые)</name>
@@ -136092,7 +136104,7 @@
     <price>414</price>
     <price_old>492</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 75/60 (цилиндры базальтовые)</name>
@@ -136105,7 +136117,7 @@
     <price>910</price>
     <price_old>1084</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 200/60 (цилиндры базальтовые)</name>
@@ -136118,7 +136130,7 @@
     <price>978</price>
     <price_old>1164</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 220/60 (цилиндры базальтовые)</name>
@@ -136131,7 +136143,7 @@
     <price>639</price>
     <price_old>761</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 120/60 (цилиндры базальтовые)</name>
@@ -136144,7 +136156,7 @@
     <price>352</price>
     <price_old>419</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 35/60 (цилиндры базальтовые)</name>
@@ -136157,7 +136169,7 @@
     <price>382</price>
     <price_old>455</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 75/50 (цилиндры базальтовые)</name>
@@ -136170,7 +136182,7 @@
     <price>308</price>
     <price_old>366</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 22/60 (цилиндры базальтовые)</name>
@@ -136183,7 +136195,7 @@
     <price>321</price>
     <price_old>382</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 54/50 (цилиндры базальтовые)</name>
@@ -136196,7 +136208,7 @@
     <price>605</price>
     <price_old>720</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 110/60 (цилиндры базальтовые)</name>
@@ -136209,7 +136221,7 @@
     <price>332</price>
     <price_old>395</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 80/50 (цилиндры базальтовые)</name>
@@ -136222,7 +136234,7 @@
     <price>514</price>
     <price_old>612</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 120/50 (цилиндры базальтовые)</name>
@@ -136235,7 +136247,7 @@
     <price>188</price>
     <price_old>224</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 22/50 (цилиндры базальтовые)</name>
@@ -136248,7 +136260,7 @@
     <price>1303</price>
     <price_old>1551</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 315/60 (цилиндры базальтовые)</name>
@@ -136261,7 +136273,7 @@
     <price>895</price>
     <price_old>1065</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 300/50 (цилиндры базальтовые)</name>
@@ -136274,7 +136286,7 @@
     <price>534</price>
     <price_old>636</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 90/60 (цилиндры базальтовые)</name>
@@ -136287,7 +136299,7 @@
     <price>639</price>
     <price_old>761</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 200/50 (цилиндры базальтовые)</name>
@@ -136300,7 +136312,7 @@
     <price>425</price>
     <price_old>506</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 90/50 (цилиндры базальтовые)</name>
@@ -136313,7 +136325,7 @@
     <price>746</price>
     <price_old>888</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 200/50 (цилиндры базальтовые)</name>
@@ -136326,7 +136338,7 @@
     <price>483</price>
     <price_old>575</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 75/60 (цилиндры базальтовые)</name>
@@ -136339,7 +136351,7 @@
     <price>1324</price>
     <price_old>1576</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 400/50 (цилиндры базальтовые)</name>
@@ -136352,7 +136364,7 @@
     <price>1252</price>
     <price_old>1490</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 300/60 (цилиндры базальтовые)</name>
@@ -136365,7 +136377,7 @@
     <price>797</price>
     <price_old>949</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 200/60 (цилиндры базальтовые)</name>
@@ -136378,7 +136390,7 @@
     <price>295</price>
     <price_old>351</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 35/60 (цилиндры базальтовые)</name>
@@ -136391,7 +136403,7 @@
     <price>1149</price>
     <price_old>1368</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 400/50 (цилиндры базальтовые)</name>
@@ -136404,7 +136416,7 @@
     <price>429</price>
     <price_old>511</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 80/60 (цилиндры базальтовые)</name>
@@ -136417,7 +136429,7 @@
     <price>1079</price>
     <price_old>1285</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 315/50 (цилиндры базальтовые)</name>
@@ -136430,7 +136442,7 @@
     <price>334</price>
     <price_old>398</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 30/60 (цилиндры базальтовые)</name>
@@ -136443,7 +136455,7 @@
     <price>399</price>
     <price_old>475</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 50/60 (цилиндры базальтовые)</name>
@@ -136456,7 +136468,7 @@
     <price>267</price>
     <price_old>318</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 54/50 (цилиндры базальтовые)</name>
@@ -136469,7 +136481,7 @@
     <price>1679</price>
     <price_old>1999</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 426/60 (цилиндры базальтовые)</name>
@@ -136482,7 +136494,7 @@
     <price>1409</price>
     <price_old>1678</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 400/60 (цилиндры базальтовые)</name>
@@ -136495,7 +136507,7 @@
     <price>397</price>
     <price_old>472</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 80/50 (цилиндры базальтовые)</name>
@@ -136508,7 +136520,7 @@
     <price>569</price>
     <price_old>678</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 125/60 (цилиндры базальтовые)</name>
@@ -136521,7 +136533,7 @@
     <price>232</price>
     <price_old>276</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 22/50 (цилиндры базальтовые)</name>
@@ -136534,7 +136546,7 @@
     <price>1105</price>
     <price_old>1315</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 300/60 (цилиндры базальтовые)</name>
@@ -136547,7 +136559,7 @@
     <price>490</price>
     <price_old>584</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 100/60 (цилиндры базальтовые)</name>
@@ -136560,7 +136572,7 @@
     <price>765</price>
     <price_old>911</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 250/50 (цилиндры базальтовые)</name>
@@ -136573,7 +136585,7 @@
     <price>630</price>
     <price_old>750</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547059</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 160/50 (цилиндры базальтовые)</name>
@@ -136586,7 +136598,7 @@
     <price>208</price>
     <price_old>248</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 30/50 (цилиндры базальтовые)</name>
@@ -136599,7 +136611,7 @@
     <price>500</price>
     <price_old>595</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547106</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 80/60 (цилиндры базальтовые)</name>
@@ -136612,7 +136624,7 @@
     <price>523</price>
     <price_old>622</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 110/60 (цилиндры базальтовые)</name>
@@ -136625,7 +136637,7 @@
     <price>436</price>
     <price_old>519</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 120/50 (цилиндры базальтовые)</name>
@@ -136638,7 +136650,7 @@
     <price>538</price>
     <price_old>640</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 160/50 (цилиндры базальтовые)</name>
@@ -136651,7 +136663,7 @@
     <price>933</price>
     <price_old>1111</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545681</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 315/50 (цилиндры базальтовые)</name>
@@ -136664,7 +136676,7 @@
     <price>1488</price>
     <price_old>1771</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 426/60 (цилиндры базальтовые)</name>
@@ -136677,7 +136689,7 @@
     <price>949</price>
     <price_old>1130</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 250/60 (цилиндры базальтовые)</name>
@@ -136690,7 +136702,7 @@
     <price>460</price>
     <price_old>548</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545685</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 90/60 (цилиндры базальтовые)</name>
@@ -136703,7 +136715,7 @@
     <price>422</price>
     <price_old>502</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 22/80 (цилиндры базальтовые)</name>
@@ -136716,7 +136728,7 @@
     <price>594</price>
     <price_old>708</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 75/70 (цилиндры базальтовые)</name>
@@ -136729,7 +136741,7 @@
     <price>716</price>
     <price_old>852</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 75/80 (цилиндры базальтовые)</name>
@@ -136742,7 +136754,7 @@
     <price>1163</price>
     <price_old>1385</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 220/70 (цилиндры базальтовые)</name>
@@ -136755,7 +136767,7 @@
     <price>607</price>
     <price_old>722</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 100/70 (цилиндры базальтовые)</name>
@@ -136768,7 +136780,7 @@
     <price>966</price>
     <price_old>1150</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 200/70 (цилиндры базальтовые)</name>
@@ -136781,7 +136793,7 @@
     <price>929</price>
     <price_old>1106</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 160/70 (цилиндры базальтовые)</name>
@@ -136794,7 +136806,7 @@
     <price>875</price>
     <price_old>1041</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 110/80 (цилиндры базальтовые)</name>
@@ -136807,7 +136819,7 @@
     <price>548</price>
     <price_old>652</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 63/70 (цилиндры базальтовые)</name>
@@ -136820,7 +136832,7 @@
     <price>475</price>
     <price_old>565</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 35/80 (цилиндры базальтовые)</name>
@@ -136833,7 +136845,7 @@
     <price>1225</price>
     <price_old>1459</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 220/80 (цилиндры базальтовые)</name>
@@ -136846,7 +136858,7 @@
     <price>393</price>
     <price_old>468</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 22/70 (цилиндры базальтовые)</name>
@@ -136859,7 +136871,7 @@
     <price>826</price>
     <price_old>984</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 100/80 (цилиндры базальтовые)</name>
@@ -136872,7 +136884,7 @@
     <price>571</price>
     <price_old>680</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 90/70 (цилиндры базальтовые)</name>
@@ -136885,7 +136897,7 @@
     <price>455</price>
     <price_old>541</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 30/80 (цилиндры базальтовые)</name>
@@ -136898,7 +136910,7 @@
     <price>1143</price>
     <price_old>1361</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 250/70 (цилиндры базальтовые)</name>
@@ -136911,7 +136923,7 @@
     <price>545</price>
     <price_old>649</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 35/80 (цилиндры базальтовые)</name>
@@ -136924,7 +136936,7 @@
     <price>584</price>
     <price_old>695</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 63/80 (цилиндры базальтовые)</name>
@@ -136937,7 +136949,7 @@
     <price>1324</price>
     <price_old>1576</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 300/70 (цилиндры базальтовые)</name>
@@ -136950,7 +136962,7 @@
     <price>919</price>
     <price_old>1094</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 120/80 (цилиндры базальтовые)</name>
@@ -136963,7 +136975,7 @@
     <price>664</price>
     <price_old>790</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 63/80 (цилиндры базальтовые)</name>
@@ -136976,7 +136988,7 @@
     <price>692</price>
     <price_old>824</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 100/70 (цилиндры базальтовые)</name>
@@ -136989,7 +137001,7 @@
     <price>1347</price>
     <price_old>1604</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 250/80 (цилиндры базальтовые)</name>
@@ -137002,7 +137014,7 @@
     <price>443</price>
     <price_old>528</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 35/70 (цилиндры базальтовые)</name>
@@ -137015,7 +137027,7 @@
     <price>982</price>
     <price_old>1169</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 160/80 (цилиндры базальтовые)</name>
@@ -137028,7 +137040,7 @@
     <price>531</price>
     <price_old>632</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 50/80 (цилиндры базальтовые)</name>
@@ -137041,7 +137053,7 @@
     <price>1491</price>
     <price_old>1775</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 250/80 (цилиндры базальтовые)</name>
@@ -137054,7 +137066,7 @@
     <price>476</price>
     <price_old>566</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 63/70 (цилиндры базальтовые)</name>
@@ -137067,7 +137079,7 @@
     <price>606</price>
     <price_old>721</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 50/80 (цилиндры базальтовые)</name>
@@ -137080,7 +137092,7 @@
     <price>2269</price>
     <price_old>2701</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 426/80 (цилиндры базальтовые)</name>
@@ -137093,7 +137105,7 @@
     <price>380</price>
     <price_old>452</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 35/70 (цилиндры базальтовые)</name>
@@ -137106,7 +137118,7 @@
     <price>646</price>
     <price_old>769</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 110/70 (цилиндры базальтовые)</name>
@@ -137119,7 +137131,7 @@
     <price>1771</price>
     <price_old>2109</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 426/70 (цилиндры базальтовые)</name>
@@ -137132,7 +137144,7 @@
     <price>890</price>
     <price_old>1060</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 140/80 (цилиндры базальтовые)</name>
@@ -137145,7 +137157,7 @@
     <price>941</price>
     <price_old>1120</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 125/80 (цилиндры базальтовые)</name>
@@ -137158,7 +137170,7 @@
     <price>1478</price>
     <price_old>1760</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 300/70 (цилиндры базальтовые)</name>
@@ -137171,7 +137183,7 @@
     <price>1378</price>
     <price_old>1640</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 315/70 (цилиндры базальтовые)</name>
@@ -137184,7 +137196,7 @@
     <price>519</price>
     <price_old>618</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 75/70 (цилиндры базальтовые)</name>
@@ -137197,7 +137209,7 @@
     <price>633</price>
     <price_old>754</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 75/80 (цилиндры базальтовые)</name>
@@ -137210,7 +137222,7 @@
     <price>779</price>
     <price_old>928</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 110/80 (цилиндры базальтовые)</name>
@@ -137223,7 +137235,7 @@
     <price>735</price>
     <price_old>875</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 110/70 (цилиндры базальтовые)</name>
@@ -137236,7 +137248,7 @@
     <price>487</price>
     <price_old>580</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 22/80 (цилиндры базальтовые)</name>
@@ -137249,7 +137261,7 @@
     <price>513</price>
     <price_old>611</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 54/70 (цилиндры базальтовые)</name>
@@ -137262,7 +137274,7 @@
     <price>1144</price>
     <price_old>1362</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 200/80 (цилиндры базальтовые)</name>
@@ -137275,7 +137287,7 @@
     <price>653</price>
     <price_old>778</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 80/80 (цилиндры базальтовые)</name>
@@ -137288,7 +137300,7 @@
     <price>1781</price>
     <price_old>2120</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 315/80 (цилиндры базальтовые)</name>
@@ -137301,7 +137313,7 @@
     <price>1715</price>
     <price_old>2041</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 300/80 (цилиндры базальтовые)</name>
@@ -137314,7 +137326,7 @@
     <price>694</price>
     <price_old>826</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 90/80 (цилиндры базальтовые)</name>
@@ -137327,7 +137339,7 @@
     <price>523</price>
     <price_old>622</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 30/80 (цилиндры базальтовые)</name>
@@ -137340,7 +137352,7 @@
     <price>819</price>
     <price_old>975</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 120/80 (цилиндры базальтовые)</name>
@@ -137353,7 +137365,7 @@
     <price>624</price>
     <price_old>742</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 54/80 (цилиндры базальтовые)</name>
@@ -137366,7 +137378,7 @@
     <price>423</price>
     <price_old>504</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 30/70 (цилиндры базальтовые)</name>
@@ -137379,7 +137391,7 @@
     <price>998</price>
     <price_old>1188</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 140/80 (цилиндры базальтовые)</name>
@@ -137392,7 +137404,7 @@
     <price>536</price>
     <price_old>638</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 80/70 (цилиндры базальтовые)</name>
@@ -137405,7 +137417,7 @@
     <price>1537</price>
     <price_old>1830</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 315/70 (цилиндры базальтовые)</name>
@@ -137418,7 +137430,7 @@
     <price>2156</price>
     <price_old>2566</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 400/80 (цилиндры базальтовые)</name>
@@ -137431,7 +137443,7 @@
     <price>841</price>
     <price_old>1001</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 140/70 (цилиндры базальтовые)</name>
@@ -137444,7 +137456,7 @@
     <price>782</price>
     <price_old>931</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 90/80 (цилиндры базальтовые)</name>
@@ -137457,7 +137469,7 @@
     <price>1554</price>
     <price_old>1850</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 300/80 (цилиндры базальтовые)</name>
@@ -137470,7 +137482,7 @@
     <price>2065</price>
     <price_old>2459</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 426/80 (цилиндры базальтовые)</name>
@@ -137483,7 +137495,7 @@
     <price>1969</price>
     <price_old>2344</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 426/70 (цилиндры базальтовые)</name>
@@ -137496,7 +137508,7 @@
     <price>1270</price>
     <price_old>1512</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 200/80 (цилиндры базальтовые)</name>
@@ -137509,7 +137521,7 @@
     <price>614</price>
     <price_old>731</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 80/70 (цилиндры базальтовые)</name>
@@ -137522,7 +137534,7 @@
     <price>823</price>
     <price_old>980</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 160/70 (цилиндры базальтовые)</name>
@@ -137535,7 +137547,7 @@
     <price>738</price>
     <price_old>879</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 80/80 (цилиндры базальтовые)</name>
@@ -137548,7 +137560,7 @@
     <price>681</price>
     <price_old>811</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 120/70 (цилиндры базальтовые)</name>
@@ -137561,7 +137573,7 @@
     <price>548</price>
     <price_old>652</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 54/80 (цилиндры базальтовые)</name>
@@ -137574,7 +137586,7 @@
     <price>1280</price>
     <price_old>1524</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 250/70 (цилиндры базальтовые)</name>
@@ -137587,7 +137599,7 @@
     <price>1036</price>
     <price_old>1234</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 220/70 (цилиндры базальтовые)</name>
@@ -137600,7 +137612,7 @@
     <price>699</price>
     <price_old>832</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 125/70 (цилиндры базальтовые)</name>
@@ -137613,7 +137625,7 @@
     <price>734</price>
     <price_old>874</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 108/80 (цилиндры базальтовые)</name>
@@ -137626,7 +137638,7 @@
     <price>840</price>
     <price_old>1000</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 125/80 (цилиндры базальтовые)</name>
@@ -137639,7 +137651,7 @@
     <price>1086</price>
     <price_old>1292</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 200/70 (цилиндры базальтовые)</name>
@@ -137652,7 +137664,7 @@
     <price>1615</price>
     <price_old>1922</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 315/80 (цилиндры базальтовые)</name>
@@ -137665,7 +137677,7 @@
     <price>1095</price>
     <price_old>1304</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 160/80 (цилиндры базальтовые)</name>
@@ -137678,7 +137690,7 @@
     <price>742</price>
     <price_old>884</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 140/70 (цилиндры базальтовые)</name>
@@ -137691,7 +137703,7 @@
     <price>429</price>
     <price_old>511</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 50/70 (цилиндры базальтовые)</name>
@@ -137704,7 +137716,7 @@
     <price>334</price>
     <price_old>398</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 22/70 (цилиндры базальтовые)</name>
@@ -137717,7 +137729,7 @@
     <price>1959</price>
     <price_old>2332</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545701</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 400/80 (цилиндры базальтовые)</name>
@@ -137730,7 +137742,7 @@
     <price>362</price>
     <price_old>431</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 30/70 (цилиндры базальтовые)</name>
@@ -137743,7 +137755,7 @@
     <price>653</price>
     <price_old>778</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 90/70 (цилиндры базальтовые)</name>
@@ -137756,7 +137768,7 @@
     <price>1359</price>
     <price_old>1618</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547240</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 220/80 (цилиндры базальтовые)</name>
@@ -137769,7 +137781,7 @@
     <price>774</price>
     <price_old>921</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 120/70 (цилиндры базальтовые)</name>
@@ -137782,7 +137794,7 @@
     <price>1679</price>
     <price_old>1999</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 400/70 (цилиндры базальтовые)</name>
@@ -137795,7 +137807,7 @@
     <price>794</price>
     <price_old>945</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 125/70 (цилиндры базальтовые)</name>
@@ -137808,7 +137820,7 @@
     <price>444</price>
     <price_old>529</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23545693</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 54/70 (цилиндры базальтовые)</name>
@@ -137821,7 +137833,7 @@
     <price>498</price>
     <price_old>592</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 50/70 (цилиндры базальтовые)</name>
@@ -137834,7 +137846,7 @@
     <price>1868</price>
     <price_old>2224</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>23547113</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 400/70 (цилиндры базальтовые)</name>
@@ -137847,7 +137859,7 @@
     <price>1221</price>
     <price_old>1454</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 140/100 (цилиндры базальтовые)</name>
@@ -137860,7 +137872,7 @@
     <price>695</price>
     <price_old>828</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 35/100 (цилиндры базальтовые)</name>
@@ -137873,7 +137885,7 @@
     <price>2219</price>
     <price_old>2641</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 300/100 (цилиндры базальтовые)</name>
@@ -137886,7 +137898,7 @@
     <price>778</price>
     <price_old>926</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 35/100 (цилиндры базальтовые)</name>
@@ -137912,7 +137924,7 @@
     <price>2029</price>
     <price_old>2415</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 280/100 (цилиндры базальтовые)</name>
@@ -137938,7 +137950,7 @@
     <price>1020</price>
     <price_old>1214</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 100/100 (цилиндры базальтовые)</name>
@@ -137951,7 +137963,7 @@
     <price>759</price>
     <price_old>904</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 57/90 (цилиндры базальтовые)</name>
@@ -137964,7 +137976,7 @@
     <price>2550</price>
     <price_old>3036</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 400/100 (цилиндры базальтовые)</name>
@@ -137977,7 +137989,7 @@
     <price>687</price>
     <price_old>818</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 18/100 (цилиндры базальтовые)</name>
@@ -137990,7 +138002,7 @@
     <price>1961</price>
     <price_old>2335</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 300/90 (цилиндры базальтовые)</name>
@@ -138016,7 +138028,7 @@
     <price>1025</price>
     <price_old>1220</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 110/90 (цилиндры базальтовые)</name>
@@ -138029,7 +138041,7 @@
     <price>1928</price>
     <price_old>2295</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 273/100 (цилиндры базальтовые)</name>
@@ -138042,7 +138054,7 @@
     <price>2035</price>
     <price_old>2422</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 315/90 (цилиндры базальтовые)</name>
@@ -138081,7 +138093,7 @@
     <price>1278</price>
     <price_old>1521</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 150/100 (цилиндры базальтовые)</name>
@@ -138107,7 +138119,7 @@
     <price>642</price>
     <price_old>764</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 32/90 (цилиндры базальтовые)</name>
@@ -138120,7 +138132,7 @@
     <price>801</price>
     <price_old>954</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 57/100 (цилиндры базальтовые)</name>
@@ -138172,7 +138184,7 @@
     <price>892</price>
     <price_old>1062</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 75/100 (цилиндры базальтовые)</name>
@@ -138198,7 +138210,7 @@
     <price>1466</price>
     <price_old>1745</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 200/90 (цилиндры базальтовые)</name>
@@ -138211,7 +138223,7 @@
     <price>765</price>
     <price_old>911</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 50/100 (цилиндры базальтовые)</name>
@@ -138237,7 +138249,7 @@
     <price>1151</price>
     <price_old>1370</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 125/100 (цилиндры базальтовые)</name>
@@ -138250,7 +138262,7 @@
     <price>908</price>
     <price_old>1081</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 60/100 (цилиндры базальтовые)</name>
@@ -138263,7 +138275,7 @@
     <price>1010</price>
     <price_old>1202</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 108/90 (цилиндры базальтовые)</name>
@@ -138276,7 +138288,7 @@
     <price>1108</price>
     <price_old>1319</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 114/100 (цилиндры базальтовые)</name>
@@ -138289,7 +138301,7 @@
     <price>1265</price>
     <price_old>1506</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 125/100 (цилиндры базальтовые)</name>
@@ -138302,7 +138314,7 @@
     <price>1075</price>
     <price_old>1280</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 110/100 (цилиндры базальтовые)</name>
@@ -138315,7 +138327,7 @@
     <price>629</price>
     <price_old>749</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 22/100 (цилиндры базальтовые)</name>
@@ -138341,7 +138353,7 @@
     <price>774</price>
     <price_old>921</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 60/90 (цилиндры базальтовые)</name>
@@ -138354,7 +138366,7 @@
     <price>1343</price>
     <price_old>1599</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 140/100 (цилиндры базальтовые)</name>
@@ -138367,7 +138379,7 @@
     <price>679</price>
     <price_old>809</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 32/100 (цилиндры базальтовые)</name>
@@ -138380,7 +138392,7 @@
     <price>1239</price>
     <price_old>1475</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 120/100 (цилиндры базальтовые)</name>
@@ -138393,7 +138405,7 @@
     <price>1125</price>
     <price_old>1339</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 100/100 (цилиндры базальтовые)</name>
@@ -138406,7 +138418,7 @@
     <price>726</price>
     <price_old>864</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 50/90 (цилиндры базальтовые)</name>
@@ -138432,7 +138444,7 @@
     <price>752</price>
     <price_old>895</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 30/100 (цилиндры базальтовые)</name>
@@ -138445,7 +138457,7 @@
     <price>854</price>
     <price_old>1016</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 48/100 (цилиндры базальтовые)</name>
@@ -138471,7 +138483,7 @@
     <price>853</price>
     <price_old>1015</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 76/90 (цилиндры базальтовые)</name>
@@ -138484,7 +138496,7 @@
     <price>697</price>
     <price_old>830</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 21/100 (цилиндры базальтовые)</name>
@@ -138497,7 +138509,7 @@
     <price>922</price>
     <price_old>1098</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 90/90 (цилиндры базальтовые)</name>
@@ -138510,7 +138522,7 @@
     <price>1185</price>
     <price_old>1411</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 133/100 (цилиндры базальтовые)</name>
@@ -138549,7 +138561,7 @@
     <price>1712</price>
     <price_old>2038</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 250/90 (цилиндры базальтовые)</name>
@@ -138562,7 +138574,7 @@
     <price>632</price>
     <price_old>752</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 30/90 (цилиндры базальтовые)</name>
@@ -138575,7 +138587,7 @@
     <price>1184</price>
     <price_old>1410</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 110/100 (цилиндры базальтовые)</name>
@@ -138601,7 +138613,7 @@
     <price>989</price>
     <price_old>1178</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 75/100 (цилиндры базальтовые)</name>
@@ -138627,7 +138639,7 @@
     <price>2453</price>
     <price_old>2920</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 400/90 (цилиндры базальтовые)</name>
@@ -138640,7 +138652,7 @@
     <price>720</price>
     <price_old>858</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 38/100 (цилиндры базальтовые)</name>
@@ -138653,7 +138665,7 @@
     <price>847</price>
     <price_old>1009</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 75/90 (цилиндры базальтовые)</name>
@@ -138666,7 +138678,7 @@
     <price>963</price>
     <price_old>1146</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 70/100 (цилиндры базальтовые)</name>
@@ -138679,7 +138691,7 @@
     <price>1532</price>
     <price_old>1824</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 200/100 (цилиндры базальтовые)</name>
@@ -138692,7 +138704,7 @@
     <price>1071</price>
     <price_old>1275</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 90/100 (цилиндры базальтовые)</name>
@@ -138705,7 +138717,7 @@
     <price>752</price>
     <price_old>895</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 45/100 (цилиндры базальтовые)</name>
@@ -138718,7 +138730,7 @@
     <price>841</price>
     <price_old>1001</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 45/100 (цилиндры базальтовые)</name>
@@ -138731,7 +138743,7 @@
     <price>2120</price>
     <price_old>2524</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 315/100 (цилиндры базальтовые)</name>
@@ -138744,7 +138756,7 @@
     <price>1455</price>
     <price_old>1732</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 160/100 (цилиндры базальтовые)</name>
@@ -138757,7 +138769,7 @@
     <price>1269</price>
     <price_old>1511</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 160/90 (цилиндры базальтовые)</name>
@@ -138770,7 +138782,7 @@
     <price>583</price>
     <price_old>694</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 21/90 (цилиндры базальтовые)</name>
@@ -138796,7 +138808,7 @@
     <price>656</price>
     <price_old>781</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 35/90 (цилиндры базальтовые)</name>
@@ -138822,7 +138834,7 @@
     <price>681</price>
     <price_old>811</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 38/90 (цилиндры базальтовые)</name>
@@ -138835,7 +138847,7 @@
     <price>1265</price>
     <price_old>1506</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 159/90 (цилиндры базальтовые)</name>
@@ -138848,7 +138860,7 @@
     <price>644</price>
     <price_old>766</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 25/100 (цилиндры базальтовые)</name>
@@ -138861,7 +138873,7 @@
     <price>1131</price>
     <price_old>1346</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 133/90 (цилиндры базальтовые)</name>
@@ -138874,7 +138886,7 @@
     <price>2145</price>
     <price_old>2554</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 325/100 (цилиндры базальтовые)</name>
@@ -138887,7 +138899,7 @@
     <price>867</price>
     <price_old>1032</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 70/100 (цилиндры базальтовые)</name>
@@ -138900,7 +138912,7 @@
     <price>2683</price>
     <price_old>3194</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 426/100 (цилиндры базальтовые)</name>
@@ -138913,7 +138925,7 @@
     <price>917</price>
     <price_old>1091</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 89/90 (цилиндры базальтовые)</name>
@@ -138926,7 +138938,7 @@
     <price>2043</price>
     <price_old>2432</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 300/100 (цилиндры базальтовые)</name>
@@ -138939,7 +138951,7 @@
     <price>592</price>
     <price_old>705</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 22/90 (цилиндры базальтовые)</name>
@@ -138952,7 +138964,7 @@
     <price>876</price>
     <price_old>1042</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 54/100 (цилиндры базальтовые)</name>
@@ -138965,7 +138977,7 @@
     <price>1628</price>
     <price_old>1938</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 219/100 (цилиндры базальтовые)</name>
@@ -138978,7 +138990,7 @@
     <price>763</price>
     <price_old>909</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 48/100 (цилиндры базальтовые)</name>
@@ -138991,7 +139003,7 @@
     <price>789</price>
     <price_old>939</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 63/90 (цилиндры базальтовые)</name>
@@ -139004,7 +139016,7 @@
     <price>1942</price>
     <price_old>2312</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 250/100 (цилиндры базальтовые)</name>
@@ -139017,7 +139029,7 @@
     <price>2580</price>
     <price_old>3071</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 426/90 (цилиндры базальтовые)</name>
@@ -139056,7 +139068,7 @@
     <price>918</price>
     <price_old>1092</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 80/100 (цилиндры базальтовые)</name>
@@ -139095,7 +139107,7 @@
     <price>2060</price>
     <price_old>2452</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 325/90 (цилиндры базальтовые)</name>
@@ -139108,7 +139120,7 @@
     <price>1328</price>
     <price_old>1581</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 160/100 (цилиндры базальтовые)</name>
@@ -139173,7 +139185,7 @@
     <price>740</price>
     <price_old>881</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 27/100 (цилиндры базальтовые)</name>
@@ -139186,7 +139198,7 @@
     <price>691</price>
     <price_old>822</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 42/90 (цилиндры базальтовые)</name>
@@ -139199,7 +139211,7 @@
     <price>873</price>
     <price_old>1039</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 80/90 (цилиндры базальтовые)</name>
@@ -139212,7 +139224,7 @@
     <price>1848</price>
     <price_old>2200</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 273/90 (цилиндры базальтовые)</name>
@@ -139225,7 +139237,7 @@
     <price>730</price>
     <price_old>869</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 42/100 (цилиндры базальтовые)</name>
@@ -139251,7 +139263,7 @@
     <price>609</price>
     <price_old>725</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 18/100 (цилиндры базальтовые)</name>
@@ -139264,7 +139276,7 @@
     <price>964</price>
     <price_old>1148</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 89/100 (цилиндры базальтовые)</name>
@@ -139277,7 +139289,7 @@
     <price>2300</price>
     <price_old>2738</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 315/100 (цилиндры базальтовые)</name>
@@ -139290,7 +139302,7 @@
     <price>1126</price>
     <price_old>1340</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 120/100 (цилиндры базальтовые)</name>
@@ -139303,7 +139315,7 @@
     <price>823</price>
     <price_old>980</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 70/90 (цилиндры базальтовые)</name>
@@ -139316,7 +139328,7 @@
     <price>1073</price>
     <price_old>1278</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 120/90 (цилиндры базальтовые)</name>
@@ -139329,7 +139341,7 @@
     <price>1055</price>
     <price_old>1256</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 114/90 (цилиндры базальтовые)</name>
@@ -139342,7 +139354,7 @@
     <price>832</price>
     <price_old>990</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 63/100 (цилиндры базальтовые)</name>
@@ -139355,7 +139367,7 @@
     <price>1059</price>
     <price_old>1261</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 108/100 (цилиндры базальтовые)</name>
@@ -139368,7 +139380,7 @@
     <price>659</price>
     <price_old>785</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 27/100 (цилиндры базальтовые)</name>
@@ -139394,7 +139406,7 @@
     <price>1098</price>
     <price_old>1308</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 125/90 (цилиндры базальтовые)</name>
@@ -139446,7 +139458,7 @@
     <price>2901</price>
     <price_old>3454</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 426/100 (цилиндры базальтовые)</name>
@@ -139472,7 +139484,7 @@
     <price>1324</price>
     <price_old>1576</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 159/100 (цилиндры базальтовые)</name>
@@ -139485,7 +139497,7 @@
     <price>622</price>
     <price_old>740</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 27/90 (цилиндры базальтовые)</name>
@@ -139498,7 +139510,7 @@
     <price>722</price>
     <price_old>860</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 48/90 (цилиндры базальтовые)</name>
@@ -139511,7 +139523,7 @@
     <price>1785</price>
     <price_old>2125</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 250/100 (цилиндры базальтовые)</name>
@@ -139524,7 +139536,7 @@
     <price>925</price>
     <price_old>1101</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 63/100 (цилиндры базальтовые)</name>
@@ -139537,7 +139549,7 @@
     <price>786</price>
     <price_old>936</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 54/100 (цилиндры базальтовые)</name>
@@ -139550,7 +139562,7 @@
     <price>573</price>
     <price_old>682</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 18/90 (цилиндры базальтовые)</name>
@@ -139576,7 +139588,7 @@
     <price>968</price>
     <price_old>1152</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 90/100 (цилиндры базальтовые)</name>
@@ -139589,7 +139601,7 @@
     <price>817</price>
     <price_old>972</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 60/100 (цилиндры базальтовые)</name>
@@ -139602,7 +139614,7 @@
     <price>618</price>
     <price_old>736</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 21/100 (цилиндры базальтовые)</name>
@@ -139641,7 +139653,7 @@
     <price>1016</price>
     <price_old>1210</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 80/100 (цилиндры базальтовые)</name>
@@ -139654,7 +139666,7 @@
     <price>855</price>
     <price_old>1018</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 50/100 (цилиндры базальтовые)</name>
@@ -139667,7 +139679,7 @@
     <price>1221</price>
     <price_old>1454</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 150/90 (цилиндры базальтовые)</name>
@@ -139693,7 +139705,7 @@
     <price>805</price>
     <price_old>959</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 38/100 (цилиндры базальтовые)</name>
@@ -139706,7 +139718,7 @@
     <price>2760</price>
     <price_old>3286</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 400/100 (цилиндры базальтовые)</name>
@@ -139732,7 +139744,7 @@
     <price>1559</price>
     <price_old>1856</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 219/90 (цилиндры базальтовые)</name>
@@ -139758,7 +139770,7 @@
     <price>1780</price>
     <price_old>2119</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 220/100 (цилиндры базальтовые)</name>
@@ -139797,7 +139809,7 @@
     <price>712</price>
     <price_old>848</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 45/90 (цилиндры базальтовые)</name>
@@ -139823,7 +139835,7 @@
     <price>670</price>
     <price_old>798</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 30/100 (цилиндры базальтовые)</name>
@@ -139836,7 +139848,7 @@
     <price>708</price>
     <price_old>842</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 22/100 (цилиндры базальтовые)</name>
@@ -139849,7 +139861,7 @@
     <price>1633</price>
     <price_old>1944</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 220/100 (цилиндры базальтовые)</name>
@@ -139875,7 +139887,7 @@
     <price>1672</price>
     <price_old>1990</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 200/100 (цилиндры базальтовые)</name>
@@ -139888,7 +139900,7 @@
     <price>970</price>
     <price_old>1155</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 100/90 (цилиндры базальтовые)</name>
@@ -139901,7 +139913,7 @@
     <price>607</price>
     <price_old>722</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 25/90 (цилиндры базальтовые)</name>
@@ -139914,7 +139926,7 @@
     <price>1164</price>
     <price_old>1386</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 140/90 (цилиндры базальтовые)</name>
@@ -139927,7 +139939,7 @@
     <price>898</price>
     <price_old>1069</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303350</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа 76/100 (цилиндры базальтовые)</name>
@@ -139940,7 +139952,7 @@
     <price>1564</price>
     <price_old>1862</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>156303414</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 220/90 (цилиндры базальтовые)</name>
@@ -139953,7 +139965,7 @@
     <price>724</price>
     <price_old>862</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>155281630</categoryId>
+    <categoryId>121445171</categoryId>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Базальтовая скорлупа с фольгой 25/100 (цилиндры базальтовые)</name>
