@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-02 17:00">
+<yml_catalog date="2026-09-03 09:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="46.678065" />
+      <currency id="USD" rate="46.839765" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="54.112485" />
+      <currency id="EUR" rate="54.225465" />
     </currencies>
     <categories>
       <category id="105213334" parentId="2341984">Бутилкаучуковые шнуры</category>
@@ -2212,7 +2212,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>769</quantity_in_stock>
+    <quantity_in_stock>767</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал" unit="">Резинка</param>
     <param name="Ширина, мм" unit="">30</param>
@@ -3606,7 +3606,7 @@
     <vendorCode>35015</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2820</quantity_in_stock>
+    <quantity_in_stock>2772</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологичный материал">Да</param>
     <param name="Эластичность материала">Да</param>
@@ -3903,7 +3903,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2689</quantity_in_stock>
+    <quantity_in_stock>2569</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -5231,7 +5231,7 @@
     <vendorCode>ВП22/6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>570</quantity_in_stock>
+    <quantity_in_stock>170</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -16503,7 +16503,7 @@
     <param name="Клеевая часть" unit="">Односторонняя</param>
     <param name="Липкий слой" unit="">Да</param>
   </offer>
-  <offer id="214339004" available="true">
+  <offer id="214339004" available="false">
     <url>https://proekt24.com/p214339004-paroizolyatsionnaya-lenta-dlya.html</url>
     <price>414</price>
     <price_old>492</price_old>
@@ -16525,7 +16525,7 @@
     <vendorCode>63322</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Длина" unit="м">12</param>
     <param name="Цвет">Синий</param>
     <param name="Ширина" unit="мм">0.1</param>
@@ -22111,7 +22111,7 @@
     <vendorCode>889039</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>157</quantity_in_stock>
+    <quantity_in_stock>156</quantity_in_stock>
     <param name="Применение материала">Потолок автомобиля</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Состояние">Новое</param>
@@ -22427,7 +22427,7 @@
     <vendorCode>889027</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет" unit="">Белый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -22467,7 +22467,7 @@
     <vendorCode>3210605</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Толщина" unit="мм">6</param>
     <param name="Длина, п.м." unit="">500</param>
     <param name="Цвет" unit="">Белый</param>
@@ -22527,7 +22527,7 @@
     <vendorCode>3211210</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Длина, п.м." unit="">1000</param>
     <param name="Цвет" unit="">Белый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -24200,7 +24200,7 @@
     <vendorCode>163102</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>35</quantity_in_stock>
+    <quantity_in_stock>34</quantity_in_stock>
     <param name="Диаметр" unit="см">28</param>
     <param name="Цвет">Зелёный</param>
     <param name="Максимальная нагрузка" unit="кг">140</param>
@@ -35748,7 +35748,7 @@
     <vendorCode>EF-AWTS-500</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Вес" unit="кг">5</param>
     <param name="Цвет">Серый</param>
     <param name="Количество утяжелителей">2</param>
@@ -36614,7 +36614,7 @@
     <vendorCode>112574</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">Нейлон</param>
     <param name="Тип">Петли Береша</param>
@@ -48637,7 +48637,7 @@
     <vendorCode>61213</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>123</quantity_in_stock>
+    <quantity_in_stock>122</quantity_in_stock>
     <param name="Длина" unit="м">15</param>
     <param name="Цвет">Черный</param>
     <param name="Назначение материала">Для дорог|Для стен|Для резервуаров|Для кровли|Для балконов|Для фасадов</param>
@@ -53620,7 +53620,7 @@
     <vendorCode>83920</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>571</quantity_in_stock>
+    <quantity_in_stock>565</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -70118,7 +70118,7 @@
     <vendorCode>889024</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>96</quantity_in_stock>
+    <quantity_in_stock>93</quantity_in_stock>
     <param name="Применение материала">Двери|Потолок автомобиля|Стенки багажника|Пол автомобиля|Пол багажника</param>
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
     <param name="Совместимость с моделью">206|Mondeo|Lupo|Sonata|Sebring|Q5|Focus|RAV4|Primera|Getz|Camry|Caliber|C4|Jazz|Fiesta|Dodge|Matiz|Chrysler|Fusion|Nissan Maxima|A4|Renault Megane|Colt|Santa Fe|Tucson|Tiguan|Almera|Scorpio|6|Yaris|Avensis|Civic|Accord|A6|Passat|C2|C5|Q7|XC90|Ceed|Lancer|Peugeot 206</param>
@@ -76372,7 +76372,7 @@
     <vendor>EasyFit</vendor>
     <vendorCode>EF-3002-GY</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Цвет">Серый</param>
     <param name="Состояние">Новое</param>
     <param name="Форма">Круглая</param>
@@ -118872,7 +118872,7 @@
     <vendorCode>Н11006005КТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Длина" unit="см">110</param>
     <param name="Цвет">Красный</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -121493,7 +121493,7 @@
     <vendorCode>32120</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1271</quantity_in_stock>
+    <quantity_in_stock>1257</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет" unit="">Белый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -127282,7 +127282,7 @@
     <vendor>Knauf</vendor>
     <vendorCode>889607</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Длина" unit="мм">9100</param>
     <param name="Покрытие">Без покрытия</param>
     <param name="Теплопроводность" unit="Вт/мК">0.042</param>
@@ -133394,7 +133394,7 @@
     <vendorCode>1502629</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Совместимость с колесами" unit="дюйм">29</param>
     <param name="Ручки для переноса чехла">Да</param>
     <param name="Водонепроницаемый чехол">Да</param>
@@ -135784,6 +135784,22 @@
     <param name="Конструкция" unit="">Цельная</param>
     <param name="Тип" unit="">упори для віджимань</param>
   </offer>
+  <offer id="3163699470" available="true">
+    <url>https://proekt24.com/p3163699470-bint-bokserskij-fgt.html</url>
+    <price>126</price>
+    <price_old>150</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083687</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Бинт боксерский FGT пара красивый 3 м</name>
+    <vendor>Venum</vendor>
+    <vendorCode>00002716</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>19</quantity_in_stock>
+    <param name="Материал">Нейлон</param>
+    <param name="Цвет">Красный</param>
+  </offer>
   <offer id="3163699471" available="true">
     <url>https://proekt24.com/p3163699471-bint-bokserskij-venum.html</url>
     <price>152</price>
@@ -135799,6 +135815,22 @@
     <quantity_in_stock>5</quantity_in_stock>
     <param name="Материал">Нейлон</param>
     <param name="Цвет">Красный</param>
+  </offer>
+  <offer id="3163699472" available="true">
+    <url>https://proekt24.com/p3163699472-bint-bokserskij-fgt.html</url>
+    <price>126</price>
+    <price_old>150</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083687</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Бинт боксерский FGT пара синий 3 м</name>
+    <vendor>Venum</vendor>
+    <vendorCode>00002715</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>19</quantity_in_stock>
+    <param name="Материал">Нейлон</param>
+    <param name="Цвет">Синий</param>
   </offer>
   <offer id="3165645173" available="true">
     <url>https://proekt24.com/p3165645173-bazaltovaya-skorlupa-folgoj.html</url>
@@ -142545,7 +142577,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">75</param>
   </offer>
-  <offer id="3167291325" available="true">
+<offer id="3167291325" available="true">
     <url>https://proekt24.com/p3167291325-bazaltovaya-skorlupa-45100.html</url>
     <price>752</price>
     <price_old>895</price_old>
@@ -142605,7 +142637,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">75</param>
   </offer>
-<offer id="3167291327" available="true">
+  <offer id="3167291327" available="true">
     <url>https://proekt24.com/p3167291327-bazaltovaya-skorlupa-315100.html</url>
     <price>2120</price>
     <price_old>2524</price_old>
