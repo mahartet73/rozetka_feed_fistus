@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-13 09:00">
+<yml_catalog date="2026-09-13 17:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -3637,7 +3637,7 @@
     <vendorCode>233454</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>51</quantity_in_stock>
+    <quantity_in_stock>50</quantity_in_stock>
     <param name="Длина, мм" unit="">520</param>
     <param name="Материал" unit="">Резинка</param>
     <param name="Ширина, мм" unit="">25</param>
@@ -3689,7 +3689,7 @@
     <vendorCode>500091</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3200</quantity_in_stock>
+    <quantity_in_stock>3198</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -15961,7 +15961,7 @@
     <vendorCode>63326</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>75</quantity_in_stock>
+    <quantity_in_stock>69</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Цвет">Черный</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
@@ -22286,21 +22286,21 @@
     <picture>https://images.prom.ua/2930994832_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Виброизоляция фольгированная Vizol 1,3 мм</name>
+    <name>Виброизоляция фольгированная Vizol 1,3х500x700мм</name>
     <vendor>СТК</vendor>
     <vendorCode>11362</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>3123</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
-    <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Колесные арки|Пол автомобиля|Пол багажника</param>
+    <param name="Применение материала">Крыша|Дверные панели|Двери|Капот|Колесные арки|Крышка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Состояние">Новое</param>
-    <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
+    <param name="Совместимость с маркой">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
+    <param name="Совместимость с моделью">206|6|A4|A6|Accord|Almera|Avensis|C2|C4|C5|Caliber|Camry|Ceed|Chrysler|Civic|Colt|Dodge|Fiesta|Focus|Fusion|Getz|Jazz|Lancer|Lupo|Matiz|Mondeo|Nissan Maxima|Passat|Primera|Q5|Q7|RAV4|Renault Megane|Santa Fe|Scorpio|Sebring|Sonata|Tiguan|Tucson|XC90|Yaris|500x</param>
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">1.3</param>
     <param name="Ширина листа" unit="см">50</param>
-    <param name="Совместимость с моделью">Fusion|6|XC90|Tucson|Scorpio|C5|Sonata|Camry|Avensis|Almera|Mondeo|Yaris|C2|Renault Megane|A4|206|Focus|Ceed|Colt|Chrysler|Fiesta|Tiguan|Accord|A6|Lupo|Lancer|C4|Sebring|Primera|Jazz|Getz|Nissan Maxima|Caliber|Q5|Matiz|Santa Fe|Q7|Passat|Civic|Dodge|RAV4</param>
   </offer>
   <offer id="321768446" available="true">
     <url>https://proekt24.com/p321768446-vibroizolyatsiya-folgirovannaya-vizol.html</url>
@@ -22317,7 +22317,7 @@
     <picture>https://images.prom.ua/2930994832_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Виброизоляция фольгированная Vizol 2 мм</name>
+    <name>Виброизоляция фольгированная Vizol 2х500x700мм</name>
     <vendor>СТК</vendor>
     <vendorCode>11361</vendorCode>
     <country_of_origin>Украина</country_of_origin>
@@ -22326,11 +22326,12 @@
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Колесные арки</param>
     <param name="Необходимость нагрева">Нет</param>
-    <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
+    <param name="Состояние">Новое</param>
+    <param name="Совместимость с маркой">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">2</param>
     <param name="Ширина листа" unit="см">50</param>
-    <param name="Совместимость с моделью">Tucson|Matiz|C2|Q5|Chrysler|XC90|Fusion|C4|RAV4|Q7|Yaris|Caliber|Lancer|Ceed|Civic|A6|Peugeot 206|Lupo|Dodge|Almera|Nissan Maxima|Sonata|Tiguan|Avensis|Mondeo|Jazz|Colt|6|C5|Santa Fe|Passat|Scorpio|Camry|A4|Primera|Focus|Sebring|Renault Megane|Accord|Fiesta|Getz</param>
+    <param name="Совместимость с моделью">500x</param>
   </offer>
   <offer id="321769089" available="true">
     <url>https://proekt24.com/p321769089-vibroizolyatsiya-folgirovannaya-vizol.html</url>
@@ -22346,21 +22347,21 @@
     <picture>https://images.prom.ua/2930994827_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Виброизоляция фольгированная Vizol 3 мм</name>
+    <name>Виброизоляция фольгированная Vizol 3х500x700мм</name>
     <vendor>СТК</vendor>
     <vendorCode>11363</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>708</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
-    <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Колесные арки|Пол автомобиля|Пол багажника</param>
+    <param name="Применение материала">Крыша|Дверные панели|Двери|Капот|Колесные арки|Крышка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Состояние">Новое</param>
-    <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
+    <param name="Совместимость с маркой">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
+    <param name="Совместимость с моделью">206|6|A4|A6|Accord|Almera|Avensis|C2|C4|C5|Caliber|Camry|Ceed|Chrysler|Civic|Colt|Dodge|Fiesta|Focus|Fusion|Getz|Jazz|Lancer|Lupo|Matiz|Mondeo|Nissan Maxima|Passat|Primera|Q5|Q7|RAV4|Renault Megane|Santa Fe|Scorpio|Sebring|Sonata|Tiguan|Tucson|XC90|Yaris|500x</param>
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">3</param>
     <param name="Ширина листа" unit="см">50</param>
-    <param name="Совместимость с моделью">XC90|Fusion|Lupo|Jazz|Nissan Maxima|Primera|Camry|Sebring|Lancer|C2|Renault Megane|Almera|Sonata|Chrysler|Yaris|6|Tiguan|Tucson|C4|Accord|Santa Fe|Caliber|Scorpio|Civic|Avensis|206|Ceed|A4|Mondeo|Passat|Colt|A6|Q7|Getz|Fiesta|Matiz|Dodge|RAV4|Focus|C5|Q5</param>
   </offer>
   <offer id="321770796" available="true">
     <url>https://proekt24.com/p321770796-vibroizolyatsiya-folgirovannaya-vizol.html</url>
@@ -22379,21 +22380,21 @@
     <picture>https://images.prom.ua/2930994832_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Виброизоляция фольгированная Vizol 4 мм</name>
+    <name>Виброизоляция фольгированная Vizol 4х500x700мм</name>
     <vendor>СТК</vendor>
     <vendorCode>11364</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>635</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
-    <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Колесные арки|Пол автомобиля|Пол багажника</param>
+    <param name="Применение материала">Крыша|Дверные панели|Двери|Капот|Колесные арки|Крышка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Состояние">Новое</param>
-    <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
+    <param name="Совместимость с маркой">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">4</param>
     <param name="Ширина листа" unit="см">50</param>
-    <param name="Совместимость с моделью">XC90|Fusion|Lupo|Jazz|Nissan Maxima|Primera|Camry|Sebring|Lancer|C2|Renault Megane|Almera|Sonata|Chrysler|Yaris|6|Tiguan|Tucson|C4|Accord|Santa Fe|Caliber|Scorpio|Civic|Avensis|206|Ceed|A4|Mondeo|Passat|Colt|A6|Q7|Getz|Fiesta|Matiz|Dodge|RAV4|Focus|C5|Q5|Peugeot 206</param>
+    <param name="Совместимость с моделью">500x</param>
   </offer>
   <offer id="324595917" available="false">
     <url>https://proekt24.com/p324595917-zhgut-uplotnitelnyj-seryj.html</url>
@@ -29903,7 +29904,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="463027623" available="false">
+  <offer id="463027623" available="true">
     <url>https://proekt24.com/p463027623-penoplastovaya-skorlupa-5780.html</url>
     <price>412</price>
     <price_old>490</price_old>
@@ -29925,7 +29926,7 @@
     <vendorCode>П57/80Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -35684,7 +35685,7 @@
     <vendorCode>EF-AWTS-200</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">2</param>
     <param name="Цвет">Серый</param>
     <param name="Количество утяжелителей">2</param>
@@ -37801,7 +37802,7 @@
     <vendorCode>62769</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>70</quantity_in_stock>
+    <quantity_in_stock>69</quantity_in_stock>
     <param name="Длина" unit="м">3</param>
     <param name="Цвет">Коричневый</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
@@ -39207,7 +39208,7 @@
     <vendorCode>64022</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>222</quantity_in_stock>
+    <quantity_in_stock>221</quantity_in_stock>
     <param name="Расход материала" unit="кг/м2">1.4</param>
     <param name="Цвет">Серый</param>
     <param name="Консистенция">Полужидкая</param>
@@ -48818,7 +48819,7 @@
     <vendorCode>112569</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>35</quantity_in_stock>
+    <quantity_in_stock>34</quantity_in_stock>
     <param name="Диаметр" unit="см">94</param>
     <param name="Цвет">Фиолетовый</param>
     <param name="Конструкция">Цельная</param>
@@ -50634,7 +50635,7 @@
     <vendorCode>EF-1818-6</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Цвет">Фиолетовый</param>
     <param name="Материал">EVA пена</param>
     <param name="Состояние">Новое</param>
@@ -73374,7 +73375,7 @@
     <vendorCode>163100</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Вес" unit="г">1100</param>
     <param name="Диаметр" unit="см">28</param>
     <param name="Цвет">Черный</param>
@@ -74062,7 +74063,7 @@
     <vendorCode>18006008СЕ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>298</quantity_in_stock>
+    <quantity_in_stock>297</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Цвет">Серый</param>
     <param name="Количество слоев">Однослойные</param>
@@ -74214,7 +74215,7 @@
     <vendorCode>Н10020010Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Цвет">Черный</param>
     <param name="Материал чехла">Искусственная кожа</param>
@@ -81873,7 +81874,7 @@
     <vendorCode>П63/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -82399,7 +82400,7 @@
     <vendorCode>П50/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -93626,7 +93627,7 @@
     <vendorCode>П25/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>100</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -116554,7 +116555,7 @@
     <vendorCode>П50/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -117653,7 +117654,7 @@
     <vendorCode>П40/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -118699,7 +118700,7 @@
     <vendorCode>П32/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -119704,7 +119705,7 @@
     <vendorCode>П159/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -119737,7 +119738,7 @@
     <vendorCode>П110/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -119770,7 +119771,7 @@
     <vendorCode>П102/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -124926,7 +124927,7 @@
     <param name="Толщина" unit="мм">5</param>
     <param name="Ширина" unit="мм">20</param>
   </offer>
-  <offer id="2611813467" available="false">
+  <offer id="2611813467" available="true">
     <url>https://proekt24.com/p2611813467-penoplastovaya-skorlupa-6060.html</url>
     <price>390</price>
     <price_old>464</price_old>
@@ -124944,7 +124945,7 @@
     <vendorCode>П60/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -125236,7 +125237,7 @@
     <param name="Объем" unit="мл">550</param>
     <param name="Состояние">Новое</param>
   </offer>
-  <offer id="2633589716" available="false">
+  <offer id="2633589716" available="true">
     <url>https://proekt24.com/p2633589716-penoplastovaya-skorlupa-6360.html</url>
     <price>403</price>
     <price_old>480</price_old>
@@ -125254,7 +125255,7 @@
     <vendorCode>П63/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -127338,7 +127339,7 @@
     <vendorCode>П50/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -127371,7 +127372,7 @@
     <vendorCode>П25/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -130885,7 +130886,7 @@
     <param name="Длина" unit="м">50</param>
     <param name="Ширина" unit="мм">75</param>
   </offer>
-  <offer id="2889784154" available="false">
+  <offer id="2889784154" available="true">
     <url>https://proekt24.com/p2889784154-penoplastovaya-skorlupa-4560.html</url>
     <price>374</price>
     <price_old>445</price_old>
@@ -130903,7 +130904,7 @@
     <vendorCode>П45/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -131051,7 +131052,7 @@
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
     <param name="Плотность" unit="">55</param>
   </offer>
-  <offer id="2892324455" available="false">
+  <offer id="2892324455" available="true">
     <url>https://proekt24.com/p2892324455-penoplastovaya-skorlupa-5760.html</url>
     <price>378</price>
     <price_old>450</price_old>
@@ -131069,7 +131070,7 @@
     <vendorCode>П57/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -131713,7 +131714,7 @@
     <vendorCode>EF-1916-GY</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Длина" unit="м">2.8</param>
     <param name="Цвет">Черный</param>
     <param name="Материал ручек">Пластик</param>
@@ -135791,7 +135792,7 @@
     <param name="Внутрішній діаметр трубки ізоляції" unit="мм">10</param>
     <param name="Зовнішній діаметр ізоляції" unit="мм">22</param>
   </offer>
-  <offer id="3153008854" available="false">
+  <offer id="3153008854" available="true">
     <url>https://proekt24.com/p3153008854-penoplastovaya-skorlupa-4060.html</url>
     <price>317</price>
     <price_old>378</price_old>
@@ -135809,7 +135810,7 @@
     <vendorCode>П40/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -145834,7 +145835,7 @@
     <param name="Цвет">Желтый</param>
     <param name="Материал">PVC</param>
   </offer>
-  <offer id="3188306933" available="false">
+  <offer id="3188306933" available="true">
     <url>https://proekt24.com/p3188306933-penoplastovaya-skorlupa-273100.html</url>
     <price>1356</price>
     <price_old>1614</price_old>
@@ -145856,7 +145857,7 @@
     <vendorCode>П273/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -145871,7 +145872,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306934" available="false">
+  <offer id="3188306934" available="true">
     <url>https://proekt24.com/p3188306934-penoplastovaya-skorlupa-20060.html</url>
     <price>815</price>
     <price_old>970</price_old>
@@ -145889,7 +145890,7 @@
     <vendorCode>П200/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -145904,7 +145905,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306935" available="false">
+  <offer id="3188306935" available="true">
     <url>https://proekt24.com/p3188306935-penoplastovaya-skorlupa-57100.html</url>
     <price>679</price>
     <price_old>809</price_old>
@@ -145926,7 +145927,7 @@
     <vendorCode>П57/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -145941,7 +145942,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306936" available="false">
+  <offer id="3188306936" available="true">
     <url>https://proekt24.com/p3188306936-penoplastovaya-skorlupa-146100.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -145963,7 +145964,7 @@
     <vendorCode>П146/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -145978,7 +145979,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306937" available="false">
+  <offer id="3188306937" available="true">
     <url>https://proekt24.com/p3188306937-penoplastovaya-skorlupa-27380.html</url>
     <price>1545</price>
     <price_old>1839</price_old>
@@ -145996,7 +145997,7 @@
     <vendorCode>П273/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146011,7 +146012,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306938" available="false">
+  <offer id="3188306938" available="true">
     <url>https://proekt24.com/p3188306938-penoplastovaya-skorlupa-7690.html</url>
     <price>726</price>
     <price_old>864</price_old>
@@ -146029,7 +146030,7 @@
     <vendorCode>П76/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146044,7 +146045,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306939" available="false">
+  <offer id="3188306939" available="true">
     <url>https://proekt24.com/p3188306939-penoplastovaya-skorlupa-6070.html</url>
     <price>504</price>
     <price_old>600</price_old>
@@ -146062,7 +146063,7 @@
     <vendorCode>П60/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146077,7 +146078,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306940" available="false">
+  <offer id="3188306940" available="true">
     <url>https://proekt24.com/p3188306940-penoplastovaya-skorlupa-3270.html</url>
     <price>373</price>
     <price_old>444</price_old>
@@ -146095,7 +146096,7 @@
     <vendorCode>П32/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146110,7 +146111,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306941" available="false">
+  <offer id="3188306941" available="true">
     <url>https://proekt24.com/p3188306941-penoplastovaya-skorlupa-114100.html</url>
     <price>868</price>
     <price_old>1034</price_old>
@@ -146128,7 +146129,7 @@
     <vendorCode>П114/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146143,7 +146144,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306942" available="false">
+  <offer id="3188306942" available="true">
     <url>https://proekt24.com/p3188306942-penoplastovaya-skorlupa-7670.html</url>
     <price>509</price>
     <price_old>606</price_old>
@@ -146161,7 +146162,7 @@
     <vendorCode>П76/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146176,7 +146177,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306943" available="false">
+  <offer id="3188306943" available="true">
     <url>https://proekt24.com/p3188306943-penoplastovaya-skorlupa-4590.html</url>
     <price>455</price>
     <price_old>541</price_old>
@@ -146198,7 +146199,7 @@
     <vendorCode>П45/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146213,7 +146214,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306944" available="false">
+  <offer id="3188306944" available="true">
     <url>https://proekt24.com/p3188306944-penoplastovaya-skorlupa-8990.html</url>
     <price>783</price>
     <price_old>932</price_old>
@@ -146231,7 +146232,7 @@
     <vendorCode>П89/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146246,7 +146247,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306945" available="false">
+  <offer id="3188306945" available="true">
     <url>https://proekt24.com/p3188306945-penoplastovaya-skorlupa-8960.html</url>
     <price>455</price>
     <price_old>541</price_old>
@@ -146264,7 +146265,7 @@
     <vendorCode>П89/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146279,7 +146280,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306946" available="false">
+  <offer id="3188306946" available="true">
     <url>https://proekt24.com/p3188306946-penoplastovaya-skorlupa-13390.html</url>
     <price>770</price>
     <price_old>916</price_old>
@@ -146301,7 +146302,7 @@
     <vendorCode>П133/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146316,7 +146317,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306947" available="false">
+  <offer id="3188306947" available="true">
     <url>https://proekt24.com/p3188306947-penoplastovaya-skorlupa-89100.html</url>
     <price>724</price>
     <price_old>862</price_old>
@@ -146338,7 +146339,7 @@
     <vendorCode>П89/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146353,7 +146354,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306948" available="false">
+  <offer id="3188306948" available="true">
     <url>https://proekt24.com/p3188306948-penoplastovaya-skorlupa-60100.html</url>
     <price>802</price>
     <price_old>955</price_old>
@@ -146371,7 +146372,7 @@
     <vendorCode>П60/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146386,7 +146387,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306949" available="false">
+  <offer id="3188306949" available="true">
     <url>https://proekt24.com/p3188306949-penoplastovaya-skorlupa-15980.html</url>
     <price>909</price>
     <price_old>1082</price_old>
@@ -146404,7 +146405,7 @@
     <vendorCode>П159/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146419,7 +146420,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306950" available="false">
+  <offer id="3188306950" available="true">
     <url>https://proekt24.com/p3188306950-penoplastovaya-skorlupa-25080.html</url>
     <price>1536</price>
     <price_old>1829</price_old>
@@ -146437,7 +146438,7 @@
     <vendorCode>П250/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146452,7 +146453,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306951" available="false">
+  <offer id="3188306951" available="true">
     <url>https://proekt24.com/p3188306951-penoplastovaya-skorlupa-14670.html</url>
     <price>812</price>
     <price_old>966</price_old>
@@ -146470,7 +146471,7 @@
     <vendorCode>П146/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146485,7 +146486,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306952" available="false">
+  <offer id="3188306952" available="true">
     <url>https://proekt24.com/p3188306952-penoplastovaya-skorlupa-250100.html</url>
     <price>1552</price>
     <price_old>1848</price_old>
@@ -146503,7 +146504,7 @@
     <vendorCode>П250/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146518,7 +146519,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306953" available="false">
+  <offer id="3188306953" available="true">
     <url>https://proekt24.com/p3188306953-penoplastovaya-skorlupa-3290.html</url>
     <price>483</price>
     <price_old>575</price_old>
@@ -146536,7 +146537,7 @@
     <vendorCode>П32/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146551,7 +146552,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306954" available="false">
+  <offer id="3188306954" available="true">
     <url>https://proekt24.com/p3188306954-penoplastovaya-skorlupa-10260.html</url>
     <price>520</price>
     <price_old>619</price_old>
@@ -146569,7 +146570,7 @@
     <vendorCode>П102/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146584,7 +146585,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306955" available="false">
+  <offer id="3188306955" available="true">
     <url>https://proekt24.com/p3188306955-penoplastovaya-skorlupa-4580.html</url>
     <price>513</price>
     <price_old>611</price_old>
@@ -146602,7 +146603,7 @@
     <vendorCode>П45/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146617,7 +146618,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306956" available="false">
+  <offer id="3188306956" available="true">
     <url>https://proekt24.com/p3188306956-penoplastovaya-skorlupa-32590.html</url>
     <price>5180</price>
     <price_old>6166</price_old>
@@ -146635,7 +146636,7 @@
     <vendorCode>П325/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146650,7 +146651,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306957" available="false">
+  <offer id="3188306957" available="true">
     <url>https://proekt24.com/p3188306957-penoplastovaya-skorlupa-110100.html</url>
     <price>724</price>
     <price_old>862</price_old>
@@ -146672,7 +146673,7 @@
     <vendorCode>П110/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146687,7 +146688,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306958" available="false">
+  <offer id="3188306958" available="true">
     <url>https://proekt24.com/p3188306958-penoplastovaya-skorlupa-1670.html</url>
     <price>296</price>
     <price_old>352</price_old>
@@ -146705,7 +146706,7 @@
     <vendorCode>П16/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146720,7 +146721,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306959" available="false">
+  <offer id="3188306959" available="true">
     <url>https://proekt24.com/p3188306959-penoplastovaya-skorlupa-13370.html</url>
     <price>753</price>
     <price_old>896</price_old>
@@ -146738,7 +146739,7 @@
     <vendorCode>П133/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146753,7 +146754,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306960" available="false">
+  <offer id="3188306960" available="true">
     <url>https://proekt24.com/p3188306960-penoplastovaya-skorlupa-3290.html</url>
     <price>379</price>
     <price_old>451</price_old>
@@ -146775,7 +146776,7 @@
     <vendorCode>П32/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146790,7 +146791,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306961" available="false">
+  <offer id="3188306961" available="true">
     <url>https://proekt24.com/p3188306961-penoplastovaya-skorlupa-1690.html</url>
     <price>284</price>
     <price_old>338</price_old>
@@ -146812,7 +146813,7 @@
     <vendorCode>П16/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146827,7 +146828,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306962" available="false">
+  <offer id="3188306962" available="true">
     <url>https://proekt24.com/p3188306962-penoplastovaya-skorlupa-325100.html</url>
     <price>5187</price>
     <price_old>6175</price_old>
@@ -146845,7 +146846,7 @@
     <vendorCode>П325/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146860,7 +146861,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306963" available="false">
+  <offer id="3188306963" available="true">
     <url>https://proekt24.com/p3188306963-penoplastovaya-skorlupa-16100.html</url>
     <price>369</price>
     <price_old>439</price_old>
@@ -146882,7 +146883,7 @@
     <vendorCode>П16/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146897,7 +146898,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306964" available="false">
+  <offer id="3188306964" available="true">
     <url>https://proekt24.com/p3188306964-penoplastovaya-skorlupa-5090.html</url>
     <price>455</price>
     <price_old>541</price_old>
@@ -146919,7 +146920,7 @@
     <vendorCode>П50/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146934,7 +146935,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306965" available="false">
+  <offer id="3188306965" available="true">
     <url>https://proekt24.com/p3188306965-penoplastovaya-skorlupa-10890.html</url>
     <price>694</price>
     <price_old>826</price_old>
@@ -146956,7 +146957,7 @@
     <vendorCode>П108/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -146971,7 +146972,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306967" available="false">
+  <offer id="3188306967" available="true">
     <url>https://proekt24.com/p3188306967-penoplastovaya-skorlupa-16890.html</url>
     <price>1136</price>
     <price_old>1352</price_old>
@@ -146989,7 +146990,7 @@
     <vendorCode>П168/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147004,7 +147005,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306968" available="false">
+  <offer id="3188306968" available="true">
     <url>https://proekt24.com/p3188306968-penoplastovaya-skorlupa-273100.html</url>
     <price>1560</price>
     <price_old>1858</price_old>
@@ -147022,7 +147023,7 @@
     <vendorCode>П273/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147037,7 +147038,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306969" available="false">
+  <offer id="3188306969" available="true">
     <url>https://proekt24.com/p3188306969-penoplastovaya-skorlupa-32100.html</url>
     <price>529</price>
     <price_old>630</price_old>
@@ -147055,7 +147056,7 @@
     <vendorCode>П32/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147070,7 +147071,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306970" available="false">
+  <offer id="3188306970" available="true">
     <url>https://proekt24.com/p3188306970-penoplastovaya-skorlupa-5790.html</url>
     <price>455</price>
     <price_old>541</price_old>
@@ -147092,7 +147093,7 @@
     <vendorCode>П57/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147107,7 +147108,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306971" available="false">
+  <offer id="3188306971" available="true">
     <url>https://proekt24.com/p3188306971-penoplastovaya-skorlupa-11490.html</url>
     <price>831</price>
     <price_old>989</price_old>
@@ -147125,7 +147126,7 @@
     <vendorCode>П114/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147140,7 +147141,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306972" available="false">
+  <offer id="3188306972" available="true">
     <url>https://proekt24.com/p3188306972-penoplastovaya-skorlupa-5780.html</url>
     <price>518</price>
     <price_old>616</price_old>
@@ -147158,7 +147159,7 @@
     <vendorCode>П57/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147173,7 +147174,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306973" available="false">
+  <offer id="3188306973" available="true">
     <url>https://proekt24.com/p3188306973-penoplastovaya-skorlupa-14680.html</url>
     <price>820</price>
     <price_old>976</price_old>
@@ -147191,7 +147192,7 @@
     <vendorCode>П146/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147206,7 +147207,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306974" available="false">
+  <offer id="3188306974" available="true">
     <url>https://proekt24.com/p3188306974-penoplastovaya-skorlupa-18100.html</url>
     <price>394</price>
     <price_old>469</price_old>
@@ -147228,7 +147229,7 @@
     <vendorCode>П18/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147243,7 +147244,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306975" available="false">
+  <offer id="3188306975" available="true">
     <url>https://proekt24.com/p3188306975-penoplastovaya-skorlupa-12770.html</url>
     <price>751</price>
     <price_old>894</price_old>
@@ -147261,7 +147262,7 @@
     <vendorCode>П127/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147276,7 +147277,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306976" available="false">
+  <offer id="3188306976" available="true">
     <url>https://proekt24.com/p3188306976-penoplastovaya-skorlupa-219100.html</url>
     <price>1315</price>
     <price_old>1565</price_old>
@@ -147294,7 +147295,7 @@
     <vendorCode>П219/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147309,7 +147310,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306977" available="false">
+  <offer id="3188306977" available="true">
     <url>https://proekt24.com/p3188306977-penoplastovaya-skorlupa-10290.html</url>
     <price>788</price>
     <price_old>938</price_old>
@@ -147327,7 +147328,7 @@
     <vendorCode>П102/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147342,7 +147343,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306978" available="false">
+  <offer id="3188306978" available="true">
     <url>https://proekt24.com/p3188306978-penoplastovaya-skorlupa-63100.html</url>
     <price>679</price>
     <price_old>809</price_old>
@@ -147364,7 +147365,7 @@
     <vendorCode>П63/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147379,7 +147380,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306979" available="false">
+  <offer id="3188306979" available="true">
     <url>https://proekt24.com/p3188306979-penoplastovaya-skorlupa-25100.html</url>
     <price>418</price>
     <price_old>498</price_old>
@@ -147401,7 +147402,7 @@
     <vendorCode>П25/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147416,7 +147417,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306980" available="false">
+  <offer id="3188306980" available="true">
     <url>https://proekt24.com/p3188306980-penoplastovaya-skorlupa-10860.html</url>
     <price>481</price>
     <price_old>572</price_old>
@@ -147434,7 +147435,7 @@
     <vendorCode>П108/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147449,7 +147450,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306981" available="false">
+  <offer id="3188306981" available="true">
     <url>https://proekt24.com/p3188306981-penoplastovaya-skorlupa-168100.html</url>
     <price>1144</price>
     <price_old>1362</price_old>
@@ -147467,7 +147468,7 @@
     <vendorCode>П168/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147482,7 +147483,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306982" available="false">
+  <offer id="3188306982" available="true">
     <url>https://proekt24.com/p3188306982-penoplastovaya-skorlupa-32590.html</url>
     <price>4961</price>
     <price_old>5906</price_old>
@@ -147504,7 +147505,7 @@
     <vendorCode>П325/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147519,7 +147520,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306983" available="false">
+  <offer id="3188306983" available="true">
     <url>https://proekt24.com/p3188306983-penoplastovaya-skorlupa-219100.html</url>
     <price>1130</price>
     <price_old>1345</price_old>
@@ -147541,7 +147542,7 @@
     <vendorCode>П219/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147556,7 +147557,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306984" available="false">
+  <offer id="3188306984" available="true">
     <url>https://proekt24.com/p3188306984-penoplastovaya-skorlupa-1660.html</url>
     <price>239</price>
     <price_old>285</price_old>
@@ -147574,7 +147575,7 @@
     <vendorCode>П16/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147589,7 +147590,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306985" available="false">
+  <offer id="3188306985" available="true">
     <url>https://proekt24.com/p3188306985-penoplastovaya-skorlupa-76100.html</url>
     <price>808</price>
     <price_old>962</price_old>
@@ -147607,7 +147608,7 @@
     <vendorCode>П76/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147622,7 +147623,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306986" available="false">
+  <offer id="3188306986" available="true">
     <url>https://proekt24.com/p3188306986-penoplastovaya-skorlupa-4570.html</url>
     <price>400</price>
     <price_old>476</price_old>
@@ -147640,7 +147641,7 @@
     <vendorCode>П45/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147655,7 +147656,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306987" available="false">
+  <offer id="3188306987" available="true">
     <url>https://proekt24.com/p3188306987-penoplastovaya-skorlupa-38100.html</url>
     <price>440</price>
     <price_old>524</price_old>
@@ -147677,7 +147678,7 @@
     <vendorCode>П38/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147692,7 +147693,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306988" available="false">
+  <offer id="3188306988" available="true">
     <url>https://proekt24.com/p3188306988-penoplastovaya-skorlupa-133100.html</url>
     <price>1131</price>
     <price_old>1346</price_old>
@@ -147710,7 +147711,7 @@
     <vendorCode>П133/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147725,7 +147726,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306989" available="false">
+  <offer id="3188306989" available="true">
     <url>https://proekt24.com/p3188306989-penoplastovaya-skorlupa-76100.html</url>
     <price>679</price>
     <price_old>809</price_old>
@@ -147747,7 +147748,7 @@
     <vendorCode>П76/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147762,7 +147763,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306990" available="false">
+  <offer id="3188306990" available="true">
     <url>https://proekt24.com/p3188306990-penoplastovaya-skorlupa-13380.html</url>
     <price>820</price>
     <price_old>976</price_old>
@@ -147780,7 +147781,7 @@
     <vendorCode>П133/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147795,7 +147796,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306991" available="false">
+  <offer id="3188306991" available="true">
     <url>https://proekt24.com/p3188306991-penoplastovaya-skorlupa-1880.html</url>
     <price>361</price>
     <price_old>430</price_old>
@@ -147813,7 +147814,7 @@
     <vendorCode>П18/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147828,7 +147829,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306992" available="false">
+  <offer id="3188306992" available="true">
     <url>https://proekt24.com/p3188306992-penoplastovaya-skorlupa-2090.html</url>
     <price>478</price>
     <price_old>569</price_old>
@@ -147846,7 +147847,7 @@
     <vendorCode>П20/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147861,7 +147862,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306993" available="false">
+  <offer id="3188306993" available="true">
     <url>https://proekt24.com/p3188306993-penoplastovaya-skorlupa-89100.html</url>
     <price>858</price>
     <price_old>1021</price_old>
@@ -147879,7 +147880,7 @@
     <vendorCode>П89/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147894,7 +147895,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306994" available="false">
+  <offer id="3188306994" available="true">
     <url>https://proekt24.com/p3188306994-penoplastovaya-skorlupa-6390.html</url>
     <price>635</price>
     <price_old>756</price_old>
@@ -147912,7 +147913,7 @@
     <vendorCode>П63/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147927,7 +147928,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306995" available="false">
+  <offer id="3188306995" available="true">
     <url>https://proekt24.com/p3188306995-penoplastovaya-skorlupa-27390.html</url>
     <price>1553</price>
     <price_old>1849</price_old>
@@ -147945,7 +147946,7 @@
     <vendorCode>П273/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147960,7 +147961,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306996" available="false">
+  <offer id="3188306996" available="true">
     <url>https://proekt24.com/p3188306996-penoplastovaya-skorlupa-15990.html</url>
     <price>1133</price>
     <price_old>1349</price_old>
@@ -147978,7 +147979,7 @@
     <vendorCode>П159/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -147993,7 +147994,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306997" available="false">
+  <offer id="3188306997" available="true">
     <url>https://proekt24.com/p3188306997-penoplastovaya-skorlupa-21990.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -148015,7 +148016,7 @@
     <vendorCode>П219/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148030,7 +148031,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306998" available="false">
+  <offer id="3188306998" available="true">
     <url>https://proekt24.com/p3188306998-penoplastovaya-skorlupa-25090.html</url>
     <price>1356</price>
     <price_old>1614</price_old>
@@ -148052,7 +148053,7 @@
     <vendorCode>П250/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148067,7 +148068,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188306999" available="false">
+  <offer id="3188306999" available="true">
     <url>https://proekt24.com/p3188306999-penoplastovaya-skorlupa-127100.html</url>
     <price>792</price>
     <price_old>942</price_old>
@@ -148089,7 +148090,7 @@
     <vendorCode>П127/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148104,7 +148105,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307000" available="false">
+  <offer id="3188307000" available="true">
     <url>https://proekt24.com/p3188307000-penoplastovaya-skorlupa-12160.html</url>
     <price>564</price>
     <price_old>671</price_old>
@@ -148122,7 +148123,7 @@
     <vendorCode>П121/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148137,7 +148138,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307001" available="false">
+  <offer id="3188307001" available="true">
     <url>https://proekt24.com/p3188307001-penoplastovaya-skorlupa-15960.html</url>
     <price>678</price>
     <price_old>808</price_old>
@@ -148155,7 +148156,7 @@
     <vendorCode>П159/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148170,7 +148171,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307002" available="false">
+  <offer id="3188307002" available="true">
     <url>https://proekt24.com/p3188307002-penoplastovaya-skorlupa-4080.html</url>
     <price>511</price>
     <price_old>609</price_old>
@@ -148188,7 +148189,7 @@
     <vendorCode>П40/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148203,7 +148204,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307003" available="false">
+  <offer id="3188307003" available="true">
     <url>https://proekt24.com/p3188307003-penoplastovaya-skorlupa-20100.html</url>
     <price>418</price>
     <price_old>498</price_old>
@@ -148225,7 +148226,7 @@
     <vendorCode>П20/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148240,7 +148241,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307004" available="false">
+  <offer id="3188307004" available="true">
     <url>https://proekt24.com/p3188307004-penoplastovaya-skorlupa-20090.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -148262,7 +148263,7 @@
     <vendorCode>П200/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148277,7 +148278,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307005" available="false">
+  <offer id="3188307005" available="true">
     <url>https://proekt24.com/p3188307005-penoplastovaya-skorlupa-32100.html</url>
     <price>418</price>
     <price_old>498</price_old>
@@ -148299,7 +148300,7 @@
     <vendorCode>П32/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148314,7 +148315,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307006" available="false">
+  <offer id="3188307006" available="true">
     <url>https://proekt24.com/p3188307006-penoplastovaya-skorlupa-16860.html</url>
     <price>798</price>
     <price_old>950</price_old>
@@ -148332,7 +148333,7 @@
     <vendorCode>П168/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148347,7 +148348,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307007" available="false">
+  <offer id="3188307007" available="true">
     <url>https://proekt24.com/p3188307007-penoplastovaya-skorlupa-2570.html</url>
     <price>370</price>
     <price_old>440</price_old>
@@ -148365,7 +148366,7 @@
     <vendorCode>П25/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148380,7 +148381,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307008" available="false">
+  <offer id="3188307008" available="true">
     <url>https://proekt24.com/p3188307008-penoplastovaya-skorlupa-1860.html</url>
     <price>240</price>
     <price_old>286</price_old>
@@ -148398,7 +148399,7 @@
     <vendorCode>П18/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148413,7 +148414,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307009" available="false">
+  <offer id="3188307009" available="true">
     <url>https://proekt24.com/p3188307009-penoplastovaya-skorlupa-4090.html</url>
     <price>562</price>
     <price_old>669</price_old>
@@ -148431,7 +148432,7 @@
     <vendorCode>П40/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148446,7 +148447,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307010" available="false">
+  <offer id="3188307010" available="true">
     <url>https://proekt24.com/p3188307010-penoplastovaya-skorlupa-102100.html</url>
     <price>724</price>
     <price_old>862</price_old>
@@ -148468,7 +148469,7 @@
     <vendorCode>П102/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148483,7 +148484,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307011" available="false">
+  <offer id="3188307011" available="true">
     <url>https://proekt24.com/p3188307011-penoplastovaya-skorlupa-4090.html</url>
     <price>455</price>
     <price_old>541</price_old>
@@ -148505,7 +148506,7 @@
     <vendorCode>П40/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148520,7 +148521,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307012" available="false">
+  <offer id="3188307012" available="true">
     <url>https://proekt24.com/p3188307012-penoplastovaya-skorlupa-25060.html</url>
     <price>1250</price>
     <price_old>1488</price_old>
@@ -148538,7 +148539,7 @@
     <vendorCode>П250/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148553,7 +148554,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307013" available="false">
+  <offer id="3188307013" available="true">
     <url>https://proekt24.com/p3188307013-penoplastovaya-skorlupa-6390.html</url>
     <price>519</price>
     <price_old>618</price_old>
@@ -148575,7 +148576,7 @@
     <vendorCode>П63/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148590,7 +148591,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307014" available="false">
+  <offer id="3188307014" available="true">
     <url>https://proekt24.com/p3188307014-penoplastovaya-skorlupa-11470.html</url>
     <price>668</price>
     <price_old>795</price_old>
@@ -148608,7 +148609,7 @@
     <vendorCode>П114/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148623,7 +148624,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307015" available="false">
+  <offer id="3188307015" available="true">
     <url>https://proekt24.com/p3188307015-penoplastovaya-skorlupa-200100.html</url>
     <price>1307</price>
     <price_old>1556</price_old>
@@ -148641,7 +148642,7 @@
     <vendorCode>П200/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148656,7 +148657,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307016" available="false">
+  <offer id="3188307016" available="true">
     <url>https://proekt24.com/p3188307016-penoplastovaya-skorlupa-108100.html</url>
     <price>865</price>
     <price_old>1030</price_old>
@@ -148674,7 +148675,7 @@
     <vendorCode>П108/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148689,7 +148690,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307017" available="false">
+  <offer id="3188307017" available="true">
     <url>https://proekt24.com/p3188307017-penoplastovaya-skorlupa-1890.html</url>
     <price>379</price>
     <price_old>451</price_old>
@@ -148711,7 +148712,7 @@
     <vendorCode>П18/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148726,7 +148727,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307416" available="false">
+  <offer id="3188307416" available="true">
     <url>https://proekt24.com/p3188307416-penoplastovaya-skorlupa-18100.html</url>
     <price>500</price>
     <price_old>595</price_old>
@@ -148744,7 +148745,7 @@
     <vendorCode>П18/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148759,7 +148760,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307417" available="false">
+  <offer id="3188307417" available="true">
     <url>https://proekt24.com/p3188307417-penoplastovaya-skorlupa-21990.html</url>
     <price>1156</price>
     <price_old>1376</price_old>
@@ -148777,7 +148778,7 @@
     <vendorCode>П219/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148792,7 +148793,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307418" available="false">
+  <offer id="3188307418" available="true">
     <url>https://proekt24.com/p3188307418-penoplastovaya-skorlupa-3890.html</url>
     <price>404</price>
     <price_old>481</price_old>
@@ -148814,7 +148815,7 @@
     <vendorCode>П38/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148829,7 +148830,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307419" available="false">
+  <offer id="3188307419" available="true">
     <url>https://proekt24.com/p3188307419-penoplastovaya-skorlupa-20070.html</url>
     <price>901</price>
     <price_old>1072</price_old>
@@ -148847,7 +148848,7 @@
     <vendorCode>П200/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148862,7 +148863,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307420" available="false">
+  <offer id="3188307420" available="true">
     <url>https://proekt24.com/p3188307420-penoplastovaya-skorlupa-45100.html</url>
     <price>503</price>
     <price_old>599</price_old>
@@ -148884,7 +148885,7 @@
     <vendorCode>П45/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148899,7 +148900,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307421" available="false">
+  <offer id="3188307421" available="true">
     <url>https://proekt24.com/p3188307421-penoplastovaya-skorlupa-2060.html</url>
     <price>268</price>
     <price_old>319</price_old>
@@ -148917,7 +148918,7 @@
     <vendorCode>П20/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148932,7 +148933,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307422" available="false">
+  <offer id="3188307422" available="true">
     <url>https://proekt24.com/p3188307422-penoplastovaya-skorlupa-7690.html</url>
     <price>605</price>
     <price_old>720</price_old>
@@ -148954,7 +148955,7 @@
     <vendorCode>П76/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -148969,7 +148970,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307423" available="false">
+  <offer id="3188307423" available="true">
     <url>https://proekt24.com/p3188307423-penoplastovaya-skorlupa-2090.html</url>
     <price>379</price>
     <price_old>451</price_old>
@@ -148991,7 +148992,7 @@
     <vendorCode>П20/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149006,7 +149007,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307424" available="false">
+  <offer id="3188307424" available="true">
     <url>https://proekt24.com/p3188307424-penoplastovaya-skorlupa-11080.html</url>
     <price>752</price>
     <price_old>895</price_old>
@@ -149024,7 +149025,7 @@
     <vendorCode>П110/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149039,7 +149040,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307425" available="false">
+  <offer id="3188307425" available="true">
     <url>https://proekt24.com/p3188307425-penoplastovaya-skorlupa-21970.html</url>
     <price>908</price>
     <price_old>1081</price_old>
@@ -149057,7 +149058,7 @@
     <vendorCode>П219/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149072,7 +149073,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307426" available="false">
+  <offer id="3188307426" available="true">
     <url>https://proekt24.com/p3188307426-penoplastovaya-skorlupa-12790.html</url>
     <price>845</price>
     <price_old>1006</price_old>
@@ -149090,7 +149091,7 @@
     <vendorCode>П127/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149105,7 +149106,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307427" available="false">
+  <offer id="3188307427" available="true">
     <url>https://proekt24.com/p3188307427-penoplastovaya-skorlupa-1680.html</url>
     <price>360</price>
     <price_old>429</price_old>
@@ -149123,7 +149124,7 @@
     <vendorCode>П16/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149138,7 +149139,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307428" available="false">
+  <offer id="3188307428" available="true">
     <url>https://proekt24.com/p3188307428-penoplastovaya-skorlupa-38100.html</url>
     <price>554</price>
     <price_old>660</price_old>
@@ -149156,7 +149157,7 @@
     <vendorCode>П38/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149171,7 +149172,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307429" available="false">
+  <offer id="3188307429" available="true">
     <url>https://proekt24.com/p3188307429-penoplastovaya-skorlupa-20090.html</url>
     <price>1149</price>
     <price_old>1368</price_old>
@@ -149189,7 +149190,7 @@
     <vendorCode>П200/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149204,7 +149205,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307430" available="false">
+  <offer id="3188307430" available="true">
     <url>https://proekt24.com/p3188307430-penoplastovaya-skorlupa-3890.html</url>
     <price>510</price>
     <price_old>608</price_old>
@@ -149222,7 +149223,7 @@
     <vendorCode>П38/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149237,7 +149238,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307431" available="false">
+  <offer id="3188307431" available="true">
     <url>https://proekt24.com/p3188307431-penoplastovaya-skorlupa-32570.html</url>
     <price>2009</price>
     <price_old>2391</price_old>
@@ -149255,7 +149256,7 @@
     <vendorCode>П325/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149270,7 +149271,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307432" available="false">
+  <offer id="3188307432" available="true">
     <url>https://proekt24.com/p3188307432-penoplastovaya-skorlupa-16870.html</url>
     <price>888</price>
     <price_old>1058</price_old>
@@ -149288,7 +149289,7 @@
     <vendorCode>П168/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149303,7 +149304,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307433" available="false">
+  <offer id="3188307433" available="true">
     <url>https://proekt24.com/p3188307433-penoplastovaya-skorlupa-146100.html</url>
     <price>1136</price>
     <price_old>1352</price_old>
@@ -149321,7 +149322,7 @@
     <vendorCode>П146/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149336,7 +149337,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307434" available="false">
+  <offer id="3188307434" available="true">
     <url>https://proekt24.com/p3188307434-penoplastovaya-skorlupa-21980.html</url>
     <price>1015</price>
     <price_old>1209</price_old>
@@ -149354,7 +149355,7 @@
     <vendorCode>П219/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149369,7 +149370,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307435" available="false">
+  <offer id="3188307435" available="true">
     <url>https://proekt24.com/p3188307435-penoplastovaya-skorlupa-3870.html</url>
     <price>397</price>
     <price_old>472</price_old>
@@ -149387,7 +149388,7 @@
     <vendorCode>П38/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149402,7 +149403,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307436" available="false">
+  <offer id="3188307436" available="true">
     <url>https://proekt24.com/p3188307436-penoplastovaya-skorlupa-27370.html</url>
     <price>1537</price>
     <price_old>1830</price_old>
@@ -149420,7 +149421,7 @@
     <vendorCode>П273/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149435,7 +149436,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307437" available="false">
+  <offer id="3188307437" available="true">
     <url>https://proekt24.com/p3188307437-penoplastovaya-skorlupa-114100.html</url>
     <price>724</price>
     <price_old>862</price_old>
@@ -149457,7 +149458,7 @@
     <vendorCode>П114/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149472,7 +149473,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307438" available="false">
+  <offer id="3188307438" available="true">
     <url>https://proekt24.com/p3188307438-penoplastovaya-skorlupa-8990.html</url>
     <price>657</price>
     <price_old>782</price_old>
@@ -149494,7 +149495,7 @@
     <vendorCode>П89/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149509,7 +149510,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307439" available="false">
+  <offer id="3188307439" available="true">
     <url>https://proekt24.com/p3188307439-penoplastovaya-skorlupa-1690.html</url>
     <price>380</price>
     <price_old>452</price_old>
@@ -149527,7 +149528,7 @@
     <vendorCode>П16/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149542,7 +149543,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307440" available="false">
+  <offer id="3188307440" available="true">
     <url>https://proekt24.com/p3188307440-penoplastovaya-skorlupa-11490.html</url>
     <price>694</price>
     <price_old>826</price_old>
@@ -149564,7 +149565,7 @@
     <vendorCode>П114/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149579,7 +149580,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307441" available="false">
+  <offer id="3188307441" available="true">
     <url>https://proekt24.com/p3188307441-penoplastovaya-skorlupa-60100.html</url>
     <price>679</price>
     <price_old>809</price_old>
@@ -149601,7 +149602,7 @@
     <vendorCode>П60/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149616,7 +149617,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307442" available="false">
+  <offer id="3188307442" available="true">
     <url>https://proekt24.com/p3188307442-penoplastovaya-skorlupa-14660.html</url>
     <price>736</price>
     <price_old>876</price_old>
@@ -149634,7 +149635,7 @@
     <vendorCode>П146/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149649,7 +149650,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307443" available="false">
+  <offer id="3188307443" available="true">
     <url>https://proekt24.com/p3188307443-penoplastovaya-skorlupa-325100.html</url>
     <price>4961</price>
     <price_old>5906</price_old>
@@ -149671,7 +149672,7 @@
     <vendorCode>П325/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149686,7 +149687,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307444" available="false">
+  <offer id="3188307444" available="true">
     <url>https://proekt24.com/p3188307444-penoplastovaya-skorlupa-32560.html</url>
     <price>1550</price>
     <price_old>1845</price_old>
@@ -149704,7 +149705,7 @@
     <vendorCode>П325/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149719,7 +149720,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307445" available="false">
+  <offer id="3188307445" available="true">
     <url>https://proekt24.com/p3188307445-penoplastovaya-skorlupa-14690.html</url>
     <price>912</price>
     <price_old>1086</price_old>
@@ -149737,7 +149738,7 @@
     <vendorCode>П146/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149752,7 +149753,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307446" available="false">
+  <offer id="3188307446" available="true">
     <url>https://proekt24.com/p3188307446-penoplastovaya-skorlupa-20100.html</url>
     <price>524</price>
     <price_old>624</price_old>
@@ -149770,7 +149771,7 @@
     <vendorCode>П20/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149785,7 +149786,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307447" available="false">
+  <offer id="3188307447" available="true">
     <url>https://proekt24.com/p3188307447-penoplastovaya-skorlupa-10270.html</url>
     <price>564</price>
     <price_old>671</price_old>
@@ -149803,7 +149804,7 @@
     <vendorCode>П102/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149818,7 +149819,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307448" available="false">
+  <offer id="3188307448" available="true">
     <url>https://proekt24.com/p3188307448-penoplastovaya-skorlupa-40100.html</url>
     <price>469</price>
     <price_old>559</price_old>
@@ -149840,7 +149841,7 @@
     <vendorCode>П40/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149855,7 +149856,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307449" available="false">
+  <offer id="3188307449" available="true">
     <url>https://proekt24.com/p3188307449-penoplastovaya-skorlupa-11060.html</url>
     <price>510</price>
     <price_old>608</price_old>
@@ -149873,7 +149874,7 @@
     <vendorCode>П110/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149888,7 +149889,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307450" available="false">
+  <offer id="3188307450" available="true">
     <url>https://proekt24.com/p3188307450-penoplastovaya-skorlupa-12760.html</url>
     <price>627</price>
     <price_old>746</price_old>
@@ -149906,7 +149907,7 @@
     <vendorCode>П127/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149921,7 +149922,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307451" available="false">
+  <offer id="3188307451" available="true">
     <url>https://proekt24.com/p3188307451-penoplastovaya-skorlupa-8980.html</url>
     <price>677</price>
     <price_old>806</price_old>
@@ -149939,7 +149940,7 @@
     <vendorCode>П89/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149954,7 +149955,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307452" available="false">
+  <offer id="3188307452" available="true">
     <url>https://proekt24.com/p3188307452-penoplastovaya-skorlupa-6090.html</url>
     <price>519</price>
     <price_old>618</price_old>
@@ -149976,7 +149977,7 @@
     <vendorCode>П60/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -149991,7 +149992,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307453" available="false">
+  <offer id="3188307453" available="true">
     <url>https://proekt24.com/p3188307453-penoplastovaya-skorlupa-11480.html</url>
     <price>753</price>
     <price_old>896</price_old>
@@ -150009,7 +150010,7 @@
     <vendorCode>П114/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150024,7 +150025,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307454" available="false">
+  <offer id="3188307454" available="true">
     <url>https://proekt24.com/p3188307454-penoplastovaya-skorlupa-12190.html</url>
     <price>833</price>
     <price_old>991</price_old>
@@ -150042,7 +150043,7 @@
     <vendorCode>П121/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150057,7 +150058,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307455" available="false">
+  <offer id="3188307455" available="true">
     <url>https://proekt24.com/p3188307455-penoplastovaya-skorlupa-1890.html</url>
     <price>478</price>
     <price_old>569</price_old>
@@ -150075,7 +150076,7 @@
     <vendorCode>П18/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150090,7 +150091,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307456" available="false">
+  <offer id="3188307456" available="true">
     <url>https://proekt24.com/p3188307456-penoplastovaya-skorlupa-14690.html</url>
     <price>764</price>
     <price_old>910</price_old>
@@ -150112,7 +150113,7 @@
     <vendorCode>П146/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150127,7 +150128,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307457" available="false">
+  <offer id="3188307457" available="true">
     <url>https://proekt24.com/p3188307457-penoplastovaya-skorlupa-127100.html</url>
     <price>941</price>
     <price_old>1120</price_old>
@@ -150145,7 +150146,7 @@
     <vendorCode>П127/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150160,7 +150161,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307458" available="false">
+  <offer id="3188307458" available="true">
     <url>https://proekt24.com/p3188307458-penoplastovaya-skorlupa-57100.html</url>
     <price>801</price>
     <price_old>954</price_old>
@@ -150178,7 +150179,7 @@
     <vendorCode>П57/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150193,7 +150194,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307459" available="false">
+  <offer id="3188307459" available="true">
     <url>https://proekt24.com/p3188307459-penoplastovaya-skorlupa-121100.html</url>
     <price>724</price>
     <price_old>862</price_old>
@@ -150215,7 +150216,7 @@
     <vendorCode>П121/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150230,7 +150231,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307460" available="false">
+  <offer id="3188307460" available="true">
     <url>https://proekt24.com/p3188307460-penoplastovaya-skorlupa-3860.html</url>
     <price>306</price>
     <price_old>364</price_old>
@@ -150248,7 +150249,7 @@
     <vendorCode>П38/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150263,7 +150264,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307461" available="false">
+  <offer id="3188307461" available="true">
     <url>https://proekt24.com/p3188307461-penoplastovaya-skorlupa-32580.html</url>
     <price>2016</price>
     <price_old>2400</price_old>
@@ -150281,7 +150282,7 @@
     <vendorCode>П325/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150296,7 +150297,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307462" available="false">
+  <offer id="3188307462" available="true">
     <url>https://proekt24.com/p3188307462-penoplastovaya-skorlupa-10290.html</url>
     <price>657</price>
     <price_old>782</price_old>
@@ -150318,7 +150319,7 @@
     <vendorCode>П102/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150333,7 +150334,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307463" available="false">
+  <offer id="3188307463" available="true">
     <url>https://proekt24.com/p3188307463-penoplastovaya-skorlupa-159100.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -150355,7 +150356,7 @@
     <vendorCode>П159/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150370,7 +150371,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307464" available="false">
+  <offer id="3188307464" available="true">
     <url>https://proekt24.com/p3188307464-penoplastovaya-skorlupa-2080.html</url>
     <price>383</price>
     <price_old>456</price_old>
@@ -150388,7 +150389,7 @@
     <vendorCode>П20/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150403,7 +150404,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307465" available="false">
+  <offer id="3188307465" available="true">
     <url>https://proekt24.com/p3188307465-penoplastovaya-skorlupa-15990.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -150425,7 +150426,7 @@
     <vendorCode>П159/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150440,7 +150441,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307466" available="false">
+  <offer id="3188307466" available="true">
     <url>https://proekt24.com/p3188307466-penoplastovaya-skorlupa-5770.html</url>
     <price>474</price>
     <price_old>564</price_old>
@@ -150458,7 +150459,7 @@
     <vendorCode>П57/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150473,7 +150474,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307467" available="false">
+  <offer id="3188307467" available="true">
     <url>https://proekt24.com/p3188307467-penoplastovaya-skorlupa-4590.html</url>
     <price>563</price>
     <price_old>670</price_old>
@@ -150491,7 +150492,7 @@
     <vendorCode>П45/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150506,7 +150507,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307468" available="false">
+  <offer id="3188307468" available="true">
     <url>https://proekt24.com/p3188307468-penoplastovaya-skorlupa-45100.html</url>
     <price>620</price>
     <price_old>738</price_old>
@@ -150524,7 +150525,7 @@
     <vendorCode>П45/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150539,7 +150540,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307469" available="false">
+  <offer id="3188307469" available="true">
     <url>https://proekt24.com/p3188307469-penoplastovaya-skorlupa-11090.html</url>
     <price>694</price>
     <price_old>826</price_old>
@@ -150561,7 +150562,7 @@
     <vendorCode>П110/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150576,7 +150577,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307470" available="false">
+  <offer id="3188307470" available="true">
     <url>https://proekt24.com/p3188307470-penoplastovaya-skorlupa-5790.html</url>
     <price>568</price>
     <price_old>676</price_old>
@@ -150594,7 +150595,7 @@
     <vendorCode>П57/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150609,7 +150610,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307471" available="false">
+  <offer id="3188307471" available="true">
     <url>https://proekt24.com/p3188307471-penoplastovaya-skorlupa-16890.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -150631,7 +150632,7 @@
     <vendorCode>П168/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150646,7 +150647,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307472" available="false">
+  <offer id="3188307472" available="true">
     <url>https://proekt24.com/p3188307472-penoplastovaya-skorlupa-12190.html</url>
     <price>694</price>
     <price_old>826</price_old>
@@ -150668,7 +150669,7 @@
     <vendorCode>П121/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150683,7 +150684,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-<offer id="3188307473" available="false">
+<offer id="3188307473" available="true">
     <url>https://proekt24.com/p3188307473-penoplastovaya-skorlupa-6090.html</url>
     <price>633</price>
     <price_old>754</price_old>
@@ -150701,7 +150702,7 @@
     <vendorCode>П60/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150716,7 +150717,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307474" available="false">
+  <offer id="3188307474" available="true">
     <url>https://proekt24.com/p3188307474-penoplastovaya-skorlupa-27390.html</url>
     <price>1356</price>
     <price_old>1614</price_old>
@@ -150738,7 +150739,7 @@
     <vendorCode>П273/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150753,7 +150754,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307475" available="false">
+  <offer id="3188307475" available="true">
     <url>https://proekt24.com/p3188307475-penoplastovaya-skorlupa-7660.html</url>
     <price>408</price>
     <price_old>486</price_old>
@@ -150771,7 +150772,7 @@
     <vendorCode>П76/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150786,7 +150787,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307476" available="false">
+  <offer id="3188307476" available="true">
     <url>https://proekt24.com/p3188307476-penoplastovaya-skorlupa-16880.html</url>
     <price>995</price>
     <price_old>1185</price_old>
@@ -150804,7 +150805,7 @@
     <vendorCode>П168/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150819,7 +150820,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307477" available="false">
+  <offer id="3188307477" available="true">
     <url>https://proekt24.com/p3188307477-penoplastovaya-skorlupa-108100.html</url>
     <price>724</price>
     <price_old>862</price_old>
@@ -150841,7 +150842,7 @@
     <vendorCode>П108/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150856,7 +150857,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307478" available="false">
+  <offer id="3188307478" available="true">
     <url>https://proekt24.com/p3188307478-penoplastovaya-skorlupa-1870.html</url>
     <price>297</price>
     <price_old>354</price_old>
@@ -150874,7 +150875,7 @@
     <vendorCode>П18/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150889,7 +150890,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307479" available="false">
+  <offer id="3188307479" available="true">
     <url>https://proekt24.com/p3188307479-penoplastovaya-skorlupa-250100.html</url>
     <price>1356</price>
     <price_old>1614</price_old>
@@ -150911,7 +150912,7 @@
     <vendorCode>П250/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150926,7 +150927,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307480" available="false">
+  <offer id="3188307480" available="true">
     <url>https://proekt24.com/p3188307480-penoplastovaya-skorlupa-50100.html</url>
     <price>679</price>
     <price_old>809</price_old>
@@ -150948,7 +150949,7 @@
     <vendorCode>П50/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150963,7 +150964,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307481" available="false">
+  <offer id="3188307481" available="true">
     <url>https://proekt24.com/p3188307481-penoplastovaya-skorlupa-13390.html</url>
     <price>912</price>
     <price_old>1086</price_old>
@@ -150981,7 +150982,7 @@
     <vendorCode>П133/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -150996,7 +150997,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307482" available="false">
+  <offer id="3188307482" available="true">
     <url>https://proekt24.com/p3188307482-penoplastovaya-skorlupa-16100.html</url>
     <price>475</price>
     <price_old>565</price_old>
@@ -151014,7 +151015,7 @@
     <vendorCode>П16/100ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151029,7 +151030,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307483" available="false">
+  <offer id="3188307483" available="true">
     <url>https://proekt24.com/p3188307483-penoplastovaya-skorlupa-168100.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -151051,7 +151052,7 @@
     <vendorCode>П168/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151100,7 +151101,7 @@
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">4</param>
   </offer>
-  <offer id="3188307485" available="false">
+  <offer id="3188307485" available="true">
     <url>https://proekt24.com/p3188307485-penoplastovaya-skorlupa-133100.html</url>
     <price>980</price>
     <price_old>1166</price_old>
@@ -151122,7 +151123,7 @@
     <vendorCode>П133/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151137,7 +151138,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307486" available="false">
+  <offer id="3188307486" available="true">
     <url>https://proekt24.com/p3188307486-penoplastovaya-skorlupa-6080.html</url>
     <price>570</price>
     <price_old>679</price_old>
@@ -151155,7 +151156,7 @@
     <vendorCode>П60/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151170,7 +151171,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307487" available="false">
+  <offer id="3188307487" available="true">
     <url>https://proekt24.com/p3188307487-penoplastovaya-skorlupa-2590.html</url>
     <price>480</price>
     <price_old>571</price_old>
@@ -151188,7 +151189,7 @@
     <vendorCode>П25/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151203,7 +151204,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307488" available="false">
+  <offer id="3188307488" available="true">
     <url>https://proekt24.com/p3188307488-penoplastovaya-skorlupa-10890.html</url>
     <price>827</price>
     <price_old>985</price_old>
@@ -151221,7 +151222,7 @@
     <vendorCode>П108/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151236,7 +151237,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307489" available="false">
+  <offer id="3188307489" available="true">
     <url>https://proekt24.com/p3188307489-penoplastovaya-skorlupa-2590.html</url>
     <price>379</price>
     <price_old>451</price_old>
@@ -151258,7 +151259,7 @@
     <vendorCode>П25/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151273,7 +151274,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307490" available="false">
+  <offer id="3188307490" available="true">
     <url>https://proekt24.com/p3188307490-penoplastovaya-skorlupa-11070.html</url>
     <price>625</price>
     <price_old>744</price_old>
@@ -151291,7 +151292,7 @@
     <vendorCode>П110/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151306,7 +151307,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307491" available="false">
+  <offer id="3188307491" available="true">
     <url>https://proekt24.com/p3188307491-penoplastovaya-skorlupa-21960.html</url>
     <price>822</price>
     <price_old>979</price_old>
@@ -151324,7 +151325,7 @@
     <vendorCode>П219/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151339,7 +151340,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307492" available="false">
+  <offer id="3188307492" available="true">
     <url>https://proekt24.com/p3188307492-penoplastovaya-skorlupa-11460.html</url>
     <price>561</price>
     <price_old>668</price_old>
@@ -151357,7 +151358,7 @@
     <vendorCode>П114/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151372,7 +151373,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307493" available="false">
+  <offer id="3188307493" available="true">
     <url>https://proekt24.com/p3188307493-penoplastovaya-skorlupa-6380.html</url>
     <price>571</price>
     <price_old>680</price_old>
@@ -151390,7 +151391,7 @@
     <vendorCode>П63/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151405,7 +151406,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307494" available="false">
+  <offer id="3188307494" available="true">
     <url>https://proekt24.com/p3188307494-penoplastovaya-skorlupa-12780.html</url>
     <price>817</price>
     <price_old>972</price_old>
@@ -151423,7 +151424,7 @@
     <vendorCode>П127/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151438,7 +151439,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307495" available="false">
+  <offer id="3188307495" available="true">
     <url>https://proekt24.com/p3188307495-penoplastovaya-skorlupa-27360.html</url>
     <price>1259</price>
     <price_old>1499</price_old>
@@ -151456,7 +151457,7 @@
     <vendorCode>П273/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151471,7 +151472,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307496" available="false">
+  <offer id="3188307496" available="true">
     <url>https://proekt24.com/p3188307496-penoplastovaya-skorlupa-10880.html</url>
     <price>751</price>
     <price_old>894</price_old>
@@ -151489,7 +151490,7 @@
     <vendorCode>П108/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151504,7 +151505,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307922" available="false">
+  <offer id="3188307922" available="true">
     <url>https://proekt24.com/p3188307922-penoplastovaya-skorlupa-20080.html</url>
     <price>1008</price>
     <price_old>1200</price_old>
@@ -151522,7 +151523,7 @@
     <vendorCode>П200/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151537,7 +151538,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307923" available="false">
+  <offer id="3188307923" available="true">
     <url>https://proekt24.com/p3188307923-penoplastovaya-skorlupa-7680.html</url>
     <price>576</price>
     <price_old>686</price_old>
@@ -151555,7 +151556,7 @@
     <vendorCode>П76/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151570,7 +151571,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307924" available="false">
+  <offer id="3188307924" available="true">
     <url>https://proekt24.com/p3188307924-penoplastovaya-skorlupa-12790.html</url>
     <price>705</price>
     <price_old>839</price_old>
@@ -151592,7 +151593,7 @@
     <vendorCode>П127/90Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151607,7 +151608,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307925" available="false">
+  <offer id="3188307925" available="true">
     <url>https://proekt24.com/p3188307925-penoplastovaya-skorlupa-13360.html</url>
     <price>656</price>
     <price_old>781</price_old>
@@ -151625,7 +151626,7 @@
     <vendorCode>П133/60ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151640,7 +151641,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307926" available="false">
+  <offer id="3188307926" available="true">
     <url>https://proekt24.com/p3188307926-penoplastovaya-skorlupa-10870.html</url>
     <price>730</price>
     <price_old>869</price_old>
@@ -151658,7 +151659,7 @@
     <vendorCode>П108/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151673,7 +151674,7 @@
     <param name="Толщина изоляции" unit="мм">70</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307927" available="false">
+  <offer id="3188307927" available="true">
     <url>https://proekt24.com/p3188307927-penoplastovaya-skorlupa-3880.html</url>
     <price>469</price>
     <price_old>559</price_old>
@@ -151691,7 +151692,7 @@
     <vendorCode>П38/80ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151706,7 +151707,7 @@
     <param name="Толщина изоляции" unit="мм">80</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307928" available="false">
+  <offer id="3188307928" available="true">
     <url>https://proekt24.com/p3188307928-penoplastovaya-skorlupa-11090.html</url>
     <price>828</price>
     <price_old>986</price_old>
@@ -151724,7 +151725,7 @@
     <vendorCode>П110/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151739,7 +151740,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307930" available="false">
+  <offer id="3188307930" available="true">
     <url>https://proekt24.com/p3188307930-penoplastovaya-skorlupa-25090.html</url>
     <price>1544</price>
     <price_old>1838</price_old>
@@ -151757,7 +151758,7 @@
     <vendorCode>П250/90ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151772,7 +151773,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307931" available="false">
+  <offer id="3188307931" available="true">
     <url>https://proekt24.com/p3188307931-penoplastovaya-skorlupa-200100.html</url>
     <price>1130</price>
     <price_old>1345</price_old>
@@ -151794,7 +151795,7 @@
     <vendorCode>П200/100Б</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151809,7 +151810,7 @@
     <param name="Толщина изоляции" unit="мм">100</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307932" available="false">
+  <offer id="3188307932" available="true">
     <url>https://proekt24.com/p3188307932-penoplastovaya-skorlupa-25070.html</url>
     <price>1258</price>
     <price_old>1498</price_old>
@@ -151827,7 +151828,7 @@
     <vendorCode>П250/70ФА</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -151928,60 +151929,127 @@
     <price>105</price>
     <price_old>125</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>156083622</categoryId>
+    <categoryId>12527036</categoryId>
+    <picture>https://images.prom.ua/3196705045_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/3196706836_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930984594_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930996932_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930996935_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930994827_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930996927_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930996936_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930994832_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Виброизоляция фольгированная Vizol 4х500х330 мм</name>
     <vendor>СТК</vendor>
-    <vendorCode>00002873</vendorCode>
+    <vendorCode>889846</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>120</quantity_in_stock>
+    <param name="Длина листа" unit="см">50</param>
+    <param name="Применение материала">Крыша|Дверные панели|Двери|Капот|Колесные арки|Крышка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
+    <param name="Необходимость нагрева">Нет</param>
+    <param name="Состояние">Новое</param>
+    <param name="Совместимость с маркой">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
     <param name="Тип">Виброизоляция</param>
+    <param name="Толщина" unit="мм">4</param>
+    <param name="Ширина листа" unit="см">33</param>
+    <param name="Совместимость с моделью">Accord|Almera|Primera|Yaris|Lupo|Fusion|C2|Ceed|RAV4|Matiz|Passat|Civic|C5|Renault Megane|Tiguan|Scorpio|Peugeot 206|A6|Q5|Focus|Santa Fe|Dodge|Caliber|Fiesta|Colt|Mondeo|Jazz|Sonata|Chrysler|Tucson|Avensis|Sebring|C4|Getz|Lancer|Nissan Maxima|XC90|Camry|Q7|6|A4</param>
   </offer>
   <offer id="3194275342" available="true">
     <url>https://proekt24.com/p3194275342-vibroizolyatsiya-folgirovannaya-vizol.html</url>
     <price>86</price>
     <price_old>102</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>156083622</categoryId>
+    <categoryId>12527036</categoryId>
+    <picture>https://images.prom.ua/3196705045_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/3196706836_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930996935_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930996927_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930994832_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930994827_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Виброизоляция фольгированная Vizol 3х500х330 мм</name>
     <vendor>СТК</vendor>
-    <vendorCode>00002872</vendorCode>
+    <vendorCode>889845</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>275</quantity_in_stock>
+    <param name="Длина листа" unit="см">50</param>
+    <param name="Применение материала">Крыша|Дверные панели|Двери|Капот|Колесные арки|Крышка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
+    <param name="Необходимость нагрева">Нет</param>
+    <param name="Состояние">Новое</param>
+    <param name="Совместимость с маркой">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
     <param name="Тип">Виброизоляция</param>
+    <param name="Толщина" unit="мм">3</param>
+    <param name="Ширина листа" unit="см">33</param>
+    <param name="Совместимость с моделью">Fusion|Tucson|Jazz|C2|Renault Megane|Chrysler|Peugeot 206|Lancer|Focus|C5|6|Civic|Fiesta|Ceed|Caliber|Accord|Mondeo|A4|Tiguan|Sebring|XC90|Q5|Yaris|RAV4|Matiz|A6|Camry|Nissan Maxima|Santa Fe|Dodge|Lupo|Primera|Sonata|Avensis|Getz|Q7|Colt|C4|Scorpio|Almera|Passat</param>
   </offer>
   <offer id="3194275343" available="true">
     <url>https://proekt24.com/p3194275343-vibroizolyatsiya-folgirovannaya-vizol.html</url>
     <price>52</price>
     <price_old>62</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>156083622</categoryId>
+    <categoryId>12527036</categoryId>
+    <picture>https://images.prom.ua/3196705045_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/3196706836_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930996935_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930996934_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930984594_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930994827_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930996927_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930996936_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930994832_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Виброизоляция фольгированная Vizol 1,3х500х330 мм</name>
     <vendor>СТК</vendor>
-    <vendorCode>00002870</vendorCode>
+    <vendorCode>889843</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>600</quantity_in_stock>
+    <param name="Длина листа" unit="см">50</param>
+    <param name="Применение материала">Крыша|Дверные панели|Двери|Капот|Колесные арки|Крышка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
+    <param name="Необходимость нагрева">Нет</param>
+    <param name="Состояние">Новое</param>
+    <param name="Совместимость с маркой">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
     <param name="Тип">Виброизоляция</param>
+    <param name="Толщина" unit="мм">1.3</param>
+    <param name="Ширина листа" unit="см">33</param>
+    <param name="Совместимость с моделью">Sebring|Matiz|Chrysler|Accord|XC90|Tucson|Fusion|Lupo|Dodge|Sonata|Colt|Passat|Avensis|Getz|Primera|Civic|6|Yaris|Jazz|Nissan Maxima|Caliber|Almera|Lancer|Ceed|C5|C2|Mondeo|Peugeot 206|A6|Q7|Renault Megane|Camry|C4|Santa Fe|Q5|Focus|Scorpio|A4|Fiesta|RAV4|Tiguan</param>
   </offer>
   <offer id="3194275344" available="true">
     <url>https://proekt24.com/p3194275344-vibroizolyatsiya-folgirovannaya-vizol.html</url>
     <price>65</price>
     <price_old>78</price_old>
     <currencyId>UAH</currencyId>
-    <categoryId>156083622</categoryId>
+    <categoryId>12527036</categoryId>
+    <picture>https://images.prom.ua/3196705045_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/3196706836_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930996927_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930996935_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930996932_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930994827_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
+    <picture>https://images.prom.ua/2930994832_vibroizolyatsiya-folgirovannaya-vizol.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Виброизоляция фольгированная Vizol 2х500х330 мм</name>
     <vendor>СТК</vendor>
-    <vendorCode>00002871</vendorCode>
+    <vendorCode>889844</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>600</quantity_in_stock>
+    <param name="Длина листа" unit="см">50</param>
+    <param name="Применение материала">Крыша|Дверные панели|Двери|Капот|Колесные арки|Крышка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
+    <param name="Необходимость нагрева">Нет</param>
+    <param name="Состояние">Новое</param>
+    <param name="Совместимость с маркой">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
     <param name="Тип">Виброизоляция</param>
+    <param name="Толщина" unit="мм">2</param>
+    <param name="Ширина листа" unit="см">33</param>
+    <param name="Совместимость с моделью">Getz|Q7|Scorpio|Sonata|Sebring|RAV4|Caliber|Santa Fe|Yaris|XC90|Jazz|C4|Almera|Accord|Lancer|Lupo|Renault Megane|Mondeo|C5|Q5|Colt|A6|Tiguan|Civic|Nissan Maxima|Matiz|Camry|Focus|Primera|Dodge|A4|C2|Avensis|Peugeot 206|Tucson|6|Passat|Fusion|Fiesta|Chrysler|Ceed</param>
   </offer>
 
 
