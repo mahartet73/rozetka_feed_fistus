@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-17 09:00">
+<yml_catalog date="2026-09-17 17:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -15,7 +15,6 @@
       <category id="105213334" parentId="2341984">Бутилкаучуковые шнуры</category>
       <category id="152297279" parentId="938662">Мастика, мовиль, антигравий</category>
       <category id="154288655" parentId="1946859">Сувениры боксерские</category>
-      <category id="155337579">Товары для реабилитации</category>
       <category id="155337582" parentId="155337580">Ортопедические подушки для детей</category>
       <category id="155337578" parentId="2341984">Лента EPDM, лента ЭПДМ</category>
       <category id="155337583" parentId="155337580">Ортопедические подушки для взрослых</category>
@@ -23,9 +22,6 @@
       <category id="113655202" parentId="13883140">Вспененный этиленвинилацетат (материал EVA) в рулонах</category>
       <category id="116112740" parentId="938662">Вибро-шумоизоляция автомобильная</category>
       <category id="138096524" parentId="938662">Тепло- шумоизолирующие материалы</category>
-      <category id="148858419" parentId="141469736">Снято с производства</category>
-      <category id="155281603" parentId="138619497">Лапы, макивары ручные</category>
-      <category id="155281610" parentId="138619499">Фитболы</category>
       <category id="155281630" parentId="137644543">Теплоизоляция для труб</category>
       <category id="120149335" parentId="120149333">Игрушки</category>
       <category id="1946941" parentId="1932799">Спортивные маты, покрытия</category>
@@ -57,15 +53,6 @@
       <category id="3682513" parentId="908017">Базальтовая скорлупа, базальтовые цилиндры</category>
       <category id="3531076" parentId="13552512">Физически сшитый вспененный пенополиэтилен</category>
       <category id="7771509" parentId="3682513">Базальтовая скорлупа, базальтовые цилиндры с фольгой</category>
-      <category id="94543941">Товары для дома</category>
-      <category id="5893864">Вспененный полиэтилен, пенополиэтилен</category>
-      <category id="2341984">Ленты, скотчи, уплотнители</category>
-      <category id="97783027">Кровельные герметики и мастики</category>
-      <category id="13883140">Вспененный этиленвинилацетат (материал EVA)</category>
-      <category id="908017">Трубная изоляция, утеплители для труб</category>
-      <category id="1932799">Товары для спорта, отдыха, туризма</category>
-      <category id="111619363">Тактическое снаряжение</category>
-      <category id="105419513">Материалы для шумоизоляции помещений</category>
       <category id="12527024" parentId="938662">Шумоизоляция автомобиля (материалы, шумка, сплэн, обесшумка авто)</category>
       <category id="122338444" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 20 мм</category>
       <category id="110003315" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 30 мм</category>
@@ -79,77 +66,45 @@
       <category id="156731201" parentId="8052608">Утеплитель для труб из пенопласта, толщина 90 мм.</category>
       <category id="156731205" parentId="8052608">Утеплитель для труб из пенопласта, толщина 100 мм.</category>
       <category id="156303349" parentId="7770707">Базальтовая скорлупа, базальтовые цилиндры толщиной 90 мм</category>
-      <category id="133605716">Металлический профиль</category>
       <category id="98480428" parentId="2366740">Каучуковая изоляция толщина 19 мм</category>
       <category id="109333648" parentId="2366740">Каучуковая изоляция толщина 25 мм</category>
       <category id="98480425" parentId="2366740">Каучуковая изоляция толщина 6 мм</category>
       <category id="98480426" parentId="2366740">Каучуковая изоляция толщина 9 мм</category>
+      <category id="97783027">Кровельные герметики и мастики</category>
+      <category id="13883140">Вспененный этиленвинилацетат (материал EVA)</category>
+      <category id="155337579">Товары для реабилитации</category>
+      <category id="801930">Опалубка колонн</category>
+      <category id="908017">Трубная изоляция, утеплители для труб</category>
+      <category id="938662">Шумо-, виброизоляция для автомобилей</category>
+      <category id="1721740">Вспененный каучук, аксессуары</category>
+      <category id="1932799">Товары для спорта, отдыха, туризма</category>
+      <category id="2341984">Ленты, скотчи, уплотнители</category>
+      <category id="3021500">Экструдированный пенополистирол, экструзионный пенополистирол</category>
+      <category id="3061258">Утеплители, термоизоляция, техническая изоляция</category>
+      <category id="4734220">Упаковочные материалы</category>
+      <category id="5893864">Вспененный полиэтилен, пенополиэтилен</category>
+      <category id="94543941">Товары для дома</category>
+      <category id="96802051">Кровельные ленты</category>
+      <category id="105419513">Материалы для шумоизоляции помещений</category>
+      <category id="105796939">Строительные мембраны</category>
+      <category id="111619363">Тактическое снаряжение</category>
+      <category id="133605716">Металлический профиль</category>
+      <category id="144048496">Рулонные и листовые гидроизоляционные материалы</category>
+      <category id="148519048">3D-печать</category>
+      <category id="141469736">BOXER-NEW</category>
+      <category id="148858419" parentId="141469736">Снято с производства</category>
       <category id="3530972" parentId="5893864">Газовспененные полиэтилены</category>
       <category id="4453995" parentId="5893864">Газовспененный полиэтилен с фольгой</category>
       <category id="4454011" parentId="5893864">Газовспененный полиэтилен фольгированный с двух сторон</category>
       <category id="4454047" parentId="5893864">Газовспененный полиэтилен фольгированный самоклеющийся</category>
-      <category id="137644541">Гидроизоляционные материалы</category>
-      <category id="138619460">Спортивные товары</category>
-      <category id="138619497" parentId="138619460">Боевые искусства</category>
-      <category id="96802051">Кровельные ленты</category>
-      <category id="144048496">Рулонные и листовые гидроизоляционные материалы</category>
-      <category id="155337309">Гидроизолирующие ленты и шнуры</category>
-      <category id="155337312">Вспененные полиэтилены, пенополиэтилены</category>
-      <category id="155337313">Вспененный (синтетический) каучук</category>
-      <category id="155337315">Вибро- шумоизоляция для автомобилей</category>
-      <category id="155337316">Упаковочные материалы</category>
-      <category id="155337318">Трубная изоляция, утеплители для труб</category>
-      <category id="155337324">BOXER-NEW</category>
-      <category id="155337325">3D-печать</category>
-      <category id="155337331" parentId="155337312">Газовспененный полиэтилен ламинированный</category>
-      <category id="155337332" parentId="155337310">Спортивные маты</category>
-      <category id="155337406" parentId="155337363">Перчатки для бокса и единоборств</category>
-      <category id="155337436" parentId="155337372">Изоляция труб TUBEX</category>
-      <category id="155337306">Лента уплотнительная звукоизоляционная</category>
       <category id="148777420">Перчатки для бокса и единоборств</category>
-      <category id="155337307">Строительные мембраны</category>
-      <category id="155337310">Товары для спорта, отдыха, туризма</category>
-      <category id="155337311">Товары для дома</category>
-      <category id="155337319">Материалы для шумоизоляции помещений</category>
-      <category id="155337320">Опалубка колонн</category>
-      <category id="155337322">Вспененный этиленвинилацетат (материал EVA)</category>
-      <category id="155337326" parentId="155337309">Оконные ленты</category>
-      <category id="155337336" parentId="155337312">Химически сшитый полиэтилен в листах</category>
-      <category id="155337340" parentId="155337313">Вспененный каучук</category>
-      <category id="155337341" parentId="155337313">Вспененный каучук самоклеющийся</category>
-      <category id="155337343" parentId="155337318">Каучуковая трубная изоляция</category>
-      <category id="155337357" parentId="155337312">Газовспененный полиэтилен листовой</category>
-      <category id="155337361" parentId="155337310">Велосипеды</category>
-      <category id="155337363" parentId="155337310">Экипировка для бокса и единоборств</category>
-      <category id="155337369" parentId="155337310">Коврики для фитнеса</category>
-      <category id="155337370" parentId="155337318">Утеплитель для труб из пенопласта</category>
-      <category id="155337372" parentId="155337318">Трубная изоляция, утеплители для труб</category>
-      <category id="155337373" parentId="155337318">Изоляция труб ППУ, скорлупы ППУ</category>
-      <category id="155337374" parentId="155337318">Базальтовая скорлупа, базальтовые цилиндры</category>
-      <category id="155337378" parentId="155337310">Товары для фитнеса и аэробики</category>
-      <category id="155337380" parentId="155337310">Сидушки туристические</category>
-      <category id="155337382" parentId="155337310">Коврики туристические, карематы</category>
-      <category id="155337383" parentId="155337310">Коврики для детей</category>
-      <category id="155337385" parentId="155337309">Ленты для склеивания строительных мембран</category>
-      <category id="155337386" parentId="155337311">Детская безопасность</category>
       <category id="155337379" parentId="155337579">Массажные коврики</category>
-      <category id="155337388" parentId="155337315">Автомобильная шумоизоляция</category>
-      <category id="155337389" parentId="155337315">Автомобильный ковер, карпет, автолин</category>
-      <category id="155337410" parentId="155337363">Капы,бинты</category>
-      <category id="155337414" parentId="155337378">Диск здоровья Грация</category>
-      <category id="155337415" parentId="155337343">Каучуковая изоляция толщина 6 мм</category>
-      <category id="155337419" parentId="155337370">Утеплитель для труб из пенопласта</category>
-      <category id="155337424" parentId="155337370">Утеплитель для труб из пенопласта с фольгой</category>
-      <category id="155337429" parentId="155337374">Базальтовая скорлупа, базальтовые цилиндры без покрытия</category>
-      <category id="155337430" parentId="155337374">Базальтовая скорлупа, базальтовые цилиндры с фольгой</category>
-      <category id="155337438" parentId="155337343">Каучуковая изоляция толщина 32 мм</category>
       <category id="23547113" parentId="7771509">Базальтовая скорлупа, базальтовые цилиндры с фольгой толщиной 70 мм</category>
       <category id="63210442" parentId="5893864">Изолон для цветов</category>
       <category id="96660616" parentId="1932799">Аксессуары для тренировок</category>
       <category id="97899467" parentId="8390912">Пароизоляционные ленты с утеплителем</category>
       <category id="100225216" parentId="6054164">Детские напольные покрытия</category>
       <category id="103641628" parentId="908017">Бандажные хомуты</category>
-      <category id="105796939">Строительные мембраны</category>
       <category id="105796940" parentId="105796939">Шиповидная мембрана</category>
       <category id="105895881" parentId="1932799">Аквааэробика</category>
       <category id="106077851" parentId="1946861">Гантели для фитнеса</category>
@@ -162,19 +117,14 @@
       <category id="128817937" parentId="2366740">Каучуковая изоляция толщина 32 мм</category>
       <category id="129348803" parentId="2341984">Звукоизоляционная самоклеющаяся лента XPE</category>
       <category id="129892704" parentId="1946859">Манекен для борьбы</category>
-      <category id="141469736">BOXER-NEW</category>
       <category id="142793467" parentId="5893864">Защитные профили</category>
-      <category id="148519048">3D-печать</category>
       <category id="148519288" parentId="148519048">PLA філамент</category>
       <category id="148519291" parentId="148519048">PETG філамент</category>
       <category id="148644501" parentId="8052628">Утеплитель для труб из пенопласта с фольгой толщиной 90 мм</category>
       <category id="155281560" parentId="155337579">Компрессионный трикотаж</category>
       <category id="155337580" parentId="155337579">Ортопедические подушки и матрасы</category>
       <category id="155337581" parentId="155337580">Подушки для беременных и кормления</category>
-      <category id="801930">Опалубка колонн</category>
-      <category id="938662">Шумо-, виброизоляция для автомобилей</category>
       <category id="1434164" parentId="5893864">Производство изделий из вспененных полиэтиленов</category>
-      <category id="1721740">Вспененный каучук, аксессуары</category>
       <category id="1946859" parentId="1932799">Товары для бокса и единоборств</category>
       <category id="1946861" parentId="1932799">Товары для фитнеса и аэробики</category>
       <category id="1946897" parentId="5863938">Коврики туристические, карематы</category>
@@ -186,8 +136,6 @@
       <category id="2366740" parentId="908017">Трубки из вспененного каучука (изоляция труб)</category>
       <category id="2366920" parentId="1721740">Лента из вспененного каучука самоклеющаяся</category>
       <category id="2689523" parentId="1721740">Клей для вспененного каучука</category>
-      <category id="3021500">Экструдированный пенополистирол, экструзионный пенополистирол</category>
-      <category id="3061258">Утеплители, термоизоляция, техническая изоляция</category>
       <category id="3061402" parentId="105419513">Звукоизоляция и шумоизоляция пола</category>
       <category id="3061414" parentId="105419513">Звукоизоляция перегородок</category>
       <category id="3676854" parentId="908017">Трубная изоляция из вспененного полиэтилена</category>
@@ -198,7 +146,6 @@
       <category id="4499951" parentId="13552512">Физически сшитый вспененный полиэтилен самоклеющийся</category>
       <category id="4503265" parentId="13552512">Физически сшитый вспененный полиэтилен фольгированный</category>
       <category id="4609024" parentId="13552512">Физически сшитый вспененный полиэтилен фольгированный самоклеющийся</category>
-      <category id="4734220">Упаковочные материалы</category>
       <category id="4997733" parentId="5893864">Химически сшитый вспененный полиэтилен листовой</category>
       <category id="5928528" parentId="5863938">Коврики для йоги и пилатеса</category>
       <category id="6054164" parentId="5863938">Коврики для детей</category>
@@ -273,10 +220,6 @@
       <category id="23545685" parentId="7770707">Базальтовая скорлупа, базальтовые цилиндры толщиной 60 мм</category>
       <category id="23545693" parentId="7770707">Базальтовая скорлупа, базальтовые цилиндры толщиной 70 мм</category>
       <category id="23545701" parentId="7770707">Базальтовая скорлупа, базальтовые цилиндры толщиной 80 мм</category>
-      <category id="156083600">Типографические услуги</category>
-      <category id="156083601">Складские услуги</category>
-      <category id="156083602">Изготовление маркировочной продукции, табличек</category>
-      <category id="156083603">Бандажи послеоперационные и согревающие пояса</category>
       <category id="156083604" parentId="138619412">Комплектующие электрооборудования</category>
       <category id="156083605" parentId="138619431">Рубильники</category>
       <category id="156083606" parentId="138619413">Товары для детей, общее</category>
@@ -355,27 +298,7 @@
       <category id="156083679" parentId="138619494">Велочехлы и велонакидки</category>
       <category id="156083680" parentId="138619495">Аквапалки</category>
       <category id="156083681" parentId="138619496">Доски для плавания, колобашки</category>
-      <category id="156083682" parentId="138619497">Боксерские груши и снаряды</category>
-      <category id="156083683" parentId="138619497">Защита для боевых искусств</category>
-      <category id="156083684" parentId="138619497">Боксерские ринги</category>
-      <category id="156083685" parentId="138619497">Шлемы для бокса и единоборств</category>
-      <category id="156083686" parentId="138619497">Капы</category>
-      <category id="156083687" parentId="138619497">Боксерские бинты</category>
-      <category id="156083688" parentId="138619498">Кинезио тейпы и средства для тейпирования</category>
-      <category id="156083689" parentId="138619499">Гимнастические диски</category>
-      <category id="156083690" parentId="138619499">Коврики для йоги и фитнеса</category>
-      <category id="156083691" parentId="138619499">Скакалки</category>
-      <category id="156083692" parentId="138619499">Гимнастические обручи</category>
-      <category id="156083693" parentId="138619499">Упоры для отжиманий</category>
-      <category id="156083694" parentId="138619500">Блоки и ролики для йоги</category>
-      <category id="156083695" parentId="138619501">Атлетические пояса</category>
-      <category id="156083696" parentId="138619501">Спортивные утяжелители</category>
-      <category id="156083697" parentId="138619501">Тяги для тренировки шеи</category>
-      <category id="156083698" parentId="138619501">Атлетические петли, лямки и напульсники</category>
-      <category id="156083699" parentId="138619502">Спортивные маты</category>
       <category id="156083700" parentId="138619427">Строительные материалы</category>
-      <category id="156083701" parentId="137644541">Гидроизоляционные уплотнители</category>
-      <category id="156083702" parentId="137644541">Обмазочные гидроизоляционные материалы</category>
       <category id="156083703" parentId="137644542">Комплектующие для кровли</category>
       <category id="156083704" parentId="137644543">Минеральная вата</category>
       <category id="156083705" parentId="137644543">Теплоизоляционный пенопласт</category>
@@ -1943,42 +1866,6 @@
     <param name="Ширина" unit="мм">10</param>
     <param name="Самоклеющийся уплотнитель" unit="">Универсальный</param>
   </offer>
-  <offer id="29230115" available="false">
-    <url>https://proekt24.com/p29230115-gazovspenennyj-polietilen-ukrizol.html</url>
-    <price>711</price>
-    <price_old>846</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337357</categoryId>
-    <picture>https://images.prom.ua/2903608189_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608194_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608196_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608193_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903618336_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/3707497831_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Газовспененный полиэтилен UKRIZOL листовой 20 мм (2х1 м) белый</name>
-    <vendor>Укрізол</vendor>
-    <vendorCode>900201</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Водопоглощение" unit="%">1</param>
-    <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
-    <param name="Длина" unit="м">2</param>
-    <param name="Экологическая безопасность материала">Безопасен</param>
-    <param name="Класс материала по теплопроводности">Средняя</param>
-    <param name="Максимальная рабочая температура" unit="град.">75</param>
-    <param name="Минимальная рабочая температура" unit="град.">-60</param>
-    <param name="Покрытие">Без покрытия</param>
-    <param name="Теплопроводность" unit="Вт/мК">0.045</param>
-    <param name="Тип материала">Г (горючий)</param>
-    <param name="Толщина" unit="мм">20</param>
-    <param name="Форма поставки материала">Плита</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м3">15</param>
-  </offer>
   <offer id="29385158" available="true">
     <url>https://proekt24.com/p29385158-skorlupa-ppu-1843.html</url>
     <price>394</price>
@@ -2214,7 +2101,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>222</quantity_in_stock>
+    <quantity_in_stock>882</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал" unit="">Резинка</param>
     <param name="Ширина, мм" unit="">30</param>
@@ -3637,7 +3524,7 @@
     <vendorCode>233454</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Длина, мм" unit="">520</param>
     <param name="Материал" unit="">Резинка</param>
     <param name="Ширина, мм" unit="">25</param>
@@ -3656,7 +3543,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2904</quantity_in_stock>
+    <quantity_in_stock>2812</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -3689,7 +3576,7 @@
     <vendorCode>500091</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3074</quantity_in_stock>
+    <quantity_in_stock>3073</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -3724,7 +3611,7 @@
     <vendorCode>500131</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>671</quantity_in_stock>
+    <quantity_in_stock>657</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -3835,7 +3722,7 @@
     <vendorCode>500251</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>152</quantity_in_stock>
+    <quantity_in_stock>136</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -3905,7 +3792,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1505</quantity_in_stock>
+    <quantity_in_stock>1455</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -3942,7 +3829,7 @@
     <vendorCode>500132</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1818</quantity_in_stock>
+    <quantity_in_stock>1776</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -4008,7 +3895,7 @@
     <vendorCode>500252</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1025</quantity_in_stock>
+    <quantity_in_stock>1020</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -4144,14 +4031,9 @@
     <vendorCode>500093</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>648</quantity_in_stock>
+    <quantity_in_stock>568</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Цвет">Черный</param>
-    <param name="Область применения">Для стен|Для пола|Для каркасных конструкций|Для инженерного оборудования|Для потолков</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Назначение материала">Виброизоляция|Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
-    <param name="Эластичность материала">Да</param>
     <param name="Вид натурального каучука" unit="">Синтетический каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">20</param>
@@ -4163,6 +4045,11 @@
     <param name="Толщина" unit="">9</param>
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
     <param name="Плотность" unit="">55</param>
+    <param name="Назначение материала" unit="">Виброизоляция|Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
+    <param name="Эластичность материала" unit="">Да</param>
+    <param name="Область применения" unit="">Для стен|Для пола|Для каркасных конструкций|Для инженерного оборудования|Для потолков</param>
+    <param name="Цвет" unit="">Черный</param>
+    <param name="Степень жесткости" unit="">Мягкий</param>
   </offer>
   <offer id="126648462" available="true">
     <url>https://proekt24.com/p126648462-vspenennyj-kauchuk-samokleyuschijsya.html</url>
@@ -4247,14 +4134,9 @@
     <vendorCode>500253</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>357</quantity_in_stock>
+    <quantity_in_stock>352</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Цвет">Черный</param>
-    <param name="Область применения">Для стен|Для пола|Для каркасных конструкций|Для инженерного оборудования|Для потолков</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Назначение материала">Виброизоляция|Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
-    <param name="Эластичность материала">Да</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">8</param>
@@ -4266,6 +4148,11 @@
     <param name="Толщина" unit="">25</param>
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
     <param name="Плотность" unit="">55</param>
+    <param name="Назначение материала" unit="">Виброизоляция|Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
+    <param name="Эластичность материала" unit="">Да</param>
+    <param name="Область применения" unit="">Для стен|Для пола|Для каркасных конструкций|Для инженерного оборудования|Для потолков</param>
+    <param name="Цвет" unit="">Черный</param>
+    <param name="Степень жесткости" unit="">Мягкий</param>
   </offer>
   <offer id="126709678" available="false">
     <url>https://proekt24.com/p126709678-vspenennyj-kauchuk-samokleyuschijsya.html</url>
@@ -4734,114 +4621,6 @@
     <param name="Ширина" unit="см">60</param>
     <param name="Плотность материала" unit="кг/м3">33</param>
   </offer>
-  <offer id="138377439" available="false">
-    <url>https://proekt24.com/p138377439-gazovspenennyj-polietilen-ukrizol.html</url>
-    <price>1068</price>
-    <price_old>1271</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337357</categoryId>
-    <picture>https://images.prom.ua/2903608189_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608194_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608196_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608193_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903618336_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/3707497831_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Газовспененный полиэтилен UKRIZOL листовой 30 мм (2х1 м) белый</name>
-    <vendor>Укрізол</vendor>
-    <vendorCode>900301</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Водопоглощение" unit="%">1</param>
-    <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
-    <param name="Длина" unit="м">2</param>
-    <param name="Экологическая безопасность материала">Безопасен</param>
-    <param name="Класс материала по теплопроводности">Средняя</param>
-    <param name="Максимальная рабочая температура" unit="град.">75</param>
-    <param name="Минимальная рабочая температура" unit="град.">-60</param>
-    <param name="Покрытие">Без покрытия</param>
-    <param name="Теплопроводность" unit="Вт/мК">0.045</param>
-    <param name="Тип материала">Г (горючий)</param>
-    <param name="Толщина" unit="мм">30</param>
-    <param name="Форма поставки материала">Плита</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м3">15</param>
-  </offer>
-  <offer id="138380831" available="false">
-    <url>https://proekt24.com/p138380831-gazovspenennyj-polietilen-ukrizol.html</url>
-    <price>1425</price>
-    <price_old>1696</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337357</categoryId>
-    <picture>https://images.prom.ua/2903608189_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608194_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608196_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608193_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903618336_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/3707497831_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Газовспененный полиэтилен UKRIZOL листовой 40 мм (2х1 м) белый</name>
-    <vendor>Укрізол</vendor>
-    <vendorCode>900401</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Водопоглощение" unit="%">1</param>
-    <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
-    <param name="Длина" unit="м">2</param>
-    <param name="Экологическая безопасность материала">Безопасен</param>
-    <param name="Класс материала по теплопроводности">Средняя</param>
-    <param name="Максимальная рабочая температура" unit="град.">75</param>
-    <param name="Минимальная рабочая температура" unit="град.">-60</param>
-    <param name="Покрытие">Без покрытия</param>
-    <param name="Теплопроводность" unit="Вт/мК">0.045</param>
-    <param name="Тип материала">Г (горючий)</param>
-    <param name="Толщина" unit="мм">40</param>
-    <param name="Форма поставки материала">Плита</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м3">15</param>
-  </offer>
-  <offer id="138385661" available="false">
-    <url>https://proekt24.com/p138385661-gazovspenennyj-polietilen-ukrizol.html</url>
-    <price>1782</price>
-    <price_old>2121</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337357</categoryId>
-    <picture>https://images.prom.ua/2903608189_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608194_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608196_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608193_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903618336_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/3707497831_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Газовспененный полиэтилен UKRIZOL листовой 50 мм (2х1 м) белый</name>
-    <vendor>Укрізол</vendor>
-    <vendorCode>900501</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Водопоглощение" unit="%">1</param>
-    <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
-    <param name="Длина" unit="м">2</param>
-    <param name="Экологическая безопасность материала">Безопасен</param>
-    <param name="Класс материала по теплопроводности">Средняя</param>
-    <param name="Максимальная рабочая температура" unit="град.">75</param>
-    <param name="Минимальная рабочая температура" unit="град.">-60</param>
-    <param name="Покрытие">Без покрытия</param>
-    <param name="Теплопроводность" unit="Вт/мК">0.045</param>
-    <param name="Тип материала">Г (горючий)</param>
-    <param name="Толщина" unit="мм">50</param>
-    <param name="Форма поставки материала">Плита</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м3">15</param>
-  </offer>
   <offer id="139372490" available="false">
     <url>https://proekt24.com/p139372490-kovrik-turisticheskij-turist.html</url>
     <price>331</price>
@@ -5233,7 +5012,7 @@
     <vendorCode>ВП22/6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>570</quantity_in_stock>
+    <quantity_in_stock>540</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -5264,7 +5043,7 @@
     <vendorCode>ВП28/6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>120</quantity_in_stock>
+    <quantity_in_stock>50</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -5295,7 +5074,7 @@
     <vendorCode>ВП35/6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1220</quantity_in_stock>
+    <quantity_in_stock>1170</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -5326,7 +5105,7 @@
     <vendorCode>ВП42/6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>230</quantity_in_stock>
+    <quantity_in_stock>210</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -7297,7 +7076,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">50</param>
   </offer>
-<offer id="178432342" available="false">
+  <offer id="178432342" available="false">
     <url>https://proekt24.com/p178432342-skorlupa-ppu-21945.html</url>
     <price>572</price>
     <price_old>681</price_old>
@@ -7429,7 +7208,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">50</param>
   </offer>
-  <offer id="178455039" available="true">
+<offer id="178455039" available="true">
     <url>https://proekt24.com/p178455039-skorlupa-ppu-42640.html</url>
     <price>2251</price>
     <price_old>2680</price_old>
@@ -14835,7 +14614,7 @@
     <param name="Толщина изоляции" unit="мм">40</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-<offer id="200813538" available="true">
+  <offer id="200813538" available="true">
     <url>https://proekt24.com/p200813538-penoplastovaya-skorlupa-13350.html</url>
     <price>544</price>
     <price_old>648</price_old>
@@ -14971,7 +14750,7 @@
     <param name="Толщина изоляции" unit="мм">30</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="201442659" available="false">
+<offer id="201442659" available="false">
     <url>https://proekt24.com/p201442659-detskie-bokserskie-perchatki.html</url>
     <price>472</price>
     <price_old>562</price_old>
@@ -16026,7 +15805,7 @@
     <vendorCode>63321</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>43</quantity_in_stock>
+    <quantity_in_stock>41</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Цвет">Синий</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
@@ -16960,7 +16739,7 @@
     <vendorCode>20109</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Длина рулона" unit="м">10</param>
     <param name="Цвет">Серый</param>
     <param name="Максимальная температура эксплуатации" unit="град.">80</param>
@@ -17059,7 +16838,7 @@
     <vendorCode>63324</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Цвет">Черный</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
@@ -17179,7 +16958,7 @@
     <vendorCode>20103</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>133</quantity_in_stock>
+    <quantity_in_stock>128</quantity_in_stock>
     <param name="Армированный скотч">Да</param>
     <param name="Длина" unit="м">50</param>
     <param name="Максимальная рабочая температура" unit="град.">110</param>
@@ -17761,7 +17540,7 @@
     <vendorCode>63332</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>161</quantity_in_stock>
+    <quantity_in_stock>160</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Цвет">Черный</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
@@ -17929,7 +17708,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>231</quantity_in_stock>
+    <quantity_in_stock>221</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -18487,7 +18266,7 @@
     <vendorCode>889016</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>351</quantity_in_stock>
+    <quantity_in_stock>349</quantity_in_stock>
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
     <param name="Совместимость с моделью">206|Mondeo|Lupo|Sonata|Sebring|Q5|Focus|RAV4|Primera|Getz|Camry|Caliber|C4|Jazz|Fiesta|Dodge|Matiz|Chrysler|Fusion|Nissan Maxima|A4|Renault Megane|Colt|Santa Fe|Tucson|Tiguan|Almera|Scorpio|6|Yaris|Avensis|Civic|Accord|A6|Passat|C2|C5|Q7|XC90|Ceed|Lancer|Peugeot 206</param>
     <param name="Длина рулона, п.м." unit="">20</param>
@@ -18552,7 +18331,7 @@
     <vendorCode>04455</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>117</quantity_in_stock>
+    <quantity_in_stock>116</quantity_in_stock>
     <param name="Длина" unit="м">50</param>
     <param name="Цвет">Белый</param>
     <param name="Назначение материала">Для стен</param>
@@ -22211,7 +21990,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">75</param>
   </offer>
-<offer id="321083792" available="true">
+  <offer id="321083792" available="true">
     <url>https://proekt24.com/p321083792-bazaltovaya-skorlupa-27370.html</url>
     <price>1235</price>
     <price_old>1470</price_old>
@@ -22333,7 +22112,7 @@
     <param name="Ширина листа" unit="см">50</param>
     <param name="Совместимость с моделью">500x</param>
   </offer>
-  <offer id="321769089" available="true">
+<offer id="321769089" available="true">
     <url>https://proekt24.com/p321769089-vibroizolyatsiya-folgirovannaya-vizol.html</url>
     <price>181</price>
     <price_old>215</price_old>
@@ -22352,7 +22131,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>618</quantity_in_stock>
+    <quantity_in_stock>568</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Крыша|Дверные панели|Двери|Капот|Колесные арки|Крышка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -22923,7 +22702,7 @@
     <vendorCode>900054</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>637</quantity_in_stock>
+    <quantity_in_stock>537</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Длина" unit="м">50</param>
     <param name="Покрытие">Ламинированное</param>
@@ -23529,7 +23308,7 @@
     <vendorCode>901052</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>123</quantity_in_stock>
+    <quantity_in_stock>63</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Класс материала по теплопроводности">Низкая</param>
     <param name="Покрытие">Без покрытия</param>
@@ -24203,7 +23982,7 @@
     <vendorCode>163102</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>27</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <param name="Диаметр" unit="см">28</param>
     <param name="Цвет">Зелёный</param>
     <param name="Максимальная нагрузка" unit="кг">140</param>
@@ -24458,7 +24237,7 @@
     <vendorCode>20108</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>455</quantity_in_stock>
+    <quantity_in_stock>454</quantity_in_stock>
     <param name="Армированный скотч">Нет</param>
     <param name="Длина" unit="м">50</param>
     <param name="Максимальная рабочая температура" unit="град.">90</param>
@@ -30655,7 +30434,7 @@
     <param name="Тип">Открытый</param>
     <param name="Материал верха" unit="">Кожзаменитель</param>
   </offer>
-<offer id="496505147" available="false">
+  <offer id="496505147" available="false">
     <url>https://proekt24.com/p496505147-gantel-dlya-fitnesa.html</url>
     <price>159</price>
     <price_old>189</price_old>
@@ -30751,7 +30530,7 @@
     <param name="Покрытие блинов">Пластик</param>
     <param name="Тип">Гантели</param>
   </offer>
-  <offer id="496505638" available="false">
+<offer id="496505638" available="false">
     <url>https://proekt24.com/p496505638-gantel-dlya-fitnesa.html</url>
     <price>260</price>
     <price_old>310</price_old>
@@ -32825,7 +32604,7 @@
     <vendorCode>62025</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>349</quantity_in_stock>
+    <quantity_in_stock>348</quantity_in_stock>
     <param name="Материал">Каучук</param>
     <param name="Максимальная температура эксплуатации" unit="">90</param>
     <param name="Минимальная температура эксплуатации" unit="">-40</param>
@@ -33104,7 +32883,7 @@
     <vendorCode>КБ18006005С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Цвет">Синий</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -33132,7 +32911,7 @@
     <vendorCode>901102</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>165</quantity_in_stock>
+    <quantity_in_stock>162</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Класс материала по теплопроводности">Низкая</param>
     <param name="Максимальная рабочая температура" unit="град.">90</param>
@@ -35075,42 +34854,6 @@
     <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
     <param name="Форма поставки материала" unit="">Лист</param>
   </offer>
-  <offer id="1349710131" available="false">
-    <url>https://proekt24.com/p1349710131-gazovspenennyj-polietilen-ukrizol.html</url>
-    <price>560</price>
-    <price_old>666</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337357</categoryId>
-    <picture>https://images.prom.ua/2903608189_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608194_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608196_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903608193_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2903618336_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/3707497831_gazovspenennyj-polietilen-ukrizol.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Газовспененный полиэтилен UKRIZOL листовой 15 мм (2х1 м) белый</name>
-    <vendor>Укрізол</vendor>
-    <vendorCode>900151</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Водопоглощение" unit="%">1</param>
-    <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
-    <param name="Длина" unit="м">2</param>
-    <param name="Экологическая безопасность материала">Безопасен</param>
-    <param name="Класс материала по теплопроводности">Средняя</param>
-    <param name="Максимальная рабочая температура" unit="град.">75</param>
-    <param name="Минимальная рабочая температура" unit="град.">-60</param>
-    <param name="Покрытие">Без покрытия</param>
-    <param name="Теплопроводность" unit="Вт/мК">0.045</param>
-    <param name="Тип материала">Г (горючий)</param>
-    <param name="Толщина" unit="мм">15</param>
-    <param name="Форма поставки материала">Плита</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м3">15</param>
-  </offer>
   <offer id="1350997649" available="false">
     <url>https://proekt24.com/p1350997649-zaschitnyj-kovrik-pod.html</url>
     <price>419</price>
@@ -35751,7 +35494,7 @@
     <vendorCode>EF-AWTS-500</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Вес" unit="кг">5</param>
     <param name="Цвет">Серый</param>
     <param name="Количество утяжелителей">2</param>
@@ -36723,7 +36466,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>119</quantity_in_stock>
+    <quantity_in_stock>118</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -37069,7 +36812,7 @@
     <param name="Цвет" unit="">Терракота</param>
     <param name="Основа" unit="">Бутил-каучук</param>
   </offer>
-<offer id="1399834024" available="true">
+  <offer id="1399834024" available="true">
     <url>https://proekt24.com/p1399834024-bitumnaya-lenta-aluterracot.html</url>
     <price>387</price>
     <price_old>461</price_old>
@@ -37224,7 +36967,7 @@
     <param name="Основа" unit="">Бутил-каучук</param>
     <param name="Цвет ленты" unit="">Графитовый</param>
   </offer>
-  <offer id="1399834029" available="true">
+<offer id="1399834029" available="true">
     <url>https://proekt24.com/p1399834029-bitumnaya-lenta-150.html</url>
     <price>673</price>
     <price_old>801</price_old>
@@ -37740,7 +37483,7 @@
     <vendorCode>62764</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Длина" unit="м">3</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -38144,7 +37887,7 @@
     <vendorCode>62796</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>320</quantity_in_stock>
+    <quantity_in_stock>317</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -38480,7 +38223,7 @@
     <vendorCode>62797</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>168</quantity_in_stock>
+    <quantity_in_stock>167</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -39208,7 +38951,7 @@
     <vendorCode>64022</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>210</quantity_in_stock>
+    <quantity_in_stock>208</quantity_in_stock>
     <param name="Расход материала" unit="кг/м2">1.4</param>
     <param name="Цвет">Серый</param>
     <param name="Консистенция">Полужидкая</param>
@@ -39238,7 +38981,7 @@
     <vendorCode>64021</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Расход материала" unit="кг/м2">1.4</param>
     <param name="Цвет">Серый</param>
     <param name="Консистенция">Полужидкая</param>
@@ -39268,7 +39011,7 @@
     <vendorCode>64020</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>75</quantity_in_stock>
+    <quantity_in_stock>74</quantity_in_stock>
     <param name="Расход материала" unit="кг/м2">1.4</param>
     <param name="Цвет">Серый</param>
     <param name="Консистенция">Полужидкая</param>
@@ -42452,7 +42195,7 @@
     <param name="Толщина (мм)" unit="">0.4</param>
     <param name="Ширина, мм" unit="">960</param>
   </offer>
-  <offer id="1467443483" available="true">
+  <offer id="1467443483" available="false">
     <url>https://proekt24.com/p1467443483-ekstrudirovannyj-penopolistirol-xps.html</url>
     <price>109</price>
     <price_old>130</price_old>
@@ -42471,7 +42214,7 @@
     <vendorCode>83930</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -43492,7 +43235,7 @@
     <vendorCode>456789</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>193</quantity_in_stock>
+    <quantity_in_stock>143</quantity_in_stock>
     <param name="Длина" unit="м">1</param>
     <param name="Тип использования">Для наружных работ</param>
     <param name="Ширина" unit="мм">50</param>
@@ -44467,7 +44210,7 @@
     <param name="Особенности" unit="">Ортопедический</param>
     <param name="Страна бренда" unit="">Украина</param>
   </offer>
-<offer id="1517142830" available="true">
+  <offer id="1517142830" available="true">
     <url>https://proekt24.com/p1517142830-ortopedicheskij-massazhnyj-kovrik.html</url>
     <price>202</price>
     <price_old>240</price_old>
@@ -44617,7 +44360,7 @@
     <param name="Кол-во элементов" unit="">9</param>
     <param name="Комплектация" unit="">9 Модулей;упаковка</param>
   </offer>
-  <offer id="1517142835" available="true">
+<offer id="1517142835" available="true">
     <url>https://proekt24.com/p1517142835-akupunkturnyj-massazhnyj-kovrik.html</url>
     <price>852</price>
     <price_old>1014</price_old>
@@ -47132,7 +46875,7 @@
     <vendorCode>КФ18006008Ф</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Цвет">Фиолетовый</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -47320,7 +47063,7 @@
     <vendorCode>56358</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>27</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Максимальная температура эксплуатации" unit="град.">90</param>
     <param name="Материал">Битум</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-50</param>
@@ -49025,7 +48768,7 @@
     <vendorCode>56441</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>619</quantity_in_stock>
+    <quantity_in_stock>618</quantity_in_stock>
     <param name="Вес" unit="кг">1.55</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Стенки багажника|Пол автомобиля|Пол багажника</param>
@@ -50727,7 +50470,7 @@
     <param name="Система нагрузки">Собственный вес</param>
     <param name="Тип">Тренажер для пресса</param>
   </offer>
-<offer id="1576683005" available="true">
+  <offer id="1576683005" available="true">
     <url>https://proekt24.com/p1576683005-gimnasticheskij-rolik-dlya.html</url>
     <price>637</price>
     <price_old>759</price_old>
@@ -50849,7 +50592,7 @@
     <param name="Максимальная нагрузка" unit="кг">100</param>
     <param name="Тип">Гладкий</param>
   </offer>
-  <offer id="1577552514" available="false">
+<offer id="1577552514" available="false">
     <url>https://proekt24.com/p1577552514-myach-dlya-fitnesa.html</url>
     <price>271</price>
     <price_old>322</price_old>
@@ -51697,7 +51440,7 @@
     <vendorCode>163107</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Вес" unit="г">1100</param>
     <param name="Диаметр" unit="см">28</param>
     <param name="Цвет">Фиолетовый</param>
@@ -52203,7 +51946,7 @@
     <vendorCode>900051</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>212</quantity_in_stock>
+    <quantity_in_stock>162</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -52306,7 +52049,7 @@
     <vendorCode>900033</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>305</quantity_in_stock>
+    <quantity_in_stock>298</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -52454,7 +52197,7 @@
     <vendorCode>900035</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>407</quantity_in_stock>
+    <quantity_in_stock>307</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -53638,7 +53381,7 @@
     <param name="Плотность" unit="кг/м3">28</param>
     <param name="Количество в упаковке, шт" unit="">21</param>
   </offer>
-  <offer id="1600754077" available="true">
+  <offer id="1600754077" available="false">
     <url>https://proekt24.com/p1600754077-ekstrudirovannyj-penopolistirol-xps.html</url>
     <price>146</price>
     <price_old>174</price_old>
@@ -53657,7 +53400,7 @@
     <vendorCode>83940</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>55</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -53776,7 +53519,7 @@
     <vendor>Укрізол</vendor>
     <vendorCode>901501</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>183</quantity_in_stock>
+    <quantity_in_stock>180</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -54653,7 +54396,7 @@
     <vendorCode>500092У</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2433</quantity_in_stock>
+    <quantity_in_stock>2513</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -58705,7 +58448,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">50</param>
   </offer>
-<offer id="1656573096" available="true">
+  <offer id="1656573096" available="true">
     <url>https://proekt24.com/p1656573096-skorlupa-ppu-4542.html</url>
     <price>524</price>
     <price_old>624</price_old>
@@ -58875,7 +58618,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">50</param>
   </offer>
-  <offer id="1656573101" available="true">
+<offer id="1656573101" available="true">
     <url>https://proekt24.com/p1656573101-skorlupa-ppu-10840.html</url>
     <price>1012</price>
     <price_old>1205</price_old>
@@ -65419,7 +65162,7 @@
     <vendorCode>51012</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>40</quantity_in_stock>
+    <quantity_in_stock>35</quantity_in_stock>
     <param name="Вес" unit="кг">1.36</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Колесные арки|Пол автомобиля|Пол багажника</param>
@@ -66502,7 +66245,7 @@
     <param name="Материал">Натуральная кожа</param>
     <param name="Тип">Карате</param>
   </offer>
-<offer id="1693120362" available="false">
+  <offer id="1693120362" available="false">
     <url>https://proekt24.com/p1693120362-nakladki-karate-boxer.html</url>
     <price>315</price>
     <price_old>375</price_old>
@@ -66625,7 +66368,7 @@
     <param name="Конструкция" unit="">Цельная</param>
     <param name="Толщина (мм)" unit="">4.5</param>
   </offer>
-  <offer id="1694824919" available="false">
+<offer id="1694824919" available="false">
     <url>https://proekt24.com/p1694824919-napulsnik-ruku-kozhanyj.html</url>
     <price>85</price>
     <price_old>101</price_old>
@@ -66791,30 +66534,6 @@
     <param name="Материал ручек">Пластик</param>
     <param name="Особенности">Встроенные подшипники</param>
     <param name="Тип">Обычная</param>
-  </offer>
-  <offer id="1699309871" available="false">
-    <url>https://proekt24.com/p1699309871-kovrik-takticheskij-voennyj.html</url>
-    <price>483</price>
-    <price_old>575</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337382</categoryId>
-    <picture>https://images.prom.ua/3953185001_kovrik-takticheskij-voennyj.jpg</picture>
-    <picture>https://images.prom.ua/3953185002_kovrik-takticheskij-voennyj.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Коврик тактический военный 1800х600х15 серый</name>
-    <vendorCode>180060015СТ1</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина" unit="см">180</param>
-    <param name="Цвет">Серый</param>
-    <param name="Количество слоев">Однослойные</param>
-    <param name="Материал">Пенополиэтилен</param>
-    <param name="Тип коврика">Каремат</param>
-    <param name="Толщина" unit="мм">15</param>
-    <param name="Ширина" unit="см">60</param>
-    <param name="Плотность материала" unit="кг/м3">33</param>
   </offer>
   <offer id="1700523123" available="true">
     <url>https://proekt24.com/p1700523123-razgruzochnyj-takticheskij-zhilet.html</url>
@@ -67378,7 +67097,7 @@
     <vendorCode>832603</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>140</quantity_in_stock>
+    <quantity_in_stock>136</quantity_in_stock>
     <param name="Высота" unit="мм">10</param>
     <param name="Возраст">От 1 мес</param>
     <param name="Длина" unit="мм">500</param>
@@ -67856,7 +67575,7 @@
     <vendorCode>20118</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>177</quantity_in_stock>
+    <quantity_in_stock>176</quantity_in_stock>
     <param name="Армированный скотч">Да</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">25</param>
@@ -68279,7 +67998,7 @@
     <vendorCode>Н11006005ФТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>64</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Цвет">Фиолетовый</param>
     <param name="Материал">Пенополиэтилен</param>
     <param name="Особенности">Стяжки в комплекте</param>
@@ -68354,7 +68073,7 @@
     <vendorCode>Н15006005ФТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>42</quantity_in_stock>
+    <quantity_in_stock>39</quantity_in_stock>
     <param name="Длина" unit="см">150</param>
     <param name="Цвет">Фиолетовый</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -68939,7 +68658,7 @@
     <vendorCode>1008813</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>49</quantity_in_stock>
+    <quantity_in_stock>48</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентный</param>
     <param name="Состояние клея">Готовая эмульсия</param>
     <param name="Срок хранения" unit="мес">12</param>
@@ -70199,7 +69918,7 @@
     <vendorCode>32125</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2241</quantity_in_stock>
+    <quantity_in_stock>2233</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет" unit="">Белый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -71361,7 +71080,7 @@
     <vendorCode>3014Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Длина" unit="см">37</param>
     <param name="Цвет">Черный</param>
     <param name="Материал чехла">Искусственная кожа</param>
@@ -71752,7 +71471,7 @@
     <param name="Ширина листа" unit="см">50</param>
     <param name="Совместимость с моделью">XC90|Fusion|Lupo|Jazz|Nissan Maxima|Primera|Camry|Sebring|Lancer|C2|Renault Megane|Almera|Sonata|Chrysler|Yaris|6|Tiguan|Tucson|C4|Accord|Santa Fe|Caliber|Scorpio|Civic|Avensis|206|Ceed|A4|Mondeo|Passat|Colt|A6|Q7|Getz|Fiesta|Matiz|Dodge|RAV4|Focus|C5|Q5</param>
   </offer>
-  <offer id="1799656593" available="true">
+  <offer id="1799656593" available="false">
     <url>https://proekt24.com/p1799656593-vibroizolyatsiya-acoustics-profy.html</url>
     <price>355</price>
     <price_old>422</price_old>
@@ -71772,7 +71491,7 @@
     <vendorCode>41020</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вес" unit="кг">1.925</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Колесные арки|Пол автомобиля|Пол багажника</param>
@@ -71932,7 +71651,7 @@
     <vendorCode>56395</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>297</quantity_in_stock>
+    <quantity_in_stock>281</quantity_in_stock>
     <param name="Вес" unit="кг">0.95</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Колесные арки|Пол автомобиля|Пол багажника</param>
@@ -73046,7 +72765,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>533</quantity_in_stock>
+    <quantity_in_stock>529</quantity_in_stock>
     <param name="Применение материала">Двери|Потолок автомобиля|Стенки багажника|Пол автомобиля|Пол багажника</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
@@ -73164,7 +72883,7 @@
     <param name="Ширина в упаковке" unit="см">10</param>
     <param name="Сезон" unit="">Весна/Лето/Осень</param>
   </offer>
-<offer id="1821008153" available="true">
+  <offer id="1821008153" available="true">
     <url>https://proekt24.com/p1821008153-fizicheski-sshityj-vspenennyj.html</url>
     <price>131</price>
     <price_old>156</price_old>
@@ -73326,7 +73045,7 @@
     <param name="Толщина" unit="мм">6</param>
     <param name="Ширина" unit="см">61</param>
   </offer>
-  <offer id="1829865705" available="true">
+<offer id="1829865705" available="true">
     <url>https://proekt24.com/p1829865705-vibroshumoizolyatsiya-acoustics-multi.html</url>
     <price>490</price>
     <price_old>584</price_old>
@@ -73354,7 +73073,7 @@
     <param name="Толщина" unit="мм">15</param>
     <param name="Ширина листа" unit="см">50</param>
   </offer>
-  <offer id="1832278407" available="true">
+  <offer id="1832278407" available="false">
     <url>https://proekt24.com/p1832278407-disk-zdorovya-gratsiya.html</url>
     <price>472</price>
     <price_old>562</price_old>
@@ -73375,7 +73094,7 @@
     <vendorCode>163100</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вес" unit="г">1100</param>
     <param name="Диаметр" unit="см">28</param>
     <param name="Цвет">Черный</param>
@@ -74063,7 +73782,7 @@
     <vendorCode>18006008СЕ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>233</quantity_in_stock>
+    <quantity_in_stock>232</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Цвет">Серый</param>
     <param name="Количество слоев">Однослойные</param>
@@ -74215,7 +73934,7 @@
     <vendorCode>Н10020010Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Цвет">Черный</param>
     <param name="Материал чехла">Искусственная кожа</param>
@@ -75265,7 +74984,7 @@
     <vendorCode>03-785</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>84</quantity_in_stock>
+    <quantity_in_stock>82</quantity_in_stock>
     <param name="Совместимость с маркой">Citroen|Daewoo|Volvo|Volkswagen|Toyota|Dodge|Fiat|Ford|Renault|Peugeot|Nissan|Mitsubishi|Honda|Hyundai|Mazda|Kia|Audi|BMW|Chrysler</param>
     <param name="Совместимость с моделью">206|6|A4|A6|Accord|Almera|Avensis|C2|C4|C5|Caliber|Camry|Ceed|Chrysler|Civic|Colt|Dodge|Fiesta|Focus|Fusion|Getz|Jazz|Lancer|Lupo|Matiz|Mondeo|Nissan Maxima|Passat|Primera|Q5|Q7|RAV4|Renault Megane|Santa Fe|Scorpio|Sebring|Sonata|Tiguan|Tucson|XC90|Yaris|Peugeot 206</param>
     <param name="Диаметр, мм" unit="">20</param>
@@ -79851,7 +79570,7 @@
     <param name="Толщина" unit="">9</param>
     <param name="Плотность" unit="">55</param>
   </offer>
-<offer id="1949272598" available="false">
+  <offer id="1949272598" available="false">
     <url>https://proekt24.com/p1949272598-vspenennyj-kauchuk-folgirovannyj.html</url>
     <price>232</price>
     <price_old>276</price_old>
@@ -80035,7 +79754,7 @@
     <param name="Материал">Искусственная кожа</param>
     <param name="Тип">Груша</param>
   </offer>
-  <offer id="1950212375" available="true">
+<offer id="1950212375" available="true">
     <url>https://proekt24.com/p1950212375-lapy-bokserskie-boxer.html</url>
     <price>1835</price>
     <price_old>2185</price_old>
@@ -80910,7 +80629,7 @@
     <vendorCode>889128</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Длина" unit="мм">5000</param>
     <param name="Толщина" unit="мм">50</param>
     <param name="Форма поставки материала">Рулон</param>
@@ -81745,44 +81464,6 @@
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Плотность" unit="кг/м3">25</param>
-  </offer>
-  <offer id="1966047468" available="false">
-    <url>https://proekt24.com/p1966047468-vibroizolyatsiya-shumoizolyatsiya-10mm.html</url>
-    <price>181</price>
-    <price_old>215</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337319</categoryId>
-    <picture>https://images.prom.ua/3629655904_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <picture>https://images.prom.ua/3629655905_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <picture>https://images.prom.ua/3629655909_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <picture>https://images.prom.ua/3629655907_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <picture>https://images.prom.ua/3629655906_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <picture>https://images.prom.ua/3629655908_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <picture>https://images.prom.ua/2930984594_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Виброизоляция шумоизоляция 10мм 500x370 лист</name>
-    <vendor>Нормаизол</vendor>
-    <vendorCode>56440</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вес" unit="кг">0.77</param>
-    <param name="Длина листа" unit="см">37</param>
-    <param name="Применение материала">Потолок автомобиля|Дверные панели|Стенки багажника|Пол автомобиля|Крышка багажника|Крыша|Двери|Пол багажника</param>
-    <param name="Необходимость нагрева">Нет</param>
-    <param name="Площадь листа" unit="кв.м">0.185</param>
-    <param name="Совместимость с маркой">Toyota|Nissan|Dodge|Mitsubishi|Kia|Volkswagen|Citroen|Mazda|Chrysler|BMW|Volvo|Daewoo|Hyundai|Honda|Peugeot|Ford|Fiat|Renault|Audi</param>
-    <param name="Совместимость с моделью">500x</param>
-    <param name="Толщина" unit="мм">10</param>
-    <param name="Ширина листа" unit="см">50</param>
-    <param name="Максимальная рабочая температура" unit="">100</param>
-    <param name="Минимальная рабочая температура" unit="">-40</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Форма поставки материала" unit="">Лист</param>
-    <param name="Экологичный материал" unit="">Да</param>
-    <param name="Эластичность материала" unit="">Да</param>
   </offer>
   <offer id="1966047470" available="false">
     <url>https://proekt24.com/p1966047470-dihtung-uplotnitelnaya-zvukoizolyatsionnaya.html</url>
@@ -84519,7 +84200,7 @@
     <vendorCode>ВП18/6К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>248</quantity_in_stock>
+    <quantity_in_stock>238</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -86421,7 +86102,7 @@
     <param name="Материал">Комбинированный</param>
     <param name="Тип">Боевые</param>
   </offer>
-<offer id="2016768999" available="true">
+  <offer id="2016768999" available="true">
     <url>https://proekt24.com/p2016768999-bokserskie-perchatki-everlast.html</url>
     <price>1208</price>
     <price_old>1438</price_old>
@@ -86592,7 +86273,7 @@
     <param name="Размер">S</param>
     <param name="Тип">Закрытый</param>
   </offer>
-  <offer id="2016769006" available="true">
+<offer id="2016769006" available="true">
     <url>https://proekt24.com/p2016769006-bokserskie-perchatki-lev.html</url>
     <price>1155</price>
     <price_old>1375</price_old>
@@ -89201,7 +88882,7 @@
     <vendorCode>ВП18/6С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>284</quantity_in_stock>
+    <quantity_in_stock>274</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -93149,7 +92830,7 @@
     <param name="Плотность" unit="кг/м³">33</param>
     <param name="Длина рулона, п.м." unit="">20</param>
   </offer>
-<offer id="2154103960" available="true">
+  <offer id="2154103960" available="true">
     <url>https://proekt24.com/p2154103960-zvukoizolyatsionnaya-samokleyuschayasya-lenta.html</url>
     <price>324</price>
     <price_old>386</price_old>
@@ -93352,7 +93033,7 @@
     <param name="Плотность" unit="кг/м³">33</param>
     <param name="Длина рулона, п.м." unit="">20</param>
   </offer>
-  <offer id="2154103967" available="false">
+<offer id="2154103967" available="false">
     <url>https://proekt24.com/p2154103967-zvukoizolyatsionnaya-samokleyuschayasya-lenta.html</url>
     <price>264</price>
     <price_old>314</price_old>
@@ -102053,7 +101734,7 @@
     <param name="Діаметр основи, мм" unit="">195</param>
     <param name="Объем, л" unit="">2.71</param>
   </offer>
-<offer id="2183164182" available="false">
+  <offer id="2183164182" available="false">
     <url>https://proekt24.com/p2183164182-skovoroda-chugunnaya-optima.html</url>
     <price>761</price>
     <price_old>906</price_old>
@@ -102302,7 +101983,7 @@
     <param name="Крышка" unit="">чугун</param>
     <param name="Объем, л" unit="">8</param>
   </offer>
-  <offer id="2183164189" available="false">
+<offer id="2183164189" available="false">
     <url>https://proekt24.com/p2183164189-skovoroda-antiprigarnym-pokrytiem.html</url>
     <price>578</price>
     <price_old>688</price_old>
@@ -109630,7 +109311,7 @@
     <quantity_in_stock />
     <param name="Размер изделия" unit="">55см</param>
   </offer>
-<offer id="2210268562" available="false">
+  <offer id="2210268562" available="false">
     <url>https://proekt24.com/p2210268562-reabilitatsionnyj-trenazher-dlya.html</url>
     <price>2497</price>
     <price_old>2972</price_old>
@@ -109766,7 +109447,7 @@
     <quantity_in_stock />
     <param name="Размер изделия" unit="">Универсальный</param>
   </offer>
-  <offer id="2210268569" available="false">
+<offer id="2210268569" available="false">
     <url>https://proekt24.com/p2210268569-ortez-paltsa-dinamicheskaya.html</url>
     <price>662</price>
     <price_old>788</price_old>
@@ -114364,7 +114045,7 @@
     <vendorCode>87150Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Возрастная группа">Детская</param>
     <param name="Цвет">Черный</param>
     <param name="Материал">Силикон</param>
@@ -114440,7 +114121,7 @@
     <vendorCode>889502</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>27</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="">200</param>
     <param name="Минимальная температура эксплуатации" unit="">-30</param>
@@ -115498,7 +115179,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Плотность" unit="кг/м3">15</param>
   </offer>
-<offer id="2292878858" available="true">
+  <offer id="2292878858" available="true">
     <url>https://proekt24.com/p2292878858-zhgut-uplotnitelnyj-seryj.html</url>
     <price>80</price>
     <price_old>95</price_old>
@@ -115665,7 +115346,7 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Плотность" unit="кг/м3">15</param>
   </offer>
-  <offer id="2292878868" available="true">
+<offer id="2292878868" available="true">
     <url>https://proekt24.com/p2292878868-zhgut-uplotnitelnyj-seryj.html</url>
     <price>57</price>
     <price_old>68</price_old>
@@ -115679,7 +115360,7 @@
     <vendorCode>8890279</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>816</quantity_in_stock>
+    <quantity_in_stock>716</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет" unit="">Серый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -117556,7 +117237,7 @@
     <vendorCode>21040100</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <param name="Диаметр пузырька" unit="мм">10</param>
     <param name="Длина, м" unit="">100</param>
     <param name="Количество слоев" unit="">2</param>
@@ -118826,7 +118507,7 @@
     <vendor>EasyFit</vendor>
     <vendorCode>EF-2709-VW</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Длина" unit="мм">62</param>
     <param name="Цвет">Фиолетовый</param>
     <param name="Состояние">Новое</param>
@@ -118880,7 +118561,7 @@
     <vendorCode>Н11006005КТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Длина" unit="см">110</param>
     <param name="Цвет">Красный</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -119422,7 +119103,7 @@
     <vendorCode>889565У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>297</quantity_in_stock>
+    <quantity_in_stock>287</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -121768,7 +121449,7 @@
     <vendorCode>2004-N1Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>31</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">XL</param>
@@ -122080,7 +121761,7 @@
     <param name="Размер">XL</param>
     <param name="Тип">Защита голени/стопы</param>
   </offer>
-  <offer id="2568778703" available="false">
+  <offer id="2568778703" available="true">
     <url>https://proekt24.com/p2568778703-zaschita-goleni-stopy.html</url>
     <price>788</price>
     <price_old>938</price_old>
@@ -122096,7 +121777,7 @@
     <vendorCode>2004-N3К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Цвет">Красный</param>
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">M</param>
@@ -122204,7 +121885,7 @@
     <param name="Тип">Бокс</param>
     <param name="Размер" unit="">8 oz</param>
   </offer>
-<offer id="2568896913" available="true">
+  <offer id="2568896913" available="true">
     <url>https://proekt24.com/p2568896913-bokserskie-perchatki-boxer.html</url>
     <price>1064</price>
     <price_old>1266</price_old>
@@ -122386,7 +122067,7 @@
     <param name="Размер">M</param>
     <param name="Тип">Открытый</param>
   </offer>
-  <offer id="2568896920" available="true">
+<offer id="2568896920" available="true">
     <url>https://proekt24.com/p2568896920-bokserskie-perchatki-boxer.html</url>
     <price>966</price>
     <price_old>1150</price_old>
@@ -125322,7 +125003,7 @@
     <vendorCode>1002-002</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">30</param>
     <param name="Высота" unit="см">160</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -126068,7 +125749,7 @@
     <vendorCode>889632</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>169</quantity_in_stock>
+    <quantity_in_stock>168</quantity_in_stock>
     <param name="Вес" unit="г">500</param>
     <param name="Цвет">Белый</param>
     <param name="Консистенция">Аэрозоль</param>
@@ -128081,7 +127762,7 @@
     <vendorCode>889692</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Вес" unit="кг">0.78</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Цвет">Черный</param>
@@ -128538,7 +128219,7 @@
     <param name="Цвет">Бежевый</param>
     <param name="Материал">PETG</param>
   </offer>
-<offer id="2816392355" available="false">
+  <offer id="2816392355" available="false">
     <url>https://proekt24.com/p2816392355-filament-dsf-petg.html</url>
     <price>1620</price>
     <price_old>1929</price_old>
@@ -128696,7 +128377,7 @@
     <param name="Толщина" unit="мм">8</param>
     <param name="Ширина" unit="мм">40</param>
   </offer>
-  <offer id="2835261434" available="false">
+<offer id="2835261434" available="false">
     <url>https://proekt24.com/p2835261434-karpet-adhesive-chernyj.html</url>
     <price>410</price>
     <price_old>488</price_old>
@@ -131009,7 +130690,7 @@
     <vendorCode>5005020</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>68</quantity_in_stock>
+    <quantity_in_stock>62</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Область применения">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
@@ -132421,7 +132102,7 @@
     <vendorCode>889784</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>527</quantity_in_stock>
+    <quantity_in_stock>524</quantity_in_stock>
     <param name="Длина" unit="м">25</param>
     <param name="Максимальная рабочая температура" unit="град.">120</param>
     <param name="Минимальная рабочая температура" unit="град.">-40</param>
@@ -132449,7 +132130,7 @@
     <vendorCode>889786</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>78</quantity_in_stock>
+    <quantity_in_stock>64</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Область применения">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
@@ -134182,1263 +133863,6 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Плотность" unit="кг/м3">25</param>
   </offer>
-  <offer id="3128556375" available="false">
-    <url>https://proekt24.com/p3128556375-butilovaya-lenta-ukrizol.html</url>
-    <price>127</price>
-    <price_old>151</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337385</categoryId>
-    <picture>https://images.prom.ua/2857816871_butilovaya-lenta-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/7567661577_butilovaya-lenta-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/7567661578_butilovaya-lenta-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2857816873_butilovaya-lenta-ukrizol.jpg</picture>
-    <picture>https://images.prom.ua/2857816872_butilovaya-lenta-ukrizol.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Бутиловая лента UKRIZOL К 2 (25 м.п.)</name>
-    <vendor>СТК</vendor>
-    <vendorCode>62017</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина" unit="м">25</param>
-    <param name="Цвет">Черный</param>
-    <param name="Тип использования">Универсальный</param>
-    <param name="Толщина (мм)">1</param>
-    <param name="Ширина" unit="м">0.015</param>
-    <param name="Основа" unit="">Бутил-каучук</param>
-  </offer>
-  <offer id="3128556385" available="false">
-    <url>https://proekt24.com/p3128556385-himicheski-sshityj-vspenennyj.html</url>
-    <price>284</price>
-    <price_old>338</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337336</categoryId>
-    <picture>https://images.prom.ua/7567662074_himicheski-sshityj-vspenennyj.jpg</picture>
-    <picture>https://images.prom.ua/7567662075_himicheski-sshityj-vspenennyj.jpg</picture>
-    <picture>https://images.prom.ua/7567662076_himicheski-sshityj-vspenennyj.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Химически сшитый вспененный полиэтилен UKRIZOL лист 1000х1000х20 мм ППЭ НХ (Украина) серый</name>
-    <vendor>Укрізол</vendor>
-    <vendorCode>90120ЛХ</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Длина" unit="м">1</param>
-    <param name="Класс материала по теплопроводности">Низкая</param>
-    <param name="Покрытие">Без покрытия</param>
-    <param name="Теплопроводность" unit="Вт/мК">0.037</param>
-    <param name="Толщина" unit="мм">20</param>
-    <param name="Форма поставки материала">Плита</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м3">33</param>
-    <param name="Цвет" unit="">Серый</param>
-  </offer>
-  <offer id="3128556386" available="false">
-    <url>https://proekt24.com/p3128556386-himicheski-sshityj-vspenennyj.html</url>
-    <price>425</price>
-    <price_old>506</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337336</categoryId>
-    <picture>https://images.prom.ua/7567662077_himicheski-sshityj-vspenennyj.jpg</picture>
-    <picture>https://images.prom.ua/7567662078_himicheski-sshityj-vspenennyj.jpg</picture>
-    <picture>https://images.prom.ua/7567662079_himicheski-sshityj-vspenennyj.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Химически сшитый вспененный полиэтилен UKRIZOL лист 1000х1000х30 мм ППЭ НХ (Украина) серый</name>
-    <vendor>Укрізол</vendor>
-    <vendorCode>90130ЛХ</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Длина" unit="м">1</param>
-    <param name="Класс материала по теплопроводности">Низкая</param>
-    <param name="Покрытие">Без покрытия</param>
-    <param name="Теплопроводность" unit="Вт/мК">0.037</param>
-    <param name="Толщина" unit="мм">30</param>
-    <param name="Форма поставки материала">Плита</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м3">33</param>
-    <param name="Цвет" unit="">Серый</param>
-    <param name="Состояние" unit="">Новое</param>
-  </offer>
-  <offer id="3128556387" available="false">
-    <url>https://proekt24.com/p3128556387-himicheski-sshityj-vspenennyj.html</url>
-    <price>459</price>
-    <price_old>546</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337336</categoryId>
-    <picture>https://images.prom.ua/7567662080_himicheski-sshityj-vspenennyj.jpg</picture>
-    <picture>https://images.prom.ua/7567662081_himicheski-sshityj-vspenennyj.jpg</picture>
-    <picture>https://images.prom.ua/7567662082_himicheski-sshityj-vspenennyj.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Химически сшитый вспененный полиэтилен UKRIZOL лист 1000х1000х40 мм ППЭ НХ (Украина) серый</name>
-    <vendor>Укрізол</vendor>
-    <vendorCode>90140ЛХ</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Длина" unit="м">1</param>
-    <param name="Класс материала по теплопроводности">Низкая</param>
-    <param name="Теплопроводность" unit="Вт/мК">0.037</param>
-    <param name="Толщина" unit="мм">40</param>
-    <param name="Форма поставки материала">Плита</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м3">33</param>
-    <param name="Цвет" unit="">Серый</param>
-    <param name="Состояние" unit="">Новое</param>
-  </offer>
-  <offer id="3128556759" available="false">
-    <url>https://proekt24.com/p3128556759-vspenennyj-kauchuk-flex.html</url>
-    <price>3691</price>
-    <price_old>4394</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337340</categoryId>
-    <picture>https://images.prom.ua/7049151975_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/2824208706_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746592_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/278895360_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662165_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662166_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662167_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662169_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662170_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Вспененный каучук PA-FLEX 6 мм (утеплитель, шумоизоляция) цена за рулон (1х30 м)</name>
-    <vendor>PA-FLEX</vendor>
-    <vendorCode>500061</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата, мин. партия товара 1 шт.</sales_notes>
-    <quantity_in_stock />
-    <param name="Толщина" unit="мм">6</param>
-    <param name="Тип">Шумоизоляция</param>
-    <param name="Группа материала по горючести" unit="">Г1 (слабогорючий)</param>
-    <param name="Длина рулона, п.м." unit="">30</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Эластичность материала" unit="">Да</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Цвет" unit="">Черный</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-    <param name="Форма поставки материала" unit="">Рулон</param>
-    <param name="Ширина" unit="">1000</param>
-    <param name="Плотность" unit="">55</param>
-  </offer>
-  <offer id="3128556760" available="false">
-    <url>https://proekt24.com/p3128556760-vspenennyj-kauchuk-flex.html</url>
-    <price>3195</price>
-    <price_old>3804</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337340</categoryId>
-    <picture>https://images.prom.ua/7567662171_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908335_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908338_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908341_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908342_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908343_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908344_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908345_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Вспененный каучук PA-FLEX 9 мм (утеплитель, шумоизоляция) цена за рулон (1х20 м)</name>
-    <vendor>PA-FLEX</vendor>
-    <vendorCode>500091</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата, мин. партия товара 1 шт.</sales_notes>
-    <quantity_in_stock />
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Цвет">Черный</param>
-    <param name="Область применения">Для каркасных конструкций|Для инженерного оборудования|Для стен|Для потолков|Для пола</param>
-    <param name="Назначение материала">Звукоизоляция|Улучшение акустики помещений|Снижение ударного шума|Виброизоляция</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">9</param>
-    <param name="Форма поставки материала">Рулон</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Длина рулона, п.м." unit="">20</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Необходимость нагрева" unit="">Нет</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-  </offer>
-  <offer id="3128556761" available="false">
-    <url>https://proekt24.com/p3128556761-vspenennyj-kauchuk-flex.html</url>
-    <price>3059</price>
-    <price_old>3641</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337340</categoryId>
-    <picture>https://images.prom.ua/7567662181_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/2824208706_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908335_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908338_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908341_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908342_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908343_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908344_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908345_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Вспененный каучук PA-FLEX 13 мм (утеплитель, шумоизоляция) цена за рулон (1х14 м)</name>
-    <vendor>PA-FLEX</vendor>
-    <vendorCode>500131</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата, мин. партия товара 1 шт.</sales_notes>
-    <quantity_in_stock />
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Цвет">Черный</param>
-    <param name="Область применения">Для каркасных конструкций|Для инженерного оборудования|Для стен|Для потолков|Для пола</param>
-    <param name="Назначение материала">Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">13</param>
-    <param name="Форма поставки материала">Рулон</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Длина рулона, п.м." unit="">14</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Необходимость нагрева" unit="">Нет</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-  </offer>
-  <offer id="3128556762" available="false">
-    <url>https://proekt24.com/p3128556762-vspenennyj-kauchuk-flex.html</url>
-    <price>3146</price>
-    <price_old>3745</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337340</categoryId>
-    <picture>https://images.prom.ua/7567662182_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/2824208706_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662183_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662184_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662185_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662186_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662187_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662188_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662189_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Вспененный каучук PA-FLEX 19 мм (утеплитель, шумоизоляция) цена за рулон (1х10 м)</name>
-    <vendor>PA-FLEX</vendor>
-    <vendorCode>500191</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата, мин. партия товара 1 шт.</sales_notes>
-    <quantity_in_stock />
-    <param name="Необходимость нагрева">Нет</param>
-    <param name="Толщина" unit="мм">19</param>
-    <param name="Тип">Шумоизоляция</param>
-    <param name="Группа материала по горючести" unit="">Г1 (слабогорючий)</param>
-    <param name="Длина рулона, п.м." unit="">10</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Эластичность материала" unit="">Да</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Цвет" unit="">Черный</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-    <param name="Форма поставки материала" unit="">Рулон</param>
-    <param name="Ширина" unit="">1000</param>
-    <param name="Плотность" unit="">55</param>
-  </offer>
-  <offer id="3128556763" available="false">
-    <url>https://proekt24.com/p3128556763-vspenennyj-kauchuk-flex.html</url>
-    <price>3438</price>
-    <price_old>4092</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337340</categoryId>
-    <picture>https://images.prom.ua/7567662191_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/2824208706_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662192_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662193_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662194_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662195_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662196_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662197_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662198_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Вспененный каучук PA-FLEX 25 мм (утеплитель, шумоизоляция) цена за рулон (1х8 м)</name>
-    <vendor>PA-FLEX</vendor>
-    <vendorCode>500251</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата, мин. партия товара 1 шт.</sales_notes>
-    <quantity_in_stock />
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Цвет">Черный</param>
-    <param name="Область применения">Для каркасных конструкций|Для инженерного оборудования|Для стен|Для потолков|Для пола</param>
-    <param name="Назначение материала">Звукоизоляция|Улучшение акустики помещений|Снижение ударного шума|Виброизоляция</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">25</param>
-    <param name="Форма поставки материала">Рулон</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Длина рулона, п.м." unit="">8</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Необходимость нагрева" unit="">Нет</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-  </offer>
-  <offer id="3128556764" available="false">
-    <url>https://proekt24.com/p3128556764-vspenennyj-kauchuk-flex.html</url>
-    <price>3320</price>
-    <price_old>3952</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337340</categoryId>
-    <picture>https://images.prom.ua/7567662398_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/2824208706_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746557_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746558_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746559_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746560_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746561_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746562_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746595_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Вспененный каучук PA-FLEX 32 мм (утеплитель, шумоизоляция) цена за рулон (1х6 м)</name>
-    <vendor>PA-FLEX</vendor>
-    <vendorCode>500321</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата, мин. партия товара 1 шт.</sales_notes>
-    <quantity_in_stock />
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Цвет">Черный</param>
-    <param name="Область применения">Для каркасных конструкций|Для инженерного оборудования|Для стен|Для потолков|Для пола</param>
-    <param name="Назначение материала">Звукоизоляция|Улучшение акустики помещений|Снижение ударного шума|Виброизоляция</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">32</param>
-    <param name="Форма поставки материала">Рулон</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Длина рулона, п.м." unit="">6</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Необходимость нагрева" unit="">Нет</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-  </offer>
-  <offer id="3128556765" available="false">
-    <url>https://proekt24.com/p3128556765-vspenennyj-kauchuk-flex.html</url>
-    <price>6846</price>
-    <price_old>8150</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337341</categoryId>
-    <picture>https://images.prom.ua/7567662209_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/2824208706_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662399_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662210_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662211_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662212_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662213_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662214_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662215_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662216_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Вспененный каучук PA-FLEX 6 мм самоклеющийся (утеплитель, шумоизоляция) цена за рулон  (1х30 м)</name>
-    <vendor>PA-FLEX</vendor>
-    <vendorCode>500062</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата, мин. партия товара 1 шт.</sales_notes>
-    <quantity_in_stock />
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Область применения">Для каркасных конструкций|Для инженерного оборудования|Для стен|Для потолков|Для пола</param>
-    <param name="Назначение материала">Звукоизоляция|Улучшение акустики помещений|Снижение ударного шума|Виброизоляция</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">6</param>
-    <param name="Форма поставки материала">Рулон</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Длина рулона, п.м." unit="">30</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Необходимость нагрева" unit="">Нет</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-  </offer>
-  <offer id="3128556767" available="false">
-    <url>https://proekt24.com/p3128556767-vspenennyj-kauchuk-flex.html</url>
-    <price>4538</price>
-    <price_old>5402</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337341</categoryId>
-    <picture>https://images.prom.ua/7567662225_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/2824208706_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662401_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908296_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908298_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908299_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908300_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908303_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908305_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908307_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Вспененный каучук PA-FLEX 13 мм самоклеющийся (утеплитель, шумоизоляция) цена за рулон (1х14 м)</name>
-    <vendor>PA-FLEX</vendor>
-    <vendorCode>500132</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата, мин. партия товара 1 шт.</sales_notes>
-    <quantity_in_stock />
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Область применения">Для каркасных конструкций|Для инженерного оборудования|Для стен|Для потолков|Для пола</param>
-    <param name="Назначение материала">Звукоизоляция|Улучшение акустики помещений|Снижение ударного шума|Виброизоляция</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">13</param>
-    <param name="Форма поставки материала">Рулон</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Длина рулона, п.м." unit="">14</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Необходимость нагрева" unit="">Нет</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-  </offer>
-  <offer id="3128556768" available="false">
-    <url>https://proekt24.com/p3128556768-vspenennyj-kauchuk-flex.html</url>
-    <price>4153</price>
-    <price_old>4944</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337341</categoryId>
-    <picture>https://images.prom.ua/7567662227_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/2824208706_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662402_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662228_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908298_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908299_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662229_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662230_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662231_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662232_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Вспененный каучук PA-FLEX 19 мм самоклеющийся (утеплитель, шумоизоляция) цена за рулон (1х10 м)</name>
-    <vendor>PA-FLEX</vendor>
-    <vendorCode>500192</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата, мин. партия товара 1 шт.</sales_notes>
-    <quantity_in_stock />
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Область применения">Для каркасных конструкций|Для инженерного оборудования|Для стен|Для потолков|Для пола</param>
-    <param name="Назначение материала">Звукоизоляция|Улучшение акустики помещений|Снижение ударного шума|Виброизоляция</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">19</param>
-    <param name="Форма поставки материала">Рулон</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Длина рулона, п.м." unit="">10</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Необходимость нагрева" unit="">Нет</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-  </offer>
-  <offer id="3128556769" available="false">
-    <url>https://proekt24.com/p3128556769-vspenennyj-kauchuk-flex.html</url>
-    <price>4269</price>
-    <price_old>5082</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337341</categoryId>
-    <picture>https://images.prom.ua/7567662233_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/2824208706_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662403_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662234_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908298_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908299_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746570_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662235_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662236_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662237_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Вспененный каучук PA-FLEX 25 мм самоклеющийся (утеплитель, шумоизоляция) цена за рулон (1х8 м)</name>
-    <vendor>PA-FLEX</vendor>
-    <vendorCode>500252</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата, мин. партия товара 1 шт.</sales_notes>
-    <quantity_in_stock />
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Область применения">Для каркасных конструкций|Для инженерного оборудования|Для стен|Для потолков|Для пола</param>
-    <param name="Назначение материала">Звукоизоляция|Улучшение акустики помещений|Снижение ударного шума|Виброизоляция</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">25</param>
-    <param name="Форма поставки материала">Рулон</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Длина рулона, п.м." unit="">8</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Необходимость нагрева" unit="">Нет</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-  </offer>
-  <offer id="3128556770" available="false">
-    <url>https://proekt24.com/p3128556770-vspenennyj-kauchuk-flex.html</url>
-    <price>3945</price>
-    <price_old>4696</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337341</categoryId>
-    <picture>https://images.prom.ua/7176746566_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/2824208706_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7567662404_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746568_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908298_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/3149908299_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746570_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746572_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746573_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <picture>https://images.prom.ua/7176746574_vspenennyj-kauchuk-pa-flex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Вспененный каучук PA-FLEX 32 мм самоклеющийся (утеплитель, шумоизоляция) цена за рулон (1х6 м)</name>
-    <vendor>PA-FLEX</vendor>
-    <vendorCode>500322</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата, мин. партия товара 1 шт.</sales_notes>
-    <quantity_in_stock />
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Эластичность материала">Да</param>
-    <param name="Область применения">Для каркасных конструкций|Для инженерного оборудования|Для стен|Для потолков|Для пола</param>
-    <param name="Назначение материала">Звукоизоляция|Улучшение акустики помещений|Снижение ударного шума|Виброизоляция</param>
-    <param name="Степень жесткости">Мягкий</param>
-    <param name="Толщина" unit="мм">32</param>
-    <param name="Форма поставки материала">Рулон</param>
-    <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м³">55</param>
-    <param name="Длина рулона, п.м." unit="">6</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Необходимость нагрева" unit="">Нет</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-  </offer>
-  <offer id="3128556771" available="true">
-    <url>https://proekt24.com/p3128556771-strejch-plenka-chernaya.html</url>
-    <price>478</price>
-    <price_old>569</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337316</categoryId>
-    <picture>https://images.prom.ua/3014594507_strejch-plenka-chernaya.jpg</picture>
-    <picture>https://images.prom.ua/7567662428_strejch-plenka-chernaya.jpg</picture>
-    <picture>https://images.prom.ua/2847339610_strejch-plenka-chernaya.jpg</picture>
-    <picture>https://images.prom.ua/2847339613_strejch-plenka-chernaya.jpg</picture>
-    <picture>https://images.prom.ua/2847339611_strejch-plenka-chernaya.jpg</picture>
-    <picture>https://images.prom.ua/7567662429_strejch-plenka-chernaya.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Стрейч пленка черная 20мкм х 500мм х 300м (2,7 кг)</name>
-    <vendorCode>20500300</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>133</quantity_in_stock>
-    <param name="Вес рулона" unit="кг">2.7</param>
-    <param name="Вид пленки">Первичная</param>
-    <param name="Длина рулона" unit="м">300</param>
-    <param name="Особенность цвета">Черный</param>
-    <param name="Тип использования">Ручная</param>
-    <param name="Толщина пленки" unit="мкм">20</param>
-    <param name="Ширина рулона" unit="см">50</param>
-  </offer>
-  <offer id="3128556772" available="false">
-    <url>https://proekt24.com/p3128556772-shumoizolyatsiya-kauchukovaya-samokleyuschayasya.html</url>
-    <price>247</price>
-    <price_old>294</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337388</categoryId>
-    <picture>https://images.prom.ua/7567662430_shumoizolyatsiya-kauchukovaya-samokleyuschayasya.jpg</picture>
-    <picture>https://images.prom.ua/2824208706_shumoizolyatsiya-kauchukovaya-samokleyuschayasya.jpg</picture>
-    <picture>https://images.prom.ua/7567662210_shumoizolyatsiya-kauchukovaya-samokleyuschayasya.jpg</picture>
-    <picture>https://images.prom.ua/7567662211_shumoizolyatsiya-kauchukovaya-samokleyuschayasya.jpg</picture>
-    <picture>https://images.prom.ua/7567662212_shumoizolyatsiya-kauchukovaya-samokleyuschayasya.jpg</picture>
-    <picture>https://images.prom.ua/7567662213_shumoizolyatsiya-kauchukovaya-samokleyuschayasya.jpg</picture>
-    <picture>https://images.prom.ua/7567662214_shumoizolyatsiya-kauchukovaya-samokleyuschayasya.jpg</picture>
-    <picture>https://images.prom.ua/7567662215_shumoizolyatsiya-kauchukovaya-samokleyuschayasya.jpg</picture>
-    <picture>https://images.prom.ua/7567662216_shumoizolyatsiya-kauchukovaya-samokleyuschayasya.jpg</picture>
-    <picture>https://images.prom.ua/7567662217_shumoizolyatsiya-kauchukovaya-samokleyuschayasya.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоизоляция каучуковая самоклеющаяся 6 мм</name>
-    <vendorCode>500062</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Необходимость нагрева">Нет</param>
-    <param name="Совместимость с маркой">Toyota|Nissan|Dodge|Mitsubishi|Kia|Volkswagen|Citroen|Mazda|Chrysler|BMW|Volvo|Daewoo|Hyundai|Honda|Peugeot|Ford|Fiat|Renault|Audi</param>
-    <param name="Тип">Шумоизоляция</param>
-    <param name="Толщина" unit="мм">6</param>
-    <param name="Ширина листа" unit="см">100</param>
-    <param name="Совместимость с моделью">Civic|Avensis|Getz|Colt|Tucson|Lupo|6|A4|Sonata|Yaris|C4|Dodge|Caliber|Primera|Camry|Q7|C5|Almera|Nissan Maxima|Focus|206|Chrysler|Jazz|Lancer|Mondeo|RAV4|Fiesta|Accord|Renault Megane|A6|XC90|C2|Fusion|Matiz|Santa Fe|Scorpio|Sebring|Q5|Ceed|Passat|Tiguan</param>
-    <param name="Группа материала по горючести" unit="">Г1 (слабогорючий)</param>
-    <param name="Длина рулона, п.м." unit="">30</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Эластичность материала" unit="">Да</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-40</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
-    <param name="Плотность, кг/м³" unit="кг/м³">55</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-    <param name="Форма поставки материала" unit="">Рулон</param>
-  </offer>
-  <offer id="3128556774" available="false">
-    <url>https://proekt24.com/p3128556774-shumoizolyatsiya-kauchukovaya-metallizatsiej.html</url>
-    <price>134</price>
-    <price_old>160</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337388</categoryId>
-    <picture>https://images.prom.ua/3205861503_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/7176746592_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/3204348870_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/2998885430_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/3204348869_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/7567662440_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/7176746588_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/7176746585_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоизоляция каучуковая с металлизацией 6 мм (не самоклеющаяся)</name>
-    <vendor>Flex</vendor>
-    <vendorCode>500064У</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Необходимость нагрева">Нет</param>
-    <param name="Совместимость с маркой">Toyota|Nissan|Dodge|Mitsubishi|Kia|Volkswagen|Citroen|Mazda|Chrysler|BMW|Volvo|Daewoo|Hyundai|Honda|Peugeot|Ford|Fiat|Renault|Audi</param>
-    <param name="Тип">Шумоизоляция</param>
-    <param name="Толщина" unit="мм">6</param>
-    <param name="Ширина листа" unit="см">100</param>
-    <param name="Совместимость с моделью">Lupo|A4|Yaris|Jazz|Renault Megane|Sebring|Avensis|RAV4|Fusion|Peugeot 206|Ceed|C5|6|Scorpio|Lancer|Tiguan|Tucson|Focus|Colt|C2|Getz|XC90|Mondeo|C4|Santa Fe|Q7|Caliber|Civic|A6|Passat|Camry|Primera|Accord|Nissan Maxima|Q5|Chrysler|Fiesta|Sonata|Dodge|Almera|Matiz</param>
-    <param name="Группа материала по горючести" unit="">Г1 (слабогорючий)</param>
-    <param name="Длина рулона, п.м." unit="">30</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Эластичность материала" unit="">Да</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-40</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
-    <param name="Плотность, кг/м³" unit="кг/м³">55</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-    <param name="Форма поставки материала" unit="">Рулон</param>
-  </offer>
-  <offer id="3128556775" available="false">
-    <url>https://proekt24.com/p3128556775-shumoizolyatsiya-kauchukovaya-metallizatsiej.html</url>
-    <price>170</price>
-    <price_old>202</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337388</categoryId>
-    <picture>https://images.prom.ua/3205861503_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/7176746585_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/7176746588_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/7176746592_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/278895360_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/2998885430_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/3204348869_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <picture>https://images.prom.ua/3204348870_shumoizolyatsiya-kauchukovaya-s.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шумоизоляция каучуковая с металлизацией 9 мм</name>
-    <vendor>Flex</vendor>
-    <vendorCode>500094У</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Необходимость нагрева">Нет</param>
-    <param name="Совместимость с маркой">Toyota|Nissan|Dodge|Mitsubishi|Kia|Volkswagen|Citroen|Mazda|Chrysler|BMW|Volvo|Daewoo|Hyundai|Honda|Peugeot|Ford|Fiat|Renault|Audi</param>
-    <param name="Тип">Шумоизоляция</param>
-    <param name="Толщина" unit="мм">9</param>
-    <param name="Ширина листа" unit="см">100</param>
-    <param name="Совместимость с моделью">Fusion|6|XC90|Tucson|Scorpio|C5|Sonata|Camry|Avensis|Almera|Mondeo|Yaris|C2|Renault Megane|A4|206|Focus|Ceed|Colt|Chrysler|Fiesta|Tiguan|Accord|A6|Lupo|Lancer|C4|Sebring|Primera|Jazz|Getz|Nissan Maxima|Caliber|Q5|Matiz|Santa Fe|Q7|Passat|Civic|Dodge|RAV4</param>
-    <param name="Группа материала по горючести" unit="">Г1 (слабогорючий)</param>
-    <param name="Длина рулона, п.м." unit="">20</param>
-    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
-    <param name="Эластичность материала" unit="">Да</param>
-    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
-    <param name="Максимальная рабочая температура" unit="">120</param>
-    <param name="Материал изоляции" unit="">Вспененный каучук</param>
-    <param name="Минимальная рабочая температура" unit="">-40</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
-    <param name="Плотность, кг/м³" unit="кг/м³">55</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
-    <param name="Теплопроводность" unit="">0.032</param>
-    <param name="Форма поставки материала" unit="">Рулон</param>
-  </offer>
-  <offer id="3128557340" available="false" group_id="65408894">
-    <url>https://proekt24.com/p3128557340-kapa-rdx-detskayapodrostkovaya.html</url>
-    <price>76</price>
-    <price_old>90</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337410</categoryId>
-    <picture>https://images.prom.ua/2875266699_kapa-rdx-detskayapodrostkovaya.jpg</picture>
-    <picture>https://images.prom.ua/2875266693_kapa-rdx-detskayapodrostkovaya.jpg</picture>
-    <picture>https://images.prom.ua/2875266691_kapa-rdx-detskayapodrostkovaya.jpg</picture>
-    <picture>https://images.prom.ua/2875266696_kapa-rdx-detskayapodrostkovaya.jpg</picture>
-    <picture>https://images.prom.ua/2875266698_kapa-rdx-detskayapodrostkovaya.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Капа RDX детская/подростковая одинарная черная</name>
-    <vendor>RDX</vendor>
-    <vendorCode>87136</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Возрастная группа">Детская</param>
-    <param name="Цвет">Черный</param>
-    <param name="Материал">Термопластик</param>
-    <param name="Особенности">Чехол</param>
-    <param name="В комплекте" unit="">Капа</param>
-  </offer>
-  <offer id="3128557342" available="false">
-    <url>https://proekt24.com/p3128557342-disk-zdorovya-gratsiya.html</url>
-    <price>472</price>
-    <price_old>562</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337414</categoryId>
-    <picture>https://images.prom.ua/3141202718_disk-zdorovya-gratsiya.jpg</picture>
-    <picture>https://images.prom.ua/3141202889_disk-zdorovya-gratsiya.jpg</picture>
-    <picture>https://images.prom.ua/3141202629_disk-zdorovya-gratsiya.jpg</picture>
-    <picture>https://images.prom.ua/3141202662_disk-zdorovya-gratsiya.jpg</picture>
-    <picture>https://images.prom.ua/3141202696_disk-zdorovya-gratsiya.jpg</picture>
-    <picture>https://images.prom.ua/3141202728_disk-zdorovya-gratsiya.jpg</picture>
-    <picture>https://images.prom.ua/3141202796_disk-zdorovya-gratsiya.jpg</picture>
-    <picture>https://images.prom.ua/3141202824_disk-zdorovya-gratsiya.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Диск Здоровья Грация металлический темно-зеленый</name>
-    <vendor>VD-Sport</vendor>
-    <vendorCode>163109</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Диаметр" unit="см">28</param>
-    <param name="Цвет">Зелёный</param>
-    <param name="Максимальная нагрузка" unit="кг">160</param>
-    <param name="Состояние">Новое</param>
-    <param name="Толщина" unit="см">1.3</param>
-    <param name="Материал">Металл</param>
-    <param name="Тип" unit="">Диск здоровья</param>
-  </offer>
-  <offer id="3128557343" available="false">
-    <url>https://proekt24.com/p3128557343-izolyatsiya-trub-tubex.html</url>
-    <price>24</price>
-    <price_old>29</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337436</categoryId>
-    <picture>https://images.prom.ua/7567662787_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3366780974_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3366780975_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3366780976_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3366780973_izolyatsiya-trub-tubex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Изоляция труб TUBEX 35/6 из вспененного полиэтилена</name>
-    <vendor>Tubex</vendor>
-    <vendorCode>35/6Т</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Длина" unit="м">2</param>
-    <param name="Экологическая безопасность материала">Безопасен</param>
-    <param name="Внешний диаметр трубы" unit="мм">35</param>
-    <param name="Класс материала по теплопроводности">Средняя</param>
-    <param name="Максимальная рабочая температура" unit="град.">80</param>
-    <param name="Материал изоляции">Вспененный полиэтилен</param>
-    <param name="Теплопроводность" unit="Вт/мК">0.049</param>
-    <param name="Тип материала">Г (горючий)</param>
-    <param name="Толщина изоляции" unit="мм">6</param>
-    <param name="Форма поставки материала">Полая труба</param>
-    <param name="Плотность" unit="кг/м3">19</param>
-  </offer>
-  <offer id="3128557344" available="false">
-    <url>https://proekt24.com/p3128557344-kovrik-dlya-fitnesa.html</url>
-    <price>114</price>
-    <price_old>136</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337369</categoryId>
-    <picture>https://images.prom.ua/6778821650_kovrik-dlya-fitnesa.jpg</picture>
-    <picture>https://images.prom.ua/6778821649_kovrik-dlya-fitnesa.jpg</picture>
-    <picture>https://images.prom.ua/6778821680_kovrik-dlya-fitnesa.jpg</picture>
-    <picture>https://images.prom.ua/6778821651_kovrik-dlya-fitnesa.jpg</picture>
-    <picture>https://images.prom.ua/3455298859_kovrik-dlya-fitnesa.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Коврик для фитнеса 1100х600х5 розовый</name>
-    <vendorCode>Н11006005Р</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина" unit="см">110</param>
-    <param name="Цвет">Розовый</param>
-    <param name="Материал">Пенополиэтилен</param>
-    <param name="Особенности">Стяжки в комплекте</param>
-    <param name="Состояние">Новое</param>
-    <param name="Тип">Коврик/мат</param>
-    <param name="Толщина" unit="мм">5</param>
-    <param name="Ширина" unit="см">60</param>
-  </offer>
-  <offer id="3128558161" available="false">
-    <url>https://proekt24.com/p3128558161-vibroizolyatsiya-shumoizolyatsiya-10mm.html</url>
-    <price>2065</price>
-    <price_old>2459</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337319</categoryId>
-    <picture>https://images.prom.ua/3629655913_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <picture>https://images.prom.ua/3629655914_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <picture>https://images.prom.ua/7567662910_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <picture>https://images.prom.ua/3629655915_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <picture>https://images.prom.ua/3629655916_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <picture>https://images.prom.ua/3629655917_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <picture>https://images.prom.ua/2930984594_vibroizolyatsiya-shumoizolyatsiya-10mm.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Виброизоляция шумоизоляция 10мм 5м x 470мм рулон</name>
-    <vendor>Нормаизол</vendor>
-    <vendorCode>56413</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Вес" unit="кг">7.85</param>
-    <param name="Применение материала">Потолок автомобиля|Дверные панели|Стенки багажника|Пол автомобиля|Крышка багажника|Крыша|Двери|Пол багажника</param>
-    <param name="Необходимость нагрева">Нет</param>
-    <param name="Площадь листа" unit="кв.м">2.35</param>
-    <param name="Совместимость с маркой">Toyota|Nissan|Dodge|Mitsubishi|Kia|Volkswagen|Citroen|Mazda|Chrysler|BMW|Volvo|Daewoo|Hyundai|Honda|Peugeot|Ford|Fiat|Renault|Audi</param>
-    <param name="Толщина" unit="мм">10</param>
-    <param name="Ширина листа" unit="см">47</param>
-    <param name="Совместимость с моделью">Civic|Avensis|Getz|Colt|Tucson|Lupo|6|A4|Sonata|Yaris|C4|Dodge|Caliber|Primera|Camry|Q7|C5|Almera|Nissan Maxima|Focus|206|Chrysler|Jazz|Lancer|Mondeo|RAV4|Fiesta|Accord|Renault Megane|A6|XC90|C2|Fusion|Matiz|Santa Fe|Scorpio|Sebring|Q5|Ceed|Passat|Tiguan</param>
-    <param name="Длина" unit="">5</param>
-    <param name="Максимальная рабочая температура" unit="">100</param>
-    <param name="Минимальная рабочая температура" unit="">-40</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
-    <param name="Форма поставки материала" unit="">Рулон</param>
-    <param name="Экологичный материал" unit="">Да</param>
-    <param name="Эластичность материала" unit="">Да</param>
-  </offer>
-  <offer id="3128558162" available="false">
-    <url>https://proekt24.com/p3128558162-armejskij-kovrik-rulonnyj.html</url>
-    <price>181</price>
-    <price_old>215</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337382</categoryId>
-    <picture>https://images.prom.ua/7567662954_armejskij-kovrik-rulonnyj.jpg</picture>
-    <picture>https://images.prom.ua/7567662955_armejskij-kovrik-rulonnyj.jpg</picture>
-    <picture>https://images.prom.ua/7567662956_armejskij-kovrik-rulonnyj.jpg</picture>
-    <picture>https://images.prom.ua/7567662957_armejskij-kovrik-rulonnyj.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Армейский коврик рулонный (наотрез) 8 мм (1,5м)</name>
-    <vendor>Изолон</vendor>
-    <vendorCode>901081150</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Цвет">Серый</param>
-    <param name="Количество слоев">Однослойные</param>
-    <param name="Материал">Пенополиэтилен</param>
-    <param name="Тип коврика">Каремат</param>
-    <param name="Толщина" unit="мм">8</param>
-    <param name="Ширина" unit="см">150</param>
-    <param name="Плотность материала" unit="кг/м3">33</param>
-  </offer>
-  <offer id="3128558163" available="false">
-    <url>https://proekt24.com/p3128558163-kovrik-takticheskij-voennyj.html</url>
-    <price>368</price>
-    <price_old>438</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337382</categoryId>
-    <picture>https://images.prom.ua/3229274246_kovrik-takticheskij-voennyj.jpg</picture>
-    <picture>https://images.prom.ua/3229274275_kovrik-takticheskij-voennyj.jpg</picture>
-    <picture>https://images.prom.ua/3229274277_kovrik-takticheskij-voennyj.jpg</picture>
-    <picture>https://images.prom.ua/3229274352_kovrik-takticheskij-voennyj.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Коврик тактический военный складной 1800х600х8 мм пиксель</name>
-    <vendor>Вердани</vendor>
-    <vendorCode>А28012002СП</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина" unit="см">180</param>
-    <param name="Количество слоев">Однослойные</param>
-    <param name="Материал">Пенополиэтилен</param>
-    <param name="Тип коврика">Каремат</param>
-    <param name="Толщина" unit="мм">8</param>
-    <param name="Ширина" unit="см">60</param>
-  </offer>
-  <offer id="3128558164" available="false">
-    <url>https://proekt24.com/p3128558164-kovrik-turisticheskij-optima.html</url>
-    <price>887</price>
-    <price_old>1056</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337382</categoryId>
-    <picture>https://images.prom.ua/3491697488_kovrik-turisticheskij-optima.jpg</picture>
-    <picture>https://images.prom.ua/3491695859_kovrik-turisticheskij-optima.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Коврик туристический OPTIMA LIGHT 1800х600х16 зелено-синий</name>
-    <vendor>Изолон</vendor>
-    <vendorCode>ОЛ180060016ЗС</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина" unit="см">180</param>
-    <param name="Количество слоев">Двухслойные</param>
-    <param name="Материал">Пенополиэтилен</param>
-    <param name="Тип коврика">Каремат</param>
-    <param name="Толщина" unit="мм">16</param>
-    <param name="Ширина" unit="см">60</param>
-    <param name="Плотность материала" unit="кг/м3">33</param>
-  </offer>
-  <offer id="3128558796" available="false">
-    <url>https://proekt24.com/p3128558796-armejskij-kovrik-rulonnyj.html</url>
-    <price>188</price>
-    <price_old>224</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337382</categoryId>
-    <picture>https://images.prom.ua/2915637231_armejskij-kovrik-rulonnyj.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Армейский коврик рулонный (наотрез) 9 мм (1 м)</name>
-    <vendor>Вердани</vendor>
-    <vendorCode>901091100</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Цвет">Серый</param>
-    <param name="Количество слоев">Однослойные</param>
-    <param name="Материал">Пенополиэтилен</param>
-    <param name="Тип коврика">Каремат</param>
-    <param name="Толщина" unit="мм">9</param>
-    <param name="Ширина" unit="см">100</param>
-    <param name="Плотность материала" unit="кг/м3">33</param>
-  </offer>
-  <offer id="3128558798" available="false">
-    <url>https://proekt24.com/p3128558798-kovrik-turisticheskij-karpaty.html</url>
-    <price>421</price>
-    <price_old>501</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337382</categoryId>
-    <picture>https://images.prom.ua/7567663470_kovrik-turisticheskij-karpaty.jpg</picture>
-    <picture>https://images.prom.ua/3472609202_kovrik-turisticheskij-karpaty.jpg</picture>
-    <picture>https://images.prom.ua/3472609204_kovrik-turisticheskij-karpaty.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Коврик туристический КАРПАТЫ 1800х600х12 мм фольгированный</name>
-    <vendor>Вердани</vendor>
-    <vendorCode>К180060012Ф</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина" unit="см">180</param>
-    <param name="Материал">Пенополиэтилен</param>
-    <param name="Тип">Коврик/мат</param>
-    <param name="Толщина" unit="мм">12</param>
-    <param name="Ширина" unit="см">60</param>
-  </offer>
-  <offer id="3128558799" available="false">
-    <url>https://proekt24.com/p3128558799-sidushka-seryj.html</url>
-    <price>58</price>
-    <price_old>69</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337380</categoryId>
-    <picture>https://images.prom.ua/3626819384_sidushka-8-mm.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Сидушка 8 мм серый</name>
-    <vendor>Изолон</vendor>
-    <vendorCode>654336</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Длина" unit="см">36</param>
-    <param name="Цвет">Серый</param>
-    <param name="Количество слоев">Двухслойные</param>
-    <param name="Материал">Пенополиэтилен</param>
-    <param name="Тип коврика">Cидушка</param>
-    <param name="Ширина" unit="см">30</param>
-    <param name="Плотность материала" unit="">33</param>
-    <param name="Толщина" unit="">8</param>
-  </offer>
-  <offer id="3128558800" available="false">
-    <url>https://proekt24.com/p3128558800-armejskij-kovrik-rulonnyj.html</url>
-    <price>197</price>
-    <price_old>235</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337382</categoryId>
-    <picture>https://images.prom.ua/2915637231_armejskij-kovrik-rulonnyj.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Армейский коврик рулонный (наотрез) 10 мм (1,2м)</name>
-    <vendor>Вердани</vendor>
-    <vendorCode>901101120</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
-    <param name="Цвет">Серый</param>
-    <param name="Количество слоев">Однослойные</param>
-    <param name="Материал">Пенополиэтилен</param>
-    <param name="Тип коврика">Каремат</param>
-    <param name="Толщина" unit="мм">10</param>
-    <param name="Ширина" unit="см">120</param>
-    <param name="Плотность материала" unit="кг/м3">33</param>
-  </offer>
-  <offer id="3128558804" available="true">
-    <url>https://proekt24.com/p3128558804-izolyatsiya-trub-tubex.html</url>
-    <price>86</price>
-    <price_old>102</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337436</categoryId>
-    <picture>https://images.prom.ua/7567662787_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3366780974_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3366780975_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3366780976_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3366780973_izolyatsiya-trub-tubex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Изоляция труб TUBEX 22/20 из вспененного полиэтилена</name>
-    <vendor>Tubex</vendor>
-    <vendorCode>22/20Т</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
-    <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Длина" unit="м">2</param>
-    <param name="Экологическая безопасность материала">Безопасен</param>
-    <param name="Внешний диаметр трубы" unit="мм">22</param>
-    <param name="Класс материала по теплопроводности">Средняя</param>
-    <param name="Максимальная рабочая температура" unit="град.">80</param>
-    <param name="Материал изоляции">Вспененный полиэтилен</param>
-    <param name="Теплопроводность" unit="Вт/мК">0.049</param>
-    <param name="Тип материала">Г (горючий)</param>
-    <param name="Толщина изоляции" unit="мм">20</param>
-    <param name="Форма поставки материала">Полая труба</param>
-    <param name="Плотность" unit="кг/м3">19</param>
-  </offer>
-<offer id="3128558805" available="true">
-    <url>https://proekt24.com/p3128558805-izolyatsiya-trub-tubex.html</url>
-    <price>99</price>
-    <price_old>118</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337436</categoryId>
-    <picture>https://images.prom.ua/7567662787_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3366780974_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3366780975_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3366780976_izolyatsiya-trub-tubex.jpg</picture>
-    <picture>https://images.prom.ua/3366780973_izolyatsiya-trub-tubex.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Изоляция труб TUBEX 28/20 из вспененного полиэтилена</name>
-    <vendor>Tubex</vendor>
-    <vendorCode>28/20Т</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
-    <param name="Вид основного сырья">Неорганическое</param>
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Длина" unit="м">2</param>
-    <param name="Экологическая безопасность материала">Безопасен</param>
-    <param name="Внешний диаметр трубы" unit="мм">28</param>
-    <param name="Класс материала по теплопроводности">Средняя</param>
-    <param name="Максимальная рабочая температура" unit="град.">80</param>
-    <param name="Материал изоляции">Вспененный полиэтилен</param>
-    <param name="Теплопроводность" unit="Вт/мК">0.049</param>
-    <param name="Тип материала">Г (горючий)</param>
-    <param name="Толщина изоляции" unit="мм">20</param>
-    <param name="Форма поставки материала">Полая труба</param>
-    <param name="Плотность" unit="кг/м3">19</param>
-  </offer>
-  <offer id="3128558806" available="false">
-    <url>https://proekt24.com/p3128558806-kauchukovaya-izolyatsiya-dlya.html</url>
-    <price>377</price>
-    <price_old>449</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337438</categoryId>
-    <picture>https://images.prom.ua/6174209080_kauchukovaya-izolyatsiya-dlya.jpg</picture>
-    <picture>https://images.prom.ua/6174209081_kauchukovaya-izolyatsiya-dlya.jpg</picture>
-    <picture>https://images.prom.ua/3189289961_kauchukovaya-izolyatsiya-dlya.jpg</picture>
-    <picture>https://images.prom.ua/6174209086_kauchukovaya-izolyatsiya-dlya.jpg</picture>
-    <picture>https://images.prom.ua/2824609800_kauchukovaya-izolyatsiya-dlya.jpg</picture>
-    <picture>https://images.prom.ua/2824609799_kauchukovaya-izolyatsiya-dlya.jpg</picture>
-    <picture>https://images.prom.ua/3189289966_kauchukovaya-izolyatsiya-dlya.jpg</picture>
-    <picture>https://images.prom.ua/7001692084_kauchukovaya-izolyatsiya-dlya.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Каучуковая изоляция для труб ONEFLEX 89х32 мм (для труб Ø 89 мм)</name>
-    <vendor>Oneflex</vendor>
-    <vendorCode>89/32О</vendorCode>
-    <country_of_origin>Турция</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Длина" unit="м">2</param>
-    <param name="Экологическая безопасность материала">Безопасен</param>
-    <param name="Класс материала по теплопроводности">Низкая</param>
-    <param name="Максимальная рабочая температура" unit="град.">120</param>
-    <param name="Материал изоляции">Вспененный каучук</param>
-    <param name="Теплопроводность" unit="Вт/мК">0.032</param>
-    <param name="Толщина изоляции" unit="мм">32</param>
-    <param name="Форма поставки материала">Полая труба</param>
-    <param name="Плотность" unit="кг/м3">55</param>
-    <param name="Внутрішній діаметр трубки ізоляції" unit="мм">89</param>
-    <param name="Зовнішній діаметр ізоляції" unit="мм">153</param>
-  </offer>
-  <offer id="3128558807" available="false">
-    <url>https://proekt24.com/p3128558807-karpet-avtomobilnyj-chernyj.html</url>
-    <price>210</price>
-    <price_old>250</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337389</categoryId>
-    <picture>https://images.prom.ua/4248059252_karpet-avtomobilnyj-chernyj.jpg</picture>
-    <picture>https://images.prom.ua/4248059253_karpet-avtomobilnyj-chernyj.jpg</picture>
-    <picture>https://images.prom.ua/4248059254_karpet-avtomobilnyj-chernyj.jpg</picture>
-    <picture>https://images.prom.ua/4248059255_karpet-avtomobilnyj-chernyj.jpg</picture>
-    <picture>https://images.prom.ua/4248059256_karpet-avtomobilnyj-chernyj.jpg</picture>
-    <picture>https://images.prom.ua/2853163147_karpet-avtomobilnyj-chernyj.jpg</picture>
-    <picture>https://images.prom.ua/2853163148_karpet-avtomobilnyj-chernyj.jpg</picture>
-    <picture>https://images.prom.ua/2853163149_karpet-avtomobilnyj-chernyj.jpg</picture>
-    <picture>https://images.prom.ua/3942437522_karpet-avtomobilnyj-chernyj.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Карпет автомобильный черный 500 (ширина 1,7 м)</name>
-    <vendorCode>2226</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Применение материала">Потолок автомобиля|Стенки багажника|Пол автомобиля|Двери|Пол багажника</param>
-    <param name="Совместимость с маркой">Toyota|Nissan|Dodge|Mitsubishi|Kia|Volkswagen|Citroen|Mazda|Chrysler|BMW|Volvo|Daewoo|Hyundai|Honda|Peugeot|Ford|Fiat|Renault|Audi</param>
-    <param name="Совместимость с моделью">Renault Megane|Caliber|Ceed|XC90|Colt|Dodge|Santa Fe|C4|Lancer|Matiz|Lupo|Civic|Primera|Getz|Passat|Tiguan|Q5|Jazz|Avensis|Q7|A6|Sebring|Chrysler|Accord|C2|Tucson|Nissan Maxima|Fusion|Almera|RAV4|Focus|6|C5|Mondeo|Fiesta|Scorpio|Yaris|Camry|Sonata|A4|206|Peugeot 206</param>
-    <param name="Тип">Шумоизоляция</param>
-    <param name="Толщина" unit="мм">4</param>
-    <param name="Эластичность материала" unit="">Да</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
-    <param name="Форма поставки материала" unit="">Рулон</param>
-    <param name="Ширина рулона, мм" unit="">1700</param>
-  </offer>
-  <offer id="3128558808" available="false">
-    <url>https://proekt24.com/p3128558808-karpet-avtomobilnyj-seryj.html</url>
-    <price>210</price>
-    <price_old>250</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337389</categoryId>
-    <picture>https://images.prom.ua/5060098088_karpet-avtomobilnyj-seryj.jpg</picture>
-    <picture>https://images.prom.ua/5060098120_karpet-avtomobilnyj-seryj.jpg</picture>
-    <picture>https://images.prom.ua/2853163147_karpet-avtomobilnyj-seryj.jpg</picture>
-    <picture>https://images.prom.ua/2853163148_karpet-avtomobilnyj-seryj.jpg</picture>
-    <picture>https://images.prom.ua/2853163149_karpet-avtomobilnyj-seryj.jpg</picture>
-    <picture>https://images.prom.ua/3942437522_karpet-avtomobilnyj-seryj.jpg</picture>
-    <picture>https://images.prom.ua/3942437523_karpet-avtomobilnyj-seryj.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Карпет автомобильный серый 500 (ширина 1,7 м)</name>
-    <vendorCode>2227</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Применение материала">Потолок автомобиля|Стенки багажника|Пол автомобиля|Двери|Пол багажника</param>
-    <param name="Совместимость с маркой">Toyota|Nissan|Dodge|Mitsubishi|Kia|Volkswagen|Citroen|Mazda|Chrysler|BMW|Volvo|Daewoo|Hyundai|Honda|Peugeot|Ford|Fiat|Renault|Audi</param>
-    <param name="Тип">Шумоизоляция</param>
-    <param name="Толщина" unit="мм">4</param>
-    <param name="Совместимость с моделью">Chrysler|Renault Megane|Matiz|Jazz|C5|Ceed|Tiguan|Scorpio|Fusion|Passat|A6|Camry|Nissan Maxima|Focus|Primera|Lupo|Sebring|C4|Sonata|Q5|Getz|Almera|Caliber|Santa Fe|206|Colt|Yaris|Avensis|Mondeo|6|RAV4|C2|Lancer|A4|XC90|Fiesta|Accord|Dodge|Civic|Q7|Tucson</param>
-    <param name="Эластичность материала" unit="">Да</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
-    <param name="Форма поставки материала" unit="">Рулон</param>
-    <param name="Ширина рулона, мм" unit="">1700</param>
-  </offer>
-  <offer id="3128558809" available="true">
-    <url>https://proekt24.com/p3128558809-blokirator-stopper-dveri.html</url>
-    <price>21</price>
-    <price_old>25</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337386</categoryId>
-    <picture>https://images.prom.ua/7567663851_blokirator-stopper-dveri.jpg</picture>
-    <picture>https://images.prom.ua/7567663852_blokirator-stopper-dveri.jpg</picture>
-    <picture>https://images.prom.ua/7567663853_blokirator-stopper-dveri.jpg</picture>
-    <picture>https://images.prom.ua/7567663854_blokirator-stopper-dveri.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Блокиратор (стоппер) двери от детей, оранжевый</name>
-    <vendorCode>1502624</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
-    <param name="Цвет">Оранжевый</param>
-    <param name="Вид" unit="">Замки</param>
-    <param name="Тип" unit="">Детская безопасность</param>
-  </offer>
-  <offer id="3128558810" available="true">
-    <url>https://proekt24.com/p3128558810-blokirator-stopper-dveri.html</url>
-    <price>21</price>
-    <price_old>25</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155337386</categoryId>
-    <picture>https://images.prom.ua/7567663855_blokirator-stopper-dveri.jpg</picture>
-    <picture>https://images.prom.ua/7567663856_blokirator-stopper-dveri.jpg</picture>
-    <picture>https://images.prom.ua/7567663857_blokirator-stopper-dveri.jpg</picture>
-    <picture>https://images.prom.ua/7567663859_blokirator-stopper-dveri.jpg</picture>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Блокиратор (стоппер) двери от детей, синий</name>
-    <vendorCode>1502625</vendorCode>
-    <country_of_origin>Украина</country_of_origin>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>40</quantity_in_stock>
-    <param name="Вид" unit="">Замки</param>
-    <param name="Тип" unit="">Детская безопасность</param>
-  </offer>
   <offer id="3128560011" available="true">
     <url>https://proekt24.com/p3128560011-lapy-kikbokserskie-boxer.html</url>
     <price>1460</price>
@@ -135568,63 +133992,6 @@
     <param name="Толщина" unit="">8</param>
     <param name="Форма поставки материала" unit="">Рулон</param>
   </offer>
-  <offer id="3130742574" available="true">
-    <url>https://proekt24.com/p3130742574-makivara-lev-sport.html</url>
-    <price>1365</price>
-    <price_old>1625</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155281603</categoryId>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Маківара LEV SPORT ручна мала комбі</name>
-    <vendor>ЛЕВ</vendor>
-    <vendorCode>2417</vendorCode>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
-  </offer>
-  <offer id="3130742575" available="true">
-    <url>https://proekt24.com/p3130742575-makivara-lev-sport.html</url>
-    <price>1838</price>
-    <price_old>2188</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155281603</categoryId>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Маківара LEV SPORT ручна середня комбі</name>
-    <vendor>ЛЕВ</vendor>
-    <vendorCode>2418</vendorCode>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
-  </offer>
-  <offer id="3130742576" available="true">
-    <url>https://proekt24.com/p3130742576-lapa-malaya-bokserskaya.html</url>
-    <price>998</price>
-    <price_old>1188</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155281603</categoryId>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Лапа малая боксерская EVERLAST стрейч синяя</name>
-    <vendor>Everlast</vendor>
-    <vendorCode>00002643</vendorCode>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
-    <param name="Цвет">Синий</param>
-  </offer>
-  <offer id="3130742577" available="true">
-    <url>https://proekt24.com/p3130742577-makivara-lev-sport.html</url>
-    <price>2310</price>
-    <price_old>2750</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155281603</categoryId>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Маківара LEV SPORT ручна велика комбі</name>
-    <vendor>ЛЕВ</vendor>
-    <vendorCode>00002627</vendorCode>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
-  </offer>
   <offer id="3130836805" available="true">
     <url>https://proekt24.com/p3130836805-shlem-maska-lev.html</url>
     <price>1470</price>
@@ -135723,21 +134090,6 @@
     <param name="Цвет" unit="">Белый</param>
     <param name="Тип" unit="">Клейкая лента</param>
     <param name="Ширина ленты" unit="мм">50</param>
-  </offer>
-  <offer id="3134707185" available="false">
-    <url>https://proekt24.com/p3134707185-myach-dlya-pilatesa.html</url>
-    <price>114</price>
-    <price_old>136</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>155281610</categoryId>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Мяч для пилатеса EasyFit 20 синий</name>
-    <vendor>PROFIT BALL</vendor>
-    <vendorCode>00002702</vendorCode>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Цвет">Синий</param>
   </offer>
   <offer id="3139888202" available="true">
     <url>https://proekt24.com/p3139888202-armirovannaya-klejkaya-lenta.html</url>
@@ -135872,7 +134224,7 @@
     <vendorCode>889842</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock>27</quantity_in_stock>
     <param name="Совместимость с маркой">Citroen|Daewoo|Volvo|Volkswagen|Toyota|Dodge|Fiat|Ford|Renault|Peugeot|Nissan|Mitsubishi|Honda|Hyundai|Mazda|Kia|Audi|BMW|Chrysler</param>
     <param name="Совместимость с моделью">Caliber|RAV4|Sonata|Scorpio|Peugeot 206|Renault Megane|Lancer|C4|A4|6|Passat|Nissan Maxima|Q5|Mondeo|Avensis|Chrysler|Yaris|C5|Fiesta|Matiz|Santa Fe|Colt|Tiguan|A6|Almera|Q7|Accord|Jazz|Dodge|Getz|Tucson|Sebring|Fusion|Camry|C2|Primera|XC90|Ceed|Focus|Lupo|Civic</param>
     <param name="Диаметр, мм" unit="">20</param>
@@ -136626,7 +134978,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">75</param>
   </offer>
-  <offer id="3165645194" available="true">
+<offer id="3165645194" available="true">
     <url>https://proekt24.com/p3165645194-bazaltovaya-skorlupa-22060.html</url>
     <price>858</price>
     <price_old>1021</price_old>
@@ -142622,7 +140974,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">75</param>
   </offer>
-<offer id="3167291321" available="true">
+  <offer id="3167291321" available="true">
     <url>https://proekt24.com/p3167291321-bazaltovaya-skorlupa-folgoj.html</url>
     <price>847</price>
     <price_old>1009</price_old>
@@ -144118,7 +142470,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">75</param>
   </offer>
-  <offer id="3167291371" available="true">
+<offer id="3167291371" available="true">
     <url>https://proekt24.com/p3167291371-bazaltovaya-skorlupa-folgoj.html</url>
     <price>823</price>
     <price_old>980</price_old>
@@ -150681,7 +149033,7 @@
     <param name="Толщина изоляции" unit="мм">90</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-<offer id="3188307472" available="true">
+  <offer id="3188307472" available="true">
     <url>https://proekt24.com/p3188307472-penoplastovaya-skorlupa-12190.html</url>
     <price>694</price>
     <price_old>826</price_old>
@@ -152075,15 +150427,15 @@
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>600</quantity_in_stock>
-    <param name="Длина листа" unit="см">50</param>
-    <param name="Применение материала">Крыша|Дверные панели|Двери|Капот|Колесные арки|Крышка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
-    <param name="Необходимость нагрева">Нет</param>
-    <param name="Состояние">Новое</param>
-    <param name="Совместимость с маркой">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
     <param name="Тип">Виброизоляция</param>
+    <param name="Применение материала">Капот|Крыша|Двери|Крышка багажника|Дверные панели|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника|Колесные арки</param>
     <param name="Толщина" unit="мм">2</param>
     <param name="Ширина листа" unit="см">33</param>
-    <param name="Совместимость с моделью">Getz|Q7|Scorpio|Sonata|Sebring|RAV4|Caliber|Santa Fe|Yaris|XC90|Jazz|C4|Almera|Accord|Lancer|Lupo|Renault Megane|Mondeo|C5|Q5|Colt|A6|Tiguan|Civic|Nissan Maxima|Matiz|Camry|Focus|Primera|Dodge|A4|C2|Avensis|Peugeot 206|Tucson|6|Passat|Fusion|Fiesta|Chrysler|Ceed</param>
+    <param name="Длина листа" unit="см">50</param>
+    <param name="Необходимость нагрева">Нет</param>
+    <param name="Совместимость с моделью">Nissan Maxima|XC90|Jazz|Sonata|C2|Yaris|C4|C5|Passat|Renault Megane|Lancer|Caliber|Camry|Primera|Chrysler|Q5|Q7|Fiesta|Ceed|Focus|Tiguan|Lupo|Fusion|RAV4|A4|A6|Getz|Accord|Civic|Peugeot 206|Matiz|Tucson|Colt|Almera|Dodge|Mondeo|Avensis|Santa Fe|Scorpio|Sebring|6|206</param>
+    <param name="Состояние">Новое</param>
+    <param name="Совместимость с маркой">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
   </offer>
   <offer id="3195956229" available="true">
     <url>https://proekt24.com/p3195956229-avtokovrik-eva-chernyj.html</url>
@@ -152099,21 +150451,6 @@
     <quantity_in_stock>15</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Совместимость с моделью">Tacoma</param>
-  </offer>
-  <offer id="3196132075" available="false">
-    <url>https://proekt24.com/p3196132075-shlem-lev-sport.html</url>
-    <price>945</price>
-    <price_old>1125</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>156083685</categoryId>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Шлем LEV SPORT Кик-бокс M кожзам черный</name>
-    <vendor>Lev-Sport</vendor>
-    <vendorCode>00003205</vendorCode>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
-    <param name="Цвет">Черный</param>
   </offer>
   <offer id="3197597551" available="true">
     <url>https://proekt24.com/p3197597551-skotch-alyuminievyj-mkm.html</url>
@@ -152194,22 +150531,6 @@
     <vendorCode>00002276</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>9</quantity_in_stock>
-  </offer>
-  <offer id="3199390884" available="true">
-    <url>https://proekt24.com/p3199390884-grusha-nabivnaya-lev.html</url>
-    <price>1522</price>
-    <price_old>1812</price_old>
-    <currencyId>UAH</currencyId>
-    <categoryId>156083682</categoryId>
-    <pickup>true</pickup>
-    <delivery>true</delivery>
-    <name>Груша набивная LEV SPORT Капля большая кирза</name>
-    <vendor>Lev-Sport</vendor>
-    <vendorCode>00001879</vendorCode>
-    <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>4</quantity_in_stock>
-    <param name="Цвет">Черный</param>
-    <param name="Тип">Груша</param>
   </offer>
 
 
