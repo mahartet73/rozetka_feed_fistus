@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-27 17:00">
+<yml_catalog date="2026-09-28 09:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -3718,7 +3718,7 @@
     <vendorCode>901032</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>353</quantity_in_stock>
+    <quantity_in_stock>373</quantity_in_stock>
     <param name="Плотность" unit="г/м2">33</param>
     <param name="Вид основного сырья" unit="">Неорганическое</param>
     <param name="Водопоглощение по объему, не менее, %" unit="">0.7</param>
@@ -4101,7 +4101,7 @@
     <vendorCode>500133</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>89</quantity_in_stock>
+    <quantity_in_stock>87</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -17684,7 +17684,7 @@
     <vendorCode>63332</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>150</quantity_in_stock>
+    <quantity_in_stock>149</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Цвет">Черный</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
@@ -18367,7 +18367,7 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>660</quantity_in_stock>
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
-    <param name="Совместимость с моделью">Fusion|6|XC90|Tucson|Scorpio|C5|Sonata|Camry|Avensis|Almera|Mondeo|Yaris|C2|Renault Megane|A4|206|Focus|Ceed|Colt|Chrysler|Fiesta|Tiguan|Accord|A6|Lupo|Lancer|C4|Sebring|Primera|Jazz|Getz|Nissan Maxima|Caliber|Q5|Matiz|Santa Fe|Q7|Passat|Civic|Dodge|RAV4</param>
+    <param name="Совместимость с моделью">Fusion|6|XC90|Tucson|Scorpio|C5|Sonata|Camry|Avensis|Almera|Mondeo|Yaris|C2|Renault Megane|A4|206|Focus|Ceed|Colt|Chrysler|Fiesta|Tiguan|Accord|A6|Lupo|Lancer|C4|Sebring|Primera|Jazz|Getz|Nissan Maxima|Caliber|Q5|Matiz|Santa Fe|Q7|Passat|Civic|Dodge|RAV4|Peugeot 206</param>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Цвет" unit="">Черный</param>
     <param name="Применение" unit="">Для панелей и проемов</param>
@@ -18529,6 +18529,7 @@
     <param name="Вес" unit="кг">6</param>
     <param name="Цвет">Черный</param>
     <param name="Тип">Жилет</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="307970847" available="true">
     <url>https://proekt24.com/p307970847-avtolin-turtsiya.html</url>
@@ -22275,7 +22276,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>554</quantity_in_stock>
+    <quantity_in_stock>546</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Крыша|Дверные панели|Двери|Капот|Колесные арки|Крышка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -25167,6 +25168,7 @@
     <param name="Максимальная температура эксплуатации" unit="град.">90</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-40</param>
     <param name="Тип использования">Универсальный</param>
+    <param name="Материал">Полимер</param>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Ширина, мм" unit="">200</param>
   </offer>
@@ -30392,6 +30394,7 @@
     <param name="Тип">Коврик/мат</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Ширина" unit="см">61</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="469605290" available="false">
     <url>https://proekt24.com/p469605290-kovrik-dlya-jogi.html</url>
@@ -32097,7 +32100,7 @@
     <vendorCode>1502623</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1520</quantity_in_stock>
+    <quantity_in_stock>1519</quantity_in_stock>
     <param name="Материал" unit="">EVA</param>
     <param name="Размер" unit="">9см×9см×2см</param>
   </offer>
@@ -36439,6 +36442,7 @@
     <param name="Вес" unit="кг">8</param>
     <param name="Цвет">Черный</param>
     <param name="Тип">Жилет</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="1396624099" available="true">
     <url>https://proekt24.com/p1396624099-zhilet-utyazhelitelnyj-easyfit.html</url>
@@ -36460,6 +36464,7 @@
     <param name="Вес" unit="кг">10</param>
     <param name="Цвет">Черный</param>
     <param name="Тип">Жилет</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="1396628587" available="true">
     <url>https://proekt24.com/p1396628587-zhilet-utyazhelitelnyj-easyfit.html</url>
@@ -36481,6 +36486,7 @@
     <param name="Вес" unit="кг">12</param>
     <param name="Цвет">Черный</param>
     <param name="Тип">Жилет</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="1396631771" available="false">
     <url>https://proekt24.com/p1396631771-zhilet-utyazhelitelnyj-easyfit.html</url>
@@ -36523,6 +36529,7 @@
     <param name="Вес" unit="кг">20</param>
     <param name="Цвет">Черный</param>
     <param name="Тип">Жилет</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="1396742959" available="true">
     <url>https://proekt24.com/p1396742959-petli-beresha-easyfit.html</url>
@@ -36646,7 +36653,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>88</quantity_in_stock>
+    <quantity_in_stock>87</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -36704,7 +36711,7 @@
     <vendorCode>62715</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>52</quantity_in_stock>
+    <quantity_in_stock>53</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -38250,7 +38257,7 @@
     <vendorCode>62717</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -39131,7 +39138,7 @@
     <vendorCode>64022</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>124</quantity_in_stock>
+    <quantity_in_stock>121</quantity_in_stock>
     <param name="Расход материала" unit="кг/м2">1.4</param>
     <param name="Цвет">Серый</param>
     <param name="Консистенция">Полужидкая</param>
@@ -39707,6 +39714,7 @@
     <param name="Вес" unit="кг">18</param>
     <param name="Цвет">Черный</param>
     <param name="Тип">Жилет</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="1430611884" available="false">
     <url>https://proekt24.com/p1430611884-blok-dlya-jogi.html</url>
@@ -42553,7 +42561,7 @@
     <vendorCode>1002-05</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>43</quantity_in_stock>
+    <quantity_in_stock>42</quantity_in_stock>
     <param name="Вес" unit="кг">40</param>
     <param name="Высота" unit="см">170</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -47042,7 +47050,7 @@
     <param name="Ширина" unit="см">50</param>
     <param name="Материал">Пенополиэтилен</param>
   </offer>
-  <offer id="1529054500" available="false">
+  <offer id="1529054500" available="true">
     <url>https://proekt24.com/p1529054500-kovrik-dlya-fitnesa.html</url>
     <price>300</price>
     <price_old>358</price_old>
@@ -47055,7 +47063,7 @@
     <vendorCode>КФ18006008Ф</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>0</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Цвет">Фиолетовый</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -47294,7 +47302,7 @@
     <vendorCode>56338</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>168</quantity_in_stock>
+    <quantity_in_stock>170</quantity_in_stock>
     <param name="Максимальная температура эксплуатации" unit="град.">90</param>
     <param name="Материал">Каучук</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-50</param>
@@ -66080,7 +66088,7 @@
     <vendorCode>КФ18006008К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Цвет">Красный</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -68834,6 +68842,7 @@
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Клей UKRIZOL для вспененного каучука, карпета, ткани 3 л</name>
+    <vendor>Primera</vendor>
     <vendorCode>1008813</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
@@ -69181,6 +69190,7 @@
     <quantity_in_stock>361</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина, метр погонный" unit="">50</param>
     <param name="Плотность, кг\м3" unit="кг\м3">75</param>
@@ -69206,6 +69216,7 @@
     <quantity_in_stock>199</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина, метр погонный" unit="">50</param>
     <param name="Плотность, кг\м3" unit="кг\м3">75</param>
@@ -70596,6 +70607,7 @@
     <param name="Цвет">Белый</param>
     <param name="Размер">S</param>
     <param name="Состояние">Новое</param>
+    <param name="Материал">Хлопок</param>
     <param name="Тип" unit="">Защита ног</param>
   </offer>
   <offer id="1790212192" available="true">
@@ -70619,6 +70631,7 @@
     <param name="Цвет">Белый</param>
     <param name="Размер">M</param>
     <param name="Состояние">Новое</param>
+    <param name="Материал">Хлопок</param>
     <param name="Тип" unit="">Защита ног</param>
   </offer>
   <offer id="1790214969" available="true">
@@ -70642,6 +70655,7 @@
     <param name="Цвет">Белый</param>
     <param name="Размер">L</param>
     <param name="Состояние">Новое</param>
+    <param name="Материал">Хлопок</param>
     <param name="Тип" unit="">Защита ног</param>
   </offer>
   <offer id="1790216087" available="false">
@@ -71171,6 +71185,7 @@
     <param name="Цвет">Черный</param>
     <param name="Размер">S</param>
     <param name="Состояние">Новое</param>
+    <param name="Материал">Хлопок</param>
     <param name="Тип" unit="">Защита ног</param>
   </offer>
   <offer id="1797822877" available="false">
@@ -71217,6 +71232,7 @@
     <param name="Цвет">Черный</param>
     <param name="Размер">L</param>
     <param name="Состояние">Новое</param>
+    <param name="Материал">Хлопок</param>
     <param name="Тип" unit="">Защита ног</param>
   </offer>
   <offer id="1797827050" available="true">
@@ -71240,6 +71256,7 @@
     <param name="Цвет">Черный</param>
     <param name="Размер">XL</param>
     <param name="Состояние">Новое</param>
+    <param name="Материал">Хлопок</param>
     <param name="Тип" unit="">Защита ног</param>
   </offer>
   <offer id="1798723206" available="false">
@@ -71287,7 +71304,7 @@
     <vendorCode>41050</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>67</quantity_in_stock>
+    <quantity_in_stock>66</quantity_in_stock>
     <param name="Вес" unit="кг">1.085</param>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Колесные арки|Пол автомобиля|Пол багажника</param>
@@ -71295,7 +71312,7 @@
     <param name="Площадь листа" unit="кв.м">0.35</param>
     <param name="Состояние">Новое</param>
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
-    <param name="Совместимость с моделью">206|Mondeo|Lupo|Sonata|Sebring|Q5|Focus|RAV4|Primera|Getz|Camry|Caliber|C4|Jazz|Fiesta|Dodge|Matiz|Chrysler|Fusion|Nissan Maxima|A4|Renault Megane|Colt|Santa Fe|Tucson|Tiguan|Almera|Scorpio|6|Yaris|Avensis|Civic|Accord|A6|Passat|C2|C5|Q7|XC90|Ceed|Lancer</param>
+    <param name="Совместимость с моделью">206|Mondeo|Lupo|Sonata|Sebring|Q5|Focus|RAV4|Primera|Getz|Camry|Caliber|C4|Jazz|Fiesta|Dodge|Matiz|Chrysler|Fusion|Nissan Maxima|A4|Renault Megane|Colt|Santa Fe|Tucson|Tiguan|Almera|Scorpio|6|Yaris|Avensis|Civic|Accord|A6|Passat|C2|C5|Q7|XC90|Ceed|Lancer|Peugeot 206</param>
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">2</param>
     <param name="Ширина листа" unit="см">50</param>
@@ -71362,7 +71379,7 @@
     <param name="Необходимость нагрева">Нет</param>
     <param name="Площадь листа" unit="кв.м">0.35</param>
     <param name="Состояние">Новое</param>
-    <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
+    <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi|БАЗ</param>
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">4</param>
     <param name="Ширина листа" unit="см">50</param>
@@ -71445,6 +71462,7 @@
     <quantity_in_stock>583</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина, метр погонный" unit="">100</param>
     <param name="Плотность, кг\м3" unit="кг\м3">75</param>
@@ -71648,7 +71666,7 @@
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">3</param>
     <param name="Ширина листа" unit="см">50</param>
-    <param name="Совместимость с моделью">XC90|Fusion|Lupo|Jazz|Nissan Maxima|Primera|Camry|Sebring|Lancer|C2|Renault Megane|Almera|Sonata|Chrysler|Yaris|6|Tiguan|Tucson|C4|Accord|Santa Fe|Caliber|Scorpio|Civic|Avensis|206|Ceed|A4|Mondeo|Passat|Colt|A6|Q7|Getz|Fiesta|Matiz|Dodge|RAV4|Focus|C5|Q5</param>
+    <param name="Совместимость с моделью">XC90|Fusion|Lupo|Jazz|Nissan Maxima|Primera|Camry|Sebring|Lancer|C2|Renault Megane|Almera|Sonata|Chrysler|Yaris|6|Tiguan|Tucson|C4|Accord|Santa Fe|Caliber|Scorpio|Civic|Avensis|206|Ceed|A4|Mondeo|Passat|Colt|A6|Q7|Getz|Fiesta|Matiz|Dodge|RAV4|Focus|C5|Q5|Peugeot 206</param>
   </offer>
   <offer id="1799656593" available="false">
     <url>https://proekt24.com/p1799656593-vibroizolyatsiya-acoustics-profy.html</url>
@@ -71740,7 +71758,7 @@
     <param name="Площадь листа" unit="кв.м">0.35</param>
     <param name="Состояние">Новое</param>
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
-    <param name="Совместимость с моделью">206|Mondeo|Lupo|Sonata|Sebring|Q5|Focus|RAV4|Primera|Getz|Camry|Caliber|C4|Jazz|Fiesta|Dodge|Matiz|Chrysler|Fusion|Nissan Maxima|A4|Renault Megane|Colt|Santa Fe|Tucson|Tiguan|Almera|Scorpio|6|Yaris|Avensis|Civic|Accord|A6|Passat|C2|C5|Q7|XC90|Ceed|Lancer</param>
+    <param name="Совместимость с моделью">206|Mondeo|Lupo|Sonata|Sebring|Q5|Focus|RAV4|Primera|Getz|Camry|Caliber|C4|Jazz|Fiesta|Dodge|Matiz|Chrysler|Fusion|Nissan Maxima|A4|Renault Megane|Colt|Santa Fe|Tucson|Tiguan|Almera|Scorpio|6|Yaris|Avensis|Civic|Accord|A6|Passat|C2|C5|Q7|XC90|Ceed|Lancer|Peugeot 206</param>
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">5.5</param>
     <param name="Ширина листа" unit="см">50</param>
@@ -72919,7 +72937,7 @@
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
     <param name="Тип">Шумоизоляция</param>
     <param name="Толщина" unit="мм">2</param>
-    <param name="Совместимость с моделью">Passat|Fiesta|Renault Megane|Civic|Colt|Santa Fe|6|Ceed|Q5|Chrysler|XC90|206|Almera|Sonata|Q7|Dodge|Mondeo|C2|Yaris|A6|Sebring|Fusion|C5|RAV4|Caliber|Lancer|Nissan Maxima|Camry|Primera|A4|Getz|Focus|Accord|Avensis|Lupo|Tiguan|Jazz|Scorpio|C4|Tucson|Matiz</param>
+    <param name="Совместимость с моделью">Passat|Fiesta|Renault Megane|Civic|Colt|Santa Fe|6|Ceed|Q5|Chrysler|XC90|206|Almera|Sonata|Q7|Dodge|Mondeo|C2|Yaris|A6|Sebring|Fusion|C5|RAV4|Caliber|Lancer|Nissan Maxima|Camry|Primera|A4|Getz|Focus|Accord|Avensis|Lupo|Tiguan|Jazz|Scorpio|C4|Tucson|Matiz|Peugeot 206</param>
     <param name="Длина рулона, п.м." unit="">50</param>
     <param name="Эластичность материала" unit="">Да</param>
     <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
@@ -73175,6 +73193,7 @@
     <param name="Тип">Коврик/мат</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Ширина" unit="см">61</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="1824187677" available="true">
     <url>https://proekt24.com/p1824187677-kovrik-dlya-jogi.html</url>
@@ -73199,6 +73218,7 @@
     <param name="Тип">Коврик/мат</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Ширина" unit="см">61</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="1824190757" available="false">
     <url>https://proekt24.com/p1824190757-kovrik-dlya-jogi.html</url>
@@ -74840,7 +74860,7 @@
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
     <param name="Тип">Шумоизоляция</param>
     <param name="Толщина" unit="мм">4</param>
-    <param name="Совместимость с моделью">Almera|Renault Megane|Tiguan|Accord|Lancer|Tucson|Yaris|Colt|Jazz|Passat|Primera|Scorpio|C4|Fusion|Ceed|Lupo|Q5|Sebring|A4|Sonata|Nissan Maxima|Matiz|C2|C5|Peugeot 206|Getz|Mondeo|A6|Santa Fe|Camry|Q7|Dodge|RAV4|Caliber|Fiesta|6|Avensis|Chrysler|Focus|XC90|Civic</param>
+    <param name="Совместимость с моделью">Almera|Renault Megane|Tiguan|Accord|Lancer|Tucson|Yaris|Colt|Jazz|Passat|Primera|Scorpio|C4|Fusion|Ceed|Lupo|Q5|Sebring|A4|Sonata|Nissan Maxima|Matiz|C2|C5|Peugeot 206|Getz|Mondeo|A6|Santa Fe|Camry|Q7|Dodge|RAV4|Caliber|Fiesta|6|Avensis|Chrysler|Focus|XC90|Civic|206</param>
     <param name="Эластичность материала" unit="">Да</param>
     <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
     <param name="Форма поставки материала" unit="">Рулон</param>
@@ -75137,7 +75157,7 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>89</quantity_in_stock>
     <param name="Совместимость с маркой">Citroen|Daewoo|Volvo|Volkswagen|Toyota|Dodge|Fiat|Ford|Renault|Peugeot|Nissan|Mitsubishi|Honda|Hyundai|Mazda|Kia|Audi|BMW|Chrysler</param>
-    <param name="Совместимость с моделью">206|6|A4|A6|Accord|Almera|Avensis|C2|C4|C5|Caliber|Camry|Ceed|Chrysler|Civic|Colt|Dodge|Fiesta|Focus|Fusion|Getz|Jazz|Lancer|Lupo|Matiz|Mondeo|Nissan Maxima|Passat|Primera|Q5|Q7|RAV4|Renault Megane|Santa Fe|Scorpio|Sebring|Sonata|Tiguan|Tucson|XC90|Yaris</param>
+    <param name="Совместимость с моделью">206|6|A4|A6|Accord|Almera|Avensis|C2|C4|C5|Caliber|Camry|Ceed|Chrysler|Civic|Colt|Dodge|Fiesta|Focus|Fusion|Getz|Jazz|Lancer|Lupo|Matiz|Mondeo|Nissan Maxima|Passat|Primera|Q5|Q7|RAV4|Renault Megane|Santa Fe|Scorpio|Sebring|Sonata|Tiguan|Tucson|XC90|Yaris|Peugeot 206</param>
     <param name="Диаметр, мм" unit="">20</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Металл</param>
@@ -77201,6 +77221,7 @@
     <quantity_in_stock>222</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
     <param name="Длина, метр погонный" unit="">50</param>
     <param name="Плотность, кг\м3" unit="кг\м3">75</param>
@@ -77738,6 +77759,7 @@
     <param name="Тип">Коврик/мат</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Ширина" unit="см">61</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="1914872813" available="true">
     <url>https://proekt24.com/p1914872813-kovrik-dlya-jogi.html</url>
@@ -77763,6 +77785,7 @@
     <param name="Тип">Коврик/мат</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Ширина" unit="см">61</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="1914872814" available="false">
     <url>https://proekt24.com/p1914872814-kovrik-dlya-jogi.html</url>
@@ -83352,6 +83375,7 @@
     <param name="Цвет">Синий</param>
     <param name="Крепление">4 болта</param>
     <param name="Материал">Искусственная кожа</param>
+    <param name="Тип">Груша</param>
   </offer>
   <offer id="1994100822" available="true">
     <url>https://proekt24.com/p1994100822-bokserskie-perchatki-lev.html</url>
@@ -85541,7 +85565,7 @@
     <vendorCode>889332</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Цвет">Красный</param>
     <param name="Материал">Искусственная кожа</param>
@@ -86853,6 +86877,7 @@
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">S</param>
     <param name="Тип">MMA</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="2016769022" available="true">
     <url>https://proekt24.com/p2016769022-bokserskie-perchatki-lev.html</url>
@@ -87146,6 +87171,7 @@
     <param name="Материал">Искусственная кожа</param>
     <param name="Размер">M</param>
     <param name="Тип">MMA</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="2016769034" available="true">
     <url>https://proekt24.com/p2016769034-bokserskie-perchatki-venum.html</url>
@@ -88925,6 +88951,7 @@
     <param name="Вес" unit="г">350</param>
     <param name="Диаметр" unit="см">25</param>
     <param name="Цвет">Красный</param>
+    <param name="Материал">Пластик</param>
   </offer>
   <offer id="2067374323" available="true">
     <url>https://proekt24.com/p2067374323-disk-zdorovya-waist.html</url>
@@ -88944,6 +88971,7 @@
     <param name="Вес" unit="г">350</param>
     <param name="Диаметр" unit="см">25</param>
     <param name="Цвет">Черный</param>
+    <param name="Материал">Пластик</param>
   </offer>
   <offer id="2070559057" available="false">
     <url>https://proekt24.com/p2070559057-podsumok-pod-magazinov.html</url>
@@ -90051,10 +90079,10 @@
     <param name="Возрастная группа">Детская</param>
     <param name="Цвет">Синий</param>
     <param name="Материал">Искусственная кожа</param>
+    <param name="Тип">Груша</param>
     <param name="Вес" unit="">3</param>
     <param name="Высота" unit="">35</param>
     <param name="Диаметр" unit="">18</param>
-    <param name="Тип" unit="">Груша</param>
   </offer>
   <offer id="2088439359" available="true">
     <url>https://proekt24.com/p2088439359-grusha-bokserskaya-boxer.html</url>
@@ -116047,6 +116075,7 @@
     <param name="Цвет">Черный</param>
     <param name="Размер">XL</param>
     <param name="Состояние">Новое</param>
+    <param name="Материал">Хлопок</param>
     <param name="Тип" unit="">Защита ног</param>
   </offer>
   <offer id="2301788122" available="false">
@@ -116403,6 +116432,7 @@
     <param name="Вес" unit="г">350</param>
     <param name="Диаметр" unit="см">25</param>
     <param name="Цвет">Фиолетовый</param>
+    <param name="Материал">Пластик</param>
   </offer>
   <offer id="2318042737" available="true">
     <url>https://proekt24.com/p2318042737-penoplastovaya-skorlupa-50100.html</url>
@@ -117210,6 +117240,7 @@
     <param name="Высота" unit="см">170</param>
     <param name="Материал">Кирза</param>
     <param name="Тип">Груша</param>
+    <param name="Цвет">Черный</param>
   </offer>
   <offer id="2334691399" available="true">
     <url>https://proekt24.com/p2334691399-grusha-bokserskaya-everlast.html</url>
@@ -117258,6 +117289,7 @@
     <param name="Высота" unit="см">140</param>
     <param name="Материал">Кирза</param>
     <param name="Тип">Груша</param>
+    <param name="Цвет">Черный</param>
   </offer>
   <offer id="2334691401" available="false">
     <url>https://proekt24.com/p2334691401-zaschita-goleni-stopy.html</url>
@@ -117378,6 +117410,7 @@
     <param name="Высота" unit="см">120</param>
     <param name="Материал">Кирза</param>
     <param name="Тип">Груша</param>
+    <param name="Цвет">Черный</param>
   </offer>
   <offer id="2335653272" available="false">
     <url>https://proekt24.com/p2335653272-shlem-lev-sport.html</url>
@@ -118157,7 +118190,7 @@
     <param name="Площадь листа" unit="кв.м">0.185</param>
     <param name="Состояние">Новое</param>
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
-    <param name="Совместимость с моделью">206|Mondeo|Lupo|Sonata|Sebring|Q5|Focus|RAV4|Primera|Getz|Camry|Caliber|C4|Jazz|Fiesta|Dodge|Matiz|Chrysler|Fusion|Nissan Maxima|A4|Renault Megane|Colt|Santa Fe|Tucson|Tiguan|Almera|Scorpio|6|Yaris|Avensis|Civic|Accord|A6|Passat|C2|C5|Q7|XC90|Ceed|Lancer</param>
+    <param name="Совместимость с моделью">206|Mondeo|Lupo|Sonata|Sebring|Q5|Focus|RAV4|Primera|Getz|Camry|Caliber|C4|Jazz|Fiesta|Dodge|Matiz|Chrysler|Fusion|Nissan Maxima|A4|Renault Megane|Colt|Santa Fe|Tucson|Tiguan|Almera|Scorpio|6|Yaris|Avensis|Civic|Accord|A6|Passat|C2|C5|Q7|XC90|Ceed|Lancer|Peugeot 206</param>
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">2.2</param>
     <param name="Ширина листа" unit="см">50</param>
@@ -118409,7 +118442,7 @@
     <param name="Площадь листа" unit="кв.м">0.185</param>
     <param name="Состояние">Новое</param>
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
-    <param name="Совместимость с моделью">206|Mondeo|Lupo|Sonata|Sebring|Q5|Focus|RAV4|Primera|Getz|Camry|Caliber|C4|Jazz|Fiesta|Dodge|Matiz|Chrysler|Fusion|Nissan Maxima|A4|Renault Megane|Colt|Santa Fe|Tucson|Tiguan|Almera|Scorpio|6|Yaris|Avensis|Civic|Accord|A6|Passat|C2|C5|Q7|XC90|Ceed|Lancer</param>
+    <param name="Совместимость с моделью">206|Mondeo|Lupo|Sonata|Sebring|Q5|Focus|RAV4|Primera|Getz|Camry|Caliber|C4|Jazz|Fiesta|Dodge|Matiz|Chrysler|Fusion|Nissan Maxima|A4|Renault Megane|Colt|Santa Fe|Tucson|Tiguan|Almera|Scorpio|6|Yaris|Avensis|Civic|Accord|A6|Passat|C2|C5|Q7|XC90|Ceed|Lancer|Peugeot 206</param>
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">3</param>
     <param name="Ширина листа" unit="см">50</param>
@@ -121131,6 +121164,8 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>13</quantity_in_stock>
     <param name="Цвет">Зелёный</param>
+    <param name="Вид изделия">Пояс</param>
+    <param name="Материал">Хлопок</param>
   </offer>
   <offer id="2536399445" available="false">
     <url>https://proekt24.com/p2536399445-poyas-dlya-kimono.html</url>
@@ -121248,6 +121283,8 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>3</quantity_in_stock>
     <param name="Цвет">Синий</param>
+    <param name="Вид изделия">Пояс</param>
+    <param name="Материал">Хлопок</param>
   </offer>
   <offer id="2536399450" available="true">
     <url>https://proekt24.com/p2536399450-shlem-trenirovochnyj-otkrytoj.html</url>
@@ -121347,6 +121384,7 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>4</quantity_in_stock>
     <param name="Длина" unit="см">120</param>
+    <param name="Материал">Пластик</param>
   </offer>
   <offer id="2538678541" available="false">
     <url>https://proekt24.com/p2538678541-zhgut-uplotnitelnyj-belyj.html</url>
@@ -123323,6 +123361,7 @@
     <quantity_in_stock>17</quantity_in_stock>
     <param name="Цвет">Оранжевый</param>
     <param name="Материал">Хлопок</param>
+    <param name="Вид изделия">Пояс</param>
     <param name="Вид спорта" unit="">Пояса</param>
     <param name="Длина, м" unit="">2.8</param>
     <param name="Тип" unit="">Пояс для кимоно</param>
@@ -124995,6 +125034,7 @@
     <param name="Тип">Коврик/мат</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Ширина" unit="см">61</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="2626579536" available="true">
     <url>https://proekt24.com/p2626579536-bazaltovaya-skorlupa-6450.html</url>
@@ -126178,19 +126218,19 @@
     <param name="Тип">Груша</param>
   </offer>
   <offer id="2695153217" available="true">
-    <url>https://proekt24.com/p2695153217-rukavichki-dlya-zmishanih.html</url>
+    <url>https://proekt24.com/p2695153217-perchatki-dlya-smeshannyh.html</url>
     <price>903</price>
     <price_old>1075</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>20018068</categoryId>
-    <picture>https://images.prom.ua/6891329435_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329438_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329432_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329440_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329430_rukavichki-dlya-zmishanih.jpg</picture>
+    <picture>https://images.prom.ua/6891329435_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329438_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329432_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329440_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329430_perchatki-dlya-smeshannyh.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Рукавички для змішаних видів єдиноборств ММА LEV SPORT M4 стрейч M чорні</name>
+    <name>Перчатки для смешанных видов единоборств ММА LEV SPORT M4 стрейч M черные</name>
     <vendor>Lev-Sport</vendor>
     <vendorCode>889648</vendorCode>
     <sales_notes>предоплата</sales_notes>
@@ -126219,38 +126259,38 @@
     <param name="Тип">Боевые</param>
   </offer>
   <offer id="2695153219" available="true">
-    <url>https://proekt24.com/p2695153219-rukavichki-dlya-zmishanih.html</url>
+    <url>https://proekt24.com/p2695153219-perchatki-dlya-smeshannyh.html</url>
     <price>903</price>
     <price_old>1075</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>20018068</categoryId>
-    <picture>https://images.prom.ua/6891329435_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329438_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329440_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329432_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329430_rukavichki-dlya-zmishanih.jpg</picture>
+    <picture>https://images.prom.ua/6891329435_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329438_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329440_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329432_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329430_perchatki-dlya-smeshannyh.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Рукавички для змішаних видів єдиноборств ММА LEV SPORT M4 стрейч XL чорні</name>
+    <name>Перчатки для смешанных видов единоборств ММА LEV SPORT M4 стрейч XL черные</name>
     <vendor>Lev-Sport</vendor>
     <vendorCode>889650</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>3</quantity_in_stock>
   </offer>
   <offer id="2695153220" available="true">
-    <url>https://proekt24.com/p2695153220-rukavichki-dlya-zmishanih.html</url>
+    <url>https://proekt24.com/p2695153220-perchatki-dlya-smeshannyh.html</url>
     <price>903</price>
     <price_old>1075</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>20018068</categoryId>
-    <picture>https://images.prom.ua/6891329435_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329432_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329430_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329438_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329440_rukavichki-dlya-zmishanih.jpg</picture>
+    <picture>https://images.prom.ua/6891329435_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329432_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329430_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329438_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329440_perchatki-dlya-smeshannyh.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Рукавички для змішаних видів єдиноборств ММА LEV SPORT M4 стрейч S чорні</name>
+    <name>Перчатки для смешанных видов единоборств ММА LEV SPORT M4 стрейч S черные</name>
     <vendor>Lev-Sport</vendor>
     <vendorCode>889649</vendorCode>
     <sales_notes>предоплата</sales_notes>
@@ -126284,19 +126324,19 @@
     <param name="Тип">Боевые</param>
   </offer>
   <offer id="2695153222" available="true">
-    <url>https://proekt24.com/p2695153222-rukavichki-dlya-zmishanih.html</url>
+    <url>https://proekt24.com/p2695153222-perchatki-dlya-smeshannyh.html</url>
     <price>903</price>
     <price_old>1075</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>20018068</categoryId>
-    <picture>https://images.prom.ua/6891329435_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329438_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329432_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329440_rukavichki-dlya-zmishanih.jpg</picture>
-    <picture>https://images.prom.ua/6891329430_rukavichki-dlya-zmishanih.jpg</picture>
+    <picture>https://images.prom.ua/6891329435_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329438_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329432_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329440_perchatki-dlya-smeshannyh.jpg</picture>
+    <picture>https://images.prom.ua/6891329430_perchatki-dlya-smeshannyh.jpg</picture>
     <pickup>true</pickup>
     <delivery>true</delivery>
-    <name>Рукавички для змішаних видів єдиноборств ММА LEV SPORT M4 стрейч L чорні</name>
+    <name>Перчатки для смешанных видов единоборств ММА LEV SPORT M4 стрейч L черные</name>
     <vendor>Lev-Sport</vendor>
     <vendorCode>889647</vendorCode>
     <sales_notes>предоплата</sales_notes>
@@ -127593,7 +127633,7 @@
     <vendorCode>889666</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>625</quantity_in_stock>
+    <quantity_in_stock>622</quantity_in_stock>
     <param name="Применение материала">Двери|Потолок автомобиля|Стенки багажника|Пол автомобиля|Пол багажника</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
@@ -133171,6 +133211,7 @@
     <quantity_in_stock>1</quantity_in_stock>
     <param name="Цвет">Красный</param>
     <param name="Материал">Натуральная кожа</param>
+    <param name="Тип">Бокс</param>
   </offer>
   <offer id="3026829545" available="true">
     <url>https://proekt24.com/p3026829545-komplekt-suvenirnyj-detskij.html</url>
@@ -133336,7 +133377,7 @@
     <vendorCode>FT-1025/B-XS</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">Хлопок</param>
     <param name="Размер">XS</param>
@@ -133665,6 +133706,7 @@
     <param name="Тип">Коврик/мат</param>
     <param name="Толщина" unit="мм">6</param>
     <param name="Ширина" unit="см">61</param>
+    <param name="Состояние">Новое</param>
   </offer>
   <offer id="3055400822" available="true">
     <url>https://proekt24.com/p3055400822-bokserskie-perchatki-boxer.html</url>
@@ -134510,7 +134552,7 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>26</quantity_in_stock>
     <param name="Совместимость с маркой">Citroen|Daewoo|Volvo|Volkswagen|Toyota|Dodge|Fiat|Ford|Renault|Peugeot|Nissan|Mitsubishi|Honda|Hyundai|Mazda|Kia|Audi|BMW|Chrysler</param>
-    <param name="Совместимость с моделью">C4|A4|RAV4|Q7|XC90|Nissan Maxima|Passat|Primera|Santa Fe|206|Renault Megane|Mondeo|Fiesta|Colt|6|C5|Chrysler|Tucson|Lancer|Civic|Sonata|Getz|C2|Scorpio|Matiz|Sebring|Caliber|Yaris|Dodge|Camry|Q5|Avensis|Tiguan|Lupo|Almera|Focus|Fusion|Jazz|Accord|A6|Ceed</param>
+    <param name="Совместимость с моделью">C4|A4|RAV4|Q7|XC90|Nissan Maxima|Passat|Primera|Santa Fe|206|Renault Megane|Mondeo|Fiesta|Colt|6|C5|Chrysler|Tucson|Lancer|Civic|Sonata|Getz|C2|Scorpio|Matiz|Sebring|Caliber|Yaris|Dodge|Camry|Q5|Avensis|Tiguan|Lupo|Almera|Focus|Fusion|Jazz|Accord|A6|Ceed|Peugeot 206</param>
     <param name="Диаметр, мм" unit="">25</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Металл</param>
@@ -150600,7 +150642,7 @@
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">4</param>
     <param name="Ширина листа" unit="см">33</param>
-    <param name="Совместимость с моделью">Accord|Almera|Primera|Yaris|Lupo|Fusion|C2|Ceed|RAV4|Matiz|Passat|Civic|C5|Renault Megane|Tiguan|Scorpio|Peugeot 206|A6|Q5|Focus|Santa Fe|Dodge|Caliber|Fiesta|Colt|Mondeo|Jazz|Sonata|Chrysler|Tucson|Avensis|Sebring|C4|Getz|Lancer|Nissan Maxima|XC90|Camry|Q7|6|A4</param>
+    <param name="Совместимость с моделью">Accord|Almera|Primera|Yaris|Lupo|Fusion|C2|Ceed|RAV4|Matiz|Passat|Civic|C5|Renault Megane|Tiguan|Scorpio|Peugeot 206|A6|Q5|Focus|Santa Fe|Dodge|Caliber|Fiesta|Colt|Mondeo|Jazz|Sonata|Chrysler|Tucson|Avensis|Sebring|C4|Getz|Lancer|Nissan Maxima|XC90|Camry|Q7|6|A4|206</param>
   </offer>
   <offer id="3194275342" available="true">
     <url>https://proekt24.com/p3194275342-vibroizolyatsiya-folgirovannaya-vizol.html</url>
@@ -150630,7 +150672,7 @@
     <param name="Тип">Виброизоляция</param>
     <param name="Толщина" unit="мм">3</param>
     <param name="Ширина листа" unit="см">33</param>
-    <param name="Совместимость с моделью">Fusion|Tucson|Jazz|C2|Renault Megane|Chrysler|Peugeot 206|Lancer|Focus|C5|6|Civic|Fiesta|Ceed|Caliber|Accord|Mondeo|A4|Tiguan|Sebring|XC90|Q5|Yaris|RAV4|Matiz|A6|Camry|Nissan Maxima|Santa Fe|Dodge|Lupo|Primera|Sonata|Avensis|Getz|Q7|Colt|C4|Scorpio|Almera|Passat</param>
+    <param name="Совместимость с моделью">Fusion|Tucson|Jazz|C2|Renault Megane|Chrysler|Peugeot 206|Lancer|Focus|C5|6|Civic|Fiesta|Ceed|Caliber|Accord|Mondeo|A4|Tiguan|Sebring|XC90|Q5|Yaris|RAV4|Matiz|A6|Camry|Nissan Maxima|Santa Fe|Dodge|Lupo|Primera|Sonata|Avensis|Getz|Q7|Colt|C4|Scorpio|Almera|Passat|206</param>
   </offer>
 <offer id="3194275343" available="true">
     <url>https://proekt24.com/p3194275343-vibroizolyatsiya-folgirovannaya-vizol.html</url>
@@ -150834,6 +150876,7 @@
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>4</quantity_in_stock>
+    <param name="Цвет">Черный</param>
   </offer>
   <offer id="3199390884" available="true">
     <url>https://proekt24.com/p3199390884-grusha-nabivnaya-lev.html</url>
