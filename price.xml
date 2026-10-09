@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-08 17:00">
+<yml_catalog date="2026-10-09 09:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
     <url>https://proekt24.com/</url>
     <currencies>
-      <currency id="USD" rate="47.107095" />
+      <currency id="USD" rate="47.09523" />
       <currency id="UAH" rate="1" />
       <currency id="BYN" rate="CB" />
       <currency id="KZT" rate="CB" />
-      <currency id="EUR" rate="52.664745" />
+      <currency id="EUR" rate="52.645425" />
     </currencies>
     <categories>
       <category id="105213334" parentId="2341984">Бутилкаучуковые шнуры</category>
@@ -2137,7 +2137,7 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1579</quantity_in_stock>
+    <quantity_in_stock>1567</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">Резинка</param>
     <param name="Ширина, мм" unit="">30</param>
@@ -3865,7 +3865,7 @@
     <vendorCode>500132</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1864</quantity_in_stock>
+    <quantity_in_stock>1822</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -3931,7 +3931,7 @@
     <vendorCode>500252</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1060</quantity_in_stock>
+    <quantity_in_stock>1057</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -4170,9 +4170,14 @@
     <vendorCode>500253</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>350</quantity_in_stock>
+    <quantity_in_stock>348</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для стен|Для пола|Для каркасных конструкций|Для инженерного оборудования|Для потолков</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Назначение материала">Виброизоляция|Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
+    <param name="Эластичность материала">Да</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">8</param>
@@ -4184,11 +4189,6 @@
     <param name="Толщина" unit="">25</param>
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
     <param name="Плотность" unit="">55</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Улучшение акустики помещений|Звукоизоляция|Снижение ударного шума</param>
-    <param name="Эластичность материала" unit="">Да</param>
-    <param name="Область применения" unit="">Для стен|Для пола|Для каркасных конструкций|Для инженерного оборудования|Для потолков</param>
-    <param name="Цвет" unit="">Черный</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
   </offer>
   <offer id="126709678" available="false">
     <url>https://proekt24.com/p126709678-vspenennyj-kauchuk-samokleyuschijsya.html</url>
@@ -15723,7 +15723,7 @@
     <vendorCode>6005025</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1062</quantity_in_stock>
+    <quantity_in_stock>1058</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Длина" unit="">25</param>
     <param name="Максимальная рабочая температура" unit="">120</param>
@@ -15917,7 +15917,7 @@
     <vendorCode>63329</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Цвет">Черный</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
@@ -18197,7 +18197,7 @@
     <vendorCode>37515</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>122</quantity_in_stock>
+    <quantity_in_stock>121</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологичный материал">Да</param>
     <param name="Эластичность материала">Да</param>
@@ -32751,7 +32751,7 @@
     <vendorCode>62025</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>144</quantity_in_stock>
+    <quantity_in_stock>142</quantity_in_stock>
     <param name="Материал">Каучук</param>
     <param name="Максимальная температура эксплуатации" unit="">90</param>
     <param name="Минимальная температура эксплуатации" unit="">-40</param>
@@ -36533,8 +36533,8 @@
   </offer>
   <offer id="1396742959" available="true">
     <url>https://proekt24.com/p1396742959-petli-beresha-easyfit.html</url>
-    <price>587</price>
-    <price_old>699</price_old>
+    <price>629</price>
+    <price_old>749</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96660616</categoryId>
     <picture>https://images.prom.ua/3058324708_petli-beresha-easyfit.jpg</picture>
@@ -38635,8 +38635,8 @@
   </offer>
   <offer id="1415006390" available="true">
     <url>https://proekt24.com/p1415006390-poyas-dlya-otyagoschenij.html</url>
-    <price>541</price>
-    <price_old>644</price_old>
+    <price>618</price>
+    <price_old>736</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>9638003</categoryId>
     <picture>https://images.prom.ua/3118783155_poyas-dlya-otyagoschenij.jpg</picture>
@@ -38659,8 +38659,8 @@
   </offer>
   <offer id="1415025112" available="true">
     <url>https://proekt24.com/p1415025112-poyas-dlya-otyagoschenij.html</url>
-    <price>608</price>
-    <price_old>724</price_old>
+    <price>629</price>
+    <price_old>749</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>9638003</categoryId>
     <picture>https://images.prom.ua/3118783155_poyas-dlya-otyagoschenij.jpg</picture>
@@ -39549,7 +39549,7 @@
     <vendorCode>500102</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2132</quantity_in_stock>
+    <quantity_in_stock>2130</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -43423,7 +43423,7 @@
     <vendorCode>456789</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Длина" unit="м">1</param>
     <param name="Тип использования">Для наружных работ</param>
     <param name="Ширина" unit="мм">50</param>
@@ -65920,7 +65920,7 @@
     <vendorCode>233453У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1438</quantity_in_stock>
+    <quantity_in_stock>1436</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">Резинка</param>
     <param name="Ширина, мм" unit="">30</param>
@@ -66646,8 +66646,8 @@
   </offer>
   <offer id="1696439501" available="true">
     <url>https://proekt24.com/p1696439501-manzheta-easyfit-dlya.html</url>
-    <price>188</price>
-    <price_old>224</price_old>
+    <price>209</price>
+    <price_old>249</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96660616</categoryId>
     <picture>https://images.prom.ua/4041062498_manzheta-easyfit-dlya.jpg</picture>
@@ -66672,8 +66672,8 @@
   </offer>
   <offer id="1696482842" available="true">
     <url>https://proekt24.com/p1696482842-manzheta-easyfit-chernaya.html</url>
-    <price>578</price>
-    <price_old>688</price_old>
+    <price>629</price>
+    <price_old>749</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96660616</categoryId>
     <picture>https://images.prom.ua/4041206600_manzheta-easyfit-f8.jpg</picture>
@@ -67806,7 +67806,7 @@
     <vendorCode>20117</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>174</quantity_in_stock>
+    <quantity_in_stock>173</quantity_in_stock>
     <param name="Армированный скотч">Нет</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">25</param>
@@ -69245,7 +69245,7 @@
     <vendorCode>500082</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>951</quantity_in_stock>
+    <quantity_in_stock>831</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -72080,8 +72080,8 @@
   </offer>
   <offer id="1800242493" available="true">
     <url>https://proekt24.com/p1800242493-manzheta-easyfit-dlya.html</url>
-    <price>194</price>
-    <price_old>231</price_old>
+    <price>209</price>
+    <price_old>249</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96660616</categoryId>
     <picture>https://images.prom.ua/4368696103_manzheta-easyfit-dlya.jpg</picture>
@@ -72673,8 +72673,8 @@
   </offer>
   <offer id="1814185763" available="true">
     <url>https://proekt24.com/p1814185763-manzheta-easyfit-korichnevaya.html</url>
-    <price>520</price>
-    <price_old>619</price_old>
+    <price>629</price>
+    <price_old>749</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96660616</categoryId>
     <picture>https://images.prom.ua/4415043064_manzheta-easyfit-f8.jpg</picture>
@@ -118116,8 +118116,8 @@
   </offer>
   <offer id="2371769409" available="false">
     <url>https://proekt24.com/p2371769409-bokserskij-nabor-easyfit.html</url>
-    <price>1423</price>
-    <price_old>1694</price_old>
+    <price>1395</price>
+    <price_old>1661</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>1946992</categoryId>
     <picture>https://images.prom.ua/6302181743_bokserskij-nabor-easyfit.jpg</picture>
@@ -120788,8 +120788,8 @@
   </offer>
   <offer id="2493752716" available="true">
     <url>https://proekt24.com/p2493752716-nabor-dlya-boksa.html</url>
-    <price>398</price>
-    <price_old>474</price_old>
+    <price>524</price>
+    <price_old>624</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96660616</categoryId>
     <picture>https://images.prom.ua/6497803756_nabor-dlya-boksa.jpg</picture>
@@ -120806,7 +120806,7 @@
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>5</quantity_in_stock>
     <param name="Цвет">Красный</param>
-    <param name="Тип">Универсальный</param>
+    <param name="Тип" unit="">Универсальный</param>
   </offer>
   <offer id="2493752717" available="true">
     <url>https://proekt24.com/p2493752717-myach-dlya-fitnesa.html</url>
@@ -126403,7 +126403,7 @@
     <vendor>Шумофф</vendor>
     <vendorCode>889651</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>54</quantity_in_stock>
+    <quantity_in_stock>53</quantity_in_stock>
     <param name="Консистенция">Аэрозоль</param>
     <param name="Объем" unit="мл">300</param>
   </offer>
@@ -127155,8 +127155,8 @@
   </offer>
   <offer id="2771090602" available="true">
     <url>https://proekt24.com/p2771090602-koordinatsionnaya-lestnitsa-dlya.html</url>
-    <price>524</price>
-    <price_old>624</price_old>
+    <price>597</price>
+    <price_old>711</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96660616</categoryId>
     <picture>https://images.prom.ua/3452783692_koordinatsionnaya-lestnitsa-10.jpg</picture>
@@ -130085,7 +130085,7 @@
     <vendor>Roofer</vendor>
     <vendorCode>889732</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Цвет">Серый</param>
   </offer>
   <offer id="2870772311" available="false">
@@ -134406,7 +134406,7 @@
     <name>Армированная клейкая лента, армированный скотч 50мм*20м.п.</name>
     <vendorCode>889840</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Тип">Клейкая лента</param>
     <param name="Длина клеящей ленты" unit="м">20</param>
     <param name="Состояние" unit="">Новое</param>
@@ -150978,7 +150978,7 @@
     <vendorCode>43034</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>73</quantity_in_stock>
+    <quantity_in_stock>79</quantity_in_stock>
     <param name="Состояние">Новое</param>
     <param name="Тип">Шумоизоляция</param>
     <param name="Толщина" unit="мм">7</param>
@@ -151291,6 +151291,68 @@
     <vendorCode>00003227</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock />
+  </offer>
+  <offer id="3227230163" available="false">
+    <url>https://proekt24.com/p3227230163-myach-massazhnyj-easyfit.html</url>
+    <price>100</price>
+    <price_old>119</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155281610</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Мяч массажный EasyFit PVC 9 см жесткий черный</name>
+    <vendor>EasyFit</vendor>
+    <vendorCode>00003231</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Цвет">Черный</param>
+  </offer>
+  <offer id="3227230164" available="false">
+    <url>https://proekt24.com/p3227230164-myach-massazhnyj-easyfit.html</url>
+    <price>100</price>
+    <price_old>119</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155281610</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Мяч массажный EasyFit PVC 9 см жесткий серый</name>
+    <vendor>EasyFit</vendor>
+    <vendorCode>00003230</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Цвет">Серый</param>
+  </offer>
+  <offer id="3227230165" available="false">
+    <url>https://proekt24.com/p3227230165-massazhnyj-rolik-almond.html</url>
+    <price>114</price>
+    <price_old>136</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155281610</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Массажный ролик Almond EasyFit овальный с шипами фиолетовый</name>
+    <vendor>EasyFit</vendor>
+    <vendorCode>00003232</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Цвет">Фиолетовый</param>
+  </offer>
+  <offer id="3227230166" available="false">
+    <url>https://proekt24.com/p3227230166-kovrik-dlya-jogi.html</url>
+    <price>734</price>
+    <price_old>874</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083690</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Коврик для йоги и фитнеса EasyFit TPE+TC 6мм двухслойный фиолетовый св.фиолетовый</name>
+    <vendor>EasyFit</vendor>
+    <vendorCode>00003229</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Материал">ПВХ</param>
+    <param name="Цвет">Фиолетовый</param>
   </offer>
 
 
