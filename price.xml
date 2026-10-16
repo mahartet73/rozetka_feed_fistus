@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-16 09:00">
+<yml_catalog date="2026-10-16 17:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -1129,7 +1129,7 @@
     <vendorCode>889406</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>245</quantity_in_stock>
+    <quantity_in_stock>246</quantity_in_stock>
     <param name="Длина" unit="см">46</param>
     <param name="Максимальный вес" unit="кг">100</param>
     <param name="Тип">Цепь для подвеса</param>
@@ -1467,7 +1467,7 @@
     <vendorCode>1001-03Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вес" unit="кг">22</param>
     <param name="Высота" unit="см">100</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -1726,7 +1726,7 @@
     <vendorCode>32130</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3942</quantity_in_stock>
+    <quantity_in_stock>3917</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Толщина" unit="мм">30</param>
     <param name="Цвет" unit="">Белый</param>
@@ -1866,7 +1866,7 @@
     <param name="Ширина" unit="мм">10</param>
     <param name="Самоклеющийся уплотнитель" unit="">Универсальный</param>
   </offer>
-  <offer id="29230115" available="false">
+  <offer id="29230115" available="true">
     <url>https://proekt24.com/p29230115-gazovspenennyj-polietilen-ukrizol.html</url>
     <price>711</price>
     <price_old>846</price_old>
@@ -1885,7 +1885,7 @@
     <vendorCode>900201</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -2137,9 +2137,9 @@
     <vendorCode>233453</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1431</quantity_in_stock>
+    <quantity_in_stock>1423</quantity_in_stock>
     <param name="Цвет">Черный</param>
-    <param name="Материал">Резинка</param>
+    <param name="Материал" unit="">Резинка</param>
     <param name="Ширина, мм" unit="">30</param>
   </offer>
   <offer id="31003721" available="false">
@@ -3579,7 +3579,7 @@
     <vendorCode>500062</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>642</quantity_in_stock>
+    <quantity_in_stock>640</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -3612,7 +3612,7 @@
     <vendorCode>500091</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3001</quantity_in_stock>
+    <quantity_in_stock>2993</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -3828,7 +3828,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1320</quantity_in_stock>
+    <quantity_in_stock>1270</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -3898,7 +3898,7 @@
     <vendorCode>500192</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>630</quantity_in_stock>
+    <quantity_in_stock>680</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -3931,7 +3931,7 @@
     <vendorCode>500252</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>988</quantity_in_stock>
+    <quantity_in_stock>1028</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -4067,7 +4067,7 @@
     <vendorCode>500093</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>339</quantity_in_stock>
+    <quantity_in_stock>338</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Цвет">Черный</param>
@@ -4101,7 +4101,7 @@
     <vendorCode>500133</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -4136,7 +4136,7 @@
     <vendorCode>500193</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>235</quantity_in_stock>
+    <quantity_in_stock>85</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Цвет">Черный</param>
@@ -4170,7 +4170,7 @@
     <vendorCode>500253</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>310</quantity_in_stock>
+    <quantity_in_stock>190</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Цвет">Черный</param>
@@ -5218,7 +5218,7 @@
     <vendorCode>ВП35/6</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1160</quantity_in_stock>
+    <quantity_in_stock>1156</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -5593,7 +5593,7 @@
     <vendorCode>ВП28/13</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>42</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -5748,7 +5748,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">19</param>
   </offer>
-  <offer id="174471911" available="true">
+  <offer id="174471911" available="false">
     <url>https://proekt24.com/p174471911-izolyatsiya-trub-7613.html</url>
     <price>51</price>
     <price_old>61</price_old>
@@ -5761,7 +5761,7 @@
     <vendorCode>ВП76/13</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>40</quantity_in_stock>
+    <quantity_in_stock />
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -5789,7 +5789,7 @@
     <vendorCode>ВП89/13</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>212</quantity_in_stock>
+    <quantity_in_stock>196</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -5817,7 +5817,7 @@
     <vendorCode>ВП114/13</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>306</quantity_in_stock>
+    <quantity_in_stock>302</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -6122,7 +6122,7 @@
     <vendorCode>889038</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>215</quantity_in_stock>
+    <quantity_in_stock>214</quantity_in_stock>
     <param name="Применение материала">Потолок автомобиля</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Состояние">Новое</param>
@@ -15723,7 +15723,7 @@
     <vendorCode>6005025</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1020</quantity_in_stock>
+    <quantity_in_stock>1013</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Длина" unit="">25</param>
     <param name="Максимальная рабочая температура" unit="">120</param>
@@ -15917,7 +15917,7 @@
     <vendorCode>63329</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Цвет">Черный</param>
     <param name="Максимальная рабочая температура" unit="град.">70</param>
@@ -16415,7 +16415,7 @@
     <vendorCode>63320</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>139</quantity_in_stock>
+    <quantity_in_stock>123</quantity_in_stock>
     <param name="Длина" unit="м">12</param>
     <param name="Цвет">Синий</param>
     <param name="Максимальная рабочая температура" unit="град.">80</param>
@@ -17852,7 +17852,7 @@
     <vendorCode>83910</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1308</quantity_in_stock>
+    <quantity_in_stock>1305</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Длина" unit="мм">1200</param>
@@ -18611,7 +18611,7 @@
     <vendorCode>03-782</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>90</quantity_in_stock>
+    <quantity_in_stock>89</quantity_in_stock>
     <param name="Диаметр, мм" unit="">25</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Металл</param>
@@ -18698,7 +18698,7 @@
     <vendorCode>233455</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>32</quantity_in_stock>
     <param name="Длина, м" unit="">1.3</param>
     <param name="Ширина, мм" unit="">5</param>
   </offer>
@@ -22246,7 +22246,7 @@
     <vendorCode>11361</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1656</quantity_in_stock>
+    <quantity_in_stock>1648</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Колесные арки</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -22354,7 +22354,7 @@
     <vendorCode>889027</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1231</quantity_in_stock>
+    <quantity_in_stock>1221</quantity_in_stock>
     <param name="Длина" unit="м">2</param>
     <param name="Цвет" unit="">Белый</param>
     <param name="Самоклеющаяся поверхность" unit="">Нет</param>
@@ -23453,7 +23453,7 @@
     <vendorCode>901052</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Класс материала по теплопроводности">Низкая</param>
     <param name="Покрытие">Без покрытия</param>
@@ -23627,7 +23627,7 @@
     <vendorCode>901053</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -23673,7 +23673,7 @@
     <vendorCode>901083</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>188</quantity_in_stock>
+    <quantity_in_stock>181</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -25150,8 +25150,8 @@
   </offer>
   <offer id="448913066" available="true">
     <url>https://proekt24.com/p448913066-germetiziruyuschaya-lenta-200.html</url>
-    <price>1254</price>
-    <price_old>1492</price_old>
+    <price>1379</price>
+    <price_old>1641</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>21984621</categoryId>
     <picture>https://images.prom.ua/2857819417_germetiziruyuschaya-lenta-200.jpg</picture>
@@ -25174,8 +25174,8 @@
   </offer>
   <offer id="448923382" available="true">
     <url>https://proekt24.com/p448923382-germetiziruyuschaya-lenta-100.html</url>
-    <price>828</price>
-    <price_old>986</price_old>
+    <price>911</price>
+    <price_old>1085</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>21984621</categoryId>
     <picture>https://images.prom.ua/2857819871_germetiziruyuschaya-lenta-100.jpg</picture>
@@ -25197,8 +25197,8 @@
   </offer>
   <offer id="448932987" available="true">
     <url>https://proekt24.com/p448932987-germetiziruyuschaya-lenta-dvustoronnej.html</url>
-    <price>534</price>
-    <price_old>636</price_old>
+    <price>588</price>
+    <price_old>700</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>21984621</categoryId>
     <picture>https://images.prom.ua/2857820203_germetiziruyuschaya-lenta-50.jpg</picture>
@@ -25211,7 +25211,7 @@
     <vendorCode>62013</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>160</quantity_in_stock>
+    <quantity_in_stock>150</quantity_in_stock>
     <param name="Длина рулона, п.м." unit="">20</param>
     <param name="Максимальная температура эксплуатации" unit="">90</param>
     <param name="Минимальная температура эксплуатации" unit="">-40.0</param>
@@ -31731,8 +31731,8 @@
   </offer>
   <offer id="546495650" available="true">
     <url>https://proekt24.com/p546495650-krovelnaya-lenta-folgirovannoj.html</url>
-    <price>547</price>
-    <price_old>651</price_old>
+    <price>602</price>
+    <price_old>716</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13199627</categoryId>
     <picture>https://images.prom.ua/3108633171_krovelnaya-lenta-s.jpg</picture>
@@ -31764,8 +31764,8 @@
   </offer>
   <offer id="546506182" available="true">
     <url>https://proekt24.com/p546506182-krovelnaya-lenta-folgirovannoj.html</url>
-    <price>911</price>
-    <price_old>1085</price_old>
+    <price>1003</price>
+    <price_old>1194</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13199627</categoryId>
     <picture>https://images.prom.ua/3108567886_krovelnaya-lenta-s.jpg</picture>
@@ -31860,8 +31860,8 @@
   </offer>
   <offer id="546508644" available="false">
     <url>https://proekt24.com/p546508644-butilkauchukovaya-lenta-mpg.html</url>
-    <price>292</price>
-    <price_old>348</price_old>
+    <price>321</price>
+    <price_old>382</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>105796939</categoryId>
     <picture>https://images.prom.ua/2857816870_butilkauchukovaya-lenta-k2.jpg</picture>
@@ -31887,8 +31887,8 @@
   </offer>
   <offer id="546509971" available="false">
     <url>https://proekt24.com/p546509971-germetiziruyuschaya-lenta-dvustoronnej.html</url>
-    <price>356</price>
-    <price_old>424</price_old>
+    <price>392</price>
+    <price_old>466</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>21984621</categoryId>
     <picture>https://images.prom.ua/2857820203_germetiziruyuschaya-lenta-25.jpg</picture>
@@ -31913,8 +31913,8 @@
   </offer>
   <offer id="546560484" available="true">
     <url>https://proekt24.com/p546560484-krovelnaya-lenta-folgirovannoj.html</url>
-    <price>1453</price>
-    <price_old>1730</price_old>
+    <price>1599</price>
+    <price_old>1904</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13199627</categoryId>
     <picture>https://images.prom.ua/3108567886_krovelnaya-lenta-s.jpg</picture>
@@ -31990,8 +31990,8 @@
   </offer>
   <offer id="577761614" available="false">
     <url>https://proekt24.com/p577761614-germetiziruyuschaya-lenta-dublirovannaya.html</url>
-    <price>566</price>
-    <price_old>674</price_old>
+    <price>600</price>
+    <price_old>714</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12585660</categoryId>
     <picture>https://images.prom.ua/2857821051_germetiziruyuschaya-lenta-50.jpg</picture>
@@ -32736,8 +32736,8 @@
   </offer>
   <offer id="610162874" available="true">
     <url>https://proekt24.com/p610162874-butilkauchukovaya-lenta-mpg.html</url>
-    <price>376</price>
-    <price_old>448</price_old>
+    <price>414</price>
+    <price_old>492</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>105796939</categoryId>
     <picture>https://images.prom.ua/2857816871_butilkauchukovaya-lenta-k2.jpg</picture>
@@ -32851,8 +32851,8 @@
   </offer>
   <offer id="617611876" available="false">
     <url>https://proekt24.com/p617611876-germetiziruyuschaya-lenta-100.html</url>
-    <price>877</price>
-    <price_old>1044</price_old>
+    <price>928</price>
+    <price_old>1105</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12585660</categoryId>
     <picture>https://images.prom.ua/2857821324_germetiziruyuschaya-lenta-100.jpg</picture>
@@ -32879,8 +32879,8 @@
   </offer>
   <offer id="617614585" available="true">
     <url>https://proekt24.com/p617614585-germetiziruyuschaya-lenta-200.html</url>
-    <price>1390</price>
-    <price_old>1655</price_old>
+    <price>1472</price>
+    <price_old>1752</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12585660</categoryId>
     <picture>https://images.prom.ua/2857821548_germetiziruyuschaya-lenta-200.jpg</picture>
@@ -32908,8 +32908,8 @@
   </offer>
   <offer id="625167029" available="true">
     <url>https://proekt24.com/p625167029-krovelnaya-bitumnaya-lenta.html</url>
-    <price>1505</price>
-    <price_old>1791</price_old>
+    <price>1656</price>
+    <price_old>1971</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13199627</categoryId>
     <picture>https://images.prom.ua/3017574188_krovelnaya-bitumnaya-lenta.jpg</picture>
@@ -36412,7 +36412,7 @@
     <vendorCode>1008810</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>38</quantity_in_stock>
+    <quantity_in_stock>37</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентный</param>
     <param name="Состояние клея">Готовая эмульсия</param>
     <param name="Срок хранения" unit="мес">12</param>
@@ -36576,8 +36576,8 @@
   </offer>
   <offer id="1399834010" available="true">
     <url>https://proekt24.com/p1399834010-bitumnaya-lenta-alu.html</url>
-    <price>275</price>
-    <price_old>328</price_old>
+    <price>302</price>
+    <price_old>360</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/7767886828_bitumnaya-lenta-50.jpg</picture>
@@ -36606,8 +36606,8 @@
   </offer>
   <offer id="1399834011" available="true">
     <url>https://proekt24.com/p1399834011-bitumnaya-lenta-alu.html</url>
-    <price>352</price>
-    <price_old>419</price_old>
+    <price>386</price>
+    <price_old>460</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/7767887123_bitumnaya-lenta-75.jpg</picture>
@@ -36635,8 +36635,8 @@
   </offer>
   <offer id="1399834012" available="true">
     <url>https://proekt24.com/p1399834012-bitumnaya-lenta-100.html</url>
-    <price>430</price>
-    <price_old>512</price_old>
+    <price>474</price>
+    <price_old>564</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/7767887296_bitumnaya-lenta-100.jpg</picture>
@@ -36665,8 +36665,8 @@
   </offer>
   <offer id="1399834013" available="true">
     <url>https://proekt24.com/p1399834013-bitumnaya-lenta-150.html</url>
-    <price>611</price>
-    <price_old>728</price_old>
+    <price>673</price>
+    <price_old>801</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/7767887554_bitumnaya-lenta-150.jpg</picture>
@@ -36682,7 +36682,7 @@
     <vendorCode>62714</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <param name="Тип использования">Для наружных работ</param>
     <param name="Назначение материала">Для балконов|Для стен|Для кровли|Для фасадов</param>
     <param name="Форма поставляемого материала">Рулон</param>
@@ -36694,8 +36694,8 @@
   </offer>
   <offer id="1399834014" available="true">
     <url>https://proekt24.com/p1399834014-bitumnaya-lenta-250.html</url>
-    <price>948</price>
-    <price_old>1129</price_old>
+    <price>1044</price>
+    <price_old>1242</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458664_bitumnaya-lenta-250.jpg</picture>
@@ -36711,7 +36711,7 @@
     <vendorCode>62715</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>42</quantity_in_stock>
+    <quantity_in_stock>41</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -36723,8 +36723,8 @@
   </offer>
   <offer id="1399834015" available="true">
     <url>https://proekt24.com/p1399834015-bitumnaya-lenta-alubrown.html</url>
-    <price>304</price>
-    <price_old>362</price_old>
+    <price>334</price>
+    <price_old>398</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458671_bitumnaya-lenta-50.jpg</picture>
@@ -36754,8 +36754,8 @@
   </offer>
   <offer id="1399834016" available="true">
     <url>https://proekt24.com/p1399834016-bitumnaya-lenta-100.html</url>
-    <price>472</price>
-    <price_old>562</price_old>
+    <price>520</price>
+    <price_old>619</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458701_bitumnaya-lenta-100.jpg</picture>
@@ -36785,8 +36785,8 @@
   </offer>
   <offer id="1399834017" available="true">
     <url>https://proekt24.com/p1399834017-bitumnaya-lenta-150.html</url>
-    <price>673</price>
-    <price_old>801</price_old>
+    <price>740</price>
+    <price_old>881</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458708_bitumnaya-lenta-150.jpg</picture>
@@ -36816,8 +36816,8 @@
   </offer>
   <offer id="1399834018" available="true">
     <url>https://proekt24.com/p1399834018-bitumnaya-lenta-250.html</url>
-    <price>1040</price>
-    <price_old>1238</price_old>
+    <price>1143</price>
+    <price_old>1361</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458719_bitumnaya-lenta-250.jpg</picture>
@@ -36834,7 +36834,7 @@
     <vendorCode>62725</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>36</quantity_in_stock>
+    <quantity_in_stock>37</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Цвет">Коричневый</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
@@ -36847,8 +36847,8 @@
   </offer>
   <offer id="1399834019" available="true">
     <url>https://proekt24.com/p1399834019-bitumnaya-lenta-alubrown.html</url>
-    <price>387</price>
-    <price_old>461</price_old>
+    <price>426</price>
+    <price_old>508</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3155800557_bitumnaya-lenta-75.jpg</picture>
@@ -36878,8 +36878,8 @@
   </offer>
   <offer id="1399834020" available="true">
     <url>https://proekt24.com/p1399834020-bitumnaya-lenta-100.html</url>
-    <price>472</price>
-    <price_old>562</price_old>
+    <price>520</price>
+    <price_old>619</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458751_bitumnaya-lenta-100.jpg</picture>
@@ -36908,8 +36908,8 @@
   </offer>
   <offer id="1399834021" available="true">
     <url>https://proekt24.com/p1399834021-bitumnaya-lenta-150.html</url>
-    <price>673</price>
-    <price_old>801</price_old>
+    <price>740</price>
+    <price_old>881</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458777_bitumnaya-lenta-150.jpg</picture>
@@ -36939,8 +36939,8 @@
   </offer>
   <offer id="1399834022" available="true">
     <url>https://proekt24.com/p1399834022-bitumnaya-lenta-250.html</url>
-    <price>1040</price>
-    <price_old>1238</price_old>
+    <price>1143</price>
+    <price_old>1361</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458791_bitumnaya-lenta-250.jpg</picture>
@@ -36970,8 +36970,8 @@
   </offer>
   <offer id="1399834023" available="true">
     <url>https://proekt24.com/p1399834023-bitumnaya-lenta-aluterracot.html</url>
-    <price>304</price>
-    <price_old>362</price_old>
+    <price>334</price>
+    <price_old>398</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458798_bitumnaya-lenta-50.jpg</picture>
@@ -37001,8 +37001,8 @@
   </offer>
 <offer id="1399834024" available="true">
     <url>https://proekt24.com/p1399834024-bitumnaya-lenta-aluterracot.html</url>
-    <price>387</price>
-    <price_old>461</price_old>
+    <price>426</price>
+    <price_old>508</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068458806_bitumnaya-lenta-75.jpg</picture>
@@ -37032,8 +37032,8 @@
   </offer>
   <offer id="1399834025" available="true">
     <url>https://proekt24.com/p1399834025-bitumnaya-lenta-100.html</url>
-    <price>472</price>
-    <price_old>562</price_old>
+    <price>520</price>
+    <price_old>619</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460161_bitumnaya-lenta-100.jpg</picture>
@@ -37063,8 +37063,8 @@
   </offer>
   <offer id="1399834026" available="true">
     <url>https://proekt24.com/p1399834026-bitumnaya-lenta-250.html</url>
-    <price>1040</price>
-    <price_old>1238</price_old>
+    <price>1143</price>
+    <price_old>1361</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460168_bitumnaya-lenta-250.jpg</picture>
@@ -37094,8 +37094,8 @@
   </offer>
   <offer id="1399834027" available="true">
     <url>https://proekt24.com/p1399834027-bitumnaya-lenta-alugraphite.html</url>
-    <price>304</price>
-    <price_old>362</price_old>
+    <price>334</price>
+    <price_old>398</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460175_bitumnaya-lenta-50.jpg</picture>
@@ -37125,8 +37125,8 @@
   </offer>
   <offer id="1399834028" available="true">
     <url>https://proekt24.com/p1399834028-bitumnaya-lenta-alugraphite.html</url>
-    <price>387</price>
-    <price_old>461</price_old>
+    <price>426</price>
+    <price_old>508</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460183_bitumnaya-lenta-75.jpg</picture>
@@ -37156,8 +37156,8 @@
   </offer>
   <offer id="1399834029" available="true">
     <url>https://proekt24.com/p1399834029-bitumnaya-lenta-150.html</url>
-    <price>673</price>
-    <price_old>801</price_old>
+    <price>740</price>
+    <price_old>881</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460195_bitumnaya-lenta-150.jpg</picture>
@@ -37187,8 +37187,8 @@
   </offer>
   <offer id="1399834030" available="true">
     <url>https://proekt24.com/p1399834030-bitumnaya-lenta-100.html</url>
-    <price>472</price>
-    <price_old>562</price_old>
+    <price>520</price>
+    <price_old>619</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460208_bitumnaya-lenta-100.jpg</picture>
@@ -37218,8 +37218,8 @@
   </offer>
   <offer id="1399834031" available="true">
     <url>https://proekt24.com/p1399834031-bitumnaya-lenta-250.html</url>
-    <price>1040</price>
-    <price_old>1238</price_old>
+    <price>1143</price>
+    <price_old>1361</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460219_bitumnaya-lenta-250.jpg</picture>
@@ -37249,8 +37249,8 @@
   </offer>
   <offer id="1399834032" available="true">
     <url>https://proekt24.com/p1399834032-bitumnaya-lenta-alugreen.html</url>
-    <price>304</price>
-    <price_old>362</price_old>
+    <price>334</price>
+    <price_old>398</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460234_bitumnaya-lenta-50.jpg</picture>
@@ -37280,8 +37280,8 @@
   </offer>
   <offer id="1399834033" available="true">
     <url>https://proekt24.com/p1399834033-bitumnaya-lenta-alugreen.html</url>
-    <price>387</price>
-    <price_old>461</price_old>
+    <price>426</price>
+    <price_old>508</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460247_bitumnaya-lenta-75.jpg</picture>
@@ -37311,8 +37311,8 @@
   </offer>
   <offer id="1399834034" available="true">
     <url>https://proekt24.com/p1399834034-bitumnaya-lenta-150.html</url>
-    <price>673</price>
-    <price_old>801</price_old>
+    <price>740</price>
+    <price_old>881</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460260_bitumnaya-lenta-150.jpg</picture>
@@ -37342,8 +37342,8 @@
   </offer>
   <offer id="1399834035" available="true">
     <url>https://proekt24.com/p1399834035-bitumnaya-lenta-100.html</url>
-    <price>472</price>
-    <price_old>562</price_old>
+    <price>520</price>
+    <price_old>619</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460272_bitumnaya-lenta-100.jpg</picture>
@@ -37373,8 +37373,8 @@
   </offer>
   <offer id="1399834036" available="true">
     <url>https://proekt24.com/p1399834036-bitumnaya-lenta-150.html</url>
-    <price>673</price>
-    <price_old>801</price_old>
+    <price>740</price>
+    <price_old>881</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460284_bitumnaya-lenta-150.jpg</picture>
@@ -37404,8 +37404,8 @@
   </offer>
   <offer id="1399834037" available="true">
     <url>https://proekt24.com/p1399834037-bitumnaya-lenta-250.html</url>
-    <price>1040</price>
-    <price_old>1238</price_old>
+    <price>1143</price>
+    <price_old>1361</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460297_bitumnaya-lenta-250.jpg</picture>
@@ -37435,8 +37435,8 @@
   </offer>
   <offer id="1399834038" available="true">
     <url>https://proekt24.com/p1399834038-bitumnaya-lenta-alured.html</url>
-    <price>304</price>
-    <price_old>362</price_old>
+    <price>334</price>
+    <price_old>398</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460307_bitumnaya-lenta-50.jpg</picture>
@@ -37466,8 +37466,8 @@
   </offer>
   <offer id="1399834039" available="true">
     <url>https://proekt24.com/p1399834039-bitumnaya-lenta-alured.html</url>
-    <price>387</price>
-    <price_old>461</price_old>
+    <price>426</price>
+    <price_old>508</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068460316_bitumnaya-lenta-75.jpg</picture>
@@ -37497,8 +37497,8 @@
   </offer>
   <offer id="1399834040" available="true">
     <url>https://proekt24.com/p1399834040-bitumnaya-lenta-100.html</url>
-    <price>472</price>
-    <price_old>562</price_old>
+    <price>520</price>
+    <price_old>619</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461774_bitumnaya-lenta-100.jpg</picture>
@@ -37528,8 +37528,8 @@
   </offer>
   <offer id="1399834041" available="true">
     <url>https://proekt24.com/p1399834041-bitumnaya-lenta-150.html</url>
-    <price>673</price>
-    <price_old>801</price_old>
+    <price>740</price>
+    <price_old>881</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461790_bitumnaya-lenta-150.jpg</picture>
@@ -37559,8 +37559,8 @@
   </offer>
   <offer id="1399834042" available="true">
     <url>https://proekt24.com/p1399834042-bitumnaya-lenta-250.html</url>
-    <price>1040</price>
-    <price_old>1238</price_old>
+    <price>1143</price>
+    <price_old>1361</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461806_bitumnaya-lenta-250.jpg</picture>
@@ -37590,8 +37590,8 @@
   </offer>
   <offer id="1399834043" available="true">
     <url>https://proekt24.com/p1399834043-bitumnaya-lenta-alublue.html</url>
-    <price>304</price>
-    <price_old>362</price_old>
+    <price>334</price>
+    <price_old>398</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461813_bitumnaya-lenta-50.jpg</picture>
@@ -37621,8 +37621,8 @@
   </offer>
   <offer id="1399834044" available="true">
     <url>https://proekt24.com/p1399834044-bitumnaya-lenta-alublue.html</url>
-    <price>387</price>
-    <price_old>461</price_old>
+    <price>426</price>
+    <price_old>508</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461820_bitumnaya-lenta-75.jpg</picture>
@@ -37652,8 +37652,8 @@
   </offer>
   <offer id="1399834045" available="false">
     <url>https://proekt24.com/p1399834045-bitumnaya-lenta-150.html</url>
-    <price>296</price>
-    <price_old>352</price_old>
+    <price>326</price>
+    <price_old>388</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461827_bitumnaya-lenta-150.jpg</picture>
@@ -37682,8 +37682,8 @@
   </offer>
   <offer id="1399834046" available="true">
     <url>https://proekt24.com/p1399834046-bitumnaya-lenta-100.html</url>
-    <price>214</price>
-    <price_old>255</price_old>
+    <price>236</price>
+    <price_old>281</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/7767888213_bitumnaya-lenta-100.jpg</picture>
@@ -37713,8 +37713,8 @@
   </offer>
   <offer id="1399834047" available="true">
     <url>https://proekt24.com/p1399834047-bitumnaya-lenta-150.html</url>
-    <price>326</price>
-    <price_old>388</price_old>
+    <price>358</price>
+    <price_old>426</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461843_bitumnaya-lenta-150.jpg</picture>
@@ -37745,8 +37745,8 @@
   </offer>
   <offer id="1399834048" available="true">
     <url>https://proekt24.com/p1399834048-bitumnaya-lenta-150.html</url>
-    <price>326</price>
-    <price_old>388</price_old>
+    <price>358</price>
+    <price_old>426</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461851_bitumnaya-lenta-150.jpg</picture>
@@ -37776,8 +37776,8 @@
   </offer>
   <offer id="1399834049" available="true">
     <url>https://proekt24.com/p1399834049-bitumnaya-lenta-100.html</url>
-    <price>234</price>
-    <price_old>279</price_old>
+    <price>257</price>
+    <price_old>306</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461858_bitumnaya-lenta-100.jpg</picture>
@@ -37808,8 +37808,8 @@
   </offer>
   <offer id="1399834050" available="true">
     <url>https://proekt24.com/p1399834050-bitumnaya-lenta-100.html</url>
-    <price>234</price>
-    <price_old>279</price_old>
+    <price>257</price>
+    <price_old>306</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461876_bitumnaya-lenta-100.jpg</picture>
@@ -37840,8 +37840,8 @@
   </offer>
   <offer id="1399834051" available="true">
     <url>https://proekt24.com/p1399834051-bitumnaya-lenta-100.html</url>
-    <price>234</price>
-    <price_old>279</price_old>
+    <price>257</price>
+    <price_old>306</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461890_bitumnaya-lenta-100.jpg</picture>
@@ -37872,8 +37872,8 @@
   </offer>
   <offer id="1399834052" available="true">
     <url>https://proekt24.com/p1399834052-bitumnaya-lenta-alu.html</url>
-    <price>126</price>
-    <price_old>150</price_old>
+    <price>139</price>
+    <price_old>165</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/7767887964_bitumnaya-lenta-50.jpg</picture>
@@ -37934,8 +37934,8 @@
   </offer>
   <offer id="1399834054" available="false">
     <url>https://proekt24.com/p1399834054-bitumnaya-lenta-150.html</url>
-    <price>326</price>
-    <price_old>388</price_old>
+    <price>358</price>
+    <price_old>426</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068461931_bitumnaya-lenta-150.jpg</picture>
@@ -37965,8 +37965,8 @@
   </offer>
   <offer id="1399834055" available="true">
     <url>https://proekt24.com/p1399834055-bitumnaya-lenta-100.html</url>
-    <price>234</price>
-    <price_old>279</price_old>
+    <price>257</price>
+    <price_old>306</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463115_bitumnaya-lenta-100.jpg</picture>
@@ -37996,8 +37996,8 @@
   </offer>
   <offer id="1399834056" available="true">
     <url>https://proekt24.com/p1399834056-bitumnaya-lenta-100.html</url>
-    <price>234</price>
-    <price_old>279</price_old>
+    <price>257</price>
+    <price_old>306</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463123_bitumnaya-lenta-100.jpg</picture>
@@ -38026,8 +38026,8 @@
   </offer>
   <offer id="1399834057" available="false">
     <url>https://proekt24.com/p1399834057-bitumnaya-lenta-100.html</url>
-    <price>234</price>
-    <price_old>279</price_old>
+    <price>257</price>
+    <price_old>306</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463129_bitumnaya-lenta-100.jpg</picture>
@@ -38056,8 +38056,8 @@
   </offer>
   <offer id="1399834058" available="true">
     <url>https://proekt24.com/p1399834058-bitumnaya-lenta-300.html</url>
-    <price>1069</price>
-    <price_old>1272</price_old>
+    <price>1176</price>
+    <price_old>1400</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463135_bitumnaya-lenta-300.jpg</picture>
@@ -38086,8 +38086,8 @@
   </offer>
   <offer id="1399834059" available="false">
     <url>https://proekt24.com/p1399834059-bitumnaya-lenta-250.html</url>
-    <price>555</price>
-    <price_old>661</price_old>
+    <price>611</price>
+    <price_old>728</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463142_bitumnaya-lenta-250.jpg</picture>
@@ -38117,8 +38117,8 @@
   </offer>
   <offer id="1399834060" available="true">
     <url>https://proekt24.com/p1399834060-bitumnaya-lenta-alu.html</url>
-    <price>180</price>
-    <price_old>214</price_old>
+    <price>198</price>
+    <price_old>236</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/7767888561_bitumnaya-lenta-75.jpg</picture>
@@ -38146,8 +38146,8 @@
   </offer>
   <offer id="1399834061" available="true">
     <url>https://proekt24.com/p1399834061-bitumnaya-lenta-stk.html</url>
-    <price>1171</price>
-    <price_old>1394</price_old>
+    <price>1287</price>
+    <price_old>1532</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463160_bitumnaya-lenta-stk.jpg</picture>
@@ -38177,8 +38177,8 @@
   </offer>
   <offer id="1399834062" available="true">
     <url>https://proekt24.com/p1399834062-bitumnaya-lenta-300.html</url>
-    <price>1171</price>
-    <price_old>1394</price_old>
+    <price>1287</price>
+    <price_old>1532</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463167_bitumnaya-lenta-300.jpg</picture>
@@ -38208,8 +38208,8 @@
   </offer>
   <offer id="1399834063" available="true">
     <url>https://proekt24.com/p1399834063-bitumnaya-lenta-300.html</url>
-    <price>1171</price>
-    <price_old>1394</price_old>
+    <price>1287</price>
+    <price_old>1532</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463174_bitumnaya-lenta-300.jpg</picture>
@@ -38239,8 +38239,8 @@
   </offer>
   <offer id="1399834065" available="true">
     <url>https://proekt24.com/p1399834065-bitumnaya-lenta-400.html</url>
-    <price>1406</price>
-    <price_old>1674</price_old>
+    <price>1547</price>
+    <price_old>1841</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463188_bitumnaya-lenta-400.jpg</picture>
@@ -38269,8 +38269,8 @@
   </offer>
   <offer id="1399834066" available="true">
     <url>https://proekt24.com/p1399834066-bitumnaya-lenta-250.html</url>
-    <price>474</price>
-    <price_old>564</price_old>
+    <price>521</price>
+    <price_old>620</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/7767888921_bitumnaya-lenta-250.jpg</picture>
@@ -38287,7 +38287,7 @@
     <vendorCode>62765</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <param name="Тип использования">Для наружных работ</param>
     <param name="Назначение материала">Для балконов|Для стен|Для кровли|Для фасадов</param>
     <param name="Форма поставляемого материала">Рулон</param>
@@ -38299,8 +38299,8 @@
   </offer>
   <offer id="1399834067" available="true">
     <url>https://proekt24.com/p1399834067-bitumnaya-lenta-300.html</url>
-    <price>1171</price>
-    <price_old>1394</price_old>
+    <price>1287</price>
+    <price_old>1532</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463202_bitumnaya-lenta-300.jpg</picture>
@@ -38330,8 +38330,8 @@
   </offer>
   <offer id="1399834068" available="true">
     <url>https://proekt24.com/p1399834068-bitumnaya-lenta-300.html</url>
-    <price>1171</price>
-    <price_old>1394</price_old>
+    <price>1287</price>
+    <price_old>1532</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463210_bitumnaya-lenta-300.jpg</picture>
@@ -38361,8 +38361,8 @@
   </offer>
   <offer id="1399834069" available="true">
     <url>https://proekt24.com/p1399834069-bitumnaya-lenta-300.html</url>
-    <price>1171</price>
-    <price_old>1394</price_old>
+    <price>1287</price>
+    <price_old>1532</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463217_bitumnaya-lenta-300.jpg</picture>
@@ -38392,8 +38392,8 @@
   </offer>
   <offer id="1399834070" available="true">
     <url>https://proekt24.com/p1399834070-bitumnaya-lenta-200.html</url>
-    <price>748</price>
-    <price_old>890</price_old>
+    <price>823</price>
+    <price_old>980</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/7767887799_bitumnaya-lenta-200.jpg</picture>
@@ -38516,7 +38516,7 @@
     <vendorCode>1003-02К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <param name="Вес" unit="кг">27</param>
     <param name="Высота" unit="см">120</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -38783,7 +38783,7 @@
     <vendorCode>EF-AWTS-250</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Вес" unit="кг">2.5</param>
     <param name="Цвет">Серый</param>
     <param name="Количество утяжелителей">2</param>
@@ -39024,8 +39024,8 @@
   </offer>
   <offer id="1416371193" available="true">
     <url>https://proekt24.com/p1416371193-germetiziruyuschaya-lenta-150.html</url>
-    <price>1286</price>
-    <price_old>1531</price_old>
+    <price>1363</price>
+    <price_old>1622</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>12585660</categoryId>
     <picture>https://images.prom.ua/2857821324_germetiziruyuschaya-lenta-150.jpg</picture>
@@ -39100,8 +39100,8 @@
   </offer>
   <offer id="1421467118" available="true">
     <url>https://proekt24.com/p1421467118-mastika-krovelnaya-butilkauchukovaya.html</url>
-    <price>152</price>
-    <price_old>181</price_old>
+    <price>168</price>
+    <price_old>200</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>97783027</categoryId>
     <picture>https://images.prom.ua/3140572726_mastika-krovelnaya-butilkauchukovaya.jpg</picture>
@@ -39126,8 +39126,8 @@
   </offer>
   <offer id="1421467119" available="true">
     <url>https://proekt24.com/p1421467119-mastika-krovelnaya-butilkauchukovaya.html</url>
-    <price>330</price>
-    <price_old>392</price_old>
+    <price>363</price>
+    <price_old>432</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>97783027</categoryId>
     <picture>https://images.prom.ua/3140572727_mastika-krovelnaya-butilkauchukovaya.jpg</picture>
@@ -39138,7 +39138,7 @@
     <vendorCode>64022</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>40</quantity_in_stock>
+    <quantity_in_stock>37</quantity_in_stock>
     <param name="Тип использования">Универсальный</param>
     <param name="Назначение материала">Для кровли|Для полов|Для подвалов|Для фасадов|Для цоколей|Для резервуаров|Для стен</param>
     <param name="Тип поверхности">Камень|Бетон|Металл|Пластик|Древесина|Керамика</param>
@@ -39153,8 +39153,8 @@
   </offer>
   <offer id="1421467120" available="false">
     <url>https://proekt24.com/p1421467120-mastika-krovelnaya-butilkauchukovaya.html</url>
-    <price>836</price>
-    <price_old>995</price_old>
+    <price>920</price>
+    <price_old>1095</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>97783027</categoryId>
     <picture>https://images.prom.ua/6428932678_mastika-krovelnaya-butilkauchukovaya.jpg</picture>
@@ -39183,8 +39183,8 @@
   </offer>
   <offer id="1421467121" available="true">
     <url>https://proekt24.com/p1421467121-mastika-krovelnaya-butilkauchukovaya.html</url>
-    <price>1536</price>
-    <price_old>1829</price_old>
+    <price>1689</price>
+    <price_old>2011</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>97783027</categoryId>
     <picture>https://images.prom.ua/6428933368_mastika-krovelnaya-butilkauchukovaya.jpg</picture>
@@ -39212,8 +39212,8 @@
   </offer>
   <offer id="1421467122" available="true">
     <url>https://proekt24.com/p1421467122-prajmer-bitumno-kauchukovyj.html</url>
-    <price>152</price>
-    <price_old>181</price_old>
+    <price>185</price>
+    <price_old>220</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>97783027</categoryId>
     <picture>https://images.prom.ua/3140572730_prajmer-bitumno-kauchukovyj-chernyj.jpg</picture>
@@ -39239,8 +39239,8 @@
   </offer>
   <offer id="1421467123" available="false">
     <url>https://proekt24.com/p1421467123-prajmer-bitumno-kauchukovyj.html</url>
-    <price>330</price>
-    <price_old>392</price_old>
+    <price>399</price>
+    <price_old>475</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>97783027</categoryId>
     <picture>https://images.prom.ua/3140572731_prajmer-bitumno-kauchukovyj-chernyj.jpg</picture>
@@ -39266,8 +39266,8 @@
   </offer>
   <offer id="1421467124" available="true">
     <url>https://proekt24.com/p1421467124-prajmer-bitumno-kauchukovyj.html</url>
-    <price>1536</price>
-    <price_old>1829</price_old>
+    <price>1858</price>
+    <price_old>2212</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>97783027</categoryId>
     <picture>https://images.prom.ua/6428934525_prajmer-bitumno-kauchukovyj-chernyj.jpg</picture>
@@ -39292,8 +39292,8 @@
   </offer>
   <offer id="1421467125" available="true">
     <url>https://proekt24.com/p1421467125-prajmer-bitumno-kauchukovyj.html</url>
-    <price>836</price>
-    <price_old>995</price_old>
+    <price>1012</price>
+    <price_old>1205</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>97783027</categoryId>
     <picture>https://images.prom.ua/6428934000_prajmer-bitumno-kauchukovyj-chernyj.jpg</picture>
@@ -39549,7 +39549,7 @@
     <vendorCode>500102</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1970</quantity_in_stock>
+    <quantity_in_stock>1938</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -40353,7 +40353,7 @@
     <vendorCode>06/9П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1024</quantity_in_stock>
+    <quantity_in_stock>1074</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -40458,7 +40458,7 @@
     <vendorCode>12/9П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1688</quantity_in_stock>
+    <quantity_in_stock>1738</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -40493,7 +40493,7 @@
     <vendorCode>15/9П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1624</quantity_in_stock>
+    <quantity_in_stock>1690</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -40563,7 +40563,7 @@
     <vendorCode>18/9О</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5353</quantity_in_stock>
+    <quantity_in_stock>5303</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -40598,7 +40598,7 @@
     <vendorCode>42/9П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>136</quantity_in_stock>
+    <quantity_in_stock>124</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -40668,7 +40668,7 @@
     <vendorCode>22/9П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>674</quantity_in_stock>
+    <quantity_in_stock>672</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -41697,8 +41697,8 @@
   </offer>
   <offer id="1438799011" available="true">
     <url>https://proekt24.com/p1438799011-bitumnaya-lenta-450.html</url>
-    <price>1449</price>
-    <price_old>1725</price_old>
+    <price>1594</price>
+    <price_old>1898</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3068463188_bitumnaya-lenta-450.jpg</picture>
@@ -41863,7 +41863,7 @@
     <vendorCode>900024Р</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>138</quantity_in_stock>
+    <quantity_in_stock>123</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Длина" unit="м">50</param>
@@ -41941,7 +41941,7 @@
     <vendorCode>900044Р</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Длина" unit="м">50</param>
@@ -43344,7 +43344,7 @@
     <vendorCode>ВП102/13</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>544</quantity_in_stock>
+    <quantity_in_stock>542</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -47275,7 +47275,7 @@
     <vendorCode>56357</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>77</quantity_in_stock>
+    <quantity_in_stock>73</quantity_in_stock>
     <param name="Максимальная температура эксплуатации" unit="град.">90</param>
     <param name="Материал">Битум</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-50</param>
@@ -48352,7 +48352,7 @@
     <vendorCode>832567</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>181</quantity_in_stock>
+    <quantity_in_stock>169</quantity_in_stock>
     <param name="Высота" unit="мм">10</param>
     <param name="Возраст">От 1 мес</param>
     <param name="Длина" unit="мм">500</param>
@@ -48470,8 +48470,8 @@
   </offer>
   <offer id="1565583406" available="true">
     <url>https://proekt24.com/p1565583406-germetiziruyuschij-shnur-chernyj.html</url>
-    <price>34</price>
-    <price_old>40</price_old>
+    <price>37</price>
+    <price_old>44</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>105213334</categoryId>
     <picture>https://images.prom.ua/3613043893_germetiziruyuschij-shnur-5.jpg</picture>
@@ -48490,8 +48490,8 @@
   </offer>
   <offer id="1565583407" available="true">
     <url>https://proekt24.com/p1565583407-germetiziruyuschij-shnur-seryj.html</url>
-    <price>39</price>
-    <price_old>46</price_old>
+    <price>43</price>
+    <price_old>51</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>105213334</categoryId>
     <picture>https://images.prom.ua/3613043895_germetiziruyuschij-shnur-5.jpg</picture>
@@ -48534,8 +48534,8 @@
   </offer>
   <offer id="1565583409" available="false">
     <url>https://proekt24.com/p1565583409-germetiziruyuschij-shnur-seryj.html</url>
-    <price>57</price>
-    <price_old>68</price_old>
+    <price>62</price>
+    <price_old>74</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>105213334</categoryId>
     <picture>https://images.prom.ua/3613043895_germetiziruyuschij-shnur-8.jpg</picture>
@@ -48556,8 +48556,8 @@
   </offer>
   <offer id="1565583410" available="true">
     <url>https://proekt24.com/p1565583410-germetiziruyuschij-shnur-chernyj.html</url>
-    <price>256</price>
-    <price_old>305</price_old>
+    <price>271</price>
+    <price_old>322</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>105213334</categoryId>
     <picture>https://images.prom.ua/3613043912_germetiziruyuschij-shnur-4.jpg</picture>
@@ -48581,8 +48581,8 @@
   </offer>
   <offer id="1565583411" available="false">
     <url>https://proekt24.com/p1565583411-germetiziruyuschij-shnur-chernyj.html</url>
-    <price>235</price>
-    <price_old>280</price_old>
+    <price>258</price>
+    <price_old>308</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>105213334</categoryId>
     <picture>https://images.prom.ua/3613043912_germetiziruyuschij-shnur-6.jpg</picture>
@@ -48603,8 +48603,8 @@
   </offer>
   <offer id="1565583412" available="true">
     <url>https://proekt24.com/p1565583412-germetiziruyuschij-shnur-seryj.html</url>
-    <price>266</price>
-    <price_old>316</price_old>
+    <price>292</price>
+    <price_old>348</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>105213334</categoryId>
     <picture>https://images.prom.ua/3613043929_germetiziruyuschij-shnur-4.jpg</picture>
@@ -48625,8 +48625,8 @@
   </offer>
   <offer id="1565583413" available="true">
     <url>https://proekt24.com/p1565583413-germetiziruyuschij-shnur-seryj.html</url>
-    <price>250</price>
-    <price_old>298</price_old>
+    <price>240</price>
+    <price_old>286</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>105213334</categoryId>
     <picture>https://images.prom.ua/3613043929_germetiziruyuschij-shnur-6.jpg</picture>
@@ -48640,7 +48640,7 @@
     <vendorCode>61223</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>229</quantity_in_stock>
+    <quantity_in_stock>228</quantity_in_stock>
     <param name="Длина" unit="м">11</param>
     <param name="Цвет">Серый</param>
     <param name="Толщина (мм)">6</param>
@@ -48750,7 +48750,7 @@
     <vendorCode>112569</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Диаметр" unit="см">94</param>
     <param name="Цвет">Фиолетовый</param>
     <param name="Конструкция">Цельная</param>
@@ -52202,7 +52202,7 @@
     <vendorCode>900101</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>36</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -52274,7 +52274,7 @@
     <vendorCode>900053</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1523</quantity_in_stock>
+    <quantity_in_stock>1473</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -52385,7 +52385,7 @@
     <vendorCode>900035</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>157</quantity_in_stock>
+    <quantity_in_stock>151</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -52422,7 +52422,7 @@
     <vendorCode>900045</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>143</quantity_in_stock>
+    <quantity_in_stock>213</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -53502,7 +53502,7 @@
     <vendorCode>654337</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>42</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <param name="Длина" unit="см">36</param>
     <param name="Цвет">Серый</param>
     <param name="Количество слоев">Однослойные</param>
@@ -54373,7 +54373,7 @@
     <param name="Плотность, кг\м3" unit="кг\м3">75</param>
     <param name="Толщина (мм)" unit="">2.5</param>
   </offer>
-  <offer id="1644402651" available="false">
+  <offer id="1644402651" available="true">
     <url>https://proekt24.com/p1644402651-material-eva-eva.html</url>
     <price>499</price>
     <price_old>594</price_old>
@@ -54389,7 +54389,7 @@
     <vendorCode>832582</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock />
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -54467,7 +54467,7 @@
     <vendorCode>832586</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>570</quantity_in_stock>
+    <quantity_in_stock>568</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -54584,28 +54584,28 @@
     <vendorCode>500092У</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2395</quantity_in_stock>
-    <param name="Вид основного сырья">Неорганическое</param>
+    <quantity_in_stock>2393</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
-    <param name="Экологическая безопасность материала">Безопасен</param>
-    <param name="Класс материала по теплопроводности">Низкая</param>
-    <param name="Материал изоляции">Вспененный каучук</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
+    <param name="Назначение материала">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
+    <param name="Эластичность материала">Да</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">20</param>
-    <param name="Эластичность материала" unit="">Да</param>
-    <param name="Цвет" unit="">Черный</param>
     <param name="Максимальная рабочая температура" unit="">120</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
     <param name="Срок службы" unit="">25</param>
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">9</param>
     <param name="Плотность" unit="">55</param>
+    <param name="Вид основного сырья" unit="">Неорганическое</param>
+    <param name="Класс материала по теплопроводности" unit="">Низкая</param>
+    <param name="Экологическая безопасность материала" unit="">Безопасен</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
   </offer>
   <offer id="1650779297" available="false">
     <url>https://proekt24.com/p1650779297-vspenennyj-kauchuk-samokleyuschijsya.html</url>
@@ -55436,7 +55436,7 @@
     <vendorCode>10/9П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2014</quantity_in_stock>
+    <quantity_in_stock>2064</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -55576,7 +55576,7 @@
     <vendorCode>25/9П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>316</quantity_in_stock>
+    <quantity_in_stock>314</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -55611,7 +55611,7 @@
     <vendorCode>35/9П</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>460</quantity_in_stock>
+    <quantity_in_stock>458</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Длина" unit="м">2</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -57396,7 +57396,7 @@
     <vendorCode>900057</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>75</quantity_in_stock>
+    <quantity_in_stock>60</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Длина" unit="м">50</param>
@@ -60933,8 +60933,8 @@
   </offer>
   <offer id="1658012639" available="true">
     <url>https://proekt24.com/p1658012639-bitumnaya-lenta-125.html</url>
-    <price>523</price>
-    <price_old>622</price_old>
+    <price>575</price>
+    <price_old>685</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920923400_bitumnaya-lenta-125.jpg</picture>
@@ -60962,8 +60962,8 @@
   </offer>
   <offer id="1658015793" available="true">
     <url>https://proekt24.com/p1658015793-bitumnaya-lenta-200.html</url>
-    <price>823</price>
-    <price_old>980</price_old>
+    <price>905</price>
+    <price_old>1078</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920923258_bitumnaya-lenta-200.jpg</picture>
@@ -60992,8 +60992,8 @@
   </offer>
   <offer id="1658021744" available="true">
     <url>https://proekt24.com/p1658021744-bitumnaya-lenta-200.html</url>
-    <price>823</price>
-    <price_old>980</price_old>
+    <price>905</price>
+    <price_old>1078</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920923178_bitumnaya-lenta-200.jpg</picture>
@@ -61022,8 +61022,8 @@
   </offer>
   <offer id="1658027246" available="true">
     <url>https://proekt24.com/p1658027246-bitumnaya-lenta-150.html</url>
-    <price>326</price>
-    <price_old>388</price_old>
+    <price>358</price>
+    <price_old>426</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920923013_bitumnaya-lenta-150.jpg</picture>
@@ -61052,8 +61052,8 @@
   </offer>
   <offer id="1658027571" available="true">
     <url>https://proekt24.com/p1658027571-bitumnaya-lenta-200.html</url>
-    <price>823</price>
-    <price_old>980</price_old>
+    <price>905</price>
+    <price_old>1078</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920922940_bitumnaya-lenta-200.jpg</picture>
@@ -61082,8 +61082,8 @@
   </offer>
   <offer id="1658030807" available="true">
     <url>https://proekt24.com/p1658030807-bitumnaya-lenta-200.html</url>
-    <price>823</price>
-    <price_old>980</price_old>
+    <price>905</price>
+    <price_old>1078</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920922849_bitumnaya-lenta-200.jpg</picture>
@@ -61112,8 +61112,8 @@
   </offer>
   <offer id="1658033913" available="true">
     <url>https://proekt24.com/p1658033913-bitumnaya-lenta-200.html</url>
-    <price>823</price>
-    <price_old>980</price_old>
+    <price>905</price>
+    <price_old>1078</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920922774_bitumnaya-lenta-200.jpg</picture>
@@ -61142,8 +61142,8 @@
   </offer>
   <offer id="1658037098" available="true">
     <url>https://proekt24.com/p1658037098-bitumnaya-lenta-200.html</url>
-    <price>823</price>
-    <price_old>980</price_old>
+    <price>905</price>
+    <price_old>1078</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/3920922564_bitumnaya-lenta-200.jpg</picture>
@@ -61183,7 +61183,7 @@
     <vendorCode>ВП49/20</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>86</quantity_in_stock>
+    <quantity_in_stock>82</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -63819,7 +63819,7 @@
     <vendorCode>9000081</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>66</quantity_in_stock>
+    <quantity_in_stock>64</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Длина" unit="м">200</param>
@@ -63851,7 +63851,7 @@
     <vendorCode>900011</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>35</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Длина" unit="м">200</param>
@@ -64957,7 +64957,7 @@
     <vendorCode>901081100</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>106</quantity_in_stock>
+    <quantity_in_stock>56</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -65151,7 +65151,7 @@
     <vendorCode>901101100</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>191</quantity_in_stock>
+    <quantity_in_stock>176</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
@@ -65452,8 +65452,8 @@
   </offer>
   <offer id="1666909441" available="true">
     <url>https://proekt24.com/p1666909441-germetiziruyuschij-shnur-chernyj.html</url>
-    <price>203</price>
-    <price_old>241</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>105213334</categoryId>
     <picture>https://images.prom.ua/3613043912_germetiziruyuschij-shnur-5.jpg</picture>
@@ -65474,8 +65474,8 @@
   </offer>
   <offer id="1666909670" available="true">
     <url>https://proekt24.com/p1666909670-germetiziruyuschaya-lenta-aqua.html</url>
-    <price>399</price>
-    <price_old>475</price_old>
+    <price>439</price>
+    <price_old>522</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>8390912</categoryId>
     <picture>https://images.prom.ua/3946239921_germetiziruyuschaya-lenta-aqua.jpg</picture>
@@ -65500,8 +65500,8 @@
   </offer>
   <offer id="1666919805" available="true">
     <url>https://proekt24.com/p1666919805-germetik-aqua-protect.html</url>
-    <price>1230</price>
-    <price_old>1464</price_old>
+    <price>1352</price>
+    <price_old>1610</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13199627</categoryId>
     <picture>https://images.prom.ua/3946255481_germetik-aqua-protect.jpg</picture>
@@ -65940,7 +65940,7 @@
     <vendorCode>180060010СЕ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>131</quantity_in_stock>
+    <quantity_in_stock>129</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Цвет">Серый</param>
     <param name="Количество слоев">Однослойные</param>
@@ -67762,7 +67762,7 @@
     <vendorCode>20118</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>125</quantity_in_stock>
+    <quantity_in_stock>122</quantity_in_stock>
     <param name="Армированный скотч">Да</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">25</param>
@@ -68520,7 +68520,7 @@
     <vendorCode>30115</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>400</quantity_in_stock>
+    <quantity_in_stock>397</quantity_in_stock>
     <param name="Вес" unit="кг">0.38</param>
     <param name="Длина листа" unit="см">100</param>
     <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Стенки багажника|Пол автомобиля|Пол багажника</param>
@@ -68619,8 +68619,8 @@
   </offer>
   <offer id="1726679720" available="true">
     <url>https://proekt24.com/p1726679720-bitumnaya-lenta-alubrown.html</url>
-    <price>140</price>
-    <price_old>166</price_old>
+    <price>153</price>
+    <price_old>182</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/4135540659_bitumnaya-lenta-50.jpg</picture>
@@ -68649,8 +68649,8 @@
   </offer>
   <offer id="1726679721" available="true">
     <url>https://proekt24.com/p1726679721-bitumnaya-lenta-alubrown.html</url>
-    <price>200</price>
-    <price_old>238</price_old>
+    <price>219</price>
+    <price_old>261</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/4135540659_bitumnaya-lenta-75.jpg</picture>
@@ -68846,7 +68846,7 @@
     <vendorCode>1008813</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>36</quantity_in_stock>
+    <quantity_in_stock>32</quantity_in_stock>
     <param name="Количество компонентов">Однокомпонентный</param>
     <param name="Состояние клея">Готовая эмульсия</param>
     <param name="Срок хранения" unit="мес">12</param>
@@ -69245,7 +69245,7 @@
     <vendorCode>500082</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>779</quantity_in_stock>
+    <quantity_in_stock>777</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -70244,8 +70244,8 @@
   </offer>
   <offer id="1773363060" available="true">
     <url>https://proekt24.com/p1773363060-germetiziruyuschaya-lenta-150.html</url>
-    <price>1160</price>
-    <price_old>1381</price_old>
+    <price>1276</price>
+    <price_old>1519</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>21984621</categoryId>
     <picture>https://images.prom.ua/4282259327_germetiziruyuschaya-lenta-150.jpg</picture>
@@ -71719,7 +71719,7 @@
     <vendorCode>56390</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>283</quantity_in_stock>
+    <quantity_in_stock>275</quantity_in_stock>
     <param name="Вес" unit="кг">0.78</param>
     <param name="Длина листа" unit="см">50</param>
     <param name="Применение материала">Дверные панели|Крыша|Двери|Крышка багажника|Потолок автомобиля|Капот|Стенки багажника|Колесные арки|Пол автомобиля|Пол багажника</param>
@@ -72962,7 +72962,7 @@
     <vendorCode>55720</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>761</quantity_in_stock>
+    <quantity_in_stock>757</quantity_in_stock>
     <param name="Применение материала">Двери|Потолок автомобиля|Стенки багажника|Пол автомобиля|Пол багажника</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
@@ -74112,7 +74112,7 @@
     <vendorCode>Н10020010С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Цвет">Синий</param>
     <param name="Материал чехла">Искусственная кожа</param>
@@ -74133,7 +74133,7 @@
     <vendorCode>Н10020010Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Цвет">Черный</param>
     <param name="Материал чехла">Искусственная кожа</param>
@@ -74352,7 +74352,7 @@
     <vendorCode>888920</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>192</quantity_in_stock>
+    <quantity_in_stock>191</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Цвет">Черный</param>
     <param name="Материал чехла">Искусственная кожа</param>
@@ -74436,7 +74436,7 @@
     <vendorCode>888922</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>334</quantity_in_stock>
+    <quantity_in_stock>333</quantity_in_stock>
     <param name="Длина" unit="см">200</param>
     <param name="Цвет">Синий</param>
     <param name="Материал чехла">Искусственная кожа</param>
@@ -75155,13 +75155,14 @@
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>87</quantity_in_stock>
-    <param name="Материал ручки">дерево</param>
+    <param name="Совместимость с маркой">Citroen|Daewoo|Volvo|Volkswagen|Toyota|Dodge|Fiat|Ford|Renault|Peugeot|Nissan|Mitsubishi|Honda|Hyundai|Mazda|Kia|Audi|BMW|Chrysler</param>
+    <param name="Совместимость с моделью">Scorpio|C2|Nissan Maxima|Camry|Caliber|A4|Yaris|Tucson|Primera|Passat|Q7|Ceed|Renault Megane|Colt|RAV4|6|XC90|C5|Jazz|Q5|Dodge|Fiesta|Focus|C4|206|Chrysler|Accord|Fusion|A6|Getz|Sonata|Mondeo|Lupo|Civic|Avensis|Santa Fe|Tiguan|Lancer|Almera|Matiz|Sebring</param>
     <param name="Диаметр, мм" unit="">20</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Металл</param>
+    <param name="Материал ручки" unit="">дерево</param>
     <param name="Ширина, мм" unit="">30</param>
     <param name="Совместимость с маркой" unit="">Volvo</param>
-    <param name="Совместимость с моделью" unit="">Scorpio|C2|Nissan Maxima|Camry|Caliber|A4|Yaris|Tucson|Primera|Passat|Q7|Ceed|Renault Megane|Colt|RAV4|6|XC90|C5|Jazz|Q5|Dodge|Fiesta|Focus|C4|206|Chrysler|Accord|Fusion|A6|Getz|Sonata|Mondeo|Lupo|Civic|Avensis|Santa Fe|Tiguan|Lancer|Almera|Matiz|Sebring</param>
   </offer>
   <offer id="1855103294" available="true">
     <url>https://proekt24.com/p1855103294-metallicheskij-prikatochnyj-rolik.html</url>
@@ -77997,7 +77998,7 @@
     <name>Поролон для спортивних матов 2000х1000х100 мм</name>
     <vendorCode>888999</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>293</quantity_in_stock>
+    <quantity_in_stock>291</quantity_in_stock>
     <param name="Толщина" unit="см">100</param>
     <param name="Плотность, кг\м3" unit="кг\м3">50</param>
   </offer>
@@ -78261,7 +78262,7 @@
     <vendorCode>889113</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>845</quantity_in_stock>
+    <quantity_in_stock>860</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -80091,7 +80092,7 @@
     <vendorCode>Н11006005ЗТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>36</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <param name="Длина" unit="см">110</param>
     <param name="Цвет">Зелёный</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -80138,7 +80139,7 @@
     <vendorCode>КБ18006005ЗТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Цвет">Зелёный</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -80292,7 +80293,7 @@
     <vendorCode>ВП57/13</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>628</quantity_in_stock>
+    <quantity_in_stock>584</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -82591,7 +82592,7 @@
     <vendorCode>889171</vendorCode>
     <country_of_origin>Пакистан</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Вес" unit="oz">10</param>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Цвет">Черный</param>
@@ -83001,7 +83002,7 @@
     <vendorCode>889205</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Цвет">Синий</param>
     <param name="Материал">Натуральная кожа</param>
@@ -85250,7 +85251,7 @@
     <vendorCode>889333</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Цвет">Черный</param>
     <param name="Материал">Искусственная кожа</param>
@@ -86814,7 +86815,7 @@
     <vendorCode>889328</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Цвет">Красный</param>
     <param name="Материал">Искусственная кожа</param>
@@ -88526,8 +88527,8 @@
   </offer>
   <offer id="2040442675" available="false">
     <url>https://proekt24.com/p2040442675-germetik-aqua-protect.html</url>
-    <price>760</price>
-    <price_old>905</price_old>
+    <price>836</price>
+    <price_old>995</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13199627</categoryId>
     <picture>https://images.prom.ua/3946255481_germetik-aqua-protect.jpg</picture>
@@ -89265,8 +89266,8 @@
   </offer>
   <offer id="2078088302" available="true">
     <url>https://proekt24.com/p2078088302-bitumnaya-lenta-500.html</url>
-    <price>1526</price>
-    <price_old>1816</price_old>
+    <price>1678</price>
+    <price_old>1998</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/5325418039_bitumnaya-lenta-500.jpg</picture>
@@ -89285,7 +89286,7 @@
     <vendorCode>56789</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>132</quantity_in_stock>
+    <quantity_in_stock>128</quantity_in_stock>
     <param name="Вес упаковки" unit="кг">8.5</param>
     <param name="Длина" unit="м">10</param>
     <param name="Длина упаковки" unit="мм">50</param>
@@ -90001,7 +90002,7 @@
     <vendorCode>889440</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>37</quantity_in_stock>
+    <quantity_in_stock>35</quantity_in_stock>
     <param name="Длина рулона" unit="м">50</param>
     <param name="Максимальная температура эксплуатации" unit="">200</param>
     <param name="Минимальная температура эксплуатации" unit="">-30</param>
@@ -92648,7 +92649,7 @@
     <vendorCode>055020</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>50</quantity_in_stock>
+    <quantity_in_stock>56</quantity_in_stock>
     <param name="Экологичный материал">Да</param>
     <param name="Цвет">Серый</param>
     <param name="Область применения">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
@@ -107974,7 +107975,7 @@
     <vendorCode>889492</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>566</quantity_in_stock>
+    <quantity_in_stock>563</quantity_in_stock>
     <param name="Длина" unit="м">5</param>
     <param name="Максимальная рабочая температура" unit="град.">100</param>
     <param name="Минимальная рабочая температура" unit="град.">-40</param>
@@ -114259,8 +114260,8 @@
   </offer>
   <offer id="2229989325" available="false">
     <url>https://proekt24.com/p2229989325-germetik-aqua-protect.html</url>
-    <price>463</price>
-    <price_old>551</price_old>
+    <price>509</price>
+    <price_old>606</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>13199627</categoryId>
     <picture>https://images.prom.ua/3946255481_germetik-aqua-protect.jpg</picture>
@@ -114808,7 +114809,7 @@
     <vendorCode>889515</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>52</quantity_in_stock>
+    <quantity_in_stock>45</quantity_in_stock>
     <param name="Длина листа" unit="">2</param>
     <param name="Площадь листа" unit="">2</param>
     <param name="Тип" unit="">Шумоизоляция</param>
@@ -115441,7 +115442,7 @@
     <vendorCode>9001019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1010</quantity_in_stock>
+    <quantity_in_stock>460</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -115843,7 +115844,7 @@
     <vendorCode>9002019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -115873,7 +115874,7 @@
     <vendorCode>9001519</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>102</quantity_in_stock>
+    <quantity_in_stock>99</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -115993,7 +115994,7 @@
     <vendorCode>9003019</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>64</quantity_in_stock>
+    <quantity_in_stock>61</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -116595,7 +116596,7 @@
     <vendorCode>ВП18/9С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>60</quantity_in_stock>
+    <quantity_in_stock>58</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -116624,7 +116625,7 @@
     <vendorCode>ВП22/9С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>186</quantity_in_stock>
+    <quantity_in_stock>184</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -116653,7 +116654,7 @@
     <vendorCode>ВП22/9К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>264</quantity_in_stock>
+    <quantity_in_stock>262</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -116682,7 +116683,7 @@
     <vendorCode>ВП28/9К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>90</quantity_in_stock>
+    <quantity_in_stock>88</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -116711,7 +116712,7 @@
     <vendorCode>ВП18/9К</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -116740,7 +116741,7 @@
     <vendorCode>ВП28/9С</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>102</quantity_in_stock>
+    <quantity_in_stock>100</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г4 (сильногорючий)</param>
     <param name="Длина" unit="м">2</param>
@@ -118860,8 +118861,8 @@
   </offer>
   <offer id="2407180970" available="false">
     <url>https://proekt24.com/p2407180970-bitumnaya-lenta-stk.html</url>
-    <price>1522</price>
-    <price_old>1812</price_old>
+    <price>1608</price>
+    <price_old>1914</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>96802051</categoryId>
     <picture>https://images.prom.ua/7533290459_bitumnaya-lenta-stk.jpg</picture>
@@ -119212,7 +119213,7 @@
     <vendorCode>889571У</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -123175,7 +123176,7 @@
     <vendor>Укрізол</vendor>
     <vendorCode>889598</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>83</quantity_in_stock>
+    <quantity_in_stock>78</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -125585,8 +125586,8 @@
   </offer>
   <offer id="2656839728" available="false">
     <url>https://proekt24.com/p2656839728-bitumnaya-lenta-stk.html</url>
-    <price>326</price>
-    <price_old>388</price_old>
+    <price>358</price>
+    <price_old>426</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>144048496</categoryId>
     <picture>https://images.prom.ua/7533290460_bitumnaya-lenta-stk.jpg</picture>
@@ -125615,8 +125616,8 @@
   </offer>
   <offer id="2656839729" available="false">
     <url>https://proekt24.com/p2656839729-bitumnaya-lenta-stk.html</url>
-    <price>326</price>
-    <price_old>388</price_old>
+    <price>358</price>
+    <price_old>426</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>144048496</categoryId>
     <picture>https://images.prom.ua/3068463167_bitumnaya-lenta-stk.jpg</picture>
@@ -127631,7 +127632,7 @@
     <vendorCode>889666</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>615</quantity_in_stock>
+    <quantity_in_stock>611</quantity_in_stock>
     <param name="Применение материала">Двери|Потолок автомобиля|Стенки багажника|Пол автомобиля|Пол багажника</param>
     <param name="Необходимость нагрева">Нет</param>
     <param name="Совместимость с маркой">Honda|Daewoo|Volkswagen|Renault|Hyundai|Nissan|Chrysler|Dodge|Kia|Volvo|Citroen|Ford|Audi|Mazda|Peugeot|BMW|Fiat|Toyota|Mitsubishi</param>
@@ -129966,7 +129967,7 @@
     <vendorCode>500061У</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>610</quantity_in_stock>
+    <quantity_in_stock>605</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -130746,7 +130747,7 @@
     <vendor>Укрізол</vendor>
     <vendorCode>889737</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <param name="Армированный скотч">Да</param>
     <param name="Относительное удлинение на разрыв" unit="%">3</param>
     <param name="Длина" unit="м">50</param>
@@ -130841,7 +130842,7 @@
     <vendorCode>5005030</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Область применения">Для стен|Для пола|Для каркасных конструкций|Для инженерного оборудования|Для потолков</param>
@@ -130907,7 +130908,7 @@
     <vendorCode>5005020</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>52</quantity_in_stock>
+    <quantity_in_stock>57</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Цвет">Черный</param>
     <param name="Область применения">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
@@ -131215,7 +131216,7 @@
     <vendorCode>889750</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <param name="Вес" unit="кг">1</param>
     <param name="Диаметр нити" unit="мм">1.75</param>
     <param name="Цвет">Белый</param>
@@ -133948,8 +133949,8 @@
   </offer>
   <offer id="3115055834" available="true">
     <url>https://proekt24.com/p3115055834-germetiziruyuschij-shnur-seryj.html</url>
-    <price>213</price>
-    <price_old>254</price_old>
+    <price>234</price>
+    <price_old>279</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>105213334</categoryId>
     <picture>https://images.prom.ua/3613043929_germetiziruyuschij-shnur-5.jpg</picture>
@@ -133963,7 +133964,7 @@
     <vendorCode>61216</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>243</quantity_in_stock>
+    <quantity_in_stock>242</quantity_in_stock>
     <param name="Длина" unit="м">13</param>
     <param name="Цвет">Серый</param>
     <param name="Толщина (мм)">5</param>
@@ -149775,7 +149776,7 @@
     <vendorCode>500041</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>296</quantity_in_stock>
+    <quantity_in_stock>274</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -150670,7 +150671,7 @@
     <vendorCode>889845</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>148</quantity_in_stock>
+    <quantity_in_stock>124</quantity_in_stock>
     <param name="Длина листа" unit="см">50</param>
     <param name="Применение материала">Крыша|Дверные панели|Двери|Капот|Колесные арки|Крышка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -150734,7 +150735,7 @@
     <vendorCode>889844</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>287</quantity_in_stock>
+    <quantity_in_stock>273</quantity_in_stock>
     <param name="Тип">Виброизоляция</param>
     <param name="Применение материала">Капот|Крыша|Двери|Крышка багажника|Дверные панели|Пол автомобиля|Потолок автомобиля|Пол багажника|Стенки багажника|Колесные арки</param>
     <param name="Толщина" unit="мм">2</param>
