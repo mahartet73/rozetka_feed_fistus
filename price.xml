@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-19 09:00">
+<yml_catalog date="2026-10-19 17:00">
   <shop>
     <name>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</name>
     <company>ПРОЕКТ24 ОПТОВО РОЗНИЧНАЯ КОМПАНИЯ</company>
@@ -1866,7 +1866,7 @@
     <param name="Ширина" unit="мм">10</param>
     <param name="Самоклеющийся уплотнитель" unit="">Универсальный</param>
   </offer>
-  <offer id="29230115" available="true">
+  <offer id="29230115" available="false">
     <url>https://proekt24.com/p29230115-gazovspenennyj-polietilen-ukrizol.html</url>
     <price>711</price>
     <price_old>846</price_old>
@@ -3828,7 +3828,7 @@
     <vendorCode>500092</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1268</quantity_in_stock>
+    <quantity_in_stock>1266</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Экологическая безопасность материала">Безопасен</param>
@@ -3898,7 +3898,7 @@
     <vendorCode>500192</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>680</quantity_in_stock>
+    <quantity_in_stock>678</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -4243,23 +4243,23 @@
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Материал изоляции">Вспененный каучук</param>
-    <param name="Вид основного сырья">Неорганическое</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Назначение материала">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">30</param>
-    <param name="Цвет" unit="">Черный</param>
     <param name="Максимальная рабочая температура" unit="">120</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
     <param name="Срок службы" unit="">25</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">6</param>
     <param name="Форма поставляемого сырья" unit="">Рулон</param>
     <param name="Плотность" unit="">55</param>
+    <param name="Вид основного сырья" unit="">Неорганическое</param>
+    <param name="Материал изоляции" unit="">Вспененный каучук</param>
   </offer>
   <offer id="131614769" available="true">
     <url>https://proekt24.com/p131614769-vspenennyj-kauchuk-folgirovannyj.html</url>
@@ -4344,20 +4344,20 @@
     <vendorCode>500195</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>89</quantity_in_stock>
+    <quantity_in_stock>81</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Ширина" unit="мм">1000</param>
-    <param name="Плотность" unit="кг/м3">55</param>
+    <param name="Плотность" unit="кг/м³">55</param>
+    <param name="Цвет">Черный</param>
+    <param name="Область применения">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
+    <param name="Степень жесткости">Мягкий</param>
+    <param name="Назначение материала">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
     <param name="Вид натурального каучука" unit="">Высокосортный натуральный каучук</param>
     <param name="Вид синтетического каучука" unit="">Вспененный</param>
     <param name="Длина рулона, п.м." unit="">10</param>
-    <param name="Цвет" unit="">Черный</param>
     <param name="Максимальная рабочая температура" unit="">120</param>
     <param name="Минимальная рабочая температура" unit="">-100</param>
-    <param name="Область применения" unit="">Для инженерного оборудования|Для каркасных конструкций|Для пола|Для потолков|Для стен</param>
-    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума|Улучшение акустики помещений</param>
     <param name="Срок службы" unit="">25</param>
-    <param name="Степень жесткости" unit="">Мягкий</param>
     <param name="Теплопроводность (Вт/мК)" unit="">0.032</param>
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">19</param>
@@ -22276,7 +22276,7 @@
     <vendorCode>11363</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>809</quantity_in_stock>
+    <quantity_in_stock>824</quantity_in_stock>
     <param name="Длина листа" unit="см">70</param>
     <param name="Применение материала">Крыша|Дверные панели|Двери|Капот|Колесные арки|Крышка багажника|Пол багажника|Пол автомобиля|Потолок автомобиля|Стенки багажника</param>
     <param name="Необходимость нагрева">Нет</param>
@@ -26277,7 +26277,7 @@
     <param name="Толщина изоляции" unit="мм">40</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="458292824" available="false">
+  <offer id="458292824" available="true">
     <url>https://proekt24.com/p458292824-penoplastovaya-skorlupa-4040.html</url>
     <price>158</price>
     <price_old>188</price_old>
@@ -32734,7 +32734,7 @@
     <param name="Максимальная нагрузка" unit="кг">150</param>
     <param name="Тип">Гладкий</param>
   </offer>
-  <offer id="610162874" available="true">
+  <offer id="610162874" available="false">
     <url>https://proekt24.com/p610162874-butilkauchukovaya-lenta-mpg.html</url>
     <price>414</price>
     <price_old>492</price_old>
@@ -35568,7 +35568,7 @@
     <vendorCode>EF-AWTS-050</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Вес" unit="кг">0.5</param>
     <param name="Цвет">Серый</param>
     <param name="Количество утяжелителей">2</param>
@@ -35633,7 +35633,7 @@
     <vendorCode>EF-AWTS-300</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <param name="Вес" unit="кг">3</param>
     <param name="Цвет">Серый</param>
     <param name="Количество утяжелителей">2</param>
@@ -35662,7 +35662,7 @@
     <param name="Особенности">Неопреновое покрытие|Подходит для ног и рук</param>
     <param name="Тип" unit="">4</param>
   </offer>
-  <offer id="1356443481" available="true">
+  <offer id="1356443481" available="false">
     <url>https://proekt24.com/p1356443481-utyazheliteli-dlya-ruk.html</url>
     <price>734</price>
     <price_old>874</price_old>
@@ -36466,7 +36466,7 @@
     <param name="Тип">Жилет</param>
     <param name="Состояние">Новое</param>
   </offer>
-  <offer id="1396628587" available="true">
+  <offer id="1396628587" available="false">
     <url>https://proekt24.com/p1396628587-zhilet-utyazhelitelnyj-easyfit.html</url>
     <price>755</price>
     <price_old>899</price_old>
@@ -36653,7 +36653,7 @@
     <vendorCode>62713</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock>27</quantity_in_stock>
     <param name="Тип использования">Для наружных работ</param>
     <param name="Назначение материала">Для балконов|Для стен|Для кровли|Для фасадов</param>
     <param name="Форма поставляемого материала">Рулон</param>
@@ -36682,7 +36682,7 @@
     <vendorCode>62714</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Тип использования">Для наружных работ</param>
     <param name="Назначение материала">Для балконов|Для стен|Для кровли|Для фасадов</param>
     <param name="Форма поставляемого материала">Рулон</param>
@@ -36772,7 +36772,7 @@
     <vendorCode>62723</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>98</quantity_in_stock>
+    <quantity_in_stock>96</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Цвет">Коричневый</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
@@ -36803,7 +36803,7 @@
     <vendorCode>62724</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Цвет">Коричневый</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
@@ -38257,7 +38257,7 @@
     <vendorCode>62717</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <param name="Длина" unit="м">10</param>
     <param name="Назначение материала">Для стен|Для фасадов|Для кровли|Для балконов</param>
     <param name="Тип использования">Для наружных работ</param>
@@ -44027,8 +44027,8 @@
   </offer>
   <offer id="1517142817" available="true">
     <url>https://proekt24.com/p1517142817-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457028096_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -44082,8 +44082,8 @@
   </offer>
   <offer id="1517142819" available="true">
     <url>https://proekt24.com/p1517142819-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>1221</price>
-    <price_old>1454</price_old>
+    <price>1344</price>
+    <price_old>1600</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457028107_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -44115,8 +44115,8 @@
   </offer>
   <offer id="1517142820" available="true">
     <url>https://proekt24.com/p1517142820-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>852</price>
-    <price_old>1014</price_old>
+    <price>938</price>
+    <price_old>1116</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457028117_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -44176,8 +44176,8 @@
   </offer>
   <offer id="1517142822" available="true">
     <url>https://proekt24.com/p1517142822-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457028113_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -44205,8 +44205,8 @@
   </offer>
   <offer id="1517142823" available="true">
     <url>https://proekt24.com/p1517142823-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457028115_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -44339,8 +44339,8 @@
   </offer>
   <offer id="1517142828" available="true">
     <url>https://proekt24.com/p1517142828-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>1596</price>
-    <price_old>1900</price_old>
+    <price>1758</price>
+    <price_old>2092</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3655681844_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -44372,8 +44372,8 @@
   </offer>
   <offer id="1517142829" available="true">
     <url>https://proekt24.com/p1517142829-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457029559_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -44400,8 +44400,8 @@
   </offer>
 <offer id="1517142830" available="true">
     <url>https://proekt24.com/p1517142830-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457029572_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -44429,8 +44429,8 @@
   </offer>
   <offer id="1517142831" available="true">
     <url>https://proekt24.com/p1517142831-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>1970</price>
-    <price_old>2345</price_old>
+    <price>2167</price>
+    <price_old>2580</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457029582_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -44462,8 +44462,8 @@
   </offer>
   <offer id="1517142832" available="true">
     <url>https://proekt24.com/p1517142832-akupunkturnyj-massazhnyj-kovrik.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457029604_akupunkturnyj-massazhnyj-kovrik.jpg</picture>
@@ -44488,8 +44488,8 @@
   </offer>
   <offer id="1517142833" available="true">
     <url>https://proekt24.com/p1517142833-akupunkturnyj-massazhnyj-kovrik.html</url>
-    <price>1221</price>
-    <price_old>1454</price_old>
+    <price>1344</price>
+    <price_old>1600</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457029616_akupunkturnyj-massazhnyj-kovrik.jpg</picture>
@@ -44519,8 +44519,8 @@
   </offer>
   <offer id="1517142834" available="true">
     <url>https://proekt24.com/p1517142834-akupunkturnyj-massazhnyj-kovrik.html</url>
-    <price>1784</price>
-    <price_old>2124</price_old>
+    <price>1964</price>
+    <price_old>2338</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457029630_akupunkturnyj-massazhnyj-kovrik.jpg</picture>
@@ -44550,8 +44550,8 @@
   </offer>
   <offer id="1517142835" available="true">
     <url>https://proekt24.com/p1517142835-akupunkturnyj-massazhnyj-kovrik.html</url>
-    <price>852</price>
-    <price_old>1014</price_old>
+    <price>938</price>
+    <price_old>1116</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457029639_akupunkturnyj-massazhnyj-kovrik.jpg</picture>
@@ -44581,8 +44581,8 @@
   </offer>
   <offer id="1517142836" available="true">
     <url>https://proekt24.com/p1517142836-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>1857</price>
-    <price_old>2211</price_old>
+    <price>2043</price>
+    <price_old>2432</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457029647_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -44614,8 +44614,8 @@
   </offer>
   <offer id="1517142837" available="true">
     <url>https://proekt24.com/p1517142837-massazhnyj-kovrik-nastolnoj.html</url>
-    <price>2238</price>
-    <price_old>2664</price_old>
+    <price>2462</price>
+    <price_old>2931</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457029648_massazhnyj-kovrik-s.jpg</picture>
@@ -44646,8 +44646,8 @@
   </offer>
   <offer id="1517142838" available="true">
     <url>https://proekt24.com/p1517142838-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457029666_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -44672,8 +44672,8 @@
   </offer>
   <offer id="1517142839" available="true">
     <url>https://proekt24.com/p1517142839-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457030814_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -44755,8 +44755,8 @@
   </offer>
   <offer id="1517142842" available="true">
     <url>https://proekt24.com/p1517142842-kovrik-massazhnyj-pazly.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457030823_kovrik-massazhnyj-pazly.jpg</picture>
@@ -44782,8 +44782,8 @@
   </offer>
   <offer id="1517142843" available="true">
     <url>https://proekt24.com/p1517142843-kovrik-massazhnyj-pazly.html</url>
-    <price>1221</price>
-    <price_old>1454</price_old>
+    <price>1344</price>
+    <price_old>1600</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457030826_kovrik-massazhnyj-pazly.jpg</picture>
@@ -44812,8 +44812,8 @@
   </offer>
   <offer id="1517142844" available="true">
     <url>https://proekt24.com/p1517142844-kovrik-massazhnyj-pazly.html</url>
-    <price>1596</price>
-    <price_old>1900</price_old>
+    <price>1758</price>
+    <price_old>2092</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457030833_kovrik-massazhnyj-pazly.jpg</picture>
@@ -44977,8 +44977,8 @@
   </offer>
   <offer id="1517142850" available="true">
     <url>https://proekt24.com/p1517142850-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>2735</price>
-    <price_old>3256</price_old>
+    <price>3010</price>
+    <price_old>3584</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3655683043_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -45006,8 +45006,8 @@
   </offer>
   <offer id="1517142851" available="true">
     <url>https://proekt24.com/p1517142851-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>3115</price>
-    <price_old>3709</price_old>
+    <price>3427</price>
+    <price_old>4080</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3655683045_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -45035,8 +45035,8 @@
   </offer>
   <offer id="1517142852" available="true">
     <url>https://proekt24.com/p1517142852-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>3486</price>
-    <price_old>4150</price_old>
+    <price>3836</price>
+    <price_old>4566</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3655683486_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -45132,11 +45132,11 @@
     <vendorCode>10187</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Состояние">Новое</param>
-    <param name="Цвет">Зелёный</param>
-    <param name="Тип">Универсальный</param>
     <param name="Длина" unit="">25</param>
+    <param name="Цвет" unit="">Зелёный</param>
+    <param name="Тип" unit="">Универсальный</param>
   </offer>
   <offer id="1517279830" available="true">
     <url>https://proekt24.com/p1517279830-ortopedicheskaya-podushka-valik.html</url>
@@ -47227,7 +47227,7 @@
     <vendorCode>56359</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>168</quantity_in_stock>
+    <quantity_in_stock>165</quantity_in_stock>
     <param name="Максимальная температура эксплуатации" unit="град.">90</param>
     <param name="Материал">Битум</param>
     <param name="Минимальная температура эксплуатации" unit="град.">-50</param>
@@ -50506,7 +50506,7 @@
     <vendorCode>EF-1818-4</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <param name="Цвет">Салатовый</param>
     <param name="Материал">EVA пена</param>
     <param name="Состояние">Новое</param>
@@ -50566,7 +50566,7 @@
     <vendorCode>EF-1818-6</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <param name="Цвет">Фиолетовый</param>
     <param name="Материал">EVA пена</param>
     <param name="Состояние">Новое</param>
@@ -51165,8 +51165,8 @@
   </offer>
   <offer id="1579126288" available="false">
     <url>https://proekt24.com/p1579126288-massazhnij-kovrik-ortek.html</url>
-    <price>1221</price>
-    <price_old>1454</price_old>
+    <price>1344</price>
+    <price_old>1600</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3655683498_massazhnij-kovrik-ortek.jpg</picture>
@@ -51201,8 +51201,8 @@
   </offer>
   <offer id="1579126289" available="true">
     <url>https://proekt24.com/p1579126289-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3655683520_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -51659,7 +51659,7 @@
     <vendorCode>163105</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <param name="Вес" unit="г">1100</param>
     <param name="Диаметр" unit="см">28</param>
     <param name="Цвет">Салатовый</param>
@@ -52496,7 +52496,7 @@
     <vendorCode>900085</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>166</quantity_in_stock>
+    <quantity_in_stock>162</quantity_in_stock>
     <param name="Вид основного сырья">Неорганическое</param>
     <param name="Водопоглощение" unit="%">1</param>
     <param name="Группа материала по горючести">Г3 (нормальногорючий)</param>
@@ -54311,7 +54311,7 @@
     <vendorCode>832581</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>197</quantity_in_stock>
+    <quantity_in_stock>196</quantity_in_stock>
     <param name="Цвет">Белый</param>
     <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -54441,7 +54441,7 @@
     <vendorCode>832585</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>393</quantity_in_stock>
+    <quantity_in_stock>392</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -61240,7 +61240,7 @@
     <vendorCode>EF-AWTS-525</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <param name="Количество утяжелителей">2</param>
     <param name="Вес" unit="кг">5</param>
     <param name="Особенности">Подходит для ног и рук|Неопреновое покрытие</param>
@@ -69187,7 +69187,7 @@
     <vendorCode>832615</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>356</quantity_in_stock>
+    <quantity_in_stock>355</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Ширина" unit="мм">1000</param>
     <param name="Материал">ЭВА</param>
@@ -69245,7 +69245,7 @@
     <vendorCode>500082</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>762</quantity_in_stock>
+    <quantity_in_stock>775</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Эластичность материала">Да</param>
     <param name="Цвет">Черный</param>
@@ -69406,7 +69406,7 @@
     <vendorCode>EF-2017-Ф</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Цвет">Фиолетовый</param>
     <param name="Материал">EVA пена</param>
     <param name="Состояние">Новое</param>
@@ -69475,7 +69475,7 @@
     <vendorCode>EF-2017-О</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <param name="Цвет">Оранжевый</param>
     <param name="Материал">EVA пена</param>
     <param name="Состояние">Новое</param>
@@ -73272,7 +73272,7 @@
     <param name="Толщина" unit="мм">15</param>
     <param name="Ширина листа" unit="см">50</param>
   </offer>
-  <offer id="1832278407" available="true">
+  <offer id="1832278407" available="false">
     <url>https://proekt24.com/p1832278407-disk-zdorovya-gratsiya.html</url>
     <price>472</price>
     <price_old>562</price_old>
@@ -73981,7 +73981,7 @@
     <vendorCode>18006008СЕ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>347</quantity_in_stock>
+    <quantity_in_stock>346</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Цвет">Серый</param>
     <param name="Количество слоев">Однослойные</param>
@@ -74536,7 +74536,7 @@
     <vendorCode>КБ18006005ФТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <param name="Длина" unit="см">180</param>
     <param name="Цвет">Фиолетовый</param>
     <param name="Количество слоев">Однослойные</param>
@@ -75315,7 +75315,7 @@
     <name>Сидушка туристическая 33х40х15 серая</name>
     <vendorCode>654351</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <param name="Вес" unit="г">0.1</param>
     <param name="Длина" unit="см">33</param>
     <param name="Цвет">Серый</param>
@@ -76294,7 +76294,7 @@
     <vendor>EasyFit</vendor>
     <vendorCode>EF-3002-GY</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <param name="Цвет">Серый</param>
     <param name="Состояние">Новое</param>
     <param name="Форма">Круглая</param>
@@ -76319,21 +76319,21 @@
     <vendor>EasyFit</vendor>
     <vendorCode>EF-3002-GN</vendorCode>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <param name="Цвет">Зелёный</param>
     <param name="Состояние">Новое</param>
-    <param name="Форма">Круглая</param>
     <param name="Вес" unit="">310</param>
     <param name="Длина" unit="">15</param>
     <param name="Материал" unit="">Резина</param>
     <param name="Складная конструкция для хранения и транспортировки" unit="">Нет</param>
     <param name="Толщина" unit="">8</param>
     <param name="Ширина" unit="">15</param>
+    <param name="Форма" unit="">Круглая</param>
   </offer>
   <offer id="1882763580" available="true">
     <url>https://proekt24.com/p1882763580-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>3402</price>
-    <price_old>4050</price_old>
+    <price>3743</price>
+    <price_old>4456</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3655683045_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -76359,8 +76359,8 @@
   </offer>
   <offer id="1882763581" available="true">
     <url>https://proekt24.com/p1882763581-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>3019</price>
-    <price_old>3594</price_old>
+    <price>3321</price>
+    <price_old>3954</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3655683043_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -79143,7 +79143,7 @@
     <param name="Форма" unit="">Прямоугольная</param>
     <param name="Ширина" unit="">6.5</param>
   </offer>
-  <offer id="1944561060" available="true">
+  <offer id="1944561060" available="false">
     <url>https://proekt24.com/p1944561060-myach-massazhnyj-tverdyj.html</url>
     <price>92</price>
     <price_old>110</price_old>
@@ -79159,7 +79159,7 @@
     <vendorCode>10779</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Состояние">Новое</param>
     <param name="Диаметр" unit="">9</param>
     <param name="Материал" unit="">ПВХ</param>
@@ -79195,8 +79195,8 @@
   </offer>
   <offer id="1944561062" available="true">
     <url>https://proekt24.com/p1944561062-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/3457028098_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -80092,7 +80092,7 @@
     <vendorCode>Н11006005ЗТ1</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>35</quantity_in_stock>
     <param name="Длина" unit="см">110</param>
     <param name="Цвет">Зелёный</param>
     <param name="Материал">Пенополиэтилен</param>
@@ -82886,7 +82886,7 @@
     <vendorCode>889207</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Цвет">Синий</param>
     <param name="Материал">Искусственная кожа</param>
@@ -83062,7 +83062,7 @@
     <param name="Материал">Натуральная кожа</param>
     <param name="Тип">Боевые</param>
   </offer>
-  <offer id="1994100810" available="true">
+  <offer id="1994100810" available="false">
     <url>https://proekt24.com/p1994100810-zaschitnyj-zhilet-dlya.html</url>
     <price>1102</price>
     <price_old>1312</price_old>
@@ -84487,7 +84487,7 @@
     <vendorCode>1003-02Ч</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <param name="Вес" unit="кг">27</param>
     <param name="Высота" unit="см">120</param>
     <param name="Возрастная группа">Взрослая</param>
@@ -88006,8 +88006,8 @@
   </offer>
   <offer id="2021579056" available="true">
     <url>https://proekt24.com/p2021579056-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>2360</price>
-    <price_old>2810</price_old>
+    <price>2597</price>
+    <price_old>3091</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/5114747884_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -88033,8 +88033,8 @@
   </offer>
   <offer id="2021579057" available="true">
     <url>https://proekt24.com/p2021579057-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>1784</price>
-    <price_old>2124</price_old>
+    <price>1964</price>
+    <price_old>2338</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/5114766117_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -91209,7 +91209,7 @@
     <vendorCode>889451</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <param name="Возрастная группа">Взрослая</param>
     <param name="Цвет">Черный</param>
     <param name="Материал">Искусственная кожа</param>
@@ -108781,8 +108781,8 @@
   </offer>
   <offer id="2210268529" available="true">
     <url>https://proekt24.com/p2210268529-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>4753</price>
-    <price_old>5659</price_old>
+    <price>5229</price>
+    <price_old>6225</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/5818014911_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -108916,8 +108916,8 @@
   </offer>
   <offer id="2210268534" available="true">
     <url>https://proekt24.com/p2210268534-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>4579</price>
-    <price_old>5451</price_old>
+    <price>5038</price>
+    <price_old>5998</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/5818014896_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -109429,8 +109429,8 @@
   </offer>
   <offer id="2210268559" available="true">
     <url>https://proekt24.com/p2210268559-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>3847</price>
-    <price_old>4580</price_old>
+    <price>4233</price>
+    <price_old>5039</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/5818014131_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -109770,8 +109770,8 @@
   </offer>
   <offer id="2210268577" available="true">
     <url>https://proekt24.com/p2210268577-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>282</price>
-    <price_old>336</price_old>
+    <price>364</price>
+    <price_old>434</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/5818011299_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -109996,8 +109996,8 @@
   </offer>
   <offer id="2210268589" available="true">
     <url>https://proekt24.com/p2210268589-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>282</price>
-    <price_old>336</price_old>
+    <price>364</price>
+    <price_old>434</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/5818011102_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -110107,8 +110107,8 @@
   </offer>
   <offer id="2210268594" available="true">
     <url>https://proekt24.com/p2210268594-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>4024</price>
-    <price_old>4790</price_old>
+    <price>4427</price>
+    <price_old>5270</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/5818014874_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -110398,8 +110398,8 @@
   </offer>
   <offer id="2210268607" available="true">
     <url>https://proekt24.com/p2210268607-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>282</price>
-    <price_old>336</price_old>
+    <price>364</price>
+    <price_old>434</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/5818011104_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -110712,8 +110712,8 @@
   </offer>
   <offer id="2210268623" available="true">
     <url>https://proekt24.com/p2210268623-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>282</price>
-    <price_old>336</price_old>
+    <price>364</price>
+    <price_old>434</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/5818011098_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -114401,7 +114401,7 @@
     <vendorCode>889506</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>570</quantity_in_stock>
+    <quantity_in_stock>567</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">ЭВА</param>
     <param name="Вид полимера" unit="">Неорганический</param>
@@ -115750,8 +115750,8 @@
   </offer>
   <offer id="2292946503" available="false">
     <url>https://proekt24.com/p2292946503-gazovspenennyj-polietilen-listovoj.html</url>
-    <price>1056</price>
-    <price_old>1258</price_old>
+    <price>1069</price>
+    <price_old>1272</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4454223</categoryId>
     <picture>https://images.prom.ua/6146455788_gazovspenennyj-polietilen-listovoj.jpg</picture>
@@ -115779,8 +115779,8 @@
   </offer>
   <offer id="2292946504" available="false">
     <url>https://proekt24.com/p2292946504-gazovspenennyj-polietilen-listovoj.html</url>
-    <price>835</price>
-    <price_old>994</price_old>
+    <price>844</price>
+    <price_old>1005</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4454223</categoryId>
     <picture>https://images.prom.ua/6146454974_gazovspenennyj-polietilen-listovoj.jpg</picture>
@@ -115807,10 +115807,10 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Плотность" unit="кг/м3">15</param>
   </offer>
-  <offer id="2292946505" available="true">
+  <offer id="2292946505" available="false">
     <url>https://proekt24.com/p2292946505-gazovspenennyj-polietilen-listovoj.html</url>
-    <price>571</price>
-    <price_old>680</price_old>
+    <price>613</price>
+    <price_old>730</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4454223</categoryId>
     <picture>https://images.prom.ua/6146454320_gazovspenennyj-polietilen-listovoj.jpg</picture>
@@ -115837,10 +115837,10 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Плотность" unit="кг/м3">15</param>
   </offer>
-  <offer id="2292946506" available="false">
+  <offer id="2292946506" available="true">
     <url>https://proekt24.com/p2292946506-gazovspenennyj-polietilen-listovoj.html</url>
-    <price>393</price>
-    <price_old>468</price_old>
+    <price>421</price>
+    <price_old>501</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4454223</categoryId>
     <picture>https://images.prom.ua/6146453402_gazovspenennyj-polietilen-listovoj.jpg</picture>
@@ -115867,10 +115867,10 @@
     <param name="Максимальная рабочая температура" unit="">75</param>
     <param name="Минимальная рабочая температура" unit="">-60.0</param>
   </offer>
-  <offer id="2292946507" available="true">
+  <offer id="2292946507" available="false">
     <url>https://proekt24.com/p2292946507-gazovspenennyj-polietilen-listovoj.html</url>
-    <price>1509</price>
-    <price_old>1796</price_old>
+    <price>1620</price>
+    <price_old>1929</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4454223</categoryId>
     <picture>https://images.prom.ua/6146452868_gazovspenennyj-polietilen-listovoj.jpg</picture>
@@ -115899,8 +115899,8 @@
   </offer>
   <offer id="2292946508" available="false">
     <url>https://proekt24.com/p2292946508-gazovspenennyj-polietilen-listovoj.html</url>
-    <price>1331</price>
-    <price_old>1585</price_old>
+    <price>1430</price>
+    <price_old>1702</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4454223</categoryId>
     <picture>https://images.prom.ua/6146452249_gazovspenennyj-polietilen-listovoj.jpg</picture>
@@ -115927,10 +115927,10 @@
     <param name="Ширина" unit="">1000</param>
     <param name="Плотность" unit="">15</param>
   </offer>
-  <offer id="2292946509" available="true">
+  <offer id="2292946509" available="false">
     <url>https://proekt24.com/p2292946509-gazovspenennyj-polietilen-listovoj.html</url>
-    <price>1137</price>
-    <price_old>1354</price_old>
+    <price>1221</price>
+    <price_old>1454</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4454223</categoryId>
     <picture>https://images.prom.ua/6146451700_gazovspenennyj-polietilen-listovoj.jpg</picture>
@@ -115959,8 +115959,8 @@
   </offer>
   <offer id="2292946510" available="true">
     <url>https://proekt24.com/p2292946510-gazovspenennyj-polietilen-listovoj.html</url>
-    <price>943</price>
-    <price_old>1122</price_old>
+    <price>1012</price>
+    <price_old>1205</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>4454223</categoryId>
     <picture>https://images.prom.ua/6146450847_gazovspenennyj-polietilen-listovoj.jpg</picture>
@@ -117637,8 +117637,8 @@
   </offer>
   <offer id="2359023955" available="true">
     <url>https://proekt24.com/p2359023955-kovrik-massazhnyj-pazly.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6468782664_kovrik-massazhnyj-pazly.jpg</picture>
@@ -117667,8 +117667,8 @@
   </offer>
   <offer id="2359023957" available="false">
     <url>https://proekt24.com/p2359023957-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>1254</price>
-    <price_old>1492</price_old>
+    <price>1507</price>
+    <price_old>1794</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6289014439_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -117699,8 +117699,8 @@
   </offer>
   <offer id="2359023958" available="false">
     <url>https://proekt24.com/p2359023958-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>1254</price>
-    <price_old>1492</price_old>
+    <price>1507</price>
+    <price_old>1794</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6289014434_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -117731,8 +117731,8 @@
   </offer>
   <offer id="2359023959" available="true">
     <url>https://proekt24.com/p2359023959-kovrik-massazhnyj-pazly.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6468782659_kovrik-massazhnyj-pazly.jpg</picture>
@@ -117762,8 +117762,8 @@
   </offer>
   <offer id="2359023964" available="false">
     <url>https://proekt24.com/p2359023964-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>1813</price>
-    <price_old>2159</price_old>
+    <price>2200</price>
+    <price_old>2619</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6289014448_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -117794,8 +117794,8 @@
   </offer>
   <offer id="2359023966" available="true">
     <url>https://proekt24.com/p2359023966-kovrik-massazhnyj-pazly.html</url>
-    <price>1784</price>
-    <price_old>2124</price_old>
+    <price>1964</price>
+    <price_old>2338</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6289014398_kovrik-massazhnyj-pazly.jpg</picture>
@@ -117821,8 +117821,8 @@
   </offer>
   <offer id="2359023967" available="true">
     <url>https://proekt24.com/p2359023967-kovrik-massazhnyj-pazly.html</url>
-    <price>202</price>
-    <price_old>240</price_old>
+    <price>223</price>
+    <price_old>265</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6468782670_kovrik-massazhnyj-pazly.jpg</picture>
@@ -117849,8 +117849,8 @@
   </offer>
   <offer id="2359023968" available="true">
     <url>https://proekt24.com/p2359023968-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>1813</price>
-    <price_old>2159</price_old>
+    <price>2200</price>
+    <price_old>2619</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6289014444_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -117883,8 +117883,8 @@
   </offer>
   <offer id="2359023969" available="false">
     <url>https://proekt24.com/p2359023969-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>1254</price>
-    <price_old>1492</price_old>
+    <price>1507</price>
+    <price_old>1794</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6289014447_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -117915,8 +117915,8 @@
   </offer>
   <offer id="2359023973" available="false">
     <url>https://proekt24.com/p2359023973-ortopedicheskij-massazhnyj-kovrik.html</url>
-    <price>1254</price>
-    <price_old>1492</price_old>
+    <price>1507</price>
+    <price_old>1794</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6289014449_ortopedicheskij-massazhnyj-kovrik.jpg</picture>
@@ -120139,8 +120139,8 @@
   </offer>
   <offer id="2483381112" available="true">
     <url>https://proekt24.com/p2483381112-massazhnyj-kovrik-dinozavry.html</url>
-    <price>3112</price>
-    <price_old>3705</price_old>
+    <price>3424</price>
+    <price_old>4076</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660422_massazhnyj-kovrik-dinozavry.jpg</picture>
@@ -120170,8 +120170,8 @@
   </offer>
   <offer id="2483381113" available="true">
     <url>https://proekt24.com/p2483381113-massazhnyj-kovrik-dinozavry.html</url>
-    <price>1970</price>
-    <price_old>2345</price_old>
+    <price>2167</price>
+    <price_old>2580</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660417_massazhnyj-kovrik-dinozavry.jpg</picture>
@@ -120264,8 +120264,8 @@
   </offer>
   <offer id="2483381116" available="true">
     <url>https://proekt24.com/p2483381116-massazhnyj-kovrik-dinozavry.html</url>
-    <price>2360</price>
-    <price_old>2810</price_old>
+    <price>2597</price>
+    <price_old>3091</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660420_massazhnyj-kovrik-dinozavry.jpg</picture>
@@ -120342,8 +120342,8 @@
   </offer>
   <offer id="2483381119" available="true">
     <url>https://proekt24.com/p2483381119-kovrik-massazhnyj-pazly.html</url>
-    <price>103</price>
-    <price_old>122</price_old>
+    <price>114</price>
+    <price_old>136</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660148_kovrik-massazhnyj-pazly.jpg</picture>
@@ -120376,8 +120376,8 @@
   </offer>
   <offer id="2483381120" available="true">
     <url>https://proekt24.com/p2483381120-kovrik-massazhnyj-pazly.html</url>
-    <price>103</price>
-    <price_old>122</price_old>
+    <price>114</price>
+    <price_old>136</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660139_kovrik-massazhnyj-pazly.jpg</picture>
@@ -120410,8 +120410,8 @@
   </offer>
   <offer id="2483381121" available="true">
     <url>https://proekt24.com/p2483381121-massazhnyj-kovrik-dinozavry.html</url>
-    <price>2549</price>
-    <price_old>3035</price_old>
+    <price>2806</price>
+    <price_old>3340</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660425_massazhnyj-kovrik-dinozavry.jpg</picture>
@@ -120442,8 +120442,8 @@
   </offer>
   <offer id="2483381122" available="true">
     <url>https://proekt24.com/p2483381122-massazhnyj-kovrik-pazly.html</url>
-    <price>1784</price>
-    <price_old>2124</price_old>
+    <price>1964</price>
+    <price_old>2338</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660727_massazhnyj-kovrik-pazly.jpg</picture>
@@ -120474,8 +120474,8 @@
   </offer>
   <offer id="2483381123" available="true">
     <url>https://proekt24.com/p2483381123-massazhnyj-kovrik-dinozavry.html</url>
-    <price>1784</price>
-    <price_old>2124</price_old>
+    <price>1964</price>
+    <price_old>2338</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660157_massazhnyj-kovrik-dinozavry.jpg</picture>
@@ -120502,8 +120502,8 @@
   </offer>
   <offer id="2483381124" available="true">
     <url>https://proekt24.com/p2483381124-massazhnyj-kovrik-pazly.html</url>
-    <price>2360</price>
-    <price_old>2810</price_old>
+    <price>2597</price>
+    <price_old>3091</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660748_massazhnyj-kovrik-pazly.jpg</picture>
@@ -120533,8 +120533,8 @@
   </offer>
   <offer id="2483381125" available="true">
     <url>https://proekt24.com/p2483381125-massazhnyj-kovrik-pazly.html</url>
-    <price>1168</price>
-    <price_old>1390</price_old>
+    <price>1285</price>
+    <price_old>1530</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660433_massazhnyj-kovrik-pazly.jpg</picture>
@@ -120561,8 +120561,8 @@
   </offer>
   <offer id="2483381126" available="true">
     <url>https://proekt24.com/p2483381126-massazhnyj-kovrik-pazly.html</url>
-    <price>816</price>
-    <price_old>971</price_old>
+    <price>898</price>
+    <price_old>1069</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660431_massazhnyj-kovrik-pazly.jpg</picture>
@@ -120590,8 +120590,8 @@
   </offer>
   <offer id="2483381127" available="true">
     <url>https://proekt24.com/p2483381127-massazhnyj-kovrik-dinozavry.html</url>
-    <price>2360</price>
-    <price_old>2810</price_old>
+    <price>2597</price>
+    <price_old>3091</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660429_massazhnyj-kovrik-dinozavry.jpg</picture>
@@ -120620,8 +120620,8 @@
   </offer>
   <offer id="2483381128" available="true">
     <url>https://proekt24.com/p2483381128-massazhnyj-kovrik-pazly.html</url>
-    <price>3486</price>
-    <price_old>4150</price_old>
+    <price>3836</price>
+    <price_old>4566</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660731_massazhnyj-kovrik-pazly.jpg</picture>
@@ -120652,8 +120652,8 @@
   </offer>
   <offer id="2483381129" available="true">
     <url>https://proekt24.com/p2483381129-massazhnyj-kovrik-pazly.html</url>
-    <price>4024</price>
-    <price_old>4790</price_old>
+    <price>4427</price>
+    <price_old>5270</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660739_massazhnyj-kovrik-pazly.jpg</picture>
@@ -120684,8 +120684,8 @@
   </offer>
   <offer id="2483381130" available="true">
     <url>https://proekt24.com/p2483381130-massazhnyj-kovrik-dinozavry.html</url>
-    <price>2360</price>
-    <price_old>2810</price_old>
+    <price>2597</price>
+    <price_old>3091</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>155337379</categoryId>
     <picture>https://images.prom.ua/6469660424_massazhnyj-kovrik-dinozavry.jpg</picture>
@@ -124371,7 +124371,7 @@
     <param name="Толщина" unit="мм">20</param>
     <param name="Ширина" unit="мм">30</param>
   </offer>
-  <offer id="2605462524" available="true">
+  <offer id="2605462524" available="false">
     <url>https://proekt24.com/p2605462524-profil-zaschitnyj-obraznyj.html</url>
     <price>10</price>
     <price_old>12</price_old>
@@ -124393,7 +124393,7 @@
     <vendorCode>303030ПБ</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>100</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Толщина" unit="">10.0</param>
     <param name="Длина" unit="">2000.0</param>
     <param name="Высота" unit="">30.0</param>
@@ -125280,7 +125280,7 @@
     <vendorCode>889616</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <param name="Высота" unit="мм">30</param>
     <param name="Вес 1 пог.м" unit="гр">1022</param>
     <param name="Длина" unit="">2.4</param>
@@ -125623,8 +125623,8 @@
   </offer>
   <offer id="2661828788" available="false">
     <url>https://proekt24.com/p2661828788-masazhnij-kilimok-pazli.html</url>
-    <price>2549</price>
-    <price_old>3035</price_old>
+    <price>2806</price>
+    <price_old>3340</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>144048410</categoryId>
     <pickup>true</pickup>
@@ -125636,8 +125636,8 @@
   </offer>
   <offer id="2661828789" available="false">
     <url>https://proekt24.com/p2661828789-ortopedichnij-masazhnij-kilimok.html</url>
-    <price>1596</price>
-    <price_old>1900</price_old>
+    <price>1758</price>
+    <price_old>2092</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>144048410</categoryId>
     <pickup>true</pickup>
@@ -125649,8 +125649,8 @@
   </offer>
   <offer id="2661828790" available="false">
     <url>https://proekt24.com/p2661828790-masazhnij-kilimok-pazli.html</url>
-    <price>1784</price>
-    <price_old>2124</price_old>
+    <price>1964</price>
+    <price_old>2338</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>144048410</categoryId>
     <pickup>true</pickup>
@@ -125662,8 +125662,8 @@
   </offer>
   <offer id="2661828791" available="false">
     <url>https://proekt24.com/p2661828791-masazhnij-kilimok-pazli.html</url>
-    <price>3112</price>
-    <price_old>3705</price_old>
+    <price>3424</price>
+    <price_old>4076</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>144048410</categoryId>
     <pickup>true</pickup>
@@ -125675,8 +125675,8 @@
   </offer>
   <offer id="2661828792" available="false">
     <url>https://proekt24.com/p2661828792-masazhnij-kilimok-pazli.html</url>
-    <price>2360</price>
-    <price_old>2810</price_old>
+    <price>2597</price>
+    <price_old>3091</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>144048410</categoryId>
     <pickup>true</pickup>
@@ -125688,8 +125688,8 @@
   </offer>
   <offer id="2661828793" available="false">
     <url>https://proekt24.com/p2661828793-ortopedichnij-masazhnij-kilimok.html</url>
-    <price>1221</price>
-    <price_old>1454</price_old>
+    <price>1344</price>
+    <price_old>1600</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>144048410</categoryId>
     <pickup>true</pickup>
@@ -129944,7 +129944,7 @@
     <vendorCode>500061У</vendorCode>
     <country_of_origin>Турция</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>605</quantity_in_stock>
+    <quantity_in_stock>575</quantity_in_stock>
     <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
     <param name="Форма поставки материала">Рулон</param>
     <param name="Ширина" unit="мм">1000</param>
@@ -130092,7 +130092,7 @@
     <param name="Размер">S</param>
     <param name="Тип">Тренировочные</param>
   </offer>
-  <offer id="2870772312" available="true">
+  <offer id="2870772312" available="false">
     <url>https://proekt24.com/p2870772312-tent-turisticheskij-piksel.html</url>
     <price>1239</price>
     <price_old>1475</price_old>
@@ -130107,7 +130107,7 @@
     <vendorCode>456232</vendorCode>
     <country_of_origin>Украина</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Вес" unit="кг">0.95</param>
     <param name="Высота в упаковке" unit="см">5</param>
     <param name="Гарантийный срок" unit="мес">12</param>
@@ -131607,7 +131607,7 @@
     <param name="Состояние">Новое</param>
     <param name="Тип">Со счетчиком</param>
   </offer>
-  <offer id="2914982862" available="true">
+  <offer id="2914982862" available="false">
     <url>https://proekt24.com/p2914982862-myach-dlya-fitnesa.html</url>
     <price>524</price>
     <price_old>624</price_old>
@@ -131622,7 +131622,7 @@
     <vendorCode>EF-3007-V</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <sales_notes>предоплата</sales_notes>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <param name="Диаметр" unit="см">65</param>
     <param name="Цвет">Фиолетовый</param>
     <param name="Максимальная нагрузка" unit="кг">120</param>
@@ -132386,7 +132386,7 @@
     <param name="Теплопроводность" unit="">0.032</param>
     <param name="Экологическая безопасность материала" unit="">Безопасен</param>
   </offer>
-  <offer id="2968608935" available="false">
+  <offer id="2968608935" available="true">
     <url>https://proekt24.com/p2968608935-vspenennyj-kauchuk-flex.html</url>
     <price>5927</price>
     <price_old>7056</price_old>
@@ -133512,12 +133512,12 @@
     <quantity_in_stock>7</quantity_in_stock>
     <param name="Цвет">Черный</param>
     <param name="Материал">Резина</param>
-    <param name="Совместимость с маркой">ЗИМ</param>
     <param name="Тип полимера" unit="">EVA</param>
     <param name="Форма поставляемого сырья" unit="">Лист</param>
     <param name="Высота" unit="">10.0</param>
     <param name="Ширина" unit="">1250.0</param>
     <param name="Длина" unit="">1450.0</param>
+    <param name="Совместимость с маркой" unit="">ЗИМ</param>
   </offer>
   <offer id="3054617343" available="false">
     <url>https://proekt24.com/p3054617343-list-eva-eva.html</url>
@@ -134060,6 +134060,562 @@
     <param name="Ширина" unit="мм">1000</param>
     <param name="Плотность" unit="кг/м3">25</param>
   </offer>
+  <offer id="3128556375" available="false">
+    <url>https://proekt24.com/p3128556375-butilovaya-lenta-ukrizol.html</url>
+    <price>127</price>
+    <price_old>151</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337385</categoryId>
+    <picture>https://images.prom.ua/2857816871_butilovaya-lenta-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/7567661577_butilovaya-lenta-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/7567661578_butilovaya-lenta-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/2857816873_butilovaya-lenta-ukrizol.jpg</picture>
+    <picture>https://images.prom.ua/2857816872_butilovaya-lenta-ukrizol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Бутиловая лента UKRIZOL К 2 (25 м.п.)</name>
+    <vendor>СТК</vendor>
+    <vendorCode>62017</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Длина" unit="м">25</param>
+    <param name="Цвет">Черный</param>
+    <param name="Тип использования">Универсальный</param>
+    <param name="Толщина (мм)">1</param>
+    <param name="Ширина" unit="м">0.015</param>
+    <param name="Основа" unit="">Бутил-каучук</param>
+  </offer>
+  <offer id="3128556385" available="false">
+    <url>https://proekt24.com/p3128556385-himicheski-sshityj-vspenennyj.html</url>
+    <price>284</price>
+    <price_old>338</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337336</categoryId>
+    <picture>https://images.prom.ua/7567662074_himicheski-sshityj-vspenennyj.jpg</picture>
+    <picture>https://images.prom.ua/7567662075_himicheski-sshityj-vspenennyj.jpg</picture>
+    <picture>https://images.prom.ua/7567662076_himicheski-sshityj-vspenennyj.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Химически сшитый вспененный полиэтилен UKRIZOL лист 1000х1000х20 мм ППЭ НХ (Украина) серый</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>90120ЛХ</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Вид основного сырья">Неорганическое</param>
+    <param name="Длина" unit="м">1</param>
+    <param name="Класс материала по теплопроводности">Низкая</param>
+    <param name="Покрытие">Без покрытия</param>
+    <param name="Теплопроводность" unit="Вт/мК">0.037</param>
+    <param name="Толщина" unit="мм">20</param>
+    <param name="Форма поставки материала">Плита</param>
+    <param name="Ширина" unit="мм">1000</param>
+    <param name="Плотность" unit="кг/м3">33</param>
+    <param name="Цвет" unit="">Серый</param>
+  </offer>
+  <offer id="3128556386" available="false">
+    <url>https://proekt24.com/p3128556386-himicheski-sshityj-vspenennyj.html</url>
+    <price>425</price>
+    <price_old>506</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337336</categoryId>
+    <picture>https://images.prom.ua/7567662077_himicheski-sshityj-vspenennyj.jpg</picture>
+    <picture>https://images.prom.ua/7567662078_himicheski-sshityj-vspenennyj.jpg</picture>
+    <picture>https://images.prom.ua/7567662079_himicheski-sshityj-vspenennyj.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Химически сшитый вспененный полиэтилен UKRIZOL лист 1000х1000х30 мм ППЭ НХ (Украина) серый</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>90130ЛХ</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Вид основного сырья">Неорганическое</param>
+    <param name="Длина" unit="м">1</param>
+    <param name="Класс материала по теплопроводности">Низкая</param>
+    <param name="Покрытие">Без покрытия</param>
+    <param name="Теплопроводность" unit="Вт/мК">0.037</param>
+    <param name="Толщина" unit="мм">30</param>
+    <param name="Форма поставки материала">Плита</param>
+    <param name="Ширина" unit="мм">1000</param>
+    <param name="Плотность" unit="кг/м3">33</param>
+    <param name="Цвет" unit="">Серый</param>
+    <param name="Состояние" unit="">Новое</param>
+  </offer>
+  <offer id="3128556387" available="false">
+    <url>https://proekt24.com/p3128556387-himicheski-sshityj-vspenennyj.html</url>
+    <price>459</price>
+    <price_old>546</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337336</categoryId>
+    <picture>https://images.prom.ua/7567662080_himicheski-sshityj-vspenennyj.jpg</picture>
+    <picture>https://images.prom.ua/7567662081_himicheski-sshityj-vspenennyj.jpg</picture>
+    <picture>https://images.prom.ua/7567662082_himicheski-sshityj-vspenennyj.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Химически сшитый вспененный полиэтилен UKRIZOL лист 1000х1000х40 мм ППЭ НХ (Украина) серый</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>90140ЛХ</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Вид основного сырья">Неорганическое</param>
+    <param name="Длина" unit="м">1</param>
+    <param name="Класс материала по теплопроводности">Низкая</param>
+    <param name="Теплопроводность" unit="Вт/мК">0.037</param>
+    <param name="Толщина" unit="мм">40</param>
+    <param name="Форма поставки материала">Плита</param>
+    <param name="Ширина" unit="мм">1000</param>
+    <param name="Плотность" unit="кг/м3">33</param>
+    <param name="Цвет" unit="">Серый</param>
+    <param name="Состояние" unit="">Новое</param>
+  </offer>
+  <offer id="3128556771" available="true">
+    <url>https://proekt24.com/p3128556771-strejch-plenka-chernaya.html</url>
+    <price>586</price>
+    <price_old>698</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337316</categoryId>
+    <picture>https://images.prom.ua/3014594507_strejch-plenka-chernaya.jpg</picture>
+    <picture>https://images.prom.ua/7567662428_strejch-plenka-chernaya.jpg</picture>
+    <picture>https://images.prom.ua/2847339610_strejch-plenka-chernaya.jpg</picture>
+    <picture>https://images.prom.ua/2847339613_strejch-plenka-chernaya.jpg</picture>
+    <picture>https://images.prom.ua/2847339611_strejch-plenka-chernaya.jpg</picture>
+    <picture>https://images.prom.ua/7567662429_strejch-plenka-chernaya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Стрейч пленка черная 20мкм х 500мм х 300м (2,7 кг)</name>
+    <vendorCode>20500300</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>133</quantity_in_stock>
+    <param name="Вес рулона" unit="кг">2.7</param>
+    <param name="Вид пленки">Первичная</param>
+    <param name="Длина рулона" unit="м">300</param>
+    <param name="Особенность цвета">Черный</param>
+    <param name="Тип использования">Ручная</param>
+    <param name="Толщина пленки" unit="мкм">20</param>
+    <param name="Ширина рулона" unit="см">50</param>
+  </offer>
+  <offer id="3128557340" available="false">
+    <url>https://proekt24.com/p3128557340-kapa-rdx-detskayapodrostkovaya.html</url>
+    <price>76</price>
+    <price_old>90</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337410</categoryId>
+    <picture>https://images.prom.ua/2875266699_kapa-rdx-detskayapodrostkovaya.jpg</picture>
+    <picture>https://images.prom.ua/2875266693_kapa-rdx-detskayapodrostkovaya.jpg</picture>
+    <picture>https://images.prom.ua/2875266691_kapa-rdx-detskayapodrostkovaya.jpg</picture>
+    <picture>https://images.prom.ua/2875266696_kapa-rdx-detskayapodrostkovaya.jpg</picture>
+    <picture>https://images.prom.ua/2875266698_kapa-rdx-detskayapodrostkovaya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Капа RDX детская/подростковая одинарная черная</name>
+    <vendor>RDX</vendor>
+    <vendorCode>87136</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Возрастная группа">Детская</param>
+    <param name="Цвет">Черный</param>
+    <param name="Материал">Термопластик</param>
+    <param name="Особенности">Чехол</param>
+    <param name="В комплекте" unit="">Капа</param>
+  </offer>
+  <offer id="3128557342" available="false">
+    <url>https://proekt24.com/p3128557342-disk-zdorovya-gratsiya.html</url>
+    <price>472</price>
+    <price_old>562</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337414</categoryId>
+    <picture>https://images.prom.ua/3141202718_disk-zdorovya-gratsiya.jpg</picture>
+    <picture>https://images.prom.ua/3141202889_disk-zdorovya-gratsiya.jpg</picture>
+    <picture>https://images.prom.ua/3141202629_disk-zdorovya-gratsiya.jpg</picture>
+    <picture>https://images.prom.ua/3141202662_disk-zdorovya-gratsiya.jpg</picture>
+    <picture>https://images.prom.ua/3141202696_disk-zdorovya-gratsiya.jpg</picture>
+    <picture>https://images.prom.ua/3141202728_disk-zdorovya-gratsiya.jpg</picture>
+    <picture>https://images.prom.ua/3141202796_disk-zdorovya-gratsiya.jpg</picture>
+    <picture>https://images.prom.ua/3141202824_disk-zdorovya-gratsiya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Диск Здоровья Грация металлический темно-зеленый</name>
+    <vendor>VD-Sport</vendor>
+    <vendorCode>163109</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Диаметр" unit="см">28</param>
+    <param name="Цвет">Зелёный</param>
+    <param name="Максимальная нагрузка" unit="кг">160</param>
+    <param name="Состояние">Новое</param>
+    <param name="Толщина" unit="см">1.3</param>
+    <param name="Материал">Металл</param>
+    <param name="Тип" unit="">Диск здоровья</param>
+  </offer>
+  <offer id="3128557343" available="false">
+    <url>https://proekt24.com/p3128557343-izolyatsiya-trub-tubex.html</url>
+    <price>24</price>
+    <price_old>29</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337436</categoryId>
+    <picture>https://images.prom.ua/7567662787_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3366780974_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3366780975_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3366780976_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3366780973_izolyatsiya-trub-tubex.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Изоляция труб TUBEX 35/6 из вспененного полиэтилена</name>
+    <vendor>Tubex</vendor>
+    <vendorCode>35/6Т</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Вид основного сырья">Неорганическое</param>
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Длина" unit="м">2</param>
+    <param name="Экологическая безопасность материала">Безопасен</param>
+    <param name="Внешний диаметр трубы" unit="мм">35</param>
+    <param name="Класс материала по теплопроводности">Средняя</param>
+    <param name="Максимальная рабочая температура" unit="град.">80</param>
+    <param name="Материал изоляции">Вспененный полиэтилен</param>
+    <param name="Теплопроводность" unit="Вт/мК">0.049</param>
+    <param name="Тип материала">Г (горючий)</param>
+    <param name="Толщина изоляции" unit="мм">6</param>
+    <param name="Форма поставки материала">Полая труба</param>
+    <param name="Плотность" unit="кг/м3">19</param>
+  </offer>
+  <offer id="3128557344" available="false">
+    <url>https://proekt24.com/p3128557344-kovrik-dlya-fitnesa.html</url>
+    <price>114</price>
+    <price_old>136</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337369</categoryId>
+    <picture>https://images.prom.ua/6778821650_kovrik-dlya-fitnesa.jpg</picture>
+    <picture>https://images.prom.ua/6778821649_kovrik-dlya-fitnesa.jpg</picture>
+    <picture>https://images.prom.ua/6778821680_kovrik-dlya-fitnesa.jpg</picture>
+    <picture>https://images.prom.ua/6778821651_kovrik-dlya-fitnesa.jpg</picture>
+    <picture>https://images.prom.ua/3455298859_kovrik-dlya-fitnesa.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Коврик для фитнеса 1100х600х5 розовый</name>
+    <vendorCode>Н11006005Р</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Длина" unit="см">110</param>
+    <param name="Цвет">Розовый</param>
+    <param name="Материал">Пенополиэтилен</param>
+    <param name="Особенности">Стяжки в комплекте</param>
+    <param name="Состояние">Новое</param>
+    <param name="Тип">Коврик/мат</param>
+    <param name="Толщина" unit="мм">5</param>
+    <param name="Ширина" unit="см">60</param>
+  </offer>
+  <offer id="3128558163" available="false">
+    <url>https://proekt24.com/p3128558163-kovrik-takticheskij-voennyj.html</url>
+    <price>368</price>
+    <price_old>438</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337382</categoryId>
+    <picture>https://images.prom.ua/3229274246_kovrik-takticheskij-voennyj.jpg</picture>
+    <picture>https://images.prom.ua/3229274275_kovrik-takticheskij-voennyj.jpg</picture>
+    <picture>https://images.prom.ua/3229274277_kovrik-takticheskij-voennyj.jpg</picture>
+    <picture>https://images.prom.ua/3229274352_kovrik-takticheskij-voennyj.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Коврик тактический военный складной 1800х600х8 мм пиксель</name>
+    <vendor>Вердани</vendor>
+    <vendorCode>А28012002СП</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Длина" unit="см">180</param>
+    <param name="Количество слоев">Однослойные</param>
+    <param name="Материал">Пенополиэтилен</param>
+    <param name="Тип коврика">Каремат</param>
+    <param name="Толщина" unit="мм">8</param>
+    <param name="Ширина" unit="см">60</param>
+  </offer>
+  <offer id="3128558164" available="false">
+    <url>https://proekt24.com/p3128558164-kovrik-turisticheskij-optima.html</url>
+    <price>887</price>
+    <price_old>1056</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337382</categoryId>
+    <picture>https://images.prom.ua/3491697488_kovrik-turisticheskij-optima.jpg</picture>
+    <picture>https://images.prom.ua/3491695859_kovrik-turisticheskij-optima.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Коврик туристический OPTIMA LIGHT 1800х600х16 зелено-синий</name>
+    <vendor>Изолон</vendor>
+    <vendorCode>ОЛ180060016ЗС</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Длина" unit="см">180</param>
+    <param name="Количество слоев">Двухслойные</param>
+    <param name="Материал">Пенополиэтилен</param>
+    <param name="Тип коврика">Каремат</param>
+    <param name="Толщина" unit="мм">16</param>
+    <param name="Ширина" unit="см">60</param>
+    <param name="Плотность материала" unit="кг/м3">33</param>
+  </offer>
+  <offer id="3128558798" available="false">
+    <url>https://proekt24.com/p3128558798-kovrik-turisticheskij-karpaty.html</url>
+    <price>421</price>
+    <price_old>501</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337382</categoryId>
+    <picture>https://images.prom.ua/7567663470_kovrik-turisticheskij-karpaty.jpg</picture>
+    <picture>https://images.prom.ua/3472609202_kovrik-turisticheskij-karpaty.jpg</picture>
+    <picture>https://images.prom.ua/3472609204_kovrik-turisticheskij-karpaty.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Коврик туристический КАРПАТЫ 1800х600х12 мм фольгированный</name>
+    <vendor>Вердани</vendor>
+    <vendorCode>К180060012Ф</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Длина" unit="см">180</param>
+    <param name="Материал">Пенополиэтилен</param>
+    <param name="Толщина" unit="мм">12</param>
+    <param name="Ширина" unit="см">60</param>
+    <param name="Тип" unit="">Коврик/мат</param>
+  </offer>
+  <offer id="3128558799" available="false">
+    <url>https://proekt24.com/p3128558799-sidushka-seryj.html</url>
+    <price>58</price>
+    <price_old>69</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337380</categoryId>
+    <picture>https://images.prom.ua/3626819384_sidushka-8-mm.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сидушка 8 мм серый</name>
+    <vendor>Изолон</vendor>
+    <vendorCode>654336</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Длина" unit="см">36</param>
+    <param name="Цвет">Серый</param>
+    <param name="Количество слоев">Двухслойные</param>
+    <param name="Материал">Пенополиэтилен</param>
+    <param name="Тип коврика">Cидушка</param>
+    <param name="Ширина" unit="см">30</param>
+    <param name="Плотность материала" unit="">33</param>
+    <param name="Толщина" unit="">8</param>
+  </offer>
+  <offer id="3128558804" available="true">
+    <url>https://proekt24.com/p3128558804-izolyatsiya-trub-tubex.html</url>
+    <price>86</price>
+    <price_old>102</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337436</categoryId>
+    <picture>https://images.prom.ua/7567662787_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3366780974_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3366780975_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3366780976_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3366780973_izolyatsiya-trub-tubex.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Изоляция труб TUBEX 22/20 из вспененного полиэтилена</name>
+    <vendor>Tubex</vendor>
+    <vendorCode>22/20Т</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>2</quantity_in_stock>
+    <param name="Вид основного сырья">Неорганическое</param>
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Длина" unit="м">2</param>
+    <param name="Экологическая безопасность материала">Безопасен</param>
+    <param name="Внешний диаметр трубы" unit="мм">22</param>
+    <param name="Класс материала по теплопроводности">Средняя</param>
+    <param name="Максимальная рабочая температура" unit="град.">80</param>
+    <param name="Материал изоляции">Вспененный полиэтилен</param>
+    <param name="Теплопроводность" unit="Вт/мК">0.049</param>
+    <param name="Тип материала">Г (горючий)</param>
+    <param name="Толщина изоляции" unit="мм">20</param>
+    <param name="Форма поставки материала">Полая труба</param>
+    <param name="Плотность" unit="кг/м3">19</param>
+  </offer>
+  <offer id="3128558805" available="true">
+    <url>https://proekt24.com/p3128558805-izolyatsiya-trub-tubex.html</url>
+    <price>99</price>
+    <price_old>118</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337436</categoryId>
+    <picture>https://images.prom.ua/7567662787_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3253156539_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3366780974_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3366780975_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3366780976_izolyatsiya-trub-tubex.jpg</picture>
+    <picture>https://images.prom.ua/3366780973_izolyatsiya-trub-tubex.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Изоляция труб TUBEX 28/20 из вспененного полиэтилена</name>
+    <vendor>Tubex</vendor>
+    <vendorCode>28/20Т</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>2</quantity_in_stock>
+    <param name="Вид основного сырья">Неорганическое</param>
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Длина" unit="м">2</param>
+    <param name="Экологическая безопасность материала">Безопасен</param>
+    <param name="Внешний диаметр трубы" unit="мм">28</param>
+    <param name="Класс материала по теплопроводности">Средняя</param>
+    <param name="Максимальная рабочая температура" unit="град.">80</param>
+    <param name="Материал изоляции">Вспененный полиэтилен</param>
+    <param name="Теплопроводность" unit="Вт/мК">0.049</param>
+    <param name="Тип материала">Г (горючий)</param>
+    <param name="Толщина изоляции" unit="мм">20</param>
+    <param name="Форма поставки материала">Полая труба</param>
+    <param name="Плотность" unit="кг/м3">19</param>
+  </offer>
+  <offer id="3128558806" available="false">
+    <url>https://proekt24.com/p3128558806-kauchukovaya-izolyatsiya-dlya.html</url>
+    <price>377</price>
+    <price_old>449</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337438</categoryId>
+    <picture>https://images.prom.ua/6174209080_kauchukovaya-izolyatsiya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/6174209081_kauchukovaya-izolyatsiya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3189289961_kauchukovaya-izolyatsiya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/6174209086_kauchukovaya-izolyatsiya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/2824609800_kauchukovaya-izolyatsiya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/2824609799_kauchukovaya-izolyatsiya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/3189289966_kauchukovaya-izolyatsiya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7001692084_kauchukovaya-izolyatsiya-dlya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Каучуковая изоляция для труб ONEFLEX 89х32 мм (для труб Ø 89 мм)</name>
+    <vendor>Oneflex</vendor>
+    <vendorCode>89/32О</vendorCode>
+    <country_of_origin>Турция</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Группа материала по горючести">Г1 (слабогорючий)</param>
+    <param name="Длина" unit="м">2</param>
+    <param name="Экологическая безопасность материала">Безопасен</param>
+    <param name="Класс материала по теплопроводности">Низкая</param>
+    <param name="Максимальная рабочая температура" unit="град.">120</param>
+    <param name="Материал изоляции">Вспененный каучук</param>
+    <param name="Теплопроводность" unit="Вт/мК">0.032</param>
+    <param name="Толщина изоляции" unit="мм">32</param>
+    <param name="Форма поставки материала">Полая труба</param>
+    <param name="Плотность" unit="кг/м3">55</param>
+    <param name="Внутрішній діаметр трубки ізоляції" unit="мм">89</param>
+    <param name="Зовнішній діаметр ізоляції" unit="мм">153</param>
+  </offer>
+  <offer id="3128558807" available="false">
+    <url>https://proekt24.com/p3128558807-karpet-avtomobilnyj-chernyj.html</url>
+    <price>210</price>
+    <price_old>250</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337389</categoryId>
+    <picture>https://images.prom.ua/4248059252_karpet-avtomobilnyj-chernyj.jpg</picture>
+    <picture>https://images.prom.ua/4248059253_karpet-avtomobilnyj-chernyj.jpg</picture>
+    <picture>https://images.prom.ua/4248059254_karpet-avtomobilnyj-chernyj.jpg</picture>
+    <picture>https://images.prom.ua/4248059255_karpet-avtomobilnyj-chernyj.jpg</picture>
+    <picture>https://images.prom.ua/4248059256_karpet-avtomobilnyj-chernyj.jpg</picture>
+    <picture>https://images.prom.ua/2853163147_karpet-avtomobilnyj-chernyj.jpg</picture>
+    <picture>https://images.prom.ua/2853163148_karpet-avtomobilnyj-chernyj.jpg</picture>
+    <picture>https://images.prom.ua/2853163149_karpet-avtomobilnyj-chernyj.jpg</picture>
+    <picture>https://images.prom.ua/3942437522_karpet-avtomobilnyj-chernyj.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Карпет автомобильный черный 500 (ширина 1,7 м)</name>
+    <vendorCode>2226</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Применение материала">Потолок автомобиля|Стенки багажника|Пол автомобиля|Двери|Пол багажника</param>
+    <param name="Совместимость с маркой">Toyota|Nissan|Dodge|Mitsubishi|Kia|Volkswagen|Citroen|Mazda|Chrysler|BMW|Volvo|Daewoo|Hyundai|Honda|Peugeot|Ford|Fiat|Renault|Audi</param>
+    <param name="Совместимость с моделью">Renault Megane|Caliber|Ceed|XC90|Colt|Dodge|Santa Fe|C4|Lancer|Matiz|Lupo|Civic|Primera|Getz|Passat|Tiguan|Q5|Jazz|Avensis|Q7|A6|Sebring|Chrysler|Accord|C2|Tucson|Nissan Maxima|Fusion|Almera|RAV4|Focus|6|C5|Mondeo|Fiesta|Scorpio|Yaris|Camry|Sonata|A4|206|Peugeot 206</param>
+    <param name="Тип">Шумоизоляция</param>
+    <param name="Толщина" unit="мм">4</param>
+    <param name="Эластичность материала" unit="">Да</param>
+    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
+    <param name="Форма поставки материала" unit="">Рулон</param>
+    <param name="Ширина рулона, мм" unit="">1700</param>
+  </offer>
+  <offer id="3128558808" available="false">
+    <url>https://proekt24.com/p3128558808-karpet-avtomobilnyj-seryj.html</url>
+    <price>210</price>
+    <price_old>250</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337389</categoryId>
+    <picture>https://images.prom.ua/5060098088_karpet-avtomobilnyj-seryj.jpg</picture>
+    <picture>https://images.prom.ua/5060098120_karpet-avtomobilnyj-seryj.jpg</picture>
+    <picture>https://images.prom.ua/2853163147_karpet-avtomobilnyj-seryj.jpg</picture>
+    <picture>https://images.prom.ua/2853163148_karpet-avtomobilnyj-seryj.jpg</picture>
+    <picture>https://images.prom.ua/2853163149_karpet-avtomobilnyj-seryj.jpg</picture>
+    <picture>https://images.prom.ua/3942437522_karpet-avtomobilnyj-seryj.jpg</picture>
+    <picture>https://images.prom.ua/3942437523_karpet-avtomobilnyj-seryj.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Карпет автомобильный серый 500 (ширина 1,7 м)</name>
+    <vendorCode>2227</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Применение материала">Потолок автомобиля|Стенки багажника|Пол автомобиля|Двери|Пол багажника</param>
+    <param name="Совместимость с маркой">Toyota|Nissan|Dodge|Mitsubishi|Kia|Volkswagen|Citroen|Mazda|Chrysler|BMW|Volvo|Daewoo|Hyundai|Honda|Peugeot|Ford|Fiat|Renault|Audi</param>
+    <param name="Тип">Шумоизоляция</param>
+    <param name="Толщина" unit="мм">4</param>
+    <param name="Совместимость с моделью">Chrysler|Renault Megane|Matiz|Jazz|C5|Ceed|Tiguan|Scorpio|Fusion|Passat|A6|Camry|Nissan Maxima|Focus|Primera|Lupo|Sebring|C4|Sonata|Q5|Getz|Almera|Caliber|Santa Fe|206|Colt|Yaris|Avensis|Mondeo|6|RAV4|C2|Lancer|A4|XC90|Fiesta|Accord|Dodge|Civic|Q7|Tucson</param>
+    <param name="Эластичность материала" unit="">Да</param>
+    <param name="Назначение материала" unit="">Виброизоляция|Звукоизоляция|Снижение ударного шума</param>
+    <param name="Форма поставки материала" unit="">Рулон</param>
+    <param name="Ширина рулона, мм" unit="">1700</param>
+  </offer>
+  <offer id="3128558809" available="true">
+    <url>https://proekt24.com/p3128558809-blokirator-stopper-dveri.html</url>
+    <price>21</price>
+    <price_old>25</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337386</categoryId>
+    <picture>https://images.prom.ua/7567663851_blokirator-stopper-dveri.jpg</picture>
+    <picture>https://images.prom.ua/7567663852_blokirator-stopper-dveri.jpg</picture>
+    <picture>https://images.prom.ua/7567663853_blokirator-stopper-dveri.jpg</picture>
+    <picture>https://images.prom.ua/7567663854_blokirator-stopper-dveri.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Блокиратор (стоппер) двери от детей, оранжевый</name>
+    <vendorCode>1502624</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>16</quantity_in_stock>
+    <param name="Цвет">Оранжевый</param>
+    <param name="Вид" unit="">Замки</param>
+    <param name="Тип" unit="">Детская безопасность</param>
+  </offer>
+  <offer id="3128558810" available="true">
+    <url>https://proekt24.com/p3128558810-blokirator-stopper-dveri.html</url>
+    <price>21</price>
+    <price_old>25</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155337386</categoryId>
+    <picture>https://images.prom.ua/7567663855_blokirator-stopper-dveri.jpg</picture>
+    <picture>https://images.prom.ua/7567663856_blokirator-stopper-dveri.jpg</picture>
+    <picture>https://images.prom.ua/7567663857_blokirator-stopper-dveri.jpg</picture>
+    <picture>https://images.prom.ua/7567663859_blokirator-stopper-dveri.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Блокиратор (стоппер) двери от детей, синий</name>
+    <vendorCode>1502625</vendorCode>
+    <country_of_origin>Украина</country_of_origin>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>40</quantity_in_stock>
+    <param name="Вид" unit="">Замки</param>
+    <param name="Тип" unit="">Детская безопасность</param>
+  </offer>
   <offer id="3128560011" available="true">
     <url>https://proekt24.com/p3128560011-lapy-kikbokserskie-boxer.html</url>
     <price>1460</price>
@@ -134088,8 +134644,8 @@
   </offer>
   <offer id="3128560012" available="true">
     <url>https://proekt24.com/p3128560012-gazovspenennyj-polietilen-kgm.html</url>
-    <price>30</price>
-    <price_old>36</price_old>
+    <price>54</price>
+    <price_old>64</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>3530972</categoryId>
     <picture>https://images.prom.ua/2824142882_gazovspenennyj-polietilen-3.jpg</picture>
@@ -134123,8 +134679,8 @@
   </offer>
   <offer id="3128560013" available="true">
     <url>https://proekt24.com/p3128560013-gazovspenennyj-polietilen-kgm.html</url>
-    <price>43</price>
-    <price_old>51</price_old>
+    <price>70</price>
+    <price_old>84</price_old>
     <currencyId>UAH</currencyId>
     <categoryId>3530972</categoryId>
     <picture>https://images.prom.ua/2824142882_gazovspenennyj-polietilen-5.jpg</picture>
@@ -134425,7 +134981,7 @@
     <param name="Внутрішній діаметр трубки ізоляції" unit="мм">6</param>
     <param name="Зовнішній діаметр ізоляції" unit="мм">18</param>
   </offer>
-  <offer id="3140720497" available="true">
+<offer id="3140720497" available="true">
     <url>https://proekt24.com/p3140720497-kauchukovaya-izolyatsiya-dlya.html</url>
     <price>25</price>
     <price_old>30</price_old>
@@ -134999,7 +135555,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">75</param>
   </offer>
-<offer id="3165645185" available="true">
+  <offer id="3165645185" available="true">
     <url>https://proekt24.com/p3165645185-bazaltovaya-skorlupa-7550.html</url>
     <price>319</price>
     <price_old>380</price_old>
@@ -141893,7 +142449,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">75</param>
   </offer>
-  <offer id="3167291342" available="true">
+<offer id="3167291342" available="true">
     <url>https://proekt24.com/p3167291342-bazaltovaya-skorlupa-300100.html</url>
     <price>2043</price>
     <price_old>2432</price_old>
@@ -142487,7 +143043,7 @@
     <param name="Форма поставки материала">Полая труба</param>
     <param name="Плотность" unit="кг/м3">75</param>
   </offer>
-<offer id="3167291362" available="true">
+  <offer id="3167291362" available="true">
     <url>https://proekt24.com/p3167291362-bazaltovaya-skorlupa-folgoj.html</url>
     <price>691</price>
     <price_old>822</price_old>
@@ -150045,7 +150601,7 @@
     <param name="Толщина изоляции" unit="мм">60</param>
     <param name="Форма поставки материала">Полая труба</param>
   </offer>
-  <offer id="3188307493" available="true">
+<offer id="3188307493" available="true">
     <url>https://proekt24.com/p3188307493-penoplastovaya-skorlupa-6380.html</url>
     <price>571</price>
     <price_old>680</price_old>
@@ -150580,7 +151136,7 @@
     <param name="Тип каучука" unit="">Синтетический</param>
     <param name="Толщина" unit="">4</param>
   </offer>
-  <offer id="3193534655" available="true">
+  <offer id="3193534655" available="false">
     <url>https://proekt24.com/p3193534655-himiya-ukrizol-list.html</url>
     <price>1890</price>
     <price_old>2250</price_old>
@@ -150692,7 +151248,7 @@
     <param name="Ширина листа" unit="см">33</param>
     <param name="Совместимость с моделью">Sebring|Matiz|Chrysler|Accord|XC90|Tucson|Fusion|Lupo|Dodge|Sonata|Colt|Passat|Avensis|Getz|Primera|Civic|6|Yaris|Jazz|Nissan Maxima|Caliber|Almera|Lancer|Ceed|C5|C2|Mondeo|Peugeot 206|A6|Q7|Renault Megane|Camry|C4|Santa Fe|Q5|Focus|Scorpio|A4|Fiesta|RAV4|Tiguan</param>
   </offer>
-<offer id="3194275344" available="true">
+  <offer id="3194275344" available="true">
     <url>https://proekt24.com/p3194275344-vibroizolyatsiya-folgirovannaya-vizol.html</url>
     <price>65</price>
     <price_old>78</price_old>
@@ -150947,13 +151503,15 @@
     <vendorCode>889853</vendorCode>
     <sales_notes>предоплата</sales_notes>
     <quantity_in_stock>69</quantity_in_stock>
-    <param name="Материал ручки">дерево</param>
+    <param name="Совместимость с маркой">Citroen|Daewoo|Volvo|Volkswagen|Toyota|Dodge|Fiat|Ford|Renault|Peugeot|Nissan|Mitsubishi|Honda|Hyundai|Mazda|Kia|Audi|BMW|Chrysler</param>
+    <param name="Совместимость с моделью">Avensis|Accord|Fiesta|A6|Chrysler|Jazz|Matiz|Nissan Maxima|Tiguan|Mondeo|Caliber|Camry|Getz|Ceed|RAV4|Q7|Focus|Lupo|Sonata|Passat|Scorpio|Civic|Sebring|Primera|Almera|C4|Dodge|Yaris|C5|Lancer|Q5|Peugeot 206|Colt|A4|C2|Fusion|Santa Fe|XC90|Tucson|6|Renault Megane</param>
     <param name="Диаметр, мм" unit="">30</param>
     <param name="Материал держателя" unit="">Оцинкованная сталь</param>
     <param name="Материал катка" unit="">Полиуретан</param>
     <param name="Совместимость с маркой" unit="">Audi|BMW|Chrysler|Citroen|Daewoo|Dodge|Fiat|Ford|Honda|Hyundai|Kia|Mazda|Mitsubishi|Nissan|Peugeot|Renault|Toyota|Volkswagen|Volvo</param>
     <param name="Тип" unit="">Ролик</param>
     <param name="Ширина, мм" unit="">30</param>
+    <param name="Материал ручки" unit="">дерево</param>
   </offer>
   <offer id="3207539302" available="true">
     <url>https://proekt24.com/p3207539302-antiskrip-acoustics-soft.html</url>
@@ -151374,6 +151932,357 @@
     <quantity_in_stock>10</quantity_in_stock>
     <param name="Материал">ПВХ</param>
     <param name="Цвет">Фиолетовый</param>
+  </offer>
+  <offer id="3239855917" available="false">
+    <url>https://proekt24.com/p3239855917-blok-dlya-jogi.html</url>
+    <price>145</price>
+    <price_old>172</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083694</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Блок для йоги EVA с рисунком розовый (кирпич для йоги)</name>
+    <vendor>Dacia</vendor>
+    <vendorCode>5501</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Цвет">Розовый</param>
+  </offer>
+  <offer id="3239855918" available="false">
+    <url>https://proekt24.com/p3239855918-gazovspenennyj-polietilen-ukrizol.html</url>
+    <price>819</price>
+    <price_old>975</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083707</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Газовспененный полиэтилен UKRIZOL ламинированный 6 мм</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>3245</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239855919" available="false">
+    <url>https://proekt24.com/p3239855919-kovrik-dlya-jogi.html</url>
+    <price>430</price>
+    <price_old>512</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083690</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Коврик для йоги и фитнеса NBR 1830х610х10 черный</name>
+    <vendor>Вердани</vendor>
+    <vendorCode>4918</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Материал">Каучук</param>
+    <param name="Цвет">Черный</param>
+  </offer>
+  <offer id="3239855920" available="false">
+    <url>https://proekt24.com/p3239855920-vibroshajba-tsena-upakovku.html</url>
+    <price>332</price>
+    <price_old>395</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>149555465</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Виброшайба (цена за упаковку 50 шт)</name>
+    <vendor>ТермоЗвукоИзол</vendor>
+    <vendorCode>00000870</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239855921" available="false">
+    <url>https://proekt24.com/p3239855921-gazovspenennyj-polietilen-ukrizol.html</url>
+    <price>113</price>
+    <price_old>135</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083707</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Газовспененный полиэтилен UKRIZOL ламинированный самоклеющийся 4 мм</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>5212</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239855923" available="false">
+    <url>https://proekt24.com/p3239855923-plenka-razmetkoj-dlya.html</url>
+    <price>1262</price>
+    <price_old>1502</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083707</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Пленка с разметкой для теплого пола UKRIZOL 65 мкм</name>
+    <vendorCode>5189</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239855924" available="false">
+    <url>https://proekt24.com/p3239855924-panel-mnogoslojnaya-zvukoizolyatsionnaya.html</url>
+    <price>463</price>
+    <price_old>551</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>149555465</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Панель многослойная звукоизоляционная PhoneStar Quadrex (фонстар квадрикс)</name>
+    <vendor>Wolf Bavaria</vendor>
+    <vendorCode>4908</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239855925" available="true">
+    <url>https://proekt24.com/p3239855925-kovrik-armejskij-2000h600h10.html</url>
+    <price>379</price>
+    <price_old>451</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083667</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Коврик армейский 2000х600х10 мм серый</name>
+    <vendorCode>5519</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>14</quantity_in_stock>
+    <param name="Цвет">Серый</param>
+  </offer>
+  <offer id="3239855926" available="false">
+    <url>https://proekt24.com/p3239855926-kauchukovaya-izolyatsiya-dlya.html</url>
+    <price>22</price>
+    <price_old>26</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155281630</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Каучуковая изоляция для труб K-Flex 6х6 мм</name>
+    <vendor>K-Flex</vendor>
+    <vendorCode>5233</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239855928" available="true">
+    <url>https://proekt24.com/p3239855928-homut-dlya-krepleniya.html</url>
+    <price>63</price>
+    <price_old>75</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083616</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Хомут для крепления утеплителя на трубу 820 мм</name>
+    <vendorCode>5349</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>10</quantity_in_stock>
+  </offer>
+  <offer id="3239855929" available="false">
+    <url>https://proekt24.com/p3239855929-panel-mnogoslojnaya-zvukoizolyatsionnaya.html</url>
+    <price>398</price>
+    <price_old>474</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>149555465</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Панель многослойная звукоизоляционная PhoneStar Triplex (фонстар триплекс)</name>
+    <vendor>Wolf Bavaria</vendor>
+    <vendorCode>4907</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239855930" available="false">
+    <url>https://proekt24.com/p3239855930-utyazheliteli-bradex-gerakl.html</url>
+    <price>525</price>
+    <price_old>625</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083696</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Утяжелители BRADEX ГЕРАКЛ 1 кг</name>
+    <vendor>Bradex</vendor>
+    <vendorCode>5039</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239855931" available="false">
+    <url>https://proekt24.com/p3239855931-panel-mnogoslojnaya-zvukoizolyatsionnaya.html</url>
+    <price>360</price>
+    <price_old>429</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>149555465</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Панель многослойная звукоизоляционная PhoneStar Eko 1200х800х14 мм, 0,96 м2.</name>
+    <vendor>Wolf Bavaria</vendor>
+    <vendorCode>4905</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239855933" available="false">
+    <url>https://proekt24.com/p3239855933-panel-mnogoslojnaya-zvukoizolyatsionnaya.html</url>
+    <price>272</price>
+    <price_old>324</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>149555465</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Панель многослойная звукоизоляционная PhoneStar Duplex (фонстарый дуплекс)</name>
+    <vendor>Wolf Bavaria</vendor>
+    <vendorCode>4906</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239855934" available="false">
+    <url>https://proekt24.com/p3239855934-gazovspenennyj-polietilen-ukrizol.html</url>
+    <price>1250</price>
+    <price_old>1488</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083707</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Газовспененный полиэтилен UKRIZOL ламинированный 9 мм</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>3248</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239855935" available="false">
+    <url>https://proekt24.com/p3239855935-gazovspenennyj-polietilen-ukrizol.html</url>
+    <price>3390</price>
+    <price_old>4036</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083707</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Газовспененный полиэтилен UKRIZOL ламинированный 15 мм</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>3250</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239855936" available="false">
+    <url>https://proekt24.com/p3239855936-gazovspenennyj-polietilen-ukrizol.html</url>
+    <price>165</price>
+    <price_old>196</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083707</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Газовспененный полиэтилен UKRIZOL ламинированный самоклеющийся 8 мм</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>5214</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239855939" available="false">
+    <url>https://proekt24.com/p3239855939-kapa-rdx-dorosla.html</url>
+    <price>76</price>
+    <price_old>90</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083686</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Капа RDX доросла одинарна красная</name>
+    <vendor>RDX</vendor>
+    <vendorCode>5443</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Цвет">Красный</param>
+  </offer>
+  <offer id="3239856114" available="false">
+    <url>https://proekt24.com/p3239856114-gazovspenennyj-polietilen-ukrizol.html</url>
+    <price>888</price>
+    <price_old>1058</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083707</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Газовспененный полиэтилен UKRIZOL ламинированный 7 мм</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>3246</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239856116" available="false">
+    <url>https://proekt24.com/p3239856116-kovrik-armejskij-2000h750h10.html</url>
+    <price>383</price>
+    <price_old>456</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083667</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Коврик армейский 2000х750х10 мм серый</name>
+    <vendorCode>5476</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Цвет">Серый</param>
+  </offer>
+  <offer id="3239856117" available="false">
+    <url>https://proekt24.com/p3239856117-profil-zaschitnyj-obraznyj.html</url>
+    <price>29</price>
+    <price_old>35</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083659</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Профиль защитный П - образный 35х20х35 (стенка 10*10*10) длина 2 м</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>00002666</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239856118" available="false">
+    <url>https://proekt24.com/p3239856118-gazovspenennyj-polietilen-ukrizol.html</url>
+    <price>181</price>
+    <price_old>215</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083707</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Газовспененный полиэтилен UKRIZOL ламинированный самоклеющийся 10 мм</name>
+    <vendor>Укрізол</vendor>
+    <vendorCode>5215</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239856120" available="true">
+    <url>https://proekt24.com/p3239856120-homut-dlya-krepleniya.html</url>
+    <price>58</price>
+    <price_old>69</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083616</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Хомут для крепления утеплителя на трубу 720 мм</name>
+    <vendorCode>5348</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock>5</quantity_in_stock>
+  </offer>
+  <offer id="3239856122" available="false">
+    <url>https://proekt24.com/p3239856122-kauchukovaya-izolyatsiya-dlya.html</url>
+    <price>24</price>
+    <price_old>29</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>155281630</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Каучуковая изоляция для труб IZOCAMFlex 10х6 мм</name>
+    <vendor>İzocam</vendor>
+    <vendorCode>3378</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+  </offer>
+  <offer id="3239856123" available="false">
+    <url>https://proekt24.com/p3239856123-kovrik-dlya-fitnesa.html</url>
+    <price>187</price>
+    <price_old>222</price_old>
+    <currencyId>UAH</currencyId>
+    <categoryId>156083690</categoryId>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Коврик для фитнеса КОЛИБРИ 1800х600х5 желтый</name>
+    <vendorCode>5163</vendorCode>
+    <sales_notes>предоплата</sales_notes>
+    <quantity_in_stock />
+    <param name="Цвет">Желтый</param>
   </offer>
 
 
